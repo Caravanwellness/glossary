@@ -332,8 +332,8 @@
             font-size: 1.1em;
         }
 
-        /* Password protection styles */
-        .password-overlay {
+        /* Expiration overlay styles */
+        .expired-overlay {
             position: fixed;
             top: 0;
             left: 0;
@@ -341,12 +341,16 @@
             height: 100%;
             background-color: #E8F3F1;
             z-index: 9999;
-            display: flex;
+            display: none;
             justify-content: center;
             align-items: center;
         }
 
-        .password-box {
+        .expired-overlay.show {
+            display: flex;
+        }
+
+        .expired-box {
             background: white;
             padding: 40px;
             border-radius: 8px;
@@ -356,63 +360,24 @@
             width: 90%;
         }
 
-        .password-box h2 {
+        .expired-box h2 {
             margin-bottom: 10px;
             color: #000;
             font-size: 1.5em;
         }
 
-        .password-box p {
+        .expired-box p {
             color: #666;
-            margin-bottom: 20px;
             font-size: 0.95em;
-        }
-
-        .password-box input {
-            width: 100%;
-            padding: 12px 16px;
-            font-size: 1em;
-            border: 2px solid #e0e0e0;
-            border-radius: 6px;
-            margin-bottom: 15px;
-            outline: none;
-            transition: border-color 0.2s;
-        }
-
-        .password-box input:focus {
-            border-color: #000;
-        }
-
-        .password-box button {
-            width: 100%;
-            padding: 12px 20px;
-            font-size: 1em;
-            background-color: #000;
-            color: white;
-            border: none;
-            border-radius: 6px;
-            cursor: pointer;
-            font-weight: 500;
-            transition: background-color 0.2s;
-        }
-
-        .password-box button:hover {
-            background-color: #333;
-        }
-
-        .password-error {
-            color: #d32f2f;
-            font-size: 0.9em;
-            margin-top: 10px;
-            display: none;
+            line-height: 1.6;
         }
 
         .main-content {
-            display: none;
+            display: block;
         }
 
-        .main-content.visible {
-            display: block;
+        .main-content.hidden {
+            display: none;
         }
 
         /* Responsive design */
@@ -442,14 +407,11 @@
     </style>
 </head>
 <body>
-    <!-- Password Protection Overlay -->
-    <div class="password-overlay" id="passwordOverlay">
-        <div class="password-box">
-            <h2>Password Required</h2>
-            <p>Please enter the password to access the Health Conditions Glossary.</p>
-            <input type="password" id="passwordInput" placeholder="Enter password" onkeypress="if(event.key==='Enter')checkPassword()">
-            <button onclick="checkPassword()">Submit</button>
-            <p class="password-error" id="passwordError">Incorrect password. Please try again.</p>
+    <!-- Expiration Overlay -->
+    <div class="expired-overlay" id="expiredOverlay">
+        <div class="expired-box">
+            <h2>Preview Expired</h2>
+            <p>This preview link has expired. Please contact us for access to the full glossary.</p>
         </div>
     </div>
 
@@ -810,25 +772,13 @@
     </div><!-- End main-content -->
 
     <script>
-        // Password protection
-        function checkPassword() {
-            const password = document.getElementById('passwordInput').value;
-            const correctPassword = 'Gloss2026Wx';
+        // Time-limited access - expires February 11, 2026
+        const expirationDate = new Date('2026-02-11T23:59:59');
+        const now = new Date();
 
-            if (password === correctPassword) {
-                document.getElementById('passwordOverlay').style.display = 'none';
-                document.getElementById('mainContent').classList.add('visible');
-                sessionStorage.setItem('glossaryAuth', 'true');
-            } else {
-                document.getElementById('passwordError').style.display = 'block';
-                document.getElementById('passwordInput').value = '';
-            }
-        }
-
-        // Check if already authenticated in this session
-        if (sessionStorage.getItem('glossaryAuth') === 'true') {
-            document.getElementById('passwordOverlay').style.display = 'none';
-            document.getElementById('mainContent').classList.add('visible');
+        if (now > expirationDate) {
+            document.getElementById('expiredOverlay').classList.add('show');
+            document.getElementById('mainContent').classList.add('hidden');
         }
     </script>
 
