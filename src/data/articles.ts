@@ -1,0 +1,7757 @@
+import type { ArticlesData } from '@/types'
+
+export const articlesData = {
+    "Acne": [
+        {
+            title: "What Causes Acne?",
+            preview: "Acne is one of the most common skin conditions in the world. It can affect kids, teens, and adults. Understanding what causes acne can help people take better care of their skin.",
+            content: `<h2>What Causes Acne?</h2>
+            <p>Acne is one of the most common skin conditions in the world. It can affect kids, teens, and adults. Acne is not caused by dirty skin or poor hygiene. Instead, it happens because of changes inside the body and how the skin reacts to them. Understanding what causes acne can help people take better care of their skin.</p>
+
+            <h3>How Acne Forms</h3>
+            <p>Acne starts in tiny openings in the skin called pores. Each pore connects to a hair follicle and an oil gland. Acne develops when several things happen at the same time.</p>
+            <p>First, dead skin cells may not shed properly. When this happens, they build up and clog the pore. At the same time, oil glands may produce too much oil, also called sebum. Hormone changes, such as during puberty or with conditions like PCOS, can cause this increase in oil.</p>
+            <p>Bacteria that naturally live on the skin can then grow inside the clogged pore. These bacteria feed on oil and release substances that irritate the skin. The body responds by sending immune cells to the area, which leads to redness, swelling, and pain.</p>
+            <p>Depending on how deep this process happens in the skin, acne can show up as whiteheads, blackheads, pimples, or deeper, more painful bumps.</p>
+
+            <h3>Common Acne Triggers</h3>
+            <p>Some things can make acne worse or harder to treat. Hormone changes during puberty, menstrual cycles, or pregnancy are common triggers. Certain makeup, skincare, or hair products can clog pores if they are thick or oily. Some medications, including steroids and lithium, may also cause breakouts.</p>
+            <p>Diet and lifestyle can play a role too. Foods high in sugar or refined carbohydrates may increase inflammation. Stress and lack of sleep raise stress hormones, which can lead to more oil production and breakouts.</p>
+
+            <h3>Treatment and Prevention</h3>
+            <p>Acne treatment depends on how severe it is. Mild acne may improve with gentle skincare, while more serious acne may need medical treatment. Dermatologists often recommend a mix of treatments rather than just one solution.</p>
+            <p>Common options include topical retinoids to keep pores clear, antibiotics to reduce bacteria, and hormone-based treatments for people whose acne is linked to hormone changes. Using non-comedogenic, oil-free skincare products can also help prevent clogged pores.</p>
+
+            <h3>The Role of Diet and Daily Habits</h3>
+            <p>Eating a balanced diet may support healthier skin. Some people notice improvement when they limit sugary foods, refined grains, and certain dairy products. Foods with omega-3 fats, zinc, and antioxidants may help calm inflammation.</p>
+            <p>Drinking enough water, getting regular sleep, and managing stress all support the skin's natural balance and healing process.</p>
+
+            <h3>Preventing Scars and Thinking Long Term</h3>
+            <p>Treating acne early is important to prevent scarring. Ongoing inflammation can damage the skin and leave lasting marks. A healthcare provider can help find the cause of acne and create a treatment plan that works best for each person.</p>
+            <p>Acne management takes time and consistency. Clearer skin comes from building healthy habits and sticking with a routine, not from quick fixes. With the right care, many people can see lasting improvement and protect their skin long term.</p>
+
+            <h3>References</h3>
+            <p>Zaenglein, A. L., et al. (2016). Guidelines of care for the management of acne vulgaris. Journal of the American Academy of Dermatology, 74(5), 945–973. https://doi.org/10.1016/j.jaad.2015.12.037</p>
+            <p>Baldwin, H. E. (2020). The interaction between diet and acne: A review. Dermato-Endocrinology, 12(1), 176–182. https://doi.org/10.1080/19381980.2020.1760964</p>
+            <p>Lynn, D. D., Umari, T., Dunnick, C. A., & Dellavalle, R. P. (2016). The epidemiology of acne vulgaris in late adolescence. Adolescent Health, Medicine and Therapeutics, 7, 13–25. https://doi.org/10.2147/AHMT.S55832</p>`
+
+        }
+    ],
+    "Acid Reflux": [
+        {
+            title: "Recognizing and Treating Acid Reflux",
+            preview: "Acid reflux happens when stomach acid moves back up into the esophagus. This can cause discomfort and pain. Knowing the signs of acid reflux and how to treat it can help you feel better and protect your health.",
+            content: `<h2>Recognizing and Treating Acid Reflux</h2>
+            <p>Acid reflux happens when stomach acid moves back up into the esophagus. This can cause discomfort and pain. Knowing the signs of acid reflux and how to treat it can help you feel better and protect your health.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>A burning feeling in the chest, called heartburn, may happen after eating or when lying down. Some people notice a sour or bitter taste in the mouth or throat. Others may have stomach pain, a long-lasting cough, or a hoarse or raspy voice. Another sign is if you feel like food is stuck in your throat when you swallow.</p>
+
+            <h3>Causes and Risk Factors</h3>
+            <p>Certain foods and drinks can trigger acid reflux. These include spicy, fatty, or fried foods, chocolate, caffeine, and citrus fruits. Alcohol, soda, and acidic juices can also make symptoms worse. Eating large meals or eating late at night can increase reflux.</p>
+            <p>Lifestyle habits matter too. Extra body weight can put pressure on the stomach and push acid upward. Smoking can weaken the muscle that keeps stomach acid from moving up into the throat. Lying down too soon after eating can also cause symptoms.</p>
+            <p>Some health conditions raise the risk of acid reflux. A hiatal hernia happens when part of the stomach moves up into the chest area. During pregnancy, hormone changes and pressure on the stomach can also cause reflux.</p>
+
+            <h3>Treating Acid Reflux</h3>
+            <p>Simple changes can help manage symptoms. Avoid foods and drinks that trigger reflux, eat smaller meals, and stay upright after eating. Losing extra weight and quitting smoking can also help. Raising the head of the bed a few inches can reduce reflux during sleep.</p>
+
+            <h3>Medications and Medical Care</h3>
+            <p>Over-the-counter antacids can give quick relief by lowering stomach acid. Other medicines reduce how much acid the stomach makes. This may help when symptoms happen often. In more serious cases, a doctor may suggest tests to look at the esophagus or recommend other treatments.</p>
+
+            <h3>When to See a Doctor</h3>
+            <p>Talk to a doctor if acid reflux happens more than twice a week, if you have chest pain, trouble swallowing, or if symptoms do not get better with store-bought medicines. Long-term acid reflux can damage the esophagus and may need medical care. With the right steps, many people can control acid reflux.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2021). GERD (Acid Reflux). Retrieved from https://www.mayoclinic.org/diseases-conditions/gerd/symptoms-causes/syc-20361940</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2021). Acid Reflux (GER & GERD) in Adults. Retrieved from https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults</p>`
+
+        }
+    ],
+    "Attention Deficit Hyperactivity Disorder (ADHD)": [
+        {
+            title: "What Is ADHD?",
+            preview: "ADHD is a condition that affects how the brain works. It can make it harder to focus, sit still, and control impulses.",
+            content: `<h2>What Is ADHD?</h2>
+            <p>ADHD is a condition that affects how the brain works. It can make it harder to focus, sit still, and control impulses. ADHD often starts in childhood and can continue into the teen years and adulthood. It is not caused by laziness or lack of effort. People with ADHD have differences in how their brains manage attention and behavior.</p>
+
+            <h3>How ADHD Can Affect Daily Life</h3>
+            <p>People with ADHD may have trouble staying focused, being organized, or managing time. They may also have strong emotions that feel hard to control at times. Symptoms can look different for each person and may change over time. Many people with ADHD build skills that help them succeed in school, work, and relationships.</p>
+
+            <h3>References</h3>
+            <p>American Psychiatric Association. (2022). Diagnostic and Statistical Manual of Mental Disorders (5th ed., text rev.).</p>
+            <p>Centers for Disease Control and Prevention. (2023). Attention-Deficit / Hyperactivity Disorder (ADHD).</p>
+            <p>National Institute of Mental Health. (2023). Attention-Deficit/Hyperactivity Disorder.</p>`
+
+        }
+    ],
+    "Food Allergy": [
+        {
+            title: "The Difference Between Food Allergies & Intolerance",
+            preview: "Food allergies and food intolerance are often mixed up, but they affect the body in very different ways. A food allergy involves the immune system and can cause fast, serious reactions.",
+            content: `<h2>The Difference Between Food Allergies & Intolerance</h2>
+            <p>Food allergies and food intolerance are often mixed up, but they affect the body in very different ways. A food allergy involves the immune system and can cause fast, serious reactions. A food intolerance affects digestion and usually causes discomfort rather than danger. Knowing the difference helps people make safer food choices and feel better day to day.</p>
+
+            <h3>What Is A Food Allergy?</h3>
+            <p>A food allergy happens when the immune system reacts to a food protein. Symptoms usually begin within minutes and up to about four hours after eating.</p>
+            <ul>
+            <li>Skin hives, flushing, itching, swelling of lips or face.</li>
+            <li>Mouth or throat itching and a feeling of throat closing.</li>
+            <li>Cough, wheeze, shortness of breath, chest tightness.</li>
+            <li>Repeated vomiting, abdominal pain.</li>
+            <li>Dizziness, faintness, or sudden drop in blood pressure.</li>
+            </ul>
+            <p>A severe allergic reaction is called anaphylaxis. This is a medical emergency and requires epinephrine right away, followed by emergency care. People with a diagnosed food allergy should carry an epinephrine auto-injector and have a written action plan.</p>
+
+            <h3>What Is A Food Intolerance?</h3>
+            <p>Food intolerance does not involve the immune system. It usually happens when the body has trouble digesting part of a food or can only handle small amounts.</p>
+            <ul>
+            <li>Common symptoms include bloating, gas, cramping, and loose stools.</li>
+            <li>Symptoms often appear hours later and depend on how much was eaten.</li>
+            <li>A common example is lactose intolerance, which occurs when the body does not make enough lactase, the enzyme needed to digest milk sugar.</li>
+            </ul>
+            <p>Food intolerance can be uncomfortable, but it does not cause anaphylaxis.</p>
+
+            <h3>How To Tell The Difference</h3>
+            <p>There are a few key clues that help separate allergies from intolerance. Allergic reactions usually happen quickly, while intolerance symptoms are often delayed. Allergies can affect the skin, breathing, or circulation, while intolerance mainly affects digestion. Even tiny amounts of a food can trigger an allergy, but intolerance is usually linked to larger portions.</p>
+            <p>Testing can also help. Allergy testing may include skin tests, blood tests, or supervised food challenges. Lactose intolerance is often identified through breath testing or by adjusting the diet with guidance from a clinician.</p>
+
+            <h3>Everyday Guidance</h3>
+            <p>For food allergies, safety is the top priority. Reading labels carefully, asking questions when eating out, and avoiding cross-contact in shared kitchens are essential steps. People with food allergies should always carry two epinephrine auto-injectors and make sure friends or family know how to use them.</p>
+            <p>For food intolerance, the goal is comfort and balance. Many people can still enjoy trigger foods in smaller portions. Lactose-free products, lactase tablets, or keeping a short food and symptom log can help identify what feels best for the body.</p>
+
+            <h3>When To Seek Medical Advice</h3>
+            <p>Any trouble breathing, throat swelling, fainting, or fast-spreading hives after eating needs emergency care right away. Ongoing reactions to the same food should be evaluated for a possible allergy. Digestive symptoms that persist, worsen, or include weight loss, blood in stool, or fever should also be checked by a clinician.</p>
+            <p>Understanding your body's signals makes it easier to eat with confidence and protect your health.</p>
+
+            <h3>References</h3>
+            <p>NIAID Sponsored Expert Panel. Guidelines for the diagnosis and management of food allergy in the United States. Journal of Allergy and Clinical Immunology. 2010 with updates.</p>
+            <p>Sicherer SH, Sampson HA. Food allergy epidemiology, pathogenesis, diagnosis, and management. Journal of Allergy and Clinical Immunology. 2018.</p>
+            <p>Muraro A, Werfel T, Hoffmann Sommergruber K, et al. EAACI food allergy and anaphylaxis guidelines diagnosis and management of food allergy. Allergy. 2014.</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. Lactose intolerance. Updated 2023.</p>
+            <p>Boyce JA, Assa'ad A, Burks AW, et al. Guidelines for the management of anaphylaxis. Journal of Allergy and Clinical Immunology. 2011 with updates.</p>`
+
+        }
+    ],
+    "Alopecia": [
+        {
+            title: "Alopecia",
+            preview: "Alopecia is a condition that causes hair loss. It can affect the scalp, face, or other parts of the body. Hair loss may happen slowly or suddenly and it can impact people of all ages.",
+            content: `<h2>Alopecia</h2>
+            <p>Alopecia is a condition that causes hair loss. It can affect the scalp, face, or other parts of the body. Hair loss may happen slowly or suddenly and it can impact people of all ages.</p>
+            <p>Hair plays a role in identity and self-image. Changes in hair may affect both emotional wellbeing and physical health.</p>
+
+            <h3>Types and Causes</h3>
+            <p>There are different types of alopecia. Alopecia areata happens when the body's immune system attacks the hair.</p>
+            <p>Androgenetic alopecia is also called male- or female-pattern hair loss. It happens slowly and can run in families.</p>
+            <p>Telogen effluvium can happen after stress, sickness, or big changes in the body. Hair usually falls out for a short time.</p>
+            <p>Traction alopecia happens when hair is pulled too much, like from tight hairstyles.</p>
+            <p>Each type has different causes. Doctors may use different treatments for each type.</p>
+
+            <h3>Emotional and Daily Impact</h3>
+            <p>Hair loss may affect confidence. Some people feel embarrassed or anxious. Others adjust more easily.</p>
+            <p>Support from family and friends may help. Wearing hats, scarves, or wigs may improve comfort. Counseling may also support emotional health.</p>
+            <p>Alopecia does not affect overall physical health in most cases. With information and support, many people find ways to manage changes in appearance.</p>
+
+            <h3>References</h3>
+            <p>Pratt, C. H., King, L. E., Messenger, A. G., Christiano, A. M., & Sundberg, J. P. (2017). Alopecia areata. Nature Reviews Disease Primers, 3(1), 17011.</p>
+            <p>Strazzulla, L. C., Wang, E. H. C., Avila, L., Lo Sicco, K., Brinster, N., Christiano, A. M., & Shapiro, J. (2018). Alopecia areata: An appraisal of new treatment approaches and overview of current therapies. Journal of the American Academy of Dermatology, 78(1), 15–24.</p>`
+        }
+    ],
+    "Alzheimer's": [
+        {
+            title: "Alzheimer's Disease 101",
+            preview: "Alzheimer's disease is a progressive neurodegenerative disorder and the most common form of dementia, accounting for 60-80% of dementia cases.",
+            content: `<h2>Alzheimer's Disease 101</h2>
+
+            <h3>What is Alzheimer's Disease?</h3>
+            <p>Alzheimer's disease is a progressive neurodegenerative disorder and the most common form of dementia, accounting for 60-80% of dementia cases. It primarily affects the brain's memory and cognitive functions, leading to a gradual decline in memory, thinking, and behavior. The disease is characterized by the accumulation of amyloid plaques and tau tangles in the brain, which disrupt normal cell function and contribute to the death of brain cells. This progressive deterioration affects an individual's ability to perform everyday tasks and ultimately impacts quality of life.</p>
+
+            <h3>Types of Dementia</h3>
+            <p>Dementia is an umbrella term encompassing various types of cognitive decline, including:</p>
+            <ul>
+            <li><strong>Alzheimer's Disease:</strong> The most prevalent form, marked by memory loss and cognitive impairment due to amyloid plaques and tau tangles.</li>
+            <li><strong>Vascular Dementia:</strong> Caused by reduced blood flow to the brain, often following strokes or other vascular conditions, leading to problems with planning, organizing, and attention.</li>
+            <li><strong>Lewy Body Dementia:</strong> Characterized by abnormal protein deposits (Lewy bodies) that cause fluctuating cognition, visual hallucinations, and motor symptoms similar to Parkinson's disease.</li>
+            <li><strong>Frontotemporal Dementia (FTD):</strong> Affects the frontal and temporal lobes of the brain, leading to changes in personality, behavior, and language skills.</li>
+            </ul>
+
+            <h3>Important Things to Know About Dementia</h3>
+            <p>Understanding dementia involves recognizing its wide range of symptoms and effects. While all types of dementia involve cognitive decline, the specific symptoms and progression can vary significantly:</p>
+            <ul>
+            <li><strong>Symptom Variation:</strong> Different types of dementia manifest with distinct symptoms, such as memory loss in Alzheimer's, motor issues in Lewy body dementia, or behavioral changes in FTD.</li>
+            <li><strong>Disease Progression:</strong> Dementia typically progresses over time, with symptoms worsening as the disease advances. The rate of progression can differ depending on the type of dementia and individual health factors.</li>
+            <li><strong>Impact on Daily Life:</strong> Dementia affects an individual's ability to perform daily activities and can impact family dynamics and caregiving needs.</li>
+            </ul>
+
+            <h3>Contributing Factors</h3>
+            <p>Several factors can contribute to the development of dementia:</p>
+            <ul>
+            <li><strong>Age:</strong> Advancing age is the most significant risk factor, with most individuals diagnosed in their late 60s or older.</li>
+            <li><strong>Genetics:</strong> Family history of dementia or genetic mutations can increase risk, particularly in early-onset forms of Alzheimer's.</li>
+            <li><strong>Health Conditions:</strong> Conditions such as cardiovascular disease, diabetes, and hypertension are linked to an increased risk of dementia.</li>
+            <li><strong>Lifestyle Factors:</strong> Poor diet, lack of exercise, smoking, and excessive alcohol consumption can contribute to the risk of developing dementia.</li>
+            </ul>
+
+            <p>Alzheimer's disease represents a major public health challenge, with significant impacts on individuals and their families. It is essential to recognize the signs early, understand the different types of dementia, and consider the contributing factors to manage the disease effectively. Addressing the disease involves a combination of early diagnosis, ongoing research, lifestyle adjustments, and support for affected individuals and their caregivers.</p>
+
+            <p>Understanding Alzheimer's disease and its implications is crucial for managing the condition and supporting those affected. With continued research and awareness, we can work towards better management strategies and ultimately, a cure.</p>
+
+            <h3>References</h3>
+            <p>Alzheimer's Association. (2024). Alzheimer's Disease Facts and Figures. Alzheimer's Association.</p>
+            <p>Mayo Clinic. (2023). Alzheimer's Disease: Symptoms and Causes. Mayo Clinic.</p>
+            <p>National Institute on Aging. (2023). Alzheimer's Disease. NIA.</p>`
+
+        }
+    ],
+    "Andropause": [
+        {
+            title: "What Is Andropause?",
+            preview: "Andropause is a term sometimes used to describe the gradual changes that can occur in some people assigned male at birth as they age. It often involves shifts in hormone levels, particularly testosterone.",
+            content: `<h2>What Is Andropause?</h2>
+            <p>Andropause is a term sometimes used to describe the gradual changes that can occur in some people assigned male at birth as they age. It often involves shifts in hormone levels, particularly testosterone, which may affect physical, emotional, and cognitive wellbeing. While andropause is not a medical diagnosis like menopause, it can bring changes that might be important to understand and address.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>The changes linked to andropause can vary widely but may include:</p>
+            <ul>
+            <li>Reduced energy and increased fatigue</li>
+            <li>Decreased muscle mass and strength</li>
+            <li>Lower libido or changes in sexual function</li>
+            <li>Mood changes such as irritability, anxiety, or mild depression</li>
+            <li>Difficulty concentrating or memory lapses</li>
+            <li>Sleep disturbances, including insomnia or changes in sleep patterns</li>
+            <li>Increased body fat or weight gain</li>
+            </ul>
+            <p>Not everyone experiences these symptoms, and they may develop gradually over time.</p>
+
+            <h3>Why These Changes Happen</h3>
+            <p>Testosterone levels naturally decline as part of aging, typically beginning around the mid-30s to 40s. However, the rate and impact of this decline differ among individuals. Other factors such as chronic health conditions, lifestyle, and stress levels can also influence symptoms.</p>
+
+            <h3>Approaches to Support Well-Being</h3>
+            <p>If you notice signs that might be related to andropause, some gentle approaches might help maintain wellbeing:</p>
+            <ul>
+            <li>Engaging in regular physical activity, including strength training and cardiovascular exercise</li>
+            <li>Eating a balanced diet rich in whole foods, vitamins, and minerals</li>
+            <li>Prioritizing restful sleep and managing stress through relaxation techniques</li>
+            <li>Talking openly with healthcare providers about symptoms and possible treatments</li>
+            </ul>
+            <p>Medical evaluation can help determine if hormone levels are affecting health and discuss options, which may include lifestyle changes or medical therapies.</p>
+
+            <h3>Understanding the Variation</h3>
+            <p>Andropause is not experienced the same way by everyone, and symptoms might overlap with other health conditions. Approaching this phase with patience and support can help manage changes more effectively.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2020). Aging and hormone health: Perspectives on male midlife changes. Geneva: WHO.</p>
+            <p>The Lancet Endocrinology. (2019). Andropause and testosterone decline: Clinical considerations.</p>
+            <p>Journal of Clinical Endocrinology & Metabolism. (2021). Hormonal aging in men: Diagnosis and management.</p>`
+
+        }
+    ],
+    "Anemia": [
+        {
+            title: "Navigating Anemia Management",
+            preview: "Anemia, a condition characterized by a deficiency of red blood cells or hemoglobin, affects millions worldwide, posing challenges to energy levels, overall health, and daily life.",
+            content: `<h2>Navigating Anemia Management</h2>
+            <p>Anemia, a condition characterized by a deficiency of red blood cells or hemoglobin, affects millions worldwide, posing challenges to energy levels, overall health, and daily life. Understanding the causes, symptoms, and available solutions is crucial for individuals experiencing anemia and those seeking preventative measures. Let's delve into the intricacies of anemia, shedding light on its consequences and exploring avenues for effective management.</p>
+            <p>Anemia is a widespread health concern, affecting people of all ages, genders, and backgrounds. It can result from various causes, including nutritional deficiencies, chronic diseases, or genetic factors. Estimates show that around 1.62 billion people globally live with anemia, making it a significant public health issue.</p>
+
+            <h3>Understanding Anemia</h3>
+            <ul>
+            <li><strong>Causes and Types:</strong> Anemia can stem from factors such as iron deficiency, vitamin B12 deficiency, chronic diseases (such as inflammatory disorders), or genetic conditions affecting hemoglobin production. Different types of anemia have distinct causes, requiring tailored approaches to management.</li>
+            <li><strong>Symptoms:</strong> Common symptoms of anemia include fatigue, weakness, pale skin, shortness of breath, and an increased heart rate. Individuals experiencing these symptoms should seek medical evaluation to determine the underlying cause and create an appropriate treatment plan.</li>
+            <li><strong>Diagnostic Process:</strong> Diagnosing anemia involves blood tests to assess hemoglobin levels, red blood cell count, and indices such as mean corpuscular volume (MCV). Understanding the specific type and cause of anemia is crucial for determining the most effective course of action.</li>
+            </ul>
+
+            <h3>Management and Treatment</h3>
+            <ul>
+            <li><strong>Dietary Adjustments:</strong> Addressing nutritional deficiencies is often the first line of defense against anemia. Consuming iron-rich foods such as leafy greens, lean meats, and legumes, as well as vitamin C-rich foods to enhance iron absorption, can contribute to improved iron levels.</li>
+            <li><strong>Supplementation:</strong> For certain types of anemia, supplementation may be necessary. Iron supplements, vitamin B12 injections, or other prescribed supplements can help restore adequate levels and alleviate symptoms.</li>
+            <li><strong>Medical Interventions:</strong> In cases where anemia is a symptom of an underlying medical condition, addressing the root cause is essential. This may involve treating chronic diseases, managing inflammation, or exploring other therapeutic options.</li>
+            </ul>
+
+            <p>Anemia is a multifaceted health condition with a range of causes and presentations. By fostering awareness, prioritizing regular health check-ups, and addressing nutritional needs, individuals can actively contribute to their anemia management. Collaboration with healthcare professionals ensures accurate diagnosis and personalized treatment plans, empowering individuals to regain vitality and wellbeing.</p>
+
+            <h3>References</h3>
+            <p>Kassebaum, N. J., et al. (2017). The Global Burden of Anemia. American Journal of Hematology, 92(12), 1316–1322. doi:10.1002/ajh.24939.</p>
+            <p>World Health Organization. (2021). Nutritional anaemias: Tools for effective prevention and control. Retrieved from https://www.who.int/publications/i/item/9789240016136</p>`
+
+        }
+    ],
+    "Anxiety": [
+        {
+            title: "Understanding and Managing Anxiety Disorders",
+            preview: "Anxiety disorders are common mental health conditions that affect millions of people worldwide. These disorders can significantly impact daily life, making it essential to understand their causes, symptoms, and management strategies.",
+            content: `<h2>Understanding and Managing Anxiety Disorders</h2>
+            <p>Anxiety disorders are common mental health conditions that affect millions of people worldwide. These disorders can significantly impact daily life, making it essential to understand their causes, symptoms, and management strategies.</p>
+
+            <h3>What Are Anxiety Disorders?</h3>
+            <p>Anxiety disorders encompass a range of conditions characterized by excessive fear, worry, and nervousness. Common types include:</p>
+            <ul>
+            <li><strong>Generalized Anxiety Disorder (GAD):</strong> Chronic, excessive worry about various aspects of life.</li>
+            <li><strong>Panic Disorder:</strong> Recurrent panic attacks with intense fear and physical symptoms.</li>
+            <li><strong>Social Anxiety Disorder:</strong> Intense fear of social situations.</li>
+            <li><strong>Specific Phobias:</strong> Irrational fear of specific objects or situations.</li>
+            <li><strong>Obsessive-Compulsive Disorder (OCD):</strong> Unwanted, intrusive thoughts and repetitive behaviors.</li>
+            <li><strong>Post-Traumatic Stress Disorder (PTSD):</strong> Severe anxiety after a traumatic event.</li>
+            </ul>
+
+            <h3>Causes and Risk Factors</h3>
+            <p>Anxiety disorders arise from a combination of genetic, environmental, and psychological factors. Family history, brain chemistry imbalances, certain personality traits, traumatic life experiences, and some medical conditions can contribute to their development.</p>
+
+            <h3>Symptoms of Anxiety Disorders</h3>
+            <p>Symptoms vary but commonly include excessive worry, restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbances, and avoidance of anxiety-provoking situations.</p>
+
+            <h3>Managing Anxiety Disorders</h3>
+            <p>Effective management often involves self-help strategies, therapy, and sometimes medication.</p>
+
+            <p><strong>Self-Help Strategies:</strong></p>
+            <ul>
+            <li><strong>Relaxation Techniques:</strong> Deep breathing, progressive muscle relaxation, and mindfulness meditation can reduce anxiety.</li>
+            <li><strong>Healthy Lifestyle:</strong> Regular exercise, a balanced diet, and sufficient sleep are crucial.</li>
+            <li><strong>Limit Caffeine and Alcohol:</strong> These substances can exacerbate anxiety.</li>
+            <li><strong>Social Support:</strong> Stay connected with friends, family, or support groups.</li>
+            <li><strong>Realistic Goals:</strong> Break tasks into smaller steps and set achievable goals.</li>
+            <li><strong>Time Management:</strong> Prioritize tasks and schedule breaks.</li>
+            </ul>
+
+            <p><strong>Therapeutic Interventions:</strong></p>
+            <ul>
+            <li><strong>Cognitive-Behavioral Therapy (CBT):</strong> Effective for identifying and challenging negative thought patterns.</li>
+            <li><strong>Exposure Therapy:</strong> Gradually facing anxiety-provoking situations to desensitize.</li>
+            <li><strong>Mindfulness-Based Stress Reduction (MBSR):</strong> Combines mindfulness meditation and yoga.</li>
+            <li><strong>Acceptance and Commitment Therapy (ACT):</strong> Focuses on accepting thoughts and committing to behavior changes.</li>
+            </ul>
+
+            <h3>When to Seek Professional Help</h3>
+            <p>Seek professional help if anxiety is severe, persistent, or interferes with daily life. A mental health professional can provide a comprehensive evaluation and tailored treatment plan.</p>
+
+            <p>In conclusion, anxiety disorders are manageable with the right strategies. Understanding the causes, symptoms, and treatment options can help individuals take control of their anxiety and improve their quality of life. Combining self-help techniques, therapy, and medication can lead to effective management and a healthier, more balanced life. If you or someone you know is struggling with anxiety, seeking professional help is a crucial step towards recovery and wellbeing.</p>`
+
+        }
+    ],
+    "Arrhythmia": [
+        {
+            title: "Arrhythmia",
+            preview: "Arrhythmia is a condition that affects the heart's rhythm. The heart may beat too fast, too slow, or irregularly. A steady rhythm helps the heart move blood through the body.",
+            content: `<h2>Arrhythmia</h2>
+            <p>Arrhythmia is a condition that affects the heart's rhythm. The heart may beat too fast, too slow, or irregularly. A steady rhythm helps the heart move blood through the body.</p>
+            <p>Some arrhythmias are mild and cause few problems. Others may lead to symptoms that need medical care. Knowing the signs can support early attention.</p>
+
+            <h3>How It Feels and What Causes It</h3>
+            <p>The heart uses small electrical signals to control each beat. An arrhythmia happens when these signals change. This can affect how well blood flows.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>A racing heartbeat</li>
+                <li>A slow pulse</li>
+                <li>Feeling lightheaded</li>
+                <li>Shortness of breath</li>
+            </ul>
+            <p>Arrhythmias may be linked to heart disease, high blood pressure, or thyroid conditions. They may also occur without a clear cause. Stress, caffeine, or lack of sleep may trigger symptoms in some people.</p>
+
+            <h3>Daily Life and Management</h3>
+            <p>Some people notice symptoms during exercise or strong emotions. Others may not feel any changes. A health care provider can check heart rhythm with simple tests.</p>
+            <p>Healthy habits may support heart health. These include regular checkups, balanced meals, and stress management. Many people can manage arrhythmia with the right care.</p>
+
+            <h3>References</h3>
+            <p>January, C. T., Wann, L. S., Alpert, J. S., Calkins, H., Cigarroa, J. E., Cleveland, J. C., Conti, J. B., Ellinor, P. T., Ezekowitz, M. D., Field, M. E., Murray, K. T., Sacco, R. L., Stevenson, W. G., Tchou, P. J., Tracy, C. M., & Yancy, C. W. (2014). 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation. Circulation, 130(23), e199–e267.</p>
+            <p>Zimetbaum, P., & Josephson, M. E. (1998). Evaluation of patients with palpitations. New England Journal of Medicine, 338(19), 1369–1373.</p>`
+        }
+    ],
+    "Arthritis": [
+        {
+            title: "What Is Arthritis?",
+            preview: "Arthritis means inflammation in the joints. A joint is where two bones meet, such as the knee, hip, or elbow. Arthritis is not just one disease. There are more than 100 different types.",
+            content: `<h2>What Is Arthritis?</h2>
+            <p>Arthritis means inflammation in the joints. A joint is where two bones meet, such as the knee, hip, or elbow. Arthritis is not just one disease. There are more than 100 different types, and people of all ages can have it.</p>
+            <p>Common symptoms include joint pain, stiffness, swelling, and trouble moving the joint fully. These symptoms may come and go or slowly get worse over time. Arthritis can make everyday tasks like walking, climbing stairs, or opening jars more difficult. With proper care and support, many people with arthritis stay active and independent.</p>
+
+            <h3>Common Symptoms</h3>
+            <ul>
+            <li>Joint pain, tenderness, or warmth.</li>
+            <li>Stiffness in the morning or after sitting still.</li>
+            <li>Swelling or trouble moving a joint normally.</li>
+            <li>Fatigue during symptom flare-ups.</li>
+            </ul>
+
+            <h3>Types Of Arthritis</h3>
+            <p>There are several common types of arthritis. Osteoarthritis is caused by wear and tear in the joints over time. The cartilage that cushions the bones breaks down, leading to pain and stiffness.</p>
+            <p>Rheumatoid arthritis is an autoimmune condition. This means the immune system attacks the joints, causing swelling and pain. It can also affect other parts of the body.</p>
+            <p>Psoriatic arthritis happens in some people who have psoriasis. It can cause joint pain, stiffness, and swelling along with skin symptoms.</p>
+            <p>Gout causes sudden and very painful joint flare-ups. It happens when uric acid crystals build up in a joint, often starting in the big toe.</p>
+
+            <h3>How Arthritis Can Affect Daily Life</h3>
+            <p>Arthritis can change how a person moves and feels day to day. Walking, lifting objects, or using stairs may be harder during flare-ups. Pain and stiffness can interrupt sleep, leading to low energy. When symptoms last a long time, mood and motivation may also be affected.</p>
+
+            <h3>When To Seek Medical Advice</h3>
+            <ul>
+            <li>Joint pain or swelling that lasts more than a few weeks.</li>
+            <li>Stiffness that makes daily activities hard to do.</li>
+            <li>Fever, weight loss, or ongoing fatigue along with joint pain.</li>
+            <li>Sudden, severe swelling and pain in one joint.</li>
+            </ul>
+
+            <h3>Everyday Steps That Can Help</h3>
+            <p>Moving your body can help keep joints flexible. Activities like walking, swimming, or biking are gentle on the joints. Light stretching and simple strength exercises can also help when shown by a clinician or therapist.</p>
+            <p>Eating regular, balanced meals supports joint health. Try to include fruits, vegetables, whole grains, and protein foods. Drinking enough water and getting good sleep help the body recover.</p>
+            <p>Managing stress can reduce flare-ups. Simple tools like deep breathing or short breaks can help. Talk with a clinician about pain relief options or medicines if symptoms are hard to manage. Small changes at home, like wearing supportive shoes or using grab bars, can make daily tasks easier and safer.</p>
+
+            <h3>References</h3>
+            <p>Hunter DJ, Bierma Zeinstra S. Osteoarthritis. The Lancet.</p>
+            <p>Smolen JS, Aletaha D, McInnes IB. Rheumatoid arthritis. The Lancet.</p>
+            <p>Ogdie A, Coates LC, Gladman DD. Psoriatic arthritis. The Lancet.</p>
+            <p>Dalbeth N, Gosling AL, Gaffo A, Abhishek A. Gout. Lancet.</p>
+            <p>Safiri S, Kolahi AA, et al. Global burden of osteoarthritis and trends. The Lancet Rheumatology.</p>`
+
+        }
+    ],
+    "Asthma": [
+        {
+            title: "Understanding and Managing Asthma",
+            preview: "Asthma is a long-term condition that affects the lungs and makes breathing harder. It happens when the airways become swollen and narrow.",
+            content: `<h2>Understanding and Managing Asthma</h2>
+            <p>Asthma is a long-term condition that affects the lungs and makes breathing harder. It happens when the airways become swollen and narrow. Learning about asthma and how to manage it can help people breathe better and avoid serious asthma attacks.</p>
+
+            <h3>Common Asthma Symptoms</h3>
+            <p>Asthma symptoms can be different for each person and may range from mild to serious. Common symptoms include:</p>
+            <ul>
+            <li>Shortness of breath</li>
+            <li>Tightness in the chest</li>
+            <li>Wheezing</li>
+            <li>Coughing, especially at night or early in the morning</li>
+            </ul>
+
+            <h3>Common Asthma Triggers</h3>
+            <p>Asthma symptoms are often caused by triggers, such as:</p>
+            <ul>
+            <li>Pollen, dust, or pet hair</li>
+            <li>Colds or other respiratory infections</li>
+            <li>Exercise</li>
+            <li>Cold air</li>
+            <li>Smoke or air pollution</li>
+            </ul>
+
+            <h3>How Asthma Is Diagnosed</h3>
+            <p>Doctors diagnose asthma by reviewing symptoms and checking how well the lungs work. This may include:</p>
+            <ul>
+            <li>A physical exam and health history</li>
+            <li>Breathing tests that measure how much air you can blow out</li>
+            <li>Using a small handheld tool to track breathing at home</li>
+            </ul>
+
+            <h3>Managing Asthma</h3>
+            <p>Managing asthma usually involves medicine, healthy habits, and regular check-ins with a healthcare provider. Some medicines are taken daily to prevent symptoms, while others are used during an asthma attack to help breathing quickly.</p>
+
+            <h3>When to Get Help Right Away</h3>
+            <p>Seek medical care right away if:</p>
+            <ul>
+            <li>Breathing becomes very difficult</li>
+            <li>Lips or face turn blue</li>
+            <li>Symptoms get worse quickly</li>
+            <li>Rescue medicine does not help</li>
+            </ul>
+            <p>With the right care and daily habits, people with asthma can breathe easier and live healthy, active lives.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention (CDC). Asthma: Basics, Symptoms, and Management.</p>
+            <p>National Heart, Lung, and Blood Institute (NHLBI). Guidelines for the Diagnosis and Management of Asthma.</p>
+            <p>Global Initiative for Asthma (GINA). Global Strategy for Asthma Management and Prevention.</p>
+            <p>American Lung Association. Understanding Asthma and How to Control It.</p>`
+
+        }
+    ],
+    "Atherosclerosis": [
+        {
+            title: "Atherosclerosis",
+            preview: "Atherosclerosis is a condition that affects the arteries. Arteries are blood vessels that carry blood from the heart to the body. In this condition, fat and other substances build up inside the artery walls.",
+            content: `<h2>Atherosclerosis</h2>
+            <p>Atherosclerosis is a condition that affects the arteries. Arteries are blood vessels that carry blood from the heart to the body. In this condition, fat and other substances build up inside the artery walls.</p>
+            <p>Over time, this buildup can narrow the arteries. When arteries are narrow, less blood can pass through.</p>
+
+            <h3>What Happens in the Arteries</h3>
+            <p>The buildup inside the artery is called plaque. Plaque is made of fat, cholesterol, and other materials found in the blood. As plaque grows, the artery becomes harder and less flexible.</p>
+            <p>Atherosclerosis often develops slowly. It is linked to:</p>
+            <ul>
+                <li>High blood pressure</li>
+                <li>High cholesterol</li>
+                <li>Smoking</li>
+                <li>Diabetes</li>
+            </ul>
+            <p>Many people do not notice symptoms early on. Problems may happen if blood flow becomes blocked.</p>
+
+            <h3>Why It Matters and Healthy Steps</h3>
+            <p>When blood flow is reduced, organs may not get enough oxygen. This may affect the heart, brain, or legs. A heart attack or stroke can happen if an artery becomes blocked.</p>
+            <p>Healthy habits may help support artery health. Eating a balanced diet, staying active, and not smoking may help lower the risk. Regular checkups can help monitor blood pressure and cholesterol.</p>
+            <p>Atherosclerosis is common, especially as people age. Early awareness and steady care may help protect heart health over time.</p>
+
+            <h3>References</h3>
+            <p>Libby, P., Ridker, P. M., & Hansson, G. K. (2011). Progress and challenges in translating the biology of atherosclerosis. Nature, 473(7347), 317–325.</p>
+            <p>Ross, R. (1999). Atherosclerosis—an inflammatory disease. New England Journal of Medicine, 340(2), 115–126.</p>`
+        }
+    ],
+    "Athlete's Foot": [
+        {
+            title: "Athlete's Foot",
+            preview: "Athlete's foot is a common skin infection caused by a fungus. It often affects the skin between the toes, though it may also appear on the bottoms or sides of the feet.",
+            content: `<h2>Athlete's Foot</h2>
+            <p>Athlete's foot is a common skin infection caused by a fungus. It often affects the skin between the toes, though it may also appear on the bottoms or sides of the feet. The fungus grows best in warm, damp places like shoes, public showers, and locker rooms. It can spread through skin contact or by touching surfaces where the fungus is present.</p>
+            <p>People of any age can get athlete's foot. It is more common in those who wear closed shoes for long periods or have feet that sweat often. The condition is not serious, but it can be irritating and may last if the fungus continues to grow on the skin.</p>
+
+            <h3>Signs and How It Spreads</h3>
+            <p>Athlete's foot may cause several skin changes. These signs often develop slowly and can vary in how severe they feel.</p>
+            <ul>
+            <li>Itching or stinging on the feet</li>
+            <li>Red or flaky skin</li>
+            <li>Cracks in the skin, especially between toes</li>
+            <li>Peeling areas or small blisters</li>
+            </ul>
+            <p>The fungus can move from one foot to the other or spread to the toenails and hands. Fungal cells are carried by touch, causing this to happen. Athlete's foot is caused by a living fungus, not just poor hygiene, and anyone who comes into contact with it can be affected.</p>
+
+            <h3>References</h3>
+            <p>DermNet New Zealand. (n.d.). Tinea pedis. https://dermnetnz.org/topics/tinea-pedis</p>
+            <p>National Health Service. (n.d.). Athlete's foot. https://www.nhs.uk/conditions/athletes-foot/</p>
+            <p>World Health Organization. (n.d.). Fungal infections. https://www.who.int/news-room/fact-sheets/detail/fungal-infections</p>`
+
+        }
+    ],
+    "Autism Spectrum Disorder (ASD)": [
+        {
+            title: "Autism Spectrum Disorder (ASD)",
+            preview: "Autism spectrum disorder (ASD) affects how people communicate and connect with others. It can also change how they learn and respond to the world. Signs usually appear in early childhood.",
+            content: `<h2>Autism Spectrum Disorder (ASD)</h2>
+            <p>Autism spectrum disorder (ASD) affects how people communicate and connect with others. It can also change how they learn and respond to the world. Signs usually appear in early childhood.</p>
+            <p>ASD is called a spectrum because each person is different. Some people need more support, while others need less.</p>
+
+            <h3>Common Signs</h3>
+            <p>Children with ASD may develop skills in a different way. They may speak later than other children. Some may have trouble starting or keeping a conversation.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Limited eye contact</li>
+                <li>Delayed speech</li>
+                <li>Repeating words or movements</li>
+                <li>Strong focus on certain topics</li>
+            </ul>
+            <p>Some children may be sensitive to sound, light, or touch. Many prefer routines and may feel upset when plans change. Early evaluation may help families understand what kind of support is needed.</p>
+
+            <h3>Support and Daily Life</h3>
+            <p>There is no single known cause of ASD. Research suggests genes and other factors may play a role. ASD is not caused by parenting style.</p>
+            <p>Support can include:</p>
+            <ul>
+                <li>Speech therapy</li>
+                <li>School services</li>
+                <li>Behavioral programs</li>
+            </ul>
+            <p>These services help build communication and daily skills. Family understanding and patience also matter.</p>
+            <p>Many people with ASD have strengths, such as strong memory or attention to detail. With support, people with ASD can thrive at home, at school, and in their communities.</p>
+
+            <h3>References</h3>
+            <p>Lord, C., Brugha, T. S., Charman, T., Cusack, J., Dumas, G., Frazier, T., Jones, E. J. H., Jones, R. M., Pickles, A., State, M. W., Taylor, J. L., & Veenstra-VanderWeele, J. (2020). Autism spectrum disorder. Nature Reviews Disease Primers, 6(1), 5–28.</p>
+            <p>Lyall, K., Croen, L., Daniels, J., Fallin, M. D., Ladd-Acosta, C., Lee, B. K., Park, B. Y., Snyder, N. W., Schendel, D., Volk, H., Windham, G. C., & Newschaffer, C. (2017). The changing epidemiology of autism spectrum disorders. Annual Review of Public Health, 38(1), 81–102.</p>`
+        }
+    ],
+    "Back Pain": [
+        {
+            title: "Back Pain",
+            preview: "Back pain is a common health problem that affects the muscles, joints, and bones of the spine. It can happen in the lower back, middle back, or upper back.",
+            content: `<h2>Back Pain</h2>
+            <p>Back pain is a common health problem that affects the muscles, joints, and bones of the spine. It can happen in the lower back, middle back, or upper back. The pain may start suddenly or build up over time. Some people feel a dull ache, while others feel sharp or tight pain that makes movement harder.</p>
+            <p>Back pain can be linked to strained muscles, poor posture, injuries, or changes in the spine that happen with age. Long periods of sitting, heavy lifting, or sudden movements may place stress on the back. In some cases, the exact cause is not clear.</p>
+
+            <h3>How Back Pain Affects the Body</h3>
+            <p>Back pain can affect daily life in many ways. It may limit movement, make sleep uncomfortable, or reduce the ability to work or exercise. Pain signals from the back travel through nerves to the brain, which is why discomfort can sometimes spread to the hips or legs.</p>
+            <p>Most back pain is not linked to serious disease, but ongoing pain can affect mood and energy levels. Back pain is one of the most common reasons people miss work or daily activities. It can affect people of all ages, from children to older adults.</p>
+
+            <h3>References</h3>
+            <p>Better Health Channel. (n.d.). Back pain. https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/back-pain</p>
+            <p>National Health Service. (n.d.). Back pain. https://www.nhs.uk/conditions/back-pain/</p>
+            <p>World Health Organization. (n.d.). Low back pain. https://www.who.int/news-room/fact-sheets/detail/low-back-pain</p>`
+
+        }
+    ],
+    "Bipolar Disorder": [
+        {
+            title: "Bipolar Disorder",
+            preview: "Bipolar disorder is a mental health condition that causes fluctuations in mood. It causes shifts between very high moods, called mania, and very low moods, called depression.",
+            content: `<h2>Bipolar Disorder</h2>
+            <p>Bipolar disorder is a mental health condition that causes fluctuations in mood. It causes shifts between very high moods, called mania, and very low moods, called depression. These changes can affect sleep, energy, and daily life.</p>
+
+            <h3>Mood Changes</h3>
+            <p>During mania, a person may feel very energetic or restless. They may sleep less and talk more than usual. Some may take risks or make quick decisions.</p>
+            <p>Common signs of mania may include:</p>
+            <ul>
+                <li>Little need for sleep</li>
+                <li>Fast speech</li>
+                <li>Racing thoughts</li>
+                <li>Impulsive behavior</li>
+            </ul>
+            <p>During depression, a person may feel sad or tired. They may lose interest in activities. These mood shifts can vary in length and intensity.</p>
+
+            <h3>Causes and Support</h3>
+            <p>The exact cause of bipolar disorder is not fully known. Research suggests genes and brain chemistry may play a role. Brain chemistry refers to the balance of natural chemicals that affect mood.</p>
+            <p>Treatment often includes medication and/or therapy. These approaches aim to help manage mood swings. Regular sleep and daily routines may also support stability.</p>
+            <p>Bipolar disorder is a long-term condition, but mood and emotion changes can be regulated with care.</p>
+
+            <h3>References</h3>
+            <p>Grande, I., Berk, M., Birmaher, B., & Vieta, E. (2016). Bipolar disorder. Lancet, 387(10027), 1561–1572.</p>
+            <p>Merikangas, K. R., Jin, R., He, J. P., Kessler, R. C., Lee, S., Sampson, N. A., Viana, M. C., Andrade, L. H., Hu, C., Karam, E. G., Ladea, M., Medina-Mora, M. E., Ono, Y., Posada-Villa, J., Sagar, R., Wells, J. E., & Zarkov, Z. (2011). Prevalence and correlates of bipolar spectrum disorder in the World Mental Health Survey Initiative. Archives of General Psychiatry, 68(3), 241–251.</p>`
+        }
+    ],
+    "Bladder Infection": [
+        {
+            title: "Bladder Infection",
+            preview: "A bladder infection is a type of urinary tract infection that affects the bladder. It happens when bacteria enter the urinary system and start to grow.",
+            content: `<h2>Bladder Infection</h2>
+            <p>A bladder infection is a type of urinary tract infection that affects the bladder. It happens when bacteria enter the urinary system and start to grow. The bladder stores urine, so bacteria can multiply there if they are not flushed out. This condition is common and can affect people of any age.</p>
+            <p>Bladder infections are more common in women due to body structure, but men and children can also get them. The infection usually starts in the bladder, though it can move to other parts of the urinary tract.</p>
+
+            <h3>Common Signs and Body Effects</h3>
+            <p>Bladder infections often cause changes in how a person feels when using the bathroom. Symptoms can appear quickly and may vary in strength.</p>
+            <ul>
+            <li>A strong need to urinate more often</li>
+            <li>Burning or pain during urination</li>
+            <li>Cloudy or strong-smelling urine</li>
+            <li>Pain or pressure in the lower belly</li>
+            <li>Feeling tired or unwell</li>
+            </ul>
+            <p>Bladder infections are common and happen when bacteria irritate the bladder. They can cause pain, tiredness, or feeling sick, and can make daily life harder.</p>
+
+            <h3>References</h3>
+            <p>Better Health Channel. (n.d.). Bladder infection. https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/bladder-infection</p>
+            <p>National Health Service. (n.d.). Urinary tract infections (UTIs). https://www.nhs.uk/conditions/urinary-tract-infections-utis/</p>
+            <p>World Health Organization. (n.d.). Urinary tract infections. https://www.who.int/publications/i/item/WHO-EMC-BAC-98.1</p>`
+
+        }
+    ],
+    "Blisters": [
+        {
+            title: "Blisters",
+            preview: "Blisters are small pockets of fluid that form on the skin. They often appear after rubbing, pressure, or a mild burn.",
+            content: `<h2>Blisters</h2>
+            <p>Blisters are small pockets of fluid that form on the skin. They often appear after rubbing, pressure, or a mild burn. The fluid inside a blister helps protect the skin underneath while it heals. Blisters can form anywhere on the body, but they are common on the feet, hands, and fingers.</p>
+            <p>Blisters are the body's response to skin damage. The top layer of skin lifts away, and fluid fills the space. This helps lower further injury and reduces pain from direct contact.</p>
+
+            <h3>Common Causes and Signs</h3>
+            <p>Blisters can develop for several reasons. The cause often affects how they look and feel.</p>
+            <ul>
+            <li>Rubbing from shoes, tools, or tight clothing</li>
+            <li>Burns from heat, chemicals, or sun exposure</li>
+            <li>Skin reactions to cold or allergic triggers</li>
+            <li>Certain skin conditions or infections</li>
+            </ul>
+            <p>Blisters may feel sore, tight, or warm. Some stay small, while others grow larger over time. Most blisters heal on their own as new skin forms underneath. Breaking a blister can raise the risk of infection, since the skin barrier is damaged.</p>
+            <p>Blisters are common and usually not serious. However, they can be uncomfortable during daily activities until the skin heals.</p>
+
+            <h3>References</h3>
+            <p>DermNet New Zealand. (n.d.). Blisters. https://dermnetnz.org/topics/blisters</p>
+            <p>National Health Service. (n.d.). Blisters. https://www.nhs.uk/conditions/blisters/</p>
+            <p>World Health Organization. (n.d.). Burns. https://www.who.int/news-room/fact-sheets/detail/burns</p>`
+
+        }
+    ],
+    "Bloating": [
+        {
+            title: "Why Am I Always Bloated?",
+            preview: "Feeling bloated can be uncomfortable and frustrating. Bloating happens when the belly feels full, tight, or swollen.",
+            content: `<h2>Why Am I Always Bloated?</h2>
+            <p>Feeling bloated can be uncomfortable and frustrating. Bloating happens when the belly feels full, tight, or swollen. If bloating happens often, it may be a sign that something in your diet, eating habits, or digestion needs attention. Understanding common causes can help you feel more comfortable.</p>
+
+            <h3>Diet And Bloating</h3>
+            <p>What you eat can play a big role in bloating. Some foods create more gas as they are digested, especially if your body is not used to them.</p>
+            <ul>
+            <li>High-fiber foods like beans, lentils, broccoli, and whole grains are healthy, but adding too much too fast can cause gas.</li>
+            <li>Fizzy drinks, such as soda or sparkling water, add extra air to the stomach.</li>
+            <li>Dairy foods can cause bloating in people who have trouble digesting lactose, the sugar in milk.</li>
+            <li>Some people feel bloated after eating foods with gluten.</li>
+            <li>Artificial sweeteners, like sorbitol, may also cause gas and bloating.</li>
+            <li>Eating a variety of foods is important, but changes work best when they happen slowly.</li>
+            </ul>
+
+            <h3>Eating Habits Matter</h3>
+            <p>How you eat is just as important as what you eat. Eating too quickly can make you swallow air, which leads to gas. Large meals can stretch the stomach and cause pressure.</p>
+            <p>Eating slowly, chewing well, and stopping when you feel full can help your body digest food more easily.</p>
+
+            <h3>Digestive Causes</h3>
+            <p>Some digestive issues can make bloating happen more often. Constipation can trap gas in the intestines and cause discomfort. Food intolerances may lead to bloating every time certain foods are eaten. Some people have sensitive digestion that reacts strongly to stress or specific foods.</p>
+            <p>Staying active, drinking water, and eating regular meals can help keep digestion moving.</p>
+
+            <h3>Hormones And Bloating</h3>
+            <p>Hormone changes can also affect bloating, especially in women. During different times of the menstrual cycle, the body may hold on to more fluid or digest food more slowly. This type of bloating is usually temporary.</p>
+
+            <h3>Stress And Digestion</h3>
+            <p>Stress affects the gut more than many people realize. When the body is under stress, digestion can slow down or feel uncomfortable. This may lead to bloating or stomach pain.</p>
+            <p>Simple stress-relief tools like deep breathing, gentle movement, or quiet breaks can help calm both the mind and the gut.</p>
+
+            <h3>Supporting Digestive Comfort</h3>
+            <p>Keeping track of what you eat and how you feel afterward can be helpful. Writing down foods, symptoms, and stress levels may help you notice patterns. If bloating is severe, painful, or does not improve, a healthcare provider can help find the cause and suggest next steps.</p>
+            <p>Small changes can make a big difference in helping your stomach feel better day to day.</p>
+
+            <h3>References</h3>
+            <p>Lacy, B. E., et al. (2021). Bloating: Pathophysiology and management. American Journal of Gastroenterology, 116(2), 301–312. https://doi.org/10.14309/ajg.0000000000000995</p>
+            <p>Ford, A. C., et al. (2020). Efficacy of dietary therapies for irritable bowel syndrome. Gut, 69(12), 2150–2160. https://doi.org/10.1136/gutjnl-2020-321337</p>
+            <p>Staudacher, H. M., & Whelan, K. (2017). The low FODMAP diet: Recent advances in understanding its mechanisms and efficacy in IBS. Gut, 66(8), 1517–1527. https://doi.org/10.1136/gutjnl-2017-313750</p>`
+
+        }
+    ],
+    "Bronchiolitis": [
+        {
+            title: "Bronchiolitis",
+            preview: "Bronchiolitis is a common lung infection in infants and young children. It affects the small airways in the lungs. These small airways are called bronchioles.",
+            content: `<h2>Bronchiolitis</h2>
+            <p>Bronchiolitis is a common lung infection in infants and young children. It affects the small airways in the lungs. These small airways are called bronchioles.</p>
+            <p>Bronchiolitis is usually caused by a virus. It is most common during cold and flu season.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Bronchiolitis often begins like a cold. A child may have a runny nose or mild cough at first. Symptoms may worsen over a few days.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Wheezing</li>
+                <li>Fast breathing</li>
+                <li>Coughing</li>
+                <li>Trouble feeding</li>
+                <li>Fatigue</li>
+                <li>Irritability</li>
+            </ul>
+            <p>Wheezing is a whistling sound heard during breathing. Most cases are mild, but some may need medical care.</p>
+
+            <h3>Care and Prevention</h3>
+            <p>There is no specific medicine to cure bronchiolitis, so care usually focuses on comfort and monitoring breathing. Fluids and rest can help support recovery. Parents should watch for signs of breathing trouble, such as chest pulling in with each breath. Washing hands, avoiding contact with sick people, and vaccines for certain viruses can help protect infants.</p>
+            <p>Bronchiolitis usually improves within one to two weeks. With proper care, children can recover fully.</p>
+
+            <h3>References</h3>
+            <p>Florin, T. A., Plint, A. C., & Zorc, J. J. (2017). Viral bronchiolitis. Lancet, 389(10065), 211–224.</p>
+            <p>Ralston, S. L., Lieberthal, A. S., Meissner, H. C., Alverson, B. K., Baley, J. E., Gadomski, A. M., Johnson, D. W., Light, M. J., Maraqa, N. F., Mendonca, E. A., Phelan, K. J., Zorc, J. J., & Stanko-Lopp, D. (2014). Clinical practice guideline: The diagnosis, management, and prevention of bronchiolitis. Pediatrics, 134(5), e1474–e1502.</p>`
+        }
+    ],
+    "Bronchitis": [
+        {
+            title: "Bronchitis",
+            preview: "Bronchitis affects the bronchi, the tubes that carry air to the lungs. These tubes become swollen and produce extra mucus, which can make breathing harder.",
+            content: `<h2>Bronchitis</h2>
+            <p>Bronchitis affects the bronchi, the tubes that carry air to the lungs. These tubes become swollen and produce extra mucus, which can make breathing harder. Bronchitis can be either acute or chronic. Acute bronchitis comes on fast. Chronic bronchitis, but, sticks around for a long time.</p>
+            <p>The condition can affect anyone. It usually comes after a cold or respiratory infection. Irritants like smoke or dust can also trigger it. Bronchitis causes the airways to narrow, making it harder for air to move in and out of the lungs.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Bronchitis often leads to different symptoms. Some can feel mild, while others may be more intense.</p>
+            <ul>
+            <li>A cough that produces mucus.</li>
+            <li>Wheezing or shortness of breath.</li>
+            <li>Chest discomfort or tightness.</li>
+            <li>Tiredness or feeling unwell.</li>
+            </ul>
+            <p>Acute bronchitis usually gets better in a few weeks. Chronic bronchitis can last for months or come back often. The body makes mucus when it faces irritation or infection. This mucus traps particles, but it can also cause coughing and discomfort.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Chronic respiratory diseases. https://www.who.int/health-topics/chronic-respiratory-diseases</p>
+            <p>National Health Service. (n.d.). Bronchitis. https://www.nhs.uk/conditions/bronchitis/</p>
+            <p>Mayo Clinic. (n.d.). Bronchitis. https://www.mayoclinic.org/diseases-conditions/bronchitis/symptoms-causes/syc-20355566</p>`
+
+        }
+    ],
+    "Bronchospasm": [
+        {
+            title: "Bronchospasm",
+            preview: "Bronchospasm happens when the muscles around the airways tighten. This makes the airways smaller and hard to breathe through.",
+            content: `<h2>Bronchospasm</h2>
+            <p>Bronchospasm happens when the muscles around the airways tighten. This makes the airways smaller and hard to breathe through. It can be caused by smoke, cold air, sickness, or asthma. Anyone can have bronchospasm, but it happens more often in people with lung problems.</p>
+            <p>When bronchospasm happens, less air moves in and out of the lungs. This can cause wheezing, coughing, or shortness of breath. Symptoms can be mild or very serious.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Bronchospasm may start fast or slowly. Common signs include:</p>
+            <ul>
+            <li>Wheezing when breathing</li>
+            <li>Trouble breathing</li>
+            <li>Tight feeling in the chest</li>
+            <li>Coughing, often at night or with exercise</li>
+            </ul>
+            <p>Bronchospasm is the body's way of reacting to irritants. But, repeated episodes can harm lung function over time.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Asthma. https://www.who.int/news-room/fact-sheets/detail/asthma</p>
+            <p>National Health Service. (n.d.). Wheezing in children. https://www.nhs.uk/conditions/wheezing-in-children/</p>
+            <p>Mayo Clinic. (n.d.). Bronchospasm. https://www.mayoclinic.org/diseases-conditions/bronchospasm/symptoms-causes/syc-20351897</p>`
+
+        }
+    ],
+    "Bruises": [
+        {
+            title: "Bruises",
+            preview: "Bruises are areas of skin that change color after an injury. They happen when tiny blood vessels under the skin break and leak blood.",
+            content: `<h2>Bruises</h2>
+            <p>Bruises are areas of skin that change color after an injury. They happen when tiny blood vessels under the skin break and leak blood. The blood collects near the surface, causing the skin to look blue, purple, or black. Over time, bruises usually fade to green, yellow, or brown as the body breaks down the blood.</p>
+            <p>Bruises can occur anywhere on the body. They are most common after bumps, falls, or minor accidents. Bruises are usually harmless. However, large or frequent bruises that appear for no clear reason could be a sign of a bigger health problem.</p>
+
+            <h3>Signs and How They Develop</h3>
+            <p>Bruises can look and feel different depending on the injury. Common signs include:</p>
+            <ul>
+            <li>Skin that changes color as it heals</li>
+            <li>Tenderness or mild pain at the site</li>
+            <li>Swelling around the affected area</li>
+            </ul>
+            <p>The body absorbs the leaked blood over time, which is why the colors of a bruise change as it heals. Bruises are normal as the body heals. They help manage small injuries and protect nearby tissues.</p>
+
+            <h3>References</h3>
+            <p>DermNet New Zealand. (n.d.). Bruising (contusion). https://dermnetnz.org/topics/bruising-contusion</p>
+            <p>National Health Service. (n.d.). Bruises. https://www.nhs.uk/conditions/bruises/</p>
+            <p>World Health Organization. (n.d.). Injury prevention and safety promotion. https://www.who.int/health-topics/injuries</p>`
+
+        }
+    ],
+    "Burns": [
+        {
+            title: "Burns",
+            preview: "Burns are injuries to the skin or other tissues caused by heat, chemicals, electricity, or radiation. They can affect just the outer layer of skin or go deeper into muscles and other tissues.",
+            content: `<h2>Burns</h2>
+            <p>Burns are injuries to the skin or other tissues caused by heat, chemicals, electricity, or radiation. They can affect just the outer layer of skin or go deeper into muscles and other tissues. The severity of a burn depends on the cause, temperature, and length of exposure. Burns can happen quickly and may cause pain, redness, or blistering.</p>
+            <p>Burns are common and can occur at home, work, or during outdoor activities. Small burns can hurt, but bigger burns can limit movement and daily tasks. The body responds to a burn by sending blood and healing cells to the area, which can cause swelling and redness.</p>
+
+            <h3>Signs and Types of Burns</h3>
+            <p>Burns may look different depending on how deep or severe they are. Common signs include:</p>
+            <ul>
+            <li>Red, swollen, or blistered skin</li>
+            <li>Pain or sensitivity at the injury site</li>
+            <li>Areas that look black or white on deeper burns</li>
+            <li>Peeling or dry skin as the burn heals</li>
+            </ul>
+            <p>Burns can be mild or serious. Superficial burns affect only the top layer of skin, while deeper burns go through more layers. The body protects the injured area, and the skin slowly heals over time.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Burns. https://www.who.int/news-room/fact-sheets/detail/burns</p>
+            <p>National Health Service. (n.d.). Burns. https://www.nhs.uk/conditions/burns-and-scalds/</p>
+            <p>Mayo Clinic. (n.d.). Burns. https://www.mayoclinic.org/diseases-conditions/burns/symptoms-causes/syc-20370556</p>`
+
+        }
+    ],
+    "Bursitis": [
+        {
+            title: "Bursitis",
+            preview: "Bursitis is a problem with small, fluid-filled sacs in the body called bursae. These sacs cushion bones, tendons, and muscles. They help joints move smoothly.",
+            content: `<h2>Bursitis</h2>
+            <p>Bursitis is a problem with small, fluid-filled sacs in the body called bursae. These sacs cushion bones, tendons, and muscles. They help joints move smoothly. When a bursa gets inflamed, it can hurt and make it hard to move the joint. Bursitis often happens in the shoulders, elbows, hips, or knees.</p>
+            <p>It can happen after doing the same movement many times, putting pressure on a joint, or getting hurt. Older people or those with certain health problems are more likely to get it. Most bursitis is caused by irritation or overuse, not infection, but sometimes infection can cause it.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Bursitis can be painful and make daily activities harder. Signs include:</p>
+            <ul>
+            <li>Pain in the joint, especially when moving it</li>
+            <li>Swelling or tenderness over the joint</li>
+            <li>Warmth or redness sometimes</li>
+            <li>Stiffness or trouble moving the joint</li>
+            </ul>
+            <p>Pain often gets worse with activity and better with rest. Swelling and tenderness happen because the bursa is inflamed. The joint may also feel sore to touch.</p>
+
+            <h3>References</h3>
+            <p>National Health Service. (n.d.). Bursitis. https://www.nhs.uk/conditions/bursitis/</p>
+            <p>Mayo Clinic. (n.d.). Bursitis. https://www.mayoclinic.org/diseases-conditions/bursitis/symptoms-causes/syc-20353242</p>
+            <p>World Health Organization. (n.d.). Musculoskeletal conditions. https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions</p>`
+
+        }
+    ],
+    "Carpal Tunnel Syndrome": [
+        {
+            title: "What is Carpal Tunnel Syndrome?",
+            preview: "Carpal tunnel syndrome happens when the median nerve in the wrist gets squeezed. This nerve controls feeling and movement in part of the hand.",
+            content: `<h2>What is Carpal Tunnel Syndrome?</h2>
+            <p>Carpal tunnel syndrome happens when the median nerve in the wrist gets squeezed. This nerve controls feeling and movement in part of the hand.</p>
+            <p>When the nerve is pressed, it can cause tingling, numbness, or weakness in the hand and fingers.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms usually start slowly and may get worse during certain activities. Common signs include:</p>
+            <ul>
+            <li>Tingling or numbness in the thumb, index, and middle fingers</li>
+            <li>Weakness in the hand or trouble holding objects</li>
+            <li>Pain or discomfort in the wrist or hand</li>
+            <li>Symptoms that get worse when typing, using a phone, or at night</li>
+            </ul>
+
+            <h3>How Doctors Diagnose It</h3>
+            <p>A doctor can review your symptoms and examine your hand and wrist. Sometimes tests are done to check how the nerves are working or to take images of the wrist.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment helps reduce pressure on the nerve and improve hand function. Options may include:</p>
+            <ul>
+            <li>Resting the wrist and avoiding activities that make symptoms worse</li>
+            <li>Wearing a wrist splint, especially at night</li>
+            <li>Exercises or physical therapy to make the wrist stronger and more flexible</li>
+            <li>In some cases, a procedure to release pressure on the nerve</li>
+            </ul>
+            <p>Treating it early can help you avoid losing strength or feeling in your hand.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2024). Carpal tunnel syndrome: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2024). Carpal tunnel syndrome.</p>
+            <p>National Institute of Arthritis and Musculoskeletal and Skin Diseases. (2023). Carpal tunnel syndrome.</p>`
+
+        }
+    ],
+    "Cataracts": [
+        {
+            title: "Cataracts",
+            preview: "A cataract is a clouding of the eye's lens. The lens is the clear part of the eye that helps you see things clearly. When the lens becomes cloudy, vision can look blurry or dull.",
+            content: `<h2>Cataracts</h2>
+            <p>A cataract is a clouding of the eye's lens. The lens is the clear part of the eye that helps you see things clearly. When the lens becomes cloudy, vision can look blurry or dull.</p>
+            <p>Cataracts are common with aging. They can also develop after eye injury or certain health conditions like diabetes.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Cataracts often develop slowly. At first, vision changes may be mild. Over time, seeing clearly may become harder.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Blurry or cloudy vision</li>
+                <li>Sensitivity to light</li>
+                <li>Trouble seeing at night</li>
+                <li>Faded colors</li>
+            </ul>
+            <p>Some people may also notice glare from headlights.</p>
+            <p>Vision can change over time, requiring stronger glasses to see clearly. A health care provider can check for cataracts during an eye exam.</p>
+
+            <h3>Treatment and Prevention</h3>
+            <p>There are no medicines that remove cataracts. In early stages, brighter lighting or updated glasses may help. When vision interferes with daily life, surgery may be considered.</p>
+            <p>Cataract surgery replaces the cloudy lens with a clear artificial one. It is a common procedure and is generally safe.</p>
+            <p>Wearing sunglasses and managing health conditions such as diabetes may help support eye health. Regular eye exams are important as people age.</p>
+
+            <h3>References</h3>
+            <p>Asbell, P. A., Dualan, I., Mindel, J., Brocks, D., Ahmad, M., & Epstein, S. (2005). Age-related cataract. Lancet, 365(9459), 599–609.</p>
+            <p>Congdon, N., Vingerling, J. R., Klein, B. E. K., West, S., Friedman, D. S., Kempen, J., O'Colmain, B., & Wu, S. Y. (2004). Prevalence of cataract and pseudophakia/aphakia among adults in the United States. Archives of Ophthalmology, 122(4), 487–494.</p>`
+        }
+    ],
+    "Celiac Disease": [
+        {
+            title: "Celiac Disease In Children",
+            preview: "Celiac disease is a condition where the body reacts badly to gluten. Gluten is a protein found in wheat, rye, and barley.",
+            content: `<h2>Celiac Disease In Children</h2>
+            <p>Celiac disease is a condition where the body reacts badly to gluten. Gluten is a protein found in wheat, rye, and barley. In children with celiac disease, eating gluten can damage the small intestine and make it harder for the body to absorb nutrients. Some children have stomach problems, low energy, or slow growth. Many feel much better once they stop eating gluten.</p>
+
+            <h3>What It Is</h3>
+            <p>When a child with celiac disease eats gluten, the immune system reacts in the small intestine. Over time, this reaction can damage tiny finger-like parts of the intestine called villi. These villi help the body take in vitamins, minerals, and energy from food.</p>
+            <p>When the villi are damaged, the body may not get what it needs to grow and stay healthy. This can lead to tiredness, low iron levels, and problems with growth.</p>
+
+            <h3>Common Signs</h3>
+            <p>Children with celiac disease can have different symptoms. Some may have stomach issues, while others may not.</p>
+            <ul>
+            <li>Belly pain, bloating, or gas.</li>
+            <li>Diarrhea or constipation.</li>
+            <li>Feeling very tired or weak.</li>
+            <li>Pale skin, dizziness, or headaches.</li>
+            <li>Slow growth or unexpected weight loss.</li>
+            <li>Mood changes, such as irritability.</li>
+            </ul>
+
+            <h3>How A Diagnosis Is Made</h3>
+            <p>To check for celiac disease, a clinician looks at symptoms and family history. Blood tests are used to look for signs of an immune reaction to gluten. It is important that the child is still eating gluten during testing so results are accurate.</p>
+            <p>Some children may also need a small tissue sample from the intestine to confirm the diagnosis. Testing should always be guided by a healthcare professional.</p>
+
+            <h3>Treating Celiac Disease</h3>
+            <p>The main treatment for celiac disease is a strict gluten-free eating plan. This means avoiding all foods that contain wheat, rye, or barley. Many families work with a diet professional to learn how to read labels and plan balanced meals.</p>
+            <p>After going gluten free, most children start to feel better, and the intestine begins to heal. Drinking fluids and getting rest can help if gluten is eaten by mistake.</p>
+
+            <h3>Everyday Tips For Families</h3>
+            <p>Living gluten free takes practice, but routines make it easier.</p>
+            <ul>
+            <li>Read food labels and learn where gluten may be hidden, such as in sauces or soups.</li>
+            <li>Avoid cross-contact by using separate toasters, cutting boards, and utensils.</li>
+            <li>Plan ahead for school meals, parties, and eating out.</li>
+            <li>Attend regular checkups to track growth and nutrient levels.</li>
+            <li>Offer a variety of naturally gluten-free foods like fruits, vegetables, beans, eggs, dairy or alternatives, meat, fish, nuts, and seeds.</li>
+            </ul>
+
+            <h3>When To Seek Medical Advice</h3>
+            <p>Talk to a clinician if a child has ongoing stomach pain, diarrhea, or trouble gaining weight. Signs of low iron, such as tiredness or pale skin, should also be checked. If symptoms return after eating gluten free, it may mean gluten is hiding in the diet or another issue is present.</p>
+            <p>With early care and daily support, children with celiac disease can grow, learn, and thrive.</p>
+
+            <h3>References</h3>
+            <p>Lebwohl B, Sanders DS, Green PHR. Coeliac disease. The Lancet.</p>
+            <p>Rubio-Tapia A, Hill ID, Kelly CP, Calderwood AH, Murray JA. ACG clinical guideline diagnosis and management of celiac disease. American Journal of Gastroenterology.</p>
+            <p>Leonard MM, Sapone A, Catassi C, Fasano A. Celiac disease and nonceliac gluten sensitivity. Gastroenterology.</p>
+            <p>Silvester JA, Weiten D, Graff LA, Walker JR, Duerksen DR. Is it gluten free Measuring and managing cross-contact. Practical Gastroenterology.</p>`
+
+        }
+    ],
+    "Cellulitis": [
+        {
+            title: "Cellulitis",
+            preview: "Cellulitis is a bacterial infection that affects the skin and the tissue underneath. It usually develops when bacteria enter the skin through a cut, scrape, insect bite, or other break in the skin.",
+            content: `<h2>Cellulitis</h2>
+            <p>Cellulitis is a bacterial infection that affects the skin and the tissue underneath. It usually develops when bacteria enter the skin through a cut, scrape, insect bite, or other break in the skin. If not treated, the infection can spread quickly and most often affects the lower legs.</p>
+            <p>Anyone can get cellulitis, but people with weakened immune systems, diabetes, or poor circulation are at higher risk. It causes the skin to become red, swollen, and painful.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Cellulitis can develop fast. It can make daily activities painful. Common signs include:</p>
+            <ul>
+            <li>Red or pink skin that spreads over time</li>
+            <li>Swelling and warmth in the affected area</li>
+            <li>Pain or tenderness when touching the skin</li>
+            <li>Fever, chills, or feeling generally unwell in some cases</li>
+            </ul>
+            <p>The infection triggers the immune response. This causes redness, swelling, and warmth. Cellulitis may seem mild at first, but it can become serious if it spreads deeper.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Bacterial infections. https://www.who.int/news-room/fact-sheets/detail/bacterial-infections</p>
+            <p>National Health Service. (n.d.). Cellulitis. https://www.nhs.uk/conditions/cellulitis/</p>
+            <p>Mayo Clinic. (n.d.). Cellulitis. https://www.mayoclinic.org/diseases-conditions/cellulitis/symptoms-causes/syc-20370762</p>`
+
+        }
+    ],
+    "Cerebral Palsy": [
+        {
+            title: "Cerebral Palsy",
+            preview: "Cerebral palsy is a condition that affects movement and muscle control. It occurs when the brain is injured or fails to develop normally before or soon after birth.",
+            content: `<h2>Cerebral Palsy</h2>
+            <p>Cerebral palsy is a condition that affects movement and muscle control. It occurs when the brain is injured or fails to develop normally before or soon after birth. The brain injury does not get worse over time.</p>
+            <p>Cerebral palsy affects people in different ways. Some have mild movement challenges. Others may need more daily support.</p>
+
+            <h3>How It Affects the Body</h3>
+            <p>Cerebral palsy changes how muscles move and work together. Muscles may feel stiff or weak. Balance and posture may also be affected.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Tight or stiff muscles</li>
+                <li>Trouble walking</li>
+                <li>Delayed movement skills</li>
+                <li>Involuntary movements</li>
+            </ul>
+            <p>Movement skills include sitting, standing, and hand use. Some children may also have speech or feeding challenges.</p>
+
+            <h3>Support and Living Well</h3>
+            <p>Cerebral palsy is a lifelong condition. It is not contagious. It is not caused by parenting style.</p>
+            <p>Support can include:</p>
+            <ul>
+                <li>Physical therapy</li>
+                <li>Speech therapy</li>
+                <li>Occupational therapy</li>
+            </ul>
+            <p>These services help improve strength, movement, and daily skills. Some people use braces or walkers to help with mobility.</p>
+            <p>Many people with cerebral palsy attend school, work, and take part in their communities. With steady care and support, many develop independence and strong life skills.</p>
+
+            <h3>References</h3>
+            <p>Rosenbaum, P., Paneth, N., Leviton, A., Goldstein, M., Bax, M., Damiano, D., Dan, B., & Jacobsson, B. (2007). A report: The definition and classification of cerebral palsy April 2006. Developmental Medicine & Child Neurology, 49(s109), 8–14.</p>
+            <p>Novak, I., McIntyre, S., Morgan, C., Campbell, L., Dark, L., Morton, N., Stumbles, E., Wilson, S. A., & Goldsmith, S. (2013). A systematic review of interventions for children with cerebral palsy: State of the evidence. Developmental Medicine & Child Neurology, 55(10), 885–910.</p>`
+        }
+    ],
+    "Chest Pain": [
+        {
+            title: "Chest Pain",
+            preview: "Chest pain is a feeling of discomfort or pressure in the chest area. It can happen suddenly or build up slowly. The pain may come from the heart, lungs, muscles, ribs, or digestive system.",
+            content: `<h2>Chest Pain</h2>
+            <p>Chest pain is a feeling of discomfort or pressure in the chest area. It can happen suddenly or build up slowly. The pain may come from the heart, lungs, muscles, ribs, or digestive system. Because the chest contains many organs, the cause of pain can vary widely.</p>
+            <p>Chest pain can affect people of all ages. It can be sharp, dull, burning, or squeezing. Some people notice the pain spreading to the arms, neck, jaw, or back. While some causes are minor, chest pain can also signal a serious condition, so it should not be ignored.</p>
+
+            <h3>Signs and Causes</h3>
+            <p>Chest pain may present in different ways, and the location or type of pain can give clues about its source. Common signs include:</p>
+            <ul>
+            <li>Pressure, tightness, or squeezing in the chest</li>
+            <li>Sharp or stabbing pain</li>
+            <li>Pain that spreads to the shoulders, arms, neck, or jaw</li>
+            <li>Shortness of breath, sweating, or nausea in some cases</li>
+            </ul>
+            <p>Muscle strain, heart problems, lung conditions, or digestive issues can all lead to chest pain. The body reacts to irritation, injury, or poor blood flow, causing discomfort.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Cardiovascular diseases. https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)</p>
+            <p>National Health Service. (n.d.). Chest pain. https://www.nhs.uk/conditions/chest-pain/</p>
+            <p>Mayo Clinic. (n.d.). Chest pain. https://www.mayoclinic.org/symptoms/chest-pain/basics/definition/sym-20050838</p>`
+
+        }
+    ],
+    "Chickenpox": [
+        {
+            title: "Chickenpox",
+            preview: "Chickenpox is a very contagious viral infection. The varicella-zoster virus causes it. It most often affects children but can also occur in adults.",
+            content: `<h2>Chickenpox</h2>
+            <p>Chickenpox is a very contagious viral infection. The varicella-zoster virus causes it. It most often affects children but can also occur in adults. You can catch it by coughing, sneezing, or touching fluid from chickenpox blisters. Symptoms usually show up within two weeks after infection.</p>
+            <p>The body responds to the virus by creating a rash. This rash is the most recognizable sign of chickenpox. The infection triggers the immune system. This can cause fever and tiredness as the body fights the virus.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Chicken pox often begins with mild signs. Then, it develops into a unique rash. Common signs include:</p>
+            <ul>
+            <li>Red, itchy spots can turn into blisters filled with fluid.</li>
+            <li>Fever, tiredness, and general discomfort</li>
+            <li>Loss of appetite or mild headache</li>
+            <li>New blisters appearing in waves over several days</li>
+            </ul>
+            <p>The blisters form scabs as the infection resolves. Chickenpox is usually mild for healthy kids. However, it can be more serious for adults or those with weak immune systems.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Varicella (chickenpox). https://www.who.int/news-room/fact-sheets/detail/varicella-(chickenpox)</p>
+            <p>Centers for Disease Control and Prevention. (n.d.). Chickenpox (Varicella). https://www.cdc.gov/chickenpox/about/index.html</p>
+            <p>National Health Service. (n.d.). Chickenpox. https://www.nhs.uk/conditions/chickenpox/</p>`
+
+        }
+    ],
+    "Chronic Bronchitis": [
+        {
+            title: "Chronic Bronchitis",
+            preview: "Chronic bronchitis is a long-term lung condition that causes swelling in the bronchi. The bronchi are the tubes that carry air in and out of the lungs.",
+            content: `<h2>Chronic Bronchitis</h2>
+            <p>Chronic bronchitis is a long-term lung condition that causes swelling in the bronchi. The bronchi are the tubes that carry air in and out of the lungs.</p>
+            <p>The condition is part of chronic obstructive pulmonary disease, or COPD. COPD is a group of lung diseases that limit airflow.</p>
+
+            <h3>Signs and Causes</h3>
+            <p>Chronic bronchitis causes an ongoing cough and mucus. Mucus is a thick fluid made in the lungs that helps trap dust, germs, and other particles. Symptoms last for at least three months in a year and may return over time.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Daily cough</li>
+                <li>Thick mucus</li>
+                <li>Shortness of breath</li>
+                <li>Chest tightness</li>
+            </ul>
+            <p>Smoking is the most common cause. Long-term exposure to air pollution or dust may also play a role. Not everyone with chronic bronchitis has severe symptoms.</p>
+
+            <h3>Living with the Condition</h3>
+            <p>Chronic bronchitis cannot be cured, but it can be managed. Treatment may include inhalers that help open the airways.</p>
+            <p>Avoiding smoke and irritants may help support breathing. Pulmonary rehabilitation may also help. This program teaches breathing exercises and safe activities.</p>
+            <p>Regular medical care can help monitor symptoms. With steady support and healthy habits, many people manage daily life with chronic bronchitis.</p>
+
+            <h3>References</h3>
+            <p>GOLD Executive Committee. (2023). Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease. American Journal of Respiratory and Critical Care Medicine, 207(7), 819–856.</p>
+            <p>Vestbo, J., Hurd, S. S., Agustí, A. G., Jones, P. W., Vogelmeier, C., Anzueto, A., Barnes, P. J., Fabbri, L. M., Martinez, F. J., Nishimura, M., Stockley, R. A., Sin, D. D., & Rodriguez-Roisin, R. (2013). Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease. American Journal of Respiratory and Critical Care Medicine, 187(4), 347–365.</p>`
+        }
+    ],
+    "Chronic Fatigue": [
+        {
+            title: "Chronic Fatigue",
+            preview: "Chronic fatigue is a condition that causes extreme tiredness. This tiredness does not go away with rest or sleep. It can last for months or even years.",
+            content: `<h2>Chronic Fatigue</h2>
+            <p>Chronic fatigue is a condition that causes extreme tiredness. This tiredness does not go away with rest or sleep. It can last for months or even years. Chronic fatigue can make daily life harder. People may struggle to do normal tasks, focus, or keep their energy up.</p>
+            <p>There are many possible causes of chronic fatigue. It may be linked to illness, stress, or problems with the immune or nervous system. Chronic fatigue is more than feeling tired. It is a long-lasting problem that can affect school, work, and time with others.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Chronic fatigue can affect both the body and the mind. Common signs include:</p>
+            <ul>
+            <li>Feeling very tired even after sleeping</li>
+            <li>Trouble focusing or remembering things</li>
+            <li>Muscle or joint pain with no clear cause</li>
+            <li>Headaches or a sore throat</li>
+            <li>Feeling dizzy or sensitivity to light or sound</li>
+            </ul>
+            <p>The body may respond to illness or stress by causing ongoing tiredness. Some days may feel better than others, but the tiredness can last a long time.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Fatigue. https://www.who.int/health-topics/fatigue</p>
+            <p>National Health Service. (n.d.). Chronic fatigue syndrome. https://www.nhs.uk/conditions/chronic-fatigue-syndrome-cfs/</p>
+            <p>Mayo Clinic. (n.d.). Chronic fatigue syndrome. https://www.mayoclinic.org/diseases-conditions/chronic-fatigue-syndrome/symptoms-causes/syc-20360490</p>`
+
+        }
+    ],
+    "Chronic Lung Disease": [
+        {
+            title: "Chronic Lung Disease",
+            preview: "Chronic lung disease is a group of conditions that make breathing hard. The lungs can become swollen, damaged, or narrow. This makes it harder for air to move in and out of the lungs.",
+            content: `<h2>Chronic Lung Disease</h2>
+            <p>Chronic lung disease is a group of conditions that make breathing hard. The lungs can become swollen, damaged, or narrow. This makes it harder for air to move in and out of the lungs. Examples include COPD, emphysema, and chronic bronchitis.</p>
+            <p>Smoking, dirty air, dust, and chemicals can raise the risk of lung disease. Some people are also born with a higher risk. Over time, the lungs do not work as well, which makes breathing harder.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Signs of chronic lung disease can be different for each person. Common signs include:</p>
+            <ul>
+            <li>Trouble breathing, especially when moving or exercising</li>
+            <li>Ongoing cough with mucus</li>
+            <li>Wheezing or whistling sounds when breathing</li>
+            <li>Feeling tired easily</li>
+            <li>Tight or uncomfortable feeling in the chest</li>
+            </ul>
+            <p>The lungs react to damage or irritation. They tighten the airways and produce more mucus. Everyday tasks can be tiring and use more energy than usual.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Chronic respiratory diseases. https://www.who.int/health-topics/chronic-respiratory-diseases</p>
+            <p>National Health Service. (n.d.). Chronic obstructive pulmonary disease (COPD). https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/</p>
+            <p>Mayo Clinic. (n.d.). Chronic lung disease. https://www.mayoclinic.org/diseases-conditions/chronic-obstructive-pulmonary-disease/symptoms-causes/syc-2035367</p>`
+
+        }
+    ],
+    "Chronic Pain": [
+        {
+            title: "Chronic Pain",
+            preview: "Chronic pain is pain that lasts for weeks, months, or even years. Chronic pain lasts long even after an injury has healed. Unlike short-term pain, it doesn't go away quickly.",
+            content: `<h2>Chronic Pain</h2>
+            <p>Chronic pain is pain that lasts for weeks, months, or even years. Chronic pain lasts long even after an injury has healed. Unlike short-term pain, it doesn't go away quickly. It can affect any part of the body and may interfere with daily activities, sleep, and quality of life.</p>
+            <p>Chronic pain can come from health issues, nerve damage, or lasting inflammation. Sometimes the exact cause is not clear.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Chronic pain can vary in type and intensity. Common signs include:</p>
+            <ul>
+            <li>Persistent aching, burning, or stabbing sensations</li>
+            <li>Stiffness or limited movement</li>
+            <li>Fatigue or trouble sleeping</li>
+            <li>Irritability or mood changes</li>
+            <li>Pain that worsens with activity or stress</li>
+            </ul>
+            <p>Chronic pain occurs when the nerves keep sending pain signals, even after the body should have healed. Chronic pain can impact both your body and emotions. It can also make everyday tasks more difficult.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Chronic pain. https://www.who.int/news-room/fact-sheets/detail/chronic-pain</p>
+            <p>National Health Service. (n.d.). Chronic pain. https://www.nhs.uk/conditions/chronic-pain/</p>
+            <p>Mayo Clinic. (n.d.). Chronic pain. https://www.mayoclinic.org/diseases-conditions/chronic-pain/symptoms-causes/syc-20370856</p>`
+
+        }
+    ],
+    "Cluster Headaches": [
+        {
+            title: "Cluster Headaches",
+            preview: "Cluster headaches are a severe type of headache. They cause intense pain on one side of the head. The pain is often felt around or behind one eye.",
+            content: `<h2>Cluster Headaches</h2>
+            <p>Cluster headaches are a severe type of headache. They cause intense pain on one side of the head. The pain is often felt around or behind one eye.</p>
+            <p>These headaches occur in cycles, called clusters. A person may have frequent attacks for weeks or months, followed by a period without symptoms.</p>
+
+            <h3>Symptoms and Pattern</h3>
+            <p>Cluster headaches begin quickly. The pain is sharp and very strong. An attack may last from 15 minutes to a few hours.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Severe pain around one eye</li>
+                <li>Red or watery eye</li>
+                <li>Stuffy or runny nose</li>
+                <li>Restlessness during the attack</li>
+            </ul>
+            <p>Attacks often happen at the same time each day. Many people feel unable to stay still during an episode.</p>
+
+            <h3>Causes and Treatment</h3>
+            <p>The exact cause is not fully known. Researchers think changes in brain activity may play a role. Cluster headaches are different from migraines.</p>
+            <p>Treatment focuses on relieving pain quickly. Oxygen therapy may help during an attack. Preventive medicines may lower how often clusters occur.</p>
+            <p>Cluster headaches can disrupt sleep and daily routines, but treatment can help people manage symptoms.</p>
+
+            <h3>References</h3>
+            <p>May, A., & Schwedt, T. J. (2020). Chronic migraine and cluster headache: Similarities and differences. Lancet, 396(10261), 1688–1699.</p>
+            <p>Robbins, M. S., Starling, A. J., Pringsheim, T. M., Becker, W. J., & Schwedt, T. J. (2016). Treatment of cluster headache: The American Headache Society evidence-based guidelines. Headache, 56(7), 1093–1106.</p>`
+        }
+    ],
+    "Cold": [
+        {
+            title: "Common Cold",
+            preview: "The common cold is a viral infection that affects the nose, throat, and airways. It is caused by several types of viruses, with rhinoviruses being the most common.",
+            content: `<h2>Common Cold</h2>
+            <p>The common cold is a viral infection that affects the nose, throat, and airways. It is caused by several types of viruses, with rhinoviruses being the most common. The cold spreads easily through coughs, sneezes, or touching shared surfaces. People of all ages can get colds, and many get them more than once a year.</p>
+            <p>The body fights the virus by making mucus and causing swelling. This helps protect the body but also leads to cold symptoms. These symptoms are usually mild, but they can be uncomfortable.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Cold symptoms can start quickly and may feel different for each person. Common signs include:</p>
+            <ul>
+            <li>Runny or stuffy nose</li>
+            <li>Sneezing and coughing</li>
+            <li>Sore throat or mild throat irritation</li>
+            <li>Feeling tired</li>
+            <li>Mild headache or low-grade fever in some cases</li>
+            </ul>
+            <p>Colds usually last about a week. The body slowly clears the virus on its own. Even though colds are not serious, they can make daily activities harder and leave people feeling worn out.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Common cold. https://www.who.int/news-room/fact-sheets/detail/common-cold</p>
+            <p>National Health Service. (n.d.). Common cold. https://www.nhs.uk/conditions/common-cold/</p>
+            <p>Mayo Clinic. (n.d.). Common cold. https://www.mayoclinic.org/diseases-conditions/common-cold/symptoms-causes/syc-20351605</p>`
+
+        }
+    ],
+    "Cold Sores": [
+        {
+            title: "Cold Sores",
+            preview: "Cold sores are small blisters filled with fluid. They usually appear on or around the lips. Cold sores are caused by a virus called HSV-1.",
+            content: `<h2>Cold Sores</h2>
+            <p>Cold sores are small blisters filled with fluid. They usually appear on or around the lips. Cold sores are caused by a virus called HSV-1. They spread easily through close contact, such as touching a sore, sharing drinks or utensils, or using the same towels.</p>
+            <p>Once a person gets the virus, it stays in the body. It can become active again later. Stress, illness, or too much sun can trigger a cold sore. Cold sores are not dangerous for most people, but they can be uncomfortable and take time to heal.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Cold sores often develop in stages, and symptoms can include:</p>
+            <ul>
+            <li>Tingling, itching, or burning near the lips</li>
+            <li>Small red blisters that may break open</li>
+            <li>Scabs forming as the sores heal</li>
+            <li>Mild pain or tenderness in the area</li>
+            </ul>
+            <p>The body reacts to the virus by forming blisters and swelling. Cold sores usually heal in one to two weeks, but the virus can stay in the body and come back later.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Herpes simplex virus. https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus</p>
+            <p>National Health Service. (n.d.). Cold sores. https://www.nhs.uk/conditions/cold-sores/</p>
+            <p>Mayo Clinic. (n.d.). Cold sores. https://www.mayoclinic.org/diseases-conditions/cold-sore/symptoms-causes/syc-20371017</p>`
+
+        }
+    ],
+    "Concussion": [
+        {
+            title: "What Is A Concussion?",
+            preview: "A concussion is a mild form of brain injury that occurs after a direct blow or sudden jolt to the head. It temporarily disrupts the brain's normal function and can affect people of all ages.",
+            content: `<h2>What Is A Concussion?</h2>
+            <p>A concussion is a mild form of brain injury that occurs after a direct blow or sudden jolt to the head. It temporarily disrupts the brain's normal function and can affect people of all ages. Concussions are common in sports, falls, car accidents, and other sudden-impact situations.</p>
+
+            <h3>How Concussions Affect the Brain</h3>
+            <p>The brain relies on a complex network of neurotransmitters, which are chemical messengers that help different parts of the brain communicate. When a concussion occurs, these chemical signals are disrupted, leading to temporary changes in how the brain processes information and coordinates movement.</p>
+            <p>Even though concussions are categorized as mild brain injuries, the effects can still be serious. Disruption of normal communication within the brain can cause symptoms that impact both mental and physical function.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Concussion symptoms vary based on the severity of the injury and the individual's overall health. Symptoms may appear immediately or develop hours to days later. Common signs include:</p>
+            <ul>
+            <li>Headache or pressure in the head.</li>
+            <li>Dizziness or loss of balance.</li>
+            <li>Nausea or vomiting.</li>
+            <li>Blurred vision or sensitivity to light.</li>
+            <li>Confusion or difficulty concentrating.</li>
+            <li>Temporary loss of consciousness (in some cases).</li>
+            </ul>
+            <p>Symptoms often improve within a few weeks, but recovery times differ for each person. Some individuals may experience lingering fatigue, mood changes, or memory issues during the healing process.</p>
+
+            <h3>Recovery and Care</h3>
+            <p>Rest is the most important part of concussion recovery. Limiting physical activity and reducing screen time allows the brain to heal. Returning to sports or work too soon can delay recovery or increase the risk of further injury.</p>
+            <p>Gradually resuming daily tasks under the guidance of a healthcare professional ensures safe recovery. In rehabilitation, physiotherapists often focus on restoring balance, coordination, and strength while monitoring cognitive symptoms.</p>
+            <p>Anyone experiencing worsening symptoms such as persistent vomiting, seizures, or confusion, should seek immediate medical attention.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2023). Traumatic brain injury and concussion overview.</p>
+            <p>Mayo Clinic. (2023). Concussion: Symptoms and causes.</p>
+            <p>McCrory, P. et al. (2017). Consensus statement on concussion in sport. British Journal of Sports Medicine.</p>`
+
+        }
+    ],
+    "Conjunctivitis": [
+        {
+            title: "Conjunctivitis",
+            preview: "Conjunctivitis is inflammation of the thin layer that covers the white part of the eye. When it becomes irritated or infected, the eye may look red or pink.",
+            content: `<h2>Conjunctivitis</h2>
+            <p>Conjunctivitis is inflammation of the thin layer that covers the white part of the eye. This layer is called the conjunctiva. When it becomes irritated or infected, the eye may look red or pink.</p>
+            <p>Conjunctivitis is sometimes called "pink eye." It can affect one or both eyes and is common in children.</p>
+
+            <h3>Causes and Symptoms</h3>
+            <p>Conjunctivitis may be caused by viruses, bacteria, or allergies. It can also happen from irritants such as smoke, chlorine, or dust. The cause often affects how long symptoms last.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Redness in the eye</li>
+                <li>Watery or thick discharge</li>
+                <li>Itching or burning</li>
+                <li>Crusting around the eyelids</li>
+            </ul>
+            <p>Viral and bacterial conjunctivitis can spread through close contact. Allergic conjunctivitis is not contagious. Symptoms may begin in one eye and move to the other.</p>
+
+            <h3>Care and Prevention</h3>
+            <p>Treatment depends on the cause. Viral cases often improve on their own within one to two weeks. Bacterial infections may require antibiotic eye drops. Allergic cases may improve with allergy medicine.</p>
+            <p>Keeping hands clean may help prevent the spread. Avoid touching or rubbing the eyes. Do not share towels, pillows, or eye makeup.</p>
+            <p>Most cases are mild and clear with proper care. A health care provider can help confirm the cause and guide treatment if symptoms worsen.</p>
+
+            <h3>References</h3>
+            <p>Azari, A. A., & Barney, N. P. (2013). Conjunctivitis: A systematic review of diagnosis and treatment. Journal of the American Medical Association, 310(16), 1721–1729.</p>
+            <p>Sheikh, A., & Hurwitz, B. (2006). Topical antibiotics for acute bacterial conjunctivitis. Cochrane Database of Systematic Reviews, 2006(2), CD001211.</p>`
+        }
+    ],
+    "Constipation": [
+        {
+            title: "Signs & Symptoms Of Constipation",
+            preview: "Constipation is a common digestive concern that affects people of all ages. It is characterized by infrequent bowel movements or difficulty passing stool.",
+            content: `<h2>Signs & Symptoms Of Constipation</h2>
+            <p>Constipation is a common digestive concern that affects people of all ages. It is characterized by infrequent bowel movements or difficulty passing stool. While it may seem minor, ongoing constipation can interfere with daily life and sometimes point to underlying health conditions.</p>
+
+            <h3>Recognizing the Key Signs</h3>
+            <p>Understanding the signs and symptoms of constipation can help people take early action and support digestive wellbeing.</p>
+
+            <p><strong>Infrequent Bowel Movements</strong></p>
+            <p>Having fewer than three bowel movements per week is one of the most recognizable signs of constipation. Everyone's normal pattern varies, but any noticeable reduction in frequency should be monitored.</p>
+
+            <p><strong>Straining During Bowel Movements</strong></p>
+            <p>People experiencing constipation often need to strain to pass stool. This can cause discomfort, frustration, and even contribute to hemorrhoids, which are swollen veins in the rectal area that may become painful or bleed.</p>
+
+            <p><strong>Hard or Lumpy Stool</strong></p>
+            <p>Constipated stool tends to be dry, hard, or shaped in small lumps. Healthy stool is usually soft, smooth, and easy to pass. When stool becomes too firm, passing it can cause pain or pressure in the abdomen.</p>
+
+            <p><strong>Abdominal Discomfort or Pain</strong></p>
+            <p>Bloating, cramping, and abdominal pressure are common with constipation. These sensations are often caused by stool buildup in the intestines, which stretches and distends the bowel.</p>
+
+            <p><strong>Feeling of Incomplete Evacuation</strong></p>
+            <p>After a bowel movement, some people feel that they have not completely emptied their bowels. This sensation can lead to repeated attempts to pass stool, often without relief.</p>
+
+            <p><strong>Nausea or Loss of Appetite</strong></p>
+            <p>A buildup of stool can make the abdomen feel heavy or full, sometimes reducing appetite. In more persistent cases, nausea may occur, which can interfere with proper nutrition.</p>
+
+            <p><strong>Rectal Bleeding</strong></p>
+            <p>Though less common, straining during bowel movements may cause small tears or hemorrhoids that result in bleeding. If blood appears in the stool or on toilet paper, medical evaluation is recommended to rule out other conditions.</p>
+
+            <h3>When to Seek Medical Care</h3>
+            <p>Occasional constipation is usually not a cause for concern. However, chronic constipation, lasting several weeks or accompanied by pain, fatigue, or bleeding, should be assessed by a healthcare professional. Persistent symptoms may indicate an underlying digestive or metabolic disorder.</p>
+
+            <h3>Supporting Digestive Health</h3>
+            <p>Simple lifestyle changes can make a meaningful difference in preventing or reducing constipation:</p>
+            <ul>
+            <li>Increase fiber intake through fruits, vegetables, whole grains, and legumes.</li>
+            <li>Stay hydrated to help soften stool and promote movement through the intestines.</li>
+            <li>Engage in regular exercise to stimulate intestinal activity.</li>
+            <li>Establish a consistent bathroom routine to encourage natural bowel patterns.</li>
+            </ul>
+            <p>Taking small, consistent steps toward digestive wellness helps reduce discomfort and maintain long-term gut health.</p>
+
+            <h3>References</h3>
+            <p>Bharucha, A. E., Dorn, S. D., Lembo, A., & Pressman, A. (2013). American Gastroenterological Association medical position statement on constipation. Gastroenterology, 144(1), 211–217. https://doi.org/10.1053/j.gastro.2012.10.029</p>
+            <p>Müller-Lissner, S. A. (2010). Effect of wheat bran on bowel function: A systematic review of randomized controlled trials. Nutrition Reviews, 68(7), 412–420. https://doi.org/10.1111/j.1753-4887.2010.00302.x</p>
+            <p>Rao, S. S. C., & Brenner, D. M. (2021). Constipation: Evaluation and management. American Journal of Gastroenterology, 116(1), 16–27. https://doi.org/10.14309/ajg.0000000000000972</p>`
+
+        }
+    ],
+    "Contact Dermatitis": [
+        {
+            title: "What is Contact Dermatitis?",
+            preview: "Contact dermatitis is a skin reaction that occurs when the skin comes into contact with something irritating or something that causes an allergic response. Common triggers include soaps, lotions, metals such as nickel, plants like poison ivy, and certain chemicals.",
+            content: `<h2>What is Contact Dermatitis?</h2>
+            <p>Contact dermatitis is a skin reaction that occurs when the skin comes into contact with something irritating or something that causes an allergic response. Common triggers include soaps, lotions, metals such as nickel, plants like poison ivy, and certain chemicals.</p>
+            <p>The reaction usually appears in the area where the skin touched the trigger.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms often develop soon after contact with the irritant or allergen.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Red or irritated skin</li>
+            <li>Itching or burning</li>
+            <li>Blisters or small bumps</li>
+            <li>Dry, scaly, or cracked skin</li>
+            </ul>
+            <p>Symptoms usually appear on the part of the body that touched the substance.</p>
+
+            <h3>How Contact Dermatitis Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose contact dermatitis by examining the skin and asking about recent exposures to possible triggers. In some cases, patch testing may be used to identify specific allergens.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment focuses on relieving symptoms and avoiding the substance that caused the reaction.</p>
+            <p>Helpful steps may include:</p>
+            <ul>
+            <li>Avoiding contact with the trigger</li>
+            <li>Washing the affected area with mild soap and water</li>
+            <li>Using soothing creams or topical medications to reduce irritation</li>
+            <li>Taking medications recommended by a healthcare provider if symptoms are severe</li>
+            </ul>
+            <p>Most cases improve once the skin is no longer exposed to the irritant or allergen.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). Skin exposure and health effects.</p>
+            <p>Mayo Clinic. (2024). Contact dermatitis: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2023). Contact dermatitis.</p>`
+
+        }
+    ],
+    "Chronic Obstructive Pulmonary Disease (COPD)": [
+        {
+            title: "Understanding COPD",
+            preview: "Chronic Obstructive Pulmonary Disease (COPD) is a long-term, progressive lung condition that develops over several years. It primarily affects the airways and air sacs in the lungs, making it difficult to breathe.",
+            content: `<h2>Understanding COPD</h2>
+            <p>Chronic Obstructive Pulmonary Disease (COPD) is a long-term, progressive lung condition that develops over several years. It primarily affects the airways and air sacs in the lungs, making it difficult to breathe. The most common cause is long-term exposure to harmful particles or gases—most often from cigarette smoking. However, other contributing factors include genetic predisposition and prolonged exposure to environmental pollutants.</p>
+
+            <h3>The Two Main Components: Bronchitis and Emphysema</h3>
+            <p>COPD is not a single disease but a combination of two closely related conditions, chronic bronchitis and emphysema.</p>
+            <p>Chronic bronchitis refers to persistent inflammation of the bronchioles, which are the tubes that carry air to the lungs. This inflammation causes swelling, mucus buildup, and narrowing of the airways, making it harder for air to flow in and out.</p>
+            <p>Emphysema occurs when the alveoli, or tiny air sacs in the lungs responsible for gas exchange, become damaged and lose their elasticity. Instead of many small air sacs, the lungs develop larger, less efficient spaces, which reduce oxygen intake and carbon dioxide removal.</p>
+            <p>When both conditions occur together, breathing becomes increasingly difficult, and oxygen levels in the body may decrease.</p>
+
+            <h3>How COPD Develops</h3>
+            <p>Long-term irritation and inflammation from inhaled toxins, especially cigarette smoke, cause gradual destruction of lung tissue. Over time, the lungs lose their ability to repair themselves. This damage leads to persistent symptoms, including:</p>
+            <ul>
+            <li>Shortness of breath</li>
+            <li>Chronic cough</li>
+            <li>Wheezing</li>
+            <li>Chest tightness</li>
+            <li>Fatigue during physical activity</li>
+            </ul>
+            <p>As the disease progresses, it can move through stages from mild to very severe, depending on the extent of airway obstruction and lung tissue destruction.</p>
+
+            <h3>Complications and Quality of Life</h3>
+            <p>COPD can significantly affect a person's quality of life. It is one of the leading causes of chronic respiratory failure and is often linked with emotional and psychological challenges such as depression and anxiety. The constant feeling of breathlessness can limit daily activities, making self-care and social interactions more difficult over time.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Although COPD cannot be cured, effective management can slow its progression and improve wellbeing. Treatment often includes:</p>
+            <ul>
+            <li><strong>Stopping smoking:</strong> Quitting smoking is the single most effective step to prevent further lung damage. Even after years of smoking, stopping can help preserve remaining lung function.</li>
+            <li><strong>Inhaled medications:</strong> These help open the airways, reduce inflammation, and support easier breathing. They are often used daily to control symptoms and prevent flare-ups.</li>
+            <li><strong>Oxygen therapy:</strong> For individuals with moderate to severe COPD, supplemental oxygen can help maintain adequate oxygen levels in the body, improving energy, focus, and quality of life.</li>
+            <li><strong>Pulmonary rehabilitation:</strong> Exercise programs and breathing techniques tailored to people with chronic lung conditions can improve endurance and reduce symptoms.</li>
+            </ul>
+            <p>Healthy lifestyle choices such as balanced nutrition, regular physical activity, and proper vaccinations can also support lung health and reduce complications.</p>
+
+            <h3>Living Well With COPD</h3>
+            <p>Early detection and consistent care can make a major difference in managing COPD. Regular medical follow-ups, adherence to prescribed treatments, and a smoke-free lifestyle all contribute to slowing disease progression. People living with COPD can continue to lead active, fulfilling lives when supported with proper care, awareness, and healthy habits.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2023). Chronic Obstructive Pulmonary Disease (COPD): Symptoms and causes.</p>
+            <p>National Library of Medicine. (2022). COPD pathophysiology and management overview.</p>
+            <p>American Thoracic Society. (2021). Clinical practice guidelines for COPD treatment.</p>`
+
+        }
+    ],
+    "Coronary Artery Disease": [
+        {
+            title: "Coronary Artery Disease",
+            preview: "Coronary artery disease is a heart condition. It happens when the blood vessels that carry blood to the heart become narrow.",
+            content: `<h2>Coronary Artery Disease</h2>
+            <p>Coronary artery disease is a heart condition. It happens when the blood vessels that carry blood to the heart become narrow. These vessels are called coronary arteries.</p>
+            <p>Over time, fatty material called plaque can build up inside the arteries. This makes it harder for blood and oxygen to reach the heart. When the heart does not get enough blood, it cannot work as well.</p>
+            <p>Coronary artery disease can cause chest pain, shortness of breath, or tiredness. In serious cases, it can cause a heart attack.</p>
+            <p>The condition often develops over time. Regular exercise, balanced eating, low stress, and not smoking can help lower your risk.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). Coronary artery disease. https://www.cdc.gov/heart-disease/about/coronary-artery-disease.html</p>
+            <p>Mayo Clinic. (2024). Coronary artery disease. https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613</p>
+            <p>National Heart, Lung, and Blood Institute. (2023). Coronary heart disease. https://www.nhlbi.nih.gov/health/coronary-heart-disease</p>`
+
+        }
+    ],
+    "Cough": [
+        {
+            title: "Cough",
+            preview: "A cough is a reflex that helps clear the throat and airways of mucus, irritants, or foreign particles. It can be caused by infections, allergies, dust, smoke, or other irritants.",
+            content: `<h2>Cough</h2>
+            <p>A cough is a reflex that helps clear the throat and airways of mucus, irritants, or foreign particles. It can be caused by infections, allergies, dust, smoke, or other irritants. Coughing is the body's way of protecting the lungs and keeping the airways clear.</p>
+            <p>Coughs may last a few days or continue for several weeks. They can affect people of all ages and may occur alone or as part of another illness. While usually not dangerous, an ongoing or severe cough may signal an underlying health problem.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Coughs can feel different depending on the cause. Common signs include:</p>
+            <ul>
+            <li>Sudden or repeated bouts of coughing</li>
+            <li>A dry, tickling cough or a cough that produces mucus</li>
+            <li>Soreness in the throat or chest</li>
+            <li>Wheezing or shortness of breath in some cases</li>
+            </ul>
+            <p>The body uses coughing to clear irritants from the airways and help stop infections from reaching the lungs. How often and how hard you cough usually shows how much irritation or blockage is in the airways.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Acute respiratory infections. https://www.who.int/news-room/fact-sheets/detail/acute-respiratory-infections</p>
+            <p>National Health Service. (n.d.). Coughs. https://www.nhs.uk/conditions/cough/</p>
+            <p>Mayo Clinic. (n.d.). Cough. https://www.mayoclinic.org/symptoms/cough/basics/definition/sym-20050846</p>`
+
+        }
+    ],
+    "Coronavirus (COVID)": [
+        {
+            title: "COVID-19",
+            preview: "COVID-19 is an infectious disease caused by the coronavirus SARS-CoV-2. It mainly affects the respiratory system, but it can also impact other organs in the body.",
+            content: `<h2>COVID-19</h2>
+            <p>COVID-19 is an infectious disease caused by the coronavirus SARS-CoV-2. It mainly affects the respiratory system, but it can also impact other organs in the body. The virus spreads through droplets in the air. Droplets come from coughs, sneezes, or being close to infected people. COVID-19 can affect anyone, though the severity of illness varies from mild to severe.</p>
+            <p>The body fights the virus by activating the immune system. This can lead to fever, fatigue, and inflammation. In some cases, the infection can cause serious complications. This is especially true for older adults or those with health issues.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>COVID-19 symptoms can appear 2–14 days after exposure and may include:</p>
+            <ul>
+            <li>Fever or chills</li>
+            <li>Cough and shortness of breath</li>
+            <li>Fatigue or body aches</li>
+            <li>Loss of taste or smell</li>
+            <li>Sore throat, headache, or congestion</li>
+            </ul>
+            <p>Some people might have mild symptoms. Others can get very sick. COVID-19 can change daily routines like quarantining and may need close monitoring.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Coronavirus disease (COVID-19). https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)</p>
+            <p>Centers for Disease Control and Prevention. (n.d.). COVID-19. https://www.cdc.gov/coronavirus/2019-ncov/index.html</p>
+            <p>National Health Service. (n.d.). Coronavirus (COVID-19). https://www.nhs.uk/conditions/coronavirus-covid-19/</p>`
+
+        }
+    ],
+    "Crohn's Disease": [
+        {
+            title: "Crohn's Disease",
+            preview: "Crohn's disease is a long-term condition that causes swelling in the digestive tract. It usually affects the small intestine and the start of the large intestine.",
+            content: `<h2>Crohn's Disease</h2>
+            <p>Crohn's disease is a long-term condition that causes swelling in the digestive tract. It usually affects the small intestine and the start of the large intestine. This swelling can make the digestive tract thicker and lead to pain, diarrhea, and trouble getting nutrients from food.</p>
+            <p>The exact cause of Crohn's disease is not fully known. It may involve the immune system, genes, and the environment. The condition is not contagious. Anyone can get it, but it usually starts in teens or young adults.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms can change over time and may be mild or strong. Common signs include:</p>
+            <ul>
+            <li>Stomach pain or cramping</li>
+            <li>Diarrhea, sometimes with blood</li>
+            <li>Tiredness or fatigue</li>
+            <li>Unplanned weight loss</li>
+            <li>Reduced appetite or nausea</li>
+            </ul>
+            <p>The swelling in the digestive tract causes most symptoms. With treatment and lifestyle changes, people with Crohn's disease can manage symptoms.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Inflammatory bowel disease. https://www.who.int/news-room/fact-sheets/detail/inflammatory-bowel-disease</p>
+            <p>National Health Service. (n.d.). Crohn's disease. https://www.nhs.uk/conditions/crohns-disease/</p>
+            <p>Mayo Clinic. (n.d.). Crohn's disease. https://www.mayoclinic.org/diseases-conditions/crohns-disease/symptoms-causes/syc-20353304</p>`
+
+        }
+    ],
+    "Deep Vein Thrombosis (DVT)": [
+        {
+            title: "Deep Vein Thrombosis (DVT)",
+            preview: "Deep vein thrombosis, or DVT, is a condition in which a blood clot forms in a deep vein. Deep veins are the larger veins located inside the muscles, usually in the lower leg or thigh.",
+            content: `<h2>Deep Vein Thrombosis (DVT)</h2>
+            <p>Deep vein thrombosis, or DVT, is a condition in which a blood clot forms in a deep vein. Deep veins are the larger veins located inside the muscles, usually in the lower leg or thigh.</p>
+            <p>Veins are blood vessels that carry blood back to the heart. A clot can slow or block normal blood flow. In some cases, part of the clot may travel to the lungs. This may lead to a serious problem called pulmonary embolism.</p>
+
+            <h3>Symptoms and Risk Factors</h3>
+            <p>Some people with DVT have no clear symptoms. Others may notice unusual changes in one leg.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Swelling in one leg</li>
+                <li>Pain or tenderness</li>
+                <li>Warmth in the skin</li>
+                <li>Red or darker skin color</li>
+            </ul>
+            <p>Risk factors include recent surgery, injury, or long periods of limited movement. Long travel, bed rest, pregnancy, and certain medical conditions may also increase risk.</p>
+
+            <h3>Prevention and Treatment</h3>
+            <p>Regular movement supports healthy circulation. Circulation is the flow of blood through the body. Standing, stretching, and walking during long trips may help reduce risk.</p>
+            <p>Doctors often use ultrasound imaging to confirm DVT. Treatment usually includes anticoagulants. Anticoagulants are medicines that lower the blood's ability to form clots.</p>
+            <p>Early diagnosis may reduce complications. With proper treatment and medical follow-up, many people recover and safely return to normal activities.</p>
+
+            <h3>References</h3>
+            <p>Kearon, C., Akl, E. A., Ornelas, J., Blaivas, A., Jimenez, D., Bounameaux, H., Huisman, M., King, C. S., Morris, T. A., Sood, N., Stevens, S. M., Vintch, J. R. E., Wells, P., Woller, S. C., & Moores, L. (2016). Antithrombotic therapy for VTE disease. Chest, 149(2), 315–352.</p>
+            <p>Raskob, G. E., Angchaisuksiri, P., Blanco, A. N., Buller, H., Gallus, A., Hunt, B. J., Hylek, E. M., Kakkar, A., Konstantinides, S. V., McCumber, M., Ozaki, Y., Wendelboe, A., & Weitz, J. I. (2014). Thrombosis: A major contributor to global disease burden. Journal of Thrombosis and Haemostasis, 12(10), 1580–1590.</p>`
+        }
+    ],
+    "Dehydration": [
+        {
+            title: "Dehydration",
+            preview: "Dehydration happens when the body loses more water than it takes in. Water is needed for the body to work properly.",
+            content: `<h2>Dehydration</h2>
+            <p>Dehydration happens when the body loses more water than it takes in. Water is needed for the body to work properly. Without enough water, the body can't control temperature, remove waste, or move nutrients where they are needed. Dehydration is more common in hot weather, during hard exercise, or when you are sick.</p>
+            <p>The body reacts by making you feel thirsty and by producing less urine. If dehydration continues, it can make you tired, dizzy, or weak. Severe dehydration can be dangerous.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Common signs of dehydration include:</p>
+            <ul>
+            <li>Feeling very thirsty</li>
+            <li>Dry mouth, lips, or skin</li>
+            <li>Urinating less or having dark-colored urine</li>
+            <li>Feeling tired, dizzy, or lightheaded</li>
+            <li>Headache or confusion in serious cases</li>
+            </ul>
+            <p>Drinking water and fluids early can stop dehydration from getting worse and help your body feel better.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Dehydration. https://www.who.int/news-room/fact-sheets/detail/dehydration</p>
+            <p>National Health Service. (n.d.). Dehydration. https://www.nhs.uk/conditions/dehydration/</p>
+            <p>Mayo Clinic. (n.d.). Dehydration. https://www.mayoclinic.org/diseases-conditions/dehydration/symptoms-causes/syc-20354086</p>`
+
+        }
+    ],
+    "Dementia": [
+        {
+            title: "How to Talk to Loved Ones About Dementia Signs and Symptoms",
+            preview: "If you or a loved one is exhibiting potential signs of dementia, it's essential to be observant and proactive. Early signs can include memory loss, difficulty performing familiar tasks, confusion about time or place.",
+            content: `<h2>How to Talk to Loved Ones About Dementia Signs and Symptoms</h2>
+            <p>If you or a loved one is exhibiting potential signs of dementia, it's essential to be observant and proactive. Early signs can include memory loss, difficulty performing familiar tasks, confusion about time or place, trouble with language, and changes in mood or personality. Watch for a gradual decline in cognitive abilities that disrupts daily functioning.</p>
+
+            <h3>Having a Constructive Conversation</h3>
+            <p>Approaching the topic of dementia with a loved one can be challenging. Choose a calm, private setting and approach the conversation with empathy and understanding. Use "I" statements to express your concerns without sounding accusatory. For example, say, "I've noticed you've been having trouble remembering things lately. I'm worried about you and think we should talk to a doctor to understand what's happening."</p>
+
+            <h3>Questions to Consider</h3>
+            <p>Before speaking with a healthcare provider, ask yourself or your loved one the following questions:</p>
+            <ul>
+            <li><strong>How long have the symptoms been present?</strong> Are they getting progressively worse?</li>
+            <li><strong>Have the symptoms affected daily activities or relationships?</strong> For example, is managing finances or personal hygiene becoming difficult?</li>
+            <li><strong>Is there a family history of dementia or other neurological conditions?</strong> Genetic predisposition can be a factor.</li>
+            <li><strong>Are there any other symptoms present?</strong> Such as changes in vision, hearing, or motor skills.</li>
+            </ul>
+            <p>These questions can help determine whether it's time to seek professional advice.</p>
+
+            <h3>Questions to Ask Your Doctor</h3>
+            <p>When you consult with a healthcare professional, consider asking these important questions:</p>
+            <ul>
+            <li><strong>What tests or evaluations will help diagnose the problem?</strong> Understanding the diagnostic process can provide clarity.</li>
+            <li><strong>Are there any treatments or interventions available?</strong> Learn about options to manage symptoms or improve quality of life.</li>
+            <li><strong>What lifestyle changes or supports might help?</strong> Ask about adjustments that can assist with daily living.</li>
+            <li><strong>What resources are available for support and care?</strong> This includes information on caregiving and support groups.</li>
+            </ul>
+
+            <h3>Caring for Yourself</h3>
+            <p>Caring for someone with dementia, or managing the concern for yourself, can be overwhelming. It's crucial to prioritize self-care. Ensure you are getting enough rest, maintaining a healthy diet, and finding time for relaxation. Seek support from friends, family, or professional counseling. Join support groups for caregivers or individuals dealing with dementia to share experiences and coping strategies.</p>
+            <p>Addressing potential dementia symptoms with timely and empathetic action can make a significant difference. Ensure to balance your caregiving responsibilities with self-care to manage the emotional and physical demands effectively.</p>
+
+            <h3>References</h3>
+            <p>Alzheimer's Association. (2024). 2024 Alzheimer's Disease Facts and Figures. Alzheimer's Association.</p>
+            <p>National Institute on Aging. (2023). Symptoms of Dementia. NIA.</p>
+            <p>Alzheimer's Society. (2023). Dementia Support. Alzheimer's Society.</p>
+            <p>Dementia Australia. (2023). Support for Dementia. Dementia Australia.</p>`
+
+        }
+    ],
+    "Dengue Fever": [
+        {
+            title: "What Is Dengue Fever?",
+            preview: "Dengue fever is a viral illness spread by mosquitoes. It is most common in tropical and subtropical regions of the world. A person can become infected after being bitten by a mosquito that carries the dengue virus.",
+            content: `<h2>What Is Dengue Fever?</h2>
+            <p>Dengue fever is a viral illness spread by mosquitoes. It is most common in tropical and subtropical regions of the world. A person can become infected after being bitten by a mosquito that carries the dengue virus.</p>
+            <p>Dengue does not spread from person to person through casual contact.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Symptoms usually begin several days after a mosquito bite.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>High fever</li>
+            <li>Severe headache</li>
+            <li>Pain behind the eyes</li>
+            <li>Joint and muscle pain</li>
+            <li>Skin rash</li>
+            </ul>
+            <p>Because body aches can be very intense, dengue is sometimes called "breakbone fever."</p>
+
+            <h3>How Dengue Fever Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose dengue fever by reviewing symptoms, travel history, and possible mosquito exposure. Blood tests may be used to confirm the infection.</p>
+
+            <h3>Treatment and Recovery</h3>
+            <p>There is no specific cure for dengue fever because it is caused by a virus. Treatment focuses on relieving symptoms and supporting recovery.</p>
+            <p>Helpful steps during recovery include:</p>
+            <ul>
+            <li>Getting plenty of rest</li>
+            <li>Drinking fluids to prevent dehydration</li>
+            <li>Taking medications recommended by a healthcare provider to manage fever or discomfort</li>
+            </ul>
+            <p>Most people recover within about a week. In rare cases, dengue can become severe and may lead to bleeding, breathing problems, or organ damage, which requires urgent medical care.</p>
+
+            <h3>Prevention</h3>
+            <p>Preventing mosquito bites is the best way to reduce the risk of dengue infection.</p>
+            <p>Helpful prevention steps include:</p>
+            <ul>
+            <li>Using insect repellent</li>
+            <li>Wearing long sleeves and pants when possible</li>
+            <li>Removing standing water where mosquitoes can breed</li>
+            </ul>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2026). Dengue.</p>
+            <p>World Health Organization. (2023). Dengue – the Region of the Americas.</p>
+            <p>Mayo Clinic. (2024). Dengue Fever.</p>`
+
+        }
+    ],
+    "Dental Abscess": [
+        {
+            title: "What Is A Dental Abscess?",
+            preview: "A dental abscess is a pocket of pus caused by a bacterial infection in a tooth or the surrounding gum tissue. The infection can develop when bacteria enter through a cavity, a cracked tooth, or gum disease.",
+            content: `<h2>What Is A Dental Abscess?</h2>
+            <p>A dental abscess is a pocket of pus caused by a bacterial infection in a tooth or the surrounding gum tissue. The infection can develop when bacteria enter through a cavity, a cracked tooth, or gum disease.</p>
+            <p>The abscess may form inside the tooth, at the root, or in nearby gum tissue.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can range from mild discomfort to severe pain.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Severe tooth pain that may feel throbbing or constant</li>
+            <li>Swelling in the face, jaw, or gums</li>
+            <li>Fever</li>
+            <li>A bad taste in the mouth</li>
+            </ul>
+            <p>Some people may also notice sensitivity to hot or cold foods or difficulty chewing.</p>
+
+            <h3>How a Dental Abscess Is Diagnosed</h3>
+            <p>A dentist may diagnose a dental abscess by examining the tooth and surrounding gums. Dental X-rays may be used to look for signs of infection and determine where the abscess has formed.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>A dental abscess requires treatment from a dentist because the infection will not go away on its own.</p>
+            <p>Treatment may include:</p>
+            <ul>
+            <li>Draining the abscess to remove the infection</li>
+            <li>Antibiotics to help control bacterial spread</li>
+            <li>A root canal procedure to treat infection inside the tooth</li>
+            </ul>
+            <p>Prompt treatment can help relieve pain and prevent the infection from spreading to other areas.</p>
+
+            <h3>References</h3>
+            <p>American Association of Endodontists. (2026). Abscessed Teeth.</p>
+            <p>Cleveland Clinic. (2026). What is a tooth abscess?</p>
+            <p>Mayo Clinic. (2022). Tooth Abscess.</p>`
+
+        }
+    ],
+    "Dental Cavities": [
+        {
+            title: "What Are Dental Cavities?",
+            preview: "Dental cavities are small areas of damage on the teeth caused by tooth decay. They form when bacteria in the mouth use sugars from food and drinks to produce acids.",
+            content: `<h2>What Are Dental Cavities?</h2>
+            <p>Dental cavities are small areas of damage on the teeth caused by tooth decay. They form when bacteria in the mouth use sugars from food and drinks to produce acids. These acids weaken the tooth's outer layer, called enamel. Over time, this damage can create holes in the teeth.</p>
+            <p>Cavities often start small and may not cause symptoms at first. When found early, they can be treated easily. Good oral hygiene and dental visits help protect teeth and support long-term oral health.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2023). Oral Health Conditions: Cavities.</p>
+            <p>American Dental Association. (2023). Tooth Decay (Cavities).</p>
+            <p>National Institute of Dental and Craniofacial Research. (2022). Dental Cavities.</p>`
+
+        }
+    ],
+    "Depression": [
+        {
+            title: "Depression & How To Mitigate It",
+            preview: "Depression is one of the most common mood disorders worldwide, affecting both emotional and physical health. It is characterized not only by persistent sadness but also by a wide range of symptoms that disrupt daily functioning.",
+            content: `<h2>Depression & How To Mitigate It</h2>
+            <p>Depression is one of the most common mood disorders worldwide, affecting both emotional and physical health. It is characterized not only by persistent sadness but also by a wide range of symptoms that disrupt daily functioning.</p>
+
+            <h3>Key Symptoms of Depression</h3>
+            <ul>
+            <li><strong>Depressed mood:</strong> A constant sense of sadness or emptiness.</li>
+            <li><strong>Anhedonia:</strong> Loss of interest or pleasure in activities once enjoyed. This is often considered the most sensitive indicator of depression.</li>
+            <li><strong>Physical effects:</strong> Disrupted sleep, changes in appetite, and weight fluctuations. Some people may eat excessively, while others lose their appetite and experience weight loss.</li>
+            <li><strong>Cognitive changes:</strong> Difficulty with concentration and slowed thinking, sometimes referred to medically as psychomotor retardation.</li>
+            <li><strong>Severe risks:</strong> Without treatment, depression can worsen and may lead to thoughts of self-harm or suicide.</li>
+            </ul>
+
+            <h3>Treatment Approaches</h3>
+            <p>Depression is treatable, though not every approach works for everyone. Medications and cognitive behavioral therapy are established methods, but lifestyle interventions also play an important role in managing symptoms.</p>
+
+            <h3>Lifestyle Strategies for Mitigation</h3>
+            <p><strong>Nutrition</strong></p>
+            <p>Research shows a link between inflammation and depression. About half of patients do not respond to antidepressants alone, suggesting that inflammation, possibly even in the brain, contributes to depressive symptoms. An anti-inflammatory diet that balances carbohydrates, proteins, and healthy fats can help support mood stability.</p>
+
+            <p><strong>Movement</strong></p>
+            <p>Regular physical activity is one of the most effective natural strategies. Exercise boosts serotonin, a neurotransmitter often disrupted in depression, and improves overall wellbeing.</p>
+
+            <p><strong>Sleep</strong></p>
+            <p>Poor sleep strongly influences mood. Both insufficient rest and oversleeping can be signs or triggers of depression. Prioritizing restorative, consistent sleep is essential for mental health.</p>
+
+            <p><strong>Stress Management</strong></p>
+            <p>Stress is a common trigger for depressive episodes, especially in individuals with a genetic predisposition. Work pressures, financial strain, or family difficulties can set off symptoms. Stress-reduction practices such as mindfulness meditation, breathing exercises, and other calming techniques help break this cycle.</p>
+
+            <p>Depression is a serious condition that requires attention and care. While medication and therapy are often necessary, focusing on how one eats, sleeps, moves, and manages stress can significantly improve outcomes and support long-term wellbeing.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization (WHO). Depression. Updated 2023.</p>
+            <p>Malhi, G. S., et al. (2021). Depression. The Lancet, 399(10324), 1239–1252.</p>
+            <p>Lopresti, A. L., Hood, S. D., & Drummond, P. D. (2013). A review of lifestyle factors that contribute to important pathways associated with major depression: diet, sleep and exercise. Journal of Affective Disorders, 148(1), 12–27.</p>
+            <p>Miller, A. H., & Raison, C. L. (2016). The role of inflammation in depression: from evolutionary imperative to modern treatment target. Nature Reviews Immunology, 16(1), 22–34.</p>`
+
+        }
+    ],
+    "Diabetic Nerve Pain": [
+        {
+            title: "Diabetic Nerve Pain",
+            preview: "Diabetic nerve pain, known as diabetic neuropathy, affects the nerves. It's a common complication of diabetes. High blood sugar levels over time can damage nerves, especially in the legs and feet.",
+            content: `<h2>Diabetic Nerve Pain</h2>
+            <p>Diabetic nerve pain, known as diabetic neuropathy, affects the nerves. It's a common complication of diabetes. High blood sugar levels over time can damage nerves, especially in the legs and feet. This condition can cause numbness and pain or discomfort.</p>
+            <p>Not everyone with diabetes gets nerve pain. However, the risk increases the longer someone has diabetes. The nerves that control sensation are often affected. That's why symptoms usually begin in the feet and hands.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Diabetic nerve pain can vary in type and intensity. Common signs include:</p>
+            <ul>
+            <li>Tingling, burning, or stabbing sensations</li>
+            <li>Numbness or reduced ability to feel pain or temperature</li>
+            <li>Sharp or aching pain, often worse at night</li>
+            <li>Muscle weakness or balance problems in some cases</li>
+            </ul>
+            <p>High blood sugar harms nerves. It disrupts how they work normally. The body's nerves can send strange signals and cause pain.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Diabetes. https://www.who.int/news-room/fact-sheets/detail/diabetes</p>
+            <p>National Health Service. (n.d.). Diabetic neuropathy. https://www.nhs.uk/conditions/diabetic-neuropathy/</p>
+            <p>Mayo Clinic. (n.d.). Diabetic neuropathy. https://www.mayoclinic.org/diseases-conditions/diabetic-neuropathy/symptoms-causes/syc-20371580</p>`
+
+        }
+    ],
+    "Diaper Rash": [
+        {
+            title: "What Is A Diaper Rash?",
+            preview: "A diaper rash is a common skin irritation that affects the diaper area of babies and young children. It usually happens when the skin stays wet for too long or rubs against the diaper.",
+            content: `<h2>What Is A Diaper Rash?</h2>
+            <p>A diaper rash is a common skin irritation that affects the diaper area of babies and young children. It usually happens when the skin stays wet for too long or rubs against the diaper.</p>
+            <p>Diaper rash can also develop if the skin becomes irritated by urine, stool, soaps, wipes, or certain infections.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms usually appear on the skin covered by the diaper.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Red or irritated skin in the diaper area</li>
+            <li>Tender or sensitive skin</li>
+            <li>Small bumps or patches of rash</li>
+            <li>Fussiness during diaper changes</li>
+            </ul>
+            <p>In some cases, the skin may become very red, swollen, or develop open sores.</p>
+
+            <h3>How Diaper Rash Is Diagnosed</h3>
+            <p>A healthcare provider can usually diagnose diaper rash by examining the skin. In most cases, no special tests are needed.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment focuses on protecting the skin and keeping the area clean and dry.</p>
+            <p>Helpful steps may include:</p>
+            <ul>
+            <li>Changing diapers frequently</li>
+            <li>Gently cleaning the skin with mild soap and water</li>
+            <li>Allowing time without a diaper so the skin can air dry</li>
+            <li>Using barrier creams or ointments to protect the skin</li>
+            </ul>
+            <p>If the rash does not improve or appears severe, a healthcare provider may recommend additional treatment.</p>
+
+            <h3>References</h3>
+            <p>National Institutes of Health. (2023). Diaper Dermatitis.</p>
+            <p>Cleveland Clinic. (2023). Diaper Rash (Diaper Dermatitis).</p>
+            <p>Mayo Clinic. (2024). Diaper Rash.</p>`
+
+        }
+    ],
+    "Diarrhea": [
+        {
+            title: "Occasional Vs. Chronic Diarrhea",
+            preview: "Diarrhea is a common digestive condition marked by loose, watery stools and an increased urgency to use the bathroom. While most people experience it occasionally, ongoing or chronic diarrhea may point to an underlying health condition.",
+            content: `<h2>Occasional Vs. Chronic Diarrhea</h2>
+            <p>Diarrhea is a common digestive condition marked by loose, watery stools and an increased urgency to use the bathroom. While most people experience it occasionally, ongoing or chronic diarrhea may point to an underlying health condition that requires medical evaluation.</p>
+
+            <h3>Understanding Occasional Diarrhea</h3>
+            <p>Occasional diarrhea typically begins suddenly and lasts for only a few days. It often resolves on its own and is most commonly caused by short-term factors such as:</p>
+            <ul>
+            <li><strong>Infections:</strong> Viruses like norovirus or rotavirus, and bacteria such as Salmonella or E. coli, can lead to gastroenteritis. These infections may cause symptoms such as diarrhea, nausea, vomiting, and stomach cramps.</li>
+            <li><strong>Dietary choices:</strong> Eating spicy foods, consuming high-caffeine drinks, or drinking excessive alcohol can irritate the digestive system. Food intolerances such as lactose intolerance can also trigger diarrhea after consuming dairy products.</li>
+            <li><strong>Medications:</strong> Antibiotics and certain other medications can disrupt the balance of gut bacteria, sometimes leading to short-term diarrhea. Symptoms usually improve once the medication is adjusted or discontinued.</li>
+            <li><strong>Stress and anxiety:</strong> Emotional stress can temporarily affect gut motility and digestion, causing diarrhea in certain situations, such as before public speaking or exams.</li>
+            </ul>
+            <p>Occasional diarrhea generally resolves without medical treatment. Staying hydrated, eating a bland diet, and using over-the-counter medications like loperamide can help reduce discomfort. However, if diarrhea lasts more than a few days or is accompanied by high fever, dehydration, or blood in the stool, medical care is recommended.</p>
+
+            <h3>Understanding Chronic Diarrhea</h3>
+            <p>Chronic diarrhea is defined as diarrhea lasting four weeks or longer. It often signals an ongoing health concern that requires professional assessment. Common causes include:</p>
+            <ul>
+            <li><strong>Irritable bowel syndrome (IBS):</strong> A functional gastrointestinal disorder that affects the large intestine, leading to abdominal pain, bloating, and alternating diarrhea or constipation. Management often includes dietary changes, stress reduction, and medication.</li>
+            <li><strong>Inflammatory bowel disease (IBD):</strong> Conditions such as Crohn's disease and ulcerative colitis involve chronic inflammation of the digestive tract. These autoimmune conditions can cause persistent diarrhea, abdominal pain, fatigue, and weight loss.</li>
+            <li><strong>Celiac disease:</strong> An autoimmune reaction to gluten that damages the small intestine and leads to symptoms like diarrhea, bloating, and nutrient malabsorption. A strict gluten-free diet is required for management.</li>
+            <li><strong>Chronic infections:</strong> Long-term infections, such as those caused by parasites like Giardia, can result in continuous diarrhea and require targeted treatment.</li>
+            <li><strong>Endocrine disorders:</strong> Hormonal imbalances associated with conditions like hyperthyroidism or diabetes can sometimes cause chronic diarrhea.</li>
+            </ul>
+            <p>Diagnosing chronic diarrhea involves a combination of stool analysis, blood tests, endoscopy, and imaging studies. Treatment depends on the underlying cause and may include medication, dietary modification, or in some cases, surgical intervention.</p>
+
+            <h3>When to Seek Medical Care</h3>
+            <p>While occasional diarrhea is usually mild and temporary, chronic or recurring symptoms should not be ignored. Persistent diarrhea can lead to dehydration, nutrient deficiencies, and weight loss. If symptoms last for more than a few weeks or worsen over time, professional evaluation is essential to identify the cause and prevent complications.</p>
+
+            <h3>References</h3>
+            <p>Schiller, L. R. (2018). Chronic diarrhea: Diagnosis and management. Clinical Gastroenterology and Hepatology, 16(2), 182–189. https://doi.org/10.1016/j.cgh.2017.03.004</p>
+            <p>Lacy, B. E., et al. (2021). Bowel disorders. Gastroenterology, 160(1), 100–118. https://doi.org/10.1053/j.gastro.2020.06.099</p>
+            <p>Ford, A. C., et al. (2020). Irritable bowel syndrome. The Lancet, 396(10263), 1675–1688. https://doi.org/10.1016/S0140-6736(20)31548-8</p>`
+
+        }
+    ],
+    "Diverticulitis": [
+        {
+            title: "Diverticulitis",
+            preview: "Diverticulitis is a condition that affects the large intestine. Small bulges can form in the wall of the intestine over time. When one or more of these bulges become swollen or infected, it is called diverticulitis.",
+            content: `<h2>Diverticulitis</h2>
+            <p>Diverticulitis is a condition that affects the large intestine. Small bulges can form in the wall of the intestine over time. These bulges are called diverticula.</p>
+            <p>When one or more of these bulges become swollen or infected, it is called diverticulitis. This can cause pain and changes in digestion.</p>
+
+            <h3>Symptoms and Risk</h3>
+            <p>Diverticulitis often causes pain in the lower belly, usually on the left side. The pain may begin suddenly or grow worse over several days.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Belly pain</li>
+                <li>Fever</li>
+                <li>Nausea</li>
+                <li>Constipation or diarrhea</li>
+                <li>Bloating</li>
+                <li>Fatigue</li>
+            </ul>
+            <p>Risk increases with age. A diet low in fiber may also raise risk. Fiber helps stool move smoothly through the intestines.</p>
+
+            <h3>Care and Prevention</h3>
+            <p>Mild cases may improve with rest and a temporary change in diet. Doctors may recommend clear liquids at first. Antibiotics may be prescribed if infection is present.</p>
+            <p>Severe cases may require hospital care. In rare cases, surgery may be needed.</p>
+            <p>Eating foods high in fiber may help support bowel health over time. Good sources include fruits, vegetables, and whole grains. Drinking enough water also supports digestion.</p>
+            <p>Diverticulitis is common in adults. Proper treatment and healthy habits help people recover and keep symptoms under control.</p>
+
+            <h3>References</h3>
+            <p>Peery, A. F., Crockett, S. D., Murphy, C. C., Jensen, E. T., Kim, H. P., Egberg, M. D., Lund, J. L., Dellon, E. S., Williams, J. L., Gangarosa, L. M., Thiny, M. T., Stizenberg, K., & Sandler, R. S. (2019). Burden and cost of gastrointestinal, liver, and pancreatic diseases in the United States. Gastroenterology, 156(1), 254–272.</p>
+            <p>Strate, L. L., & Morris, A. M. (2019). Epidemiology, pathophysiology, and treatment of diverticulitis. Gastroenterology, 156(5), 1282–1298.</p>`
+        }
+    ],
+    "Diverticulosis": [
+        {
+            title: "What Is Diverticulosis?",
+            preview: "Diverticulosis is a condition in which small pouches form in the wall of the large intestine. These pouches are called diverticula.",
+            content: `<h2>What Is Diverticulosis?</h2>
+            <p>Diverticulosis is a condition in which small pouches form in the wall of the large intestine. These pouches are called diverticula.</p>
+            <p>Diverticulosis becomes more common with age. Many people have the condition without noticing any symptoms.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Most people with diverticulosis do not experience symptoms.</p>
+            <p>When symptoms occur, they may include:</p>
+            <ul>
+            <li>Mild abdominal cramps</li>
+            <li>Bloating</li>
+            <li>Changes in bowel habits such as constipation</li>
+            </ul>
+            <p>In some cases, the pouches can become inflamed or infected. This condition is called diverticulitis and can cause more serious symptoms.</p>
+
+            <h3>How Diverticulosis Is Diagnosed</h3>
+            <p>Diverticulosis is often discovered during tests that examine the colon, such as a colonoscopy or imaging studies. Many people learn they have diverticulosis during routine screening exams.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Diverticulosis usually does not require specific treatment if no symptoms are present. Management focuses on supporting digestive health.</p>
+            <p>Helpful steps may include:</p>
+            <ul>
+            <li>Eating a diet high in fiber</li>
+            <li>Drinking plenty of fluids</li>
+            <li>Staying physically active</li>
+            </ul>
+            <p>If symptoms such as severe abdominal pain, fever, nausea, or vomiting occur, medical care is important because these may be signs of diverticulitis.</p>
+
+            <h3>References</h3>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2021). Diverticular Disease.</p>
+            <p>Cleveland Clinic. (2023). Diverticulosis.</p>
+            <p>Mayo Clinic. (2026). Diverticulosis and diverticulitis.</p>`
+
+        }
+    ],
+    "Dizziness": [
+        {
+            title: "Dizziness",
+            preview: "Dizziness can feel like lightheadedness or unsteadiness. It can also feel like the room is spinning. It is not a disease itself but a symptom that can come from many causes.",
+            content: `<h2>Dizziness</h2>
+            <p>Dizziness can feel like lightheadedness or unsteadiness. It can also feel like the room is spinning. It is not a disease itself but a symptom that can come from many causes. Dizziness can disrupt balance and coordination. This makes everyday tasks, such as standing or walking, more difficult.</p>
+            <p>The body relies on the inner ear, eyes, and nervous system to maintain balance. Disrupted systems can cause dizziness. Low blood pressure, dehydration, infections, or inner ear issues can cause this.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Dizziness can appear either in an instant or over time and may last for a few seconds or an extended period. Common signs include:</p>
+            <ul>
+            <li>Feeling faint or lightheaded</li>
+            <li>A spinning sensation (vertigo)</li>
+            <li>Unsteady walking or difficulty keeping balance</li>
+            <li>Nausea or vomiting in some cases</li>
+            <li>Blurred vision or headache</li>
+            </ul>
+            <p>The body responds to imbalances by sending signals. These sensations warn you to slow down or take a break. Frequent dizziness can be short-lived. But it may also or show a health problem that needs checking.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Dizziness and vertigo. https://www.who.int/news-room/fact-sheets/detail/vertigo</p>
+            <p>National Health Service. (n.d.). Dizziness. https://www.nhs.uk/conditions/dizziness/</p>
+            <p>Mayo Clinic. (n.d.). Dizziness and imbalance. https://www.mayoclinic.org/symptoms/dizziness/basics/definition/sym-20050717</p>`
+
+        }
+    ],
+    "Dry Eye Disease": [
+        {
+            title: "Understanding Dry Eye Disease & How To Treat It",
+            preview: "The really interesting thing about dry eye disease is that many patients don't know that they have it! Due to the feelings and the symptoms associated with dry eye disease, many patients write it off as something common.",
+            content: `<h2>Understanding Dry Eye Disease & How To Treat It</h2>
+            <p>The really interesting thing about dry eye disease is that many patients don't know that they have it! Due to the feelings and the symptoms associated with dry eye disease, many patients write it off as something common.</p>
+
+            <h3>What Does Dry Eye Disease Feel Like?</h3>
+            <p>It feels like your eyes are burning, itching, or like there's a little bit of tearing. Another common symptom that can happen is called 'foreign body sensation'. It feels like you have an eyelash inside your eye and you're constantly looking for it. You might find yourself in the mirror trying to pull it out, and there's nothing there. There may also be a sense of sandiness or grittiness in your eyes, almost like a piece of sand or a little pebble, but there's nothing there. All of these feelings are what is associated with dry eye disease.</p>
+
+            <h3>Why Does This Occur?</h3>
+            <p>There are many different reasons for dry eye syndrome, but one of the main ones is called ocular surface instability. Our cornea is the refractive element, the clear element that we need to see. On top of the cornea, we have something called our tear film. This tear film has three different layers and these layers beautifully work together to make sure that your eyes feel comfortable and clear.</p>
+
+            <h3>What Is The Tear Film Layer Composed Of?</h3>
+            <p>The outermost layer is the lipid layer. It's composed of fats and oil. It's oil that covers the top of your eye. Right below that, we have the aqueous layer, which is basically a bunch of water. Right below that we have the mucin layer, which helps anchor everything to the cornea.</p>
+            <p>These three layers need to all be healthy and well balanced, but many times one can be out of balance from the other. That's where the expertise of an optometrist comes in. Optometrists can perform different diagnostic exams and see if treatment is needed.</p>
+
+            <h3>Treatment Options</h3>
+            <p>One common treatment for dry eye disease is with artificial tears. You've probably walked down the drugstore aisle and seen so many different options. A lot of patients use them to treat this condition. Consider using the preservative-free options!</p>
+            <p>However, that's not always the answer. The way that artificial tears work is the same way that we use hand cream. Sometimes you have to use it daily, and for some patients they use eye drops all the time. But, it is common to see a reduction in their efficiency over time with constant use. You may find yourself needing more and more!</p>
+            <p>Just as there are many different eye drops in the drugstore aisle, there are many different pharmaceutical strength doses of eye drops available to you. When you see an optometrist that specializes in dry eye disease, they will customize that prescription for you. Some prescription eye drops are anti-inflammatory steroids, while some of them immunomodulate. Basically, it depends on what type of dry eye you have, and that's how the prescription is personalized to treat your specific dry eye symptoms.</p>
+            <p>But there's another layer to it! There are also supplements that can be added to your prescription. The main ones are omega-3's. Additionally, some patients need to sleep with special eye goggles. Other times they need to use warm compresses or different reheat eye masks so that they can keep their eyelids healthy.</p>
+            <p>The third layer of treatment is a new frontier. It's something new that many optometrists are exploring: the aesthetic realm. The aesthetic realm of optometry combines beauty and eye surface health. You've probably heard of IPL, intense pulse light. Intense pulse light traditionally has been used for hair removal, but it has been found to aid the meibomian glands, which are within your eyelids, and helps regenerate them. Radio frequency is another special new type of technology, as well as low-level light therapy, which you've probably heard of as red light therapy.</p>
+            <p>All of these things may be provided to you in a customized plan to help you be efficient and productive during your day. Healthy eyes shouldn't actually feel like anything. The goal is to make sure that you don't feel your eyes throughout the day, even at the end of the day, so that they can be healthy for life!</p>`
+
+        }
+    ],
+    "Dry Mouth": [
+        {
+            title: "Dry Mouth",
+            preview: "Dry mouth, also called xerostomia, happens when your mouth does not make enough saliva. Saliva keeps your mouth wet, helps you chew and swallow, and protects your teeth.",
+            content: `<h2>Dry Mouth</h2>
+            <p>Dry mouth, also called xerostomia, happens when your mouth does not make enough saliva. Saliva keeps your mouth wet, helps you chew and swallow, and protects your teeth. Dry mouth can happen to anyone. It may last a short time or a long time.</p>
+            <p>You may have less saliva if you are dehydrated, take certain medicines, have a health condition, or get radiation therapy. When saliva is low, your mouth may feel sticky, rough, or uncomfortable.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Common signs of dry mouth include:</p>
+            <ul>
+            <li>A sticky, dry feeling in the mouth</li>
+            <li>Trouble chewing, swallowing, or talking</li>
+            <li>Cracked lips or sore throat</li>
+            <li>Bad breath or taste changes</li>
+            <li>Higher chance of cavities or mouth infections</li>
+            </ul>
+            <p>The body uses saliva to maintain oral health, so reduced saliva can make the mouth more sensitive and prone to problems. The discomfort may start small but can affect eating, talking, and oral hygiene if it lasts a long time.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Oral health. https://www.who.int/news-room/fact-sheets/detail/oral-health</p>
+            <p>National Health Service. (n.d.). Dry mouth. https://www.nhs.uk/conditions/dry-mouth/</p>
+            <p>Mayo Clinic. (n.d.). Dry mouth (xerostomia). https://www.mayoclinic.org/diseases-conditions/dry-mouth/symptoms-causes/syc-20356048</p>`
+
+        }
+    ],
+    "Ear Infection": [
+        {
+            title: "Ear Infection",
+            preview: "An ear infection happens when the middle or outer ear swells, usually from bacteria or a virus. Ear infections are common in children but can happen to anyone.",
+            content: `<h2>Ear Infection</h2>
+            <p>An ear infection happens when the middle or outer ear swells, usually from bacteria or a virus. Ear infections are common in children but can happen to anyone. They often start after a cold, allergies, or another sickness that affects the ear.</p>
+            <p>The body fights the infection by sending immune cells to the ear. This can cause swelling, fluid buildup, and pain. Ear infections can make it hard to hear and may make daily activities uncomfortable.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Ear infection symptoms can differ depending on the type and how bad it is. Common signs include:</p>
+            <ul>
+            <li>Ear pain or discomfort</li>
+            <li>Fluid coming from the ear</li>
+            <li>Trouble hearing or a feeling of fullness in the ear</li>
+            <li>Fever or irritability, especially in children</li>
+            <li>Dizziness or balance problems sometimes</li>
+            </ul>
+            <p>Swelling and fluid in the ear can change the ear's pressure and function. This causes discomfort and sometimes temporary hearing problems. Noticing symptoms early can help treat the infection and reduce problems.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Ear infections. https://www.who.int/news-room/fact-sheets/detail/ear-infections</p>
+            <p>National Health Service. (n.d.). Ear infection. https://www.nhs.uk/conditions/ear-infections/</p>
+            <p>Mayo Clinic. (n.d.). Ear infection (middle ear). https://www.mayoclinic.org/diseases-conditions/ear-infections/symptoms-causes/syc-20351622</p>`
+
+        }
+    ],
+    "Earache": [
+        {
+            title: "Ear Ache",
+            preview: "An ear ache is pain or discomfort in one or both ears. It can happen for many reasons, including infections, pressure changes, or irritation from water or allergies.",
+            content: `<h2>Ear Ache</h2>
+            <p>An ear ache is pain or discomfort in one or both ears. It can happen for many reasons, including infections, pressure changes, or irritation from water or allergies. Ear aches are common in children but can also affect adults.</p>
+            <p>The body reacts to irritation or infection in the ear by triggering inflammation and sometimes fluid buildup. This reaction can make the ear feel tender, full, or painful.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Ear aches can vary in intensity and may come with other symptoms. Common signs include:</p>
+            <ul>
+            <li>Pain or sharp discomfort in the ear</li>
+            <li>A feeling of fullness or pressure in the ear</li>
+            <li>Sensitivity to touch around the ear</li>
+            <li>Trouble hearing or muffled hearing</li>
+            <li>Fever, irritability, or headache in some cases</li>
+            </ul>
+            <p>The pain from an ear ache comes from the body's response to irritation or infection. Depending on the cause, the discomfort may be temporary or continue until the underlying issue is resolved.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Ear pain. https://www.who.int/news-room/fact-sheets/detail/ear-infections</p>
+            <p>National Health Service. (n.d.). Earache. https://www.nhs.uk/conditions/earache/</p>
+            <p>Mayo Clinic. (n.d.). Ear pain (earache). https://www.mayoclinic.org/symptoms/ear-pain/basics/definition/sym-20050675</p>`
+
+        }
+    ],
+    "Eclampsia": [
+        {
+            title: "What Is Eclampsia?",
+            preview: "Eclampsia is a serious condition that can occur during pregnancy. It causes seizures in someone who has high blood pressure related to pregnancy.",
+            content: `<h2>What Is Eclampsia?</h2>
+            <p>Eclampsia is a serious condition that can occur during pregnancy. It causes seizures in someone who has high blood pressure related to pregnancy.</p>
+            <p>Eclampsia usually develops from a condition called preeclampsia, which involves high blood pressure and signs that organs such as the kidneys or liver may be under stress.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms may develop suddenly and require immediate medical attention.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Severe headaches</li>
+            <li>Vision changes such as blurred vision or sensitivity to light</li>
+            <li>Confusion or trouble concentrating</li>
+            <li>Seizures</li>
+            </ul>
+            <p>Some people may also experience swelling, nausea, or severe pain in the upper abdomen.</p>
+
+            <h3>How Eclampsia Is Diagnosed</h3>
+            <p>Healthcare providers diagnose eclampsia by evaluating symptoms, blood pressure, and medical history during pregnancy. Blood tests and urine tests may also be used to check for signs of organ stress or complications.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Eclampsia is a medical emergency that requires hospital care.</p>
+            <p>Treatment may include:</p>
+            <ul>
+            <li>Medications to control seizures</li>
+            <li>Medications to lower blood pressure</li>
+            <li>Close monitoring of both the pregnant person and the baby</li>
+            </ul>
+            <p>In many cases, delivering the baby may be necessary to protect the health of both the parent and the baby.</p>
+
+            <h3>References</h3>
+            <p>Medscape. (2025). Eclampsia.</p>
+            <p>Cleveland Clinic. (2022). Eclampsia.</p>
+            <p>Centers for Disease Control and Prevention. (2024). High Blood Pressure During Pregnancy.</p>`
+
+        }
+    ],
+    "Eczema": [
+        {
+            title: "Eczema Care & Management",
+            preview: "Eczema, also known as atopic dermatitis, is a chronic condition that affects the skin's protective barrier. It causes dryness, itching, and inflammation, often beginning in childhood but continuing or returning in adulthood.",
+            content: `<h2>Eczema Care & Management</h2>
+            <p>Eczema, also known as atopic dermatitis, is a chronic condition that affects the skin's protective barrier. It causes dryness, itching, and inflammation, often beginning in childhood but continuing or returning in adulthood. Understanding what triggers eczema and how to strengthen the skin barrier can make a major difference in long-term comfort and control.</p>
+
+            <h3>What Causes Eczema</h3>
+            <p>Eczema develops when the skin barrier is weakened, allowing moisture to escape and irritants to enter. This disruption is often linked to a genetic variation that affects certain skin proteins. As a result, the immune system becomes overactive and the balance of healthy skin bacteria is disturbed, leading to redness, dryness, and sensitivity.</p>
+            <p>Many people with eczema also have asthma or allergies, part of what doctors call the "atopic march." This refers to a pattern where allergic conditions appear together or develop over time.</p>
+
+            <h3>Common Eczema Triggers</h3>
+            <p>Several factors can worsen eczema or cause flare-ups:</p>
+            <ul>
+            <li><strong>Irritants:</strong> Scented soaps, detergents, and certain fabrics.</li>
+            <li><strong>Allergens:</strong> Dust mites, pet dander, or specific foods identified through allergy testing.</li>
+            <li><strong>Environmental factors:</strong> Cold, dry air or rapid temperature changes.</li>
+            <li><strong>Stress:</strong> Emotional or physical stress can intensify inflammation.</li>
+            <li><strong>Bacterial imbalance:</strong> Overgrowth of Staphylococcus aureus on the skin may contribute to irritation.</li>
+            </ul>
+            <p>Identifying personal triggers through patch or blood tests (such as IgE testing) can help create a targeted management plan.</p>
+
+            <h3>Strengthening the Skin Barrier</h3>
+            <p>Moisturizing is the foundation of eczema care. Using thick, unscented creams or ointments containing ceramides helps lock in moisture and restore barrier function. These should be applied at least twice a day, especially after bathing, to seal hydration into the skin.</p>
+            <p>Avoid hot showers and use mild, fragrance-free cleansers to minimize irritation. After washing, gently pat the skin dry instead of rubbing it.</p>
+
+            <h3>Calming Inflammation</h3>
+            <p>During flare-ups, topical medications help soothe irritation and prevent infection.</p>
+            <ul>
+            <li><strong>Steroid creams or ointments:</strong> Reduce inflammation and redness.</li>
+            <li><strong>Nonsteroidal options:</strong> Calcineurin inhibitors such as tacrolimus or pimecrolimus are useful for long-term maintenance, particularly on sensitive areas like the face or folds of skin.</li>
+            </ul>
+            <p>Your healthcare provider can recommend the safest combination of treatments based on the severity and frequency of symptoms.</p>
+
+            <h3>Reducing Triggers and Preventing Flare-Ups</h3>
+            <p>Small adjustments in daily routines can significantly lower the frequency of eczema flare-ups:</p>
+            <ul>
+            <li>Use allergy-proof bedding to minimize dust mite exposure.</li>
+            <li>Avoid metal jewelry containing nickel, a common irritant.</li>
+            <li>Wear breathable fabrics like cotton to reduce sweating and friction.</li>
+            <li>Keep nails short to prevent scratching-related infections.</li>
+            <li>Manage stress with relaxation techniques such as deep breathing, stretching, or meditation.</li>
+            </ul>
+            <p>Because eczema affects everyone differently, there is no single treatment that works for all. Partnering with a dermatologist helps develop an individualized plan that addresses your triggers, skin type, and lifestyle. With the right care, it is possible to control flare-ups, maintain comfort, and keep skin healthy and resilient.</p>
+
+            <h3>References</h3>
+            <p>Weidinger, S., & Novak, N. (2016). Atopic dermatitis. The Lancet, 387(10023), 1109–1122. https://doi.org/10.1016/S0140-6736(15)00149-X</p>
+            <p>Bieber, T. (2020). Atopic dermatitis: An expanding therapeutic pipeline for a complex disease. Nature Reviews Drug Discovery, 19(8), 578–592. https://doi.org/10.1038/s41573-020-0074-6</p>
+            <p>Eichenfield, L. F., et al. (2014). Guidelines of care for the management of atopic dermatitis. Journal of the American Academy of Dermatology, 71(1), 116–132. https://doi.org/10.1016/j.jaad.2014.03.030</p>`
+
+        }
+    ],
+    "Edema": [
+        {
+            title: "Edema",
+            preview: "Edema is swelling that happens when too much fluid builds up in the body's tissues. It often affects the hands, feet, ankles, and legs, but it can happen in other parts of the body too.",
+            content: `<h2>Edema</h2>
+            <p>Edema is swelling that happens when too much fluid builds up in the body's tissues. It often affects the hands, feet, ankles, and legs, but it can happen in other parts of the body too. Edema can be caused by injury, certain health problems, or changes in circulation.</p>
+            <p>The body usually keeps fluids balanced, but sometimes fluid leaks from blood vessels into nearby tissues. This causes swelling and can make the area look puffy or feel heavy or tight.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Edema can appear slowly or quickly, depending on the cause. Common signs include:</p>
+            <ul>
+            <li>Swelling in the hands, feet, ankles, or legs</li>
+            <li>Shiny or stretched skin over the swollen area</li>
+            <li>The swollen area may feel heavy, tight, or uncomfortable</li>
+            <li>Harder-to-move joints near the swelling</li>
+            <li>Skin that stays dented when pressed lightly (pitting edema)</li>
+            </ul>
+            <p>The swelling happens because the body's fluid balance is off. Extra fluid puts pressure on tissues, which causes puffiness and discomfort.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Edema. https://www.who.int/news-room/fact-sheets/detail/edema</p>
+            <p>National Health Service. (n.d.). Swelling (edema). https://www.nhs.uk/conditions/swelling/</p>
+            <p>Mayo Clinic. (n.d.). Edema. https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493</p>`
+
+        }
+    ],
+    "Emphysema": [
+        {
+            title: "Emphysema",
+            preview: "Emphysema is a long-term lung disease. It damages the tiny air sacs in the lungs. These air sacs are called alveoli. They help move oxygen into the blood.",
+            content: `<h2>Emphysema</h2>
+            <p>Emphysema is a long-term lung disease. It damages the tiny air sacs in the lungs. These air sacs are called alveoli. They help move oxygen into the blood.</p>
+            <p>When the air sacs are damaged, they lose their shape. This makes it harder to breathe. Emphysema is a type of chronic obstructive pulmonary disease, also called COPD.</p>
+
+            <h3>Symptoms and Causes</h3>
+            <p>Emphysema usually develops slowly. Shortness of breath is often the first sign. Breathing may feel harder during walking or climbing stairs.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Shortness of breath</li>
+                <li>Long-lasting cough</li>
+                <li>Wheezing</li>
+                <li>Feeling tired</li>
+            </ul>
+            <p>Smoking is the main cause. Long-term exposure to air pollution or chemical fumes may also harm the lungs. In rare cases, a genetic condition may increase risk.</p>
+
+            <h3>Treatment and Daily Care</h3>
+            <p>Emphysema cannot be cured, but treatment may help manage symptoms. Doctors may prescribe inhalers. An inhaler is a device that delivers medicine into the lungs.</p>
+            <p>Pulmonary rehabilitation may also help. This program teaches breathing exercises and safe ways to stay active. Quitting smoking may slow further lung damage.</p>
+            <p>Regular medical care helps track symptoms. With the right support, people with emphysema can improve their breathing.</p>
+
+            <h3>References</h3>
+            <p>Celli, B. R., & Wedzicha, J. A. (2019). Update on clinical aspects of chronic obstructive pulmonary disease. New England Journal of Medicine, 381(13), 1257–1266.</p>
+            <p>Vogelmeier, C. F., Criner, G. J., Martinez, F. J., Anzueto, A., Barnes, P. J., Bourbeau, J., Celli, B. R., Chen, R., Decramer, M., Fabbri, L. M., Frith, P., Halpin, D. M. G., López Varela, M. V., Nishimura, M., Roche, N., Rodriguez-Roisin, R., Sin, D. D., Singh, D., Stockley, R., & Agustí, A. (2017). Global strategy for the diagnosis, management, and prevention of chronic obstructive lung disease. American Journal of Respiratory and Critical Care Medicine, 195(5), 557–582.</p>`
+        }
+    ],
+    "Endometriosis": [
+        {
+            title: "Endometriosis 101",
+            preview: "Endometriosis is a chronic and often painful condition in which tissue similar to the lining inside the uterus, known as the endometrium, begins to grow outside the uterus.",
+            content: `<h2>Endometriosis 101</h2>
+            <p>Endometriosis is a chronic and often painful condition in which tissue similar to the lining inside the uterus, known as the endometrium, begins to grow outside the uterus. This tissue can be found on the ovaries, fallopian tubes, the outer surface of the uterus, and other organs within the pelvis. Endometriosis affects approximately 10% of women of reproductive age globally, but despite its prevalence, it remains underdiagnosed and misunderstood.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>The symptoms of endometriosis vary widely, which often complicates diagnosis. The most common symptom is pelvic pain, particularly during menstruation (dysmenorrhea), but this pain often extends beyond the menstrual cycle. Other symptoms include pain during intercourse, pain with bowel movements or urination (especially during menstruation), excessive bleeding, and infertility. Some women may also experience fatigue, diarrhea, constipation, bloating, and nausea, particularly during their periods. However, the severity of symptoms does not always correlate with the extent of the disease, meaning that someone with mild endometriosis may experience severe symptoms and vice versa.</p>
+
+            <h3>Who is Most Susceptible?</h3>
+            <p>Endometriosis most commonly affects women in their 30s and 40s, but it can begin as early as the first menstrual period. Risk factors include starting menstruation at an early age, having shorter menstrual cycles (less than 27 days), heavy menstrual periods, and a family history of the condition. Additionally, certain factors, such as low body mass index and alcohol consumption, may increase the risk. However, endometriosis can affect any woman of reproductive age, and it is not limited by race or ethnicity.</p>
+
+            <h3>Comorbidities and Complications</h3>
+            <p>Women with endometriosis are at higher risk for several comorbidities, including chronic pain, anxiety, depression, and autoimmune diseases like lupus and rheumatoid arthritis. There is also an increased risk of developing ovarian cysts (endometriomas) and, in severe cases, infertility. Some studies suggest a slightly increased risk of ovarian cancer in women with endometriosis, although the overall risk remains low. The chronic nature of the disease and the associated pain and fertility issues can significantly impact a woman's quality of life.</p>
+
+            <h3>Diagnosing Endometriosis</h3>
+            <p>Diagnosing endometriosis can be challenging due to the variability of symptoms and their overlap with other conditions like irritable bowel syndrome (IBS) and pelvic inflammatory disease (PID). A definitive diagnosis is typically made through laparoscopy, a minimally invasive surgical procedure that allows the surgeon to view and biopsy the endometrial-like tissue. Imaging tests such as ultrasound or MRI may suggest the presence of endometriosis but cannot confirm the diagnosis.</p>
+
+            <h3>Maintaining Mental Health</h3>
+            <p>Living with endometriosis can be mentally exhausting due to the chronic pain, the uncertainty of diagnosis and treatment, and the potential impact on fertility. Maintaining mental health is crucial for managing the disease. Regular physical activity, a balanced diet, and adequate sleep can improve overall wellbeing. Mindfulness techniques, such as meditation and yoga, can help manage stress and pain. It's also important to build a support system, whether through friends, family, or support groups, to share experiences and reduce feelings of isolation. Professional mental health support, including therapy or counseling, can be beneficial in managing anxiety and depression associated with the disease.</p>
+            <p>Endometriosis is a complex and often misunderstood disease that requires a multifaceted approach to manage. While there is no cure, understanding the symptoms, treatment options, and the importance of mental health can help women navigate life with endometriosis more effectively. The road to diagnosis and effective treatment can be long and challenging, but with proper care and support, women with endometriosis can lead fulfilling lives.</p>
+
+            <h3>References</h3>
+            <p>National Institutes of Health (NIH) – Endometriosis Overview.</p>
+            <p>Mayo Clinic – Endometriosis: Symptoms and Causes.</p>
+            <p>The Endometriosis Foundation of America – Diagnosis and Treatment Options.</p>`
+
+        }
+    ],
+    "Epilepsy": [
+        {
+            title: "Epilepsy",
+            preview: "Epilepsy is a neurological condition that affects the brain. It causes repeated seizures. A seizure happens when there is a sudden burst of electrical activity in the brain.",
+            content: `<h2>Epilepsy</h2>
+            <p>Epilepsy is a neurological condition that affects the brain. It causes repeated seizures. A seizure happens when there is a sudden burst of electrical activity in the brain.</p>
+            <p>Seizures can look different from person to person. Some involve shaking movements. Others may cause staring or brief confusion.</p>
+
+            <h3>Types and Symptoms</h3>
+            <p>There are different types of seizures. Some affect the whole body. Others affect only part of the brain.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Shaking or jerking movements</li>
+                <li>Brief staring spells</li>
+                <li>Loss of awareness</li>
+                <li>Confusion</li>
+            </ul>
+            <p>A seizure may last from a few seconds to a few minutes. Not all seizures involve falling or shaking.</p>
+
+            <h3>Causes and Treatment</h3>
+            <p>Epilepsy may be linked to brain injury, infection, stroke, or genetic factors. In some cases, the cause is not known.</p>
+            <p>Treatment often includes antiseizure medicine. These medicines help control electrical activity in the brain. Some people may need more than one type of treatment.</p>
+            <p>Regular medical care helps monitor seizure control. With proper treatment and safety planning, many people with epilepsy attend school, work, and live active lives.</p>
+
+            <h3>References</h3>
+            <p>Fisher, R. S., Acevedo, C., Arzimanoglou, A., Bogacz, A., Cross, J. H., Elger, C. E., Engel, J., Forsgren, L., French, J. A., Glynn, M., Hesdorffer, D. C., Lee, B. I., Mathern, G. W., Moshé, S. L., Perucca, E., Scheffer, I. E., Tomson, T., Watanabe, M., & Wiebe, S. (2014). ILAE official report: A practical clinical definition of epilepsy. Epilepsia, 55(4), 475–482.</p>
+            <p>Thurman, D. J., Beghi, E., Begley, C. E., Berg, A. T., Buchhalter, J. R., Ding, D., Hesdorffer, D. C., Hauser, W. A., Kazis, L., Kobau, R., Kroner, B., Labiner, D., Liow, K., Logroscino, G., Medina, M. T., Newton, C. R., Parko, K., Paschal, A., Preux, P. M., & Sander, J. W. (2011). Standards for epidemiologic studies and surveillance of epilepsy. Epilepsia, 52(7), 2–26.</p>`
+        }
+    ],
+    "Erythema": [
+        {
+            title: "Erythema",
+            preview: "Erythema is the medical term for redness of the skin. It occurs when small blood vessels close to the surface widen. This widening increases blood flow and gives the skin a red or pink color.",
+            content: `<h2>Erythema</h2>
+            <p>Erythema is the medical term for redness of the skin. It occurs when small blood vessels close to the surface widen. This widening increases blood flow and gives the skin a red or pink color.</p>
+            <p>Erythema is not a disease. It is a visible sign that the body is reacting to irritation, infection, or another health condition.</p>
+
+            <h3>Causes and Skin Changes</h3>
+            <p>Erythema may develop after sun exposure, allergic reactions, infection, or contact with harsh substances. It can also appear with certain inflammatory conditions.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+                <li>Red or pink areas</li>
+                <li>Warmth in the skin</li>
+                <li>Mild swelling</li>
+                <li>Sensitivity or tenderness</li>
+            </ul>
+            <p>The redness may be flat or slightly raised. It may stay in one area or spread, depending on the cause.</p>
+
+            <h3>Care and Medical Evaluation</h3>
+            <p>Treatment depends on what is causing the redness. Mild cases from sun or irritation often improve with cool compresses and gentle skin care. Avoiding the trigger may reduce future episodes.</p>
+            <p>If erythema becomes painful, spreads quickly, or is linked with fever, medical care may be needed. A health care provider can examine the skin and recommend treatment.</p>
+            <p>Most cases improve once the cause is treated. Monitoring changes in color, size, or symptoms may help guide timely care.</p>
+
+            <h3>References</h3>
+            <p>Habif, T. P. (2016). Clinical dermatology: A color guide to diagnosis and therapy. Dermatologic Clinics, 34(2), 135–142.</p>
+            <p>Wolff, K., Johnson, R. A., & Saavedra, A. P. (2017). Fitzpatrick's color atlas and synopsis of clinical dermatology. Journal of the American Academy of Dermatology, 76(6), 1172–1174.</p>`
+        }
+    ],
+    "Eye Infection": [
+        {
+            title: "Eye Infection",
+            preview: "An eye infection happens when germs like bacteria, viruses, or fungi get into the eye or the area around it. It can affect the eyelids, the cornea, or the white part of the eye.",
+            content: `<h2>Eye Infection</h2>
+            <p>An eye infection happens when germs like bacteria, viruses, or fungi get into the eye or the area around it. It can affect the eyelids, the cornea, or the white part of the eye. Eye infections are common and can happen to anyone.</p>
+            <p>The body fights the infection by making more tears and causing swelling. This helps fight germs but can also make the eye red, puffy, or uncomfortable. Some eye infections can spread to others through direct contact or shared items.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Eye infections can cause different problems. Common signs include:</p>
+            <ul>
+            <li>Red or pink eyes</li>
+            <li>Swollen eyelids or skin around the eyes</li>
+            <li>Discharge or crust around the eyes</li>
+            <li>Itching, burning, or discomfort</li>
+            <li>Blurry vision or sensitivity to light sometimes</li>
+            </ul>
+            <p>The body's response helps fight the infection, but it also causes these symptoms. Noticing signs early can help stop the infection from getting worse or spreading.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Eye health. https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment</p>
+            <p>National Health Service. (n.d.). Eye infections. https://www.nhs.uk/conditions/eye-infections/</p>
+            <p>Mayo Clinic. (n.d.). Conjunctivitis (pink eye). https://www.mayoclinic.org/diseases-conditions/pink-eye/symptoms-causes/syc-20376359</p>`
+
+        }
+    ],
+    "Fever": [
+        {
+            title: "Fever",
+            preview: "A fever is when the body's temperature goes higher than normal, usually because of an infection or illness. It is a common sign that the body is fighting germs like bacteria or viruses.",
+            content: `<h2>Fever</h2>
+            <p>A fever is when the body's temperature goes higher than normal, usually because of an infection or illness. It is a common sign that the body is fighting germs like bacteria or viruses. Fever is not a disease by itself; it is the body's way of protecting itself.</p>
+            <p>When the body senses an infection, it releases chemicals that raise the temperature. This makes it harder for germs to grow and helps the immune system work better. Fevers can be mild or high depending on the cause.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Fever can come with other symptoms, depending on the illness. Common signs include:</p>
+            <ul>
+            <li>High body temperature</li>
+            <li>Sweating or chills</li>
+            <li>Headache or body aches</li>
+            <li>Feeling tired or weak</li>
+            <li>Loss of appetite or dehydration</li>
+            </ul>
+            <p>The body raises its temperature to fight infection or illness. Mild fevers can help the body, but very high or long-lasting fevers may be serious and need medical attention.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Fever. https://www.who.int/news-room/fact-sheets/detail/fever</p>
+            <p>National Health Service. (n.d.). Fever in adults. https://www.nhs.uk/conditions/fever-in-adults/</p>
+            <p>Mayo Clinic. (n.d.). Fever. https://www.mayoclinic.org/symptoms/fever/basics/definition/sym-20050957</p>`
+
+        }
+    ],
+    "Fibroids": [
+        {
+            title: "Fibroids",
+            preview: "Fibroids are growths that form in or on the uterus. Fibroids are not cancer, but they can affect comfort and menstrual cycles. Fibroids are common during the childbearing years.",
+            content: `<h2>Fibroids</h2>
+            <p>Fibroids are growths that form in or on the uterus. The uterus is the organ where a baby grows during pregnancy. Fibroids are not cancer, but they can affect comfort and menstrual cycles.</p>
+            <p>Fibroids are common during the childbearing years. Some people have no symptoms. Others may notice changes in their periods or pelvic area.</p>
+
+            <h3>Symptoms and Causes</h3>
+            <p>Many fibroids are small and do not cause problems. Larger fibroids may press on nearby organs.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Heavy or long periods</li>
+                <li>Pelvic pressure or fullness</li>
+                <li>Frequent urination</li>
+                <li>Lower back pain</li>
+            </ul>
+            <p>Some people may also feel bloating or mild cramping. The exact cause is not fully known. Hormones such as estrogen may influence growth. Family history and age may also increase risk.</p>
+
+            <h3>Care and Treatment</h3>
+            <p>Treatment depends on symptoms, size, and location. Some people only need regular checkups to monitor growth. Others may use medicine to help manage bleeding or pain.</p>
+            <p>In some cases, procedures or surgery may be considered. A health care provider can explain options based on personal health needs.</p>
+            <p>Many fibroids shrink after menopause. Most fibroids cause few problems, and people can continue normal activities with routine care.</p>
+
+            <h3>References</h3>
+            <p>Stewart, E. A., Cookson, C. L., Gandolfo, R. A., & Schulze-Rath, R. (2017). Epidemiology of uterine fibroids. Clinical Obstetrics and Gynecology, 60(1), 2–15.</p>
+            <p>Bulun, S. E. (2013). Uterine fibroids. New England Journal of Medicine, 369(14), 1344–1355.</p>`
+        }
+    ],
+    "Fibromyalgia": [
+        {
+            title: "Fibromyalgia",
+            preview: "Fibromyalgia is a long-term condition that causes pain in many parts of the body. The pain often affects muscles and soft tissues. Fibromyalgia also changes how the brain senses pain.",
+            content: `<h2>Fibromyalgia</h2>
+            <p>Fibromyalgia is a long-term condition that causes pain in many parts of the body. The pain often affects muscles and soft tissues. Soft tissues, such as tendons and ligaments, help the body move and stay stable.</p>
+            <p>Fibromyalgia also changes how the brain senses pain. Because of this, normal touch or pressure may feel more painful than usual.</p>
+
+            <h3>Symptoms and Causes</h3>
+            <p>Symptoms can be different for each person. The pain may feel dull, aching, or constant.</p>
+            <p>Common signs include:</p>
+            <ul>
+                <li>Muscle pain in many areas</li>
+                <li>Feeling very tired</li>
+                <li>Trouble sleeping</li>
+                <li>Problems with memory or focus</li>
+            </ul>
+            <p>Some people also have headaches or mood changes.</p>
+            <p>Doctors do not know the exact cause of fibromyalgia. It may be linked to changes in how the brain and nerves handle pain. Symptoms may start or get worse after:</p>
+            <ul>
+                <li>Stress</li>
+                <li>Illness</li>
+                <li>Injury</li>
+                <li>Poor sleep</li>
+            </ul>
+
+            <h3>Care and Daily Management</h3>
+            <p>There is no cure for fibromyalgia. Treatment can help manage symptoms. Doctors may suggest medicine, gentle exercise, and ways to lower stress.</p>
+            <p>Light activity, such as walking or stretching, may help keep muscles healthy. Good sleep habits may also help with fatigue.</p>
+            <p>Regular medical care can help track symptoms and adjust treatment. Many people with fibromyalgia find ways to manage symptoms and continue daily activities.</p>
+
+            <h3>References</h3>
+            <p>Clauw, D. J. (2014). Fibromyalgia: A clinical review. Journal of the American Medical Association, 311(15), 1547–1555.</p>
+            <p>Wolfe, F., Clauw, D. J., Fitzcharles, M. A., Goldenberg, D. L., Katz, R. S., Mease, P., Russell, A. S., Russell, I. J., & Winfield, J. B. (2010). The American College of Rheumatology preliminary diagnostic criteria for fibromyalgia. Arthritis Care & Research, 62(5), 600–610.</p>`
+        }
+    ],
+    "Food Poisoning": [
+        {
+            title: "Food Poisoning",
+            preview: "Food poisoning is an illness caused by eating food contaminated with harmful bacteria, viruses, or parasites. Anyone can get it. It can come from undercooked food, unwashed fruits or vegetables, or food that was stored wrong.",
+            content: `<h2>Food Poisoning</h2>
+            <p>Food poisoning is an illness caused by eating food contaminated with harmful bacteria, viruses, or parasites. Anyone can get it. It can come from undercooked food, unwashed fruits or vegetables, or food that was stored wrong. The body reacts to the germs and their toxins, which can upset your stomach and make you feel sick.</p>
+            <p>The immune system fights the germs, which can make symptoms start soon after eating. Food poisoning usually goes away in a short time, but it can be serious for young children, older adults, or people with weak immune systems.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms of food poisoning can vary depending on the cause. Common signs include:</p>
+            <ul>
+            <li>Nausea or vomiting</li>
+            <li>Diarrhea or stomach cramps</li>
+            <li>Fever or chills</li>
+            <li>Headache or muscle aches</li>
+            <li>Dehydration</li>
+            </ul>
+            <p>The body tries to get rid of the germs, which causes vomiting, diarrhea, and other symptoms. Noticing these signs early can help you feel better and avoid more serious problems.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Food safety. https://www.who.int/news-room/fact-sheets/detail/food-safety</p>
+            <p>National Health Service. (n.d.). Food poisoning. https://www.nhs.uk/conditions/food-poisoning/</p>
+            <p>Mayo Clinic. (n.d.). Food poisoning. https://www.mayoclinic.org/diseases-conditions/food-poisoning/symptoms-causes/syc-20356230</p>`
+
+        }
+    ],
+    "Fungal Infection": [
+        {
+            title: "Fungal Infection",
+            preview: "A fungal infection happens when fungi grow on or inside the body in an uncontrolled way. Fungi are tiny organisms found in the environment and on our skin. They usually don't cause harm. But, if the immune system is weak or the skin is damaged, infections can happen.",
+            content: `<h2>Fungal Infection</h2>
+            <p>A fungal infection happens when fungi grow on or inside the body in an uncontrolled way. Fungi are tiny organisms found in the environment and on our skin. They usually don't cause harm. But, if the immune system is weak or the skin is damaged, infections can happen. Fungal infections can affect the skin, nails, mouth, or internal organs.</p>
+            <p>The body reacts to fungal growth with inflammation. You may see redness, and sometimes you might feel itching or pain. Many fungal infections are mild, but some can be serious. This is especially true for people with weak immune systems.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms of fungal infections depend on the area affected. Common signs include:</p>
+            <ul>
+            <li>Red, itchy, or scaly skin patches</li>
+            <li>Blisters or cracked skin in some cases</li>
+            <li>Nail thickening, discoloration, or crumbling</li>
+            <li>White patches in the mouth or throat (oral thrush)</li>
+            <li>Fatigue or fever if the infection spreads internally</li>
+            </ul>
+            <p>The immune system's response to fungal growth causes most of the discomfort. Quick recognition can stop the infection from getting worse or spreading.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Fungal infections. https://www.who.int/news-room/fact-sheets/detail/fungal-infections</p>
+            <p>National Health Service. (n.d.). Fungal infections. https://www.nhs.uk/conditions/fungal-infections/</p>
+            <p>Mayo Clinic. (n.d.). Fungal infections. https://www.mayoclinic.org/diseases-conditions/fungal-infections/symptoms-causes/syc-20351787</p>`
+
+        }
+    ],
+    "Gallbladder Disease": [
+        {
+            title: "Gallbladder Disease",
+            preview: "Gallbladder disease affects the gallbladder, a small organ under the liver that stores bile. Gallbladder disease often involves gallstones, which are hard pieces that form in the gallbladder.",
+            content: `<h2>Gallbladder Disease</h2>
+            <p>Gallbladder disease affects the gallbladder, a small organ under the liver that stores bile. Bile is a digestive liquid that helps the body break down fat.</p>
+            <p>Gallbladder disease often involves gallstones. Gallstones are hard pieces made from bile, cholesterol, and other substances that form in the gallbladder.</p>
+
+            <h3>Symptoms and Risk</h3>
+            <p>Some people with gallstones have no symptoms. Problems can occur if a stone blocks a bile duct. A bile duct is a small tube that carries bile.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Pain in the upper right belly</li>
+                <li>Nausea</li>
+                <li>Vomiting</li>
+                <li>Fever</li>
+            </ul>
+            <p>The pain may begin suddenly and last for a few hours. Risk may increase with age, family history, or being overweight. Eating a diet high in fat may also raise risk.</p>
+
+            <h3>Treatment and Care</h3>
+            <p>Treatment depends on symptoms. If gallstones cause pain often, doctors may suggest surgery. This surgery removes the gallbladder. Many people live normal, healthy lives without it.</p>
+            <p>Mild cases may improve with diet changes. Eating balanced meals and limiting fatty foods may help reduce symptoms.</p>
+            <p>Regular medical care helps monitor symptoms. Treatment can help reduce pain and help the body heal.</p>
+
+            <h3>References</h3>
+            <p>Stinton, L. M., & Shaffer, E. A. (2012). Epidemiology of gallbladder disease. Gastroenterology Clinics of North America, 41(2), 157–169.</p>
+            <p>Shaffer, E. A. (2006). Epidemiology and risk factors for gallstone disease. Best Practice & Research Clinical Gastroenterology, 20(6), 981–996.</p>`
+        }
+    ],
+    "Gallbladder Inflammation": [
+        {
+            title: "What Is Gallbladder Inflammation?",
+            preview: "Gallbladder inflammation is swelling and irritation of the gallbladder. This condition is also called cholecystitis.",
+            content: `<h2>What Is Gallbladder Inflammation?</h2>
+            <p>Gallbladder inflammation is swelling and irritation of the gallbladder. This condition is also called cholecystitis.</p>
+            <p>The gallbladder is a small organ located under the liver that stores bile, a fluid that helps digest fat. Gallbladder inflammation often occurs when a gallstone blocks the tube that carries bile from the gallbladder. When bile cannot flow normally, the gallbladder can become inflamed.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms often begin suddenly and may become severe.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Pain in the upper right side of the abdomen</li>
+            <li>Pain that spreads to the back or right shoulder</li>
+            <li>Fever</li>
+            <li>Nausea or vomiting</li>
+            </ul>
+            <p>Some people may also experience tenderness in the abdomen or pain after eating fatty foods.</p>
+
+            <h3>How Gallbladder Inflammation Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose gallbladder inflammation by reviewing symptoms and examining the abdomen. Imaging tests such as ultrasound or CT scans are often used to look for gallstones or swelling in the gallbladder. Blood tests may also help check for signs of infection or inflammation.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Gallbladder inflammation can be serious and may require medical care in a hospital.</p>
+            <p>Treatment may include:</p>
+            <ul>
+            <li>Antibiotics to treat infection</li>
+            <li>Medications to control pain</li>
+            <li>Surgery to remove the gallbladder if symptoms are severe or repeated</li>
+            </ul>
+            <p>Prompt treatment can help prevent complications and relieve symptoms.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2024). Cholecystitis.</p>
+            <p>Cleveland Clinic. (2023). Cholecystitis (Gallbladder Inflammation).</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2017). Gallstones.</p>`
+
+        }
+    ],
+    "Gallstones": [
+        {
+            title: "Gallstones",
+            preview: "Gallstones are hard pieces that form in the gallbladder, a small organ under the liver. The gallbladder stores bile, a liquid that helps digest fats. Gallstones happen when bile has too much cholesterol or waste, causing solid pieces to form.",
+            content: `<h2>Gallstones</h2>
+            <p>Gallstones are hard pieces that form in the gallbladder, a small organ under the liver. The gallbladder stores bile, a liquid that helps digest fats. Gallstones happen when bile has too much cholesterol or waste, causing solid pieces to form. Gallstones can be very small or as big as a golf ball.</p>
+            <p>Many people have gallstones without knowing it. Problems happen when a stone blocks a bile duct and stops bile from flowing. This can cause pain and other digestion problems. Gallstones are more common as people get older but can affect anyone.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Gallstones may not cause problems until they block a bile duct. Common signs include:</p>
+            <ul>
+            <li>Sudden pain in the upper right belly</li>
+            <li>Pain that spreads to the back or right shoulder</li>
+            <li>Nausea or vomiting</li>
+            <li>Bloating or discomfort after eating</li>
+            <li>Yellow skin or eyes in serious cases</li>
+            </ul>
+            <p>The pain usually starts quickly and can last from minutes to hours. These symptoms happen because bile cannot move normally through the digestive system when a duct is blocked.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Digestive diseases. https://www.who.int/health-topics/digestive-diseases</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (n.d.). Gallstones. https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones</p>
+            <p>Healthdirect Australia. (n.d.). Gallstones. https://www.healthdirect.gov.au/gallstones</p>`
+
+        }
+    ],
+    "Gastroenteritis": [
+        {
+            title: "Gastroenteritis",
+            preview: "Gastroenteritis is when the stomach and intestines become inflamed. It is usually caused by a virus or bacteria. People often call it the \"stomach flu,\" but it is not related to the flu virus.",
+            content: `<h2>Gastroenteritis</h2>
+            <p>Gastroenteritis is when the stomach and intestines become inflamed. It is usually caused by a virus or bacteria. People often call it the "stomach flu," but it is not related to the flu virus. Gastroenteritis can spread through dirty food, water, or close contact with someone who is sick. Anyone can get it, but it is most common in children.</p>
+            <p>Irritation in the stomach and intestines can cause vomiting, diarrhea, and stomach pain. Gastroenteritis usually goes away in a few days. But it can cause dehydration, especially in young children and older adults.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms can start suddenly and range from mild to severe. Common signs include:</p>
+            <ul>
+            <li>Diarrhea or loose stools</li>
+            <li>Nausea and vomiting</li>
+            <li>Stomach cramps or pain</li>
+            <li>Fever and chills</li>
+            <li>Headache or muscle aches</li>
+            </ul>
+            <p>The body reacts to the infection by getting rid of waste quickly. This causes diarrhea and vomiting. Losing fluids fast can lead to dehydration so it is important to replenish them.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Diarrheal disease. https://www.who.int/news-room/fact-sheets/detail/diarrheal-disease</p>
+            <p>National Health Service. (n.d.). Gastroenteritis. https://www.nhs.uk/conditions/gastroenteritis/</p>
+            <p>Australian Government Department of Health. (n.d.). Gastroenteritis. https://www.health.gov.au/health-topics/gastroenteritis</p>`
+
+        }
+    ],
+    "Generalized Anxiety Disorder": [
+        {
+            title: "Generalized Anxiety Disorder",
+            preview: "Generalized anxiety disorder, or GAD, is a condition that causes ongoing worry. The worry often focuses on daily concerns such as work, school, health, or family. It may feel hard to control.",
+            content: `<h2>Generalized Anxiety Disorder</h2>
+            <p>Generalized anxiety disorder, or GAD, is a condition that causes ongoing worry. The worry often focuses on daily concerns such as work, school, health, or family. It may feel hard to control.</p>
+            <p>Feeling anxious at times is normal. With GAD, the worry happens most days and lasts for many months.</p>
+
+            <h3>Symptoms and Effects</h3>
+            <p>GAD affects both the mind and body. The worry may feel constant and tiring.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Frequent worry</li>
+                <li>Trouble relaxing</li>
+                <li>Sleep problems</li>
+                <li>Muscle tension</li>
+                <li>Trouble focusing</li>
+            </ul>
+            <p>Symptoms usually last at least six months. The worry may affect work, school, or relationships.</p>
+
+            <h3>Treatment and Support</h3>
+            <p>GAD can be treated. Care may include counseling, medicine, or both. Cognitive behavioral therapy, or CBT, is a type of therapy that helps people manage anxious thoughts. Regular exercise, steady sleep, and simple stress skills may also help calm the mind. Learning ways to manage stress and worry can help many people with GAD feel more in control.</p>
+
+            <h3>References</h3>
+            <p>Bandelow, B., Michaelis, S., & Wedekind, D. (2017). Treatment of anxiety disorders. Dialogues in Clinical Neuroscience, 19(2), 93–107.</p>
+            <p>Stein, M. B., & Sareen, J. (2015). Generalized anxiety disorder. New England Journal of Medicine, 373(21), 2059–2068.</p>`
+        }
+    ],
+    "Gestational Diabetes": [
+        {
+            title: "Gestational Diabetes",
+            preview: "Gestational diabetes is a type of diabetes that develops during pregnancy, typically after the 24th week. It occurs when the body's ability to produce or respond to insulin becomes impaired during pregnancy, leading to elevated blood sugar levels.",
+            content: `<h2>What Is Gestational Diabetes?</h2>
+            <p>Gestational diabetes is a type of diabetes that develops during pregnancy, typically after the 24th week. It occurs when the body's ability to produce or respond to insulin becomes impaired during pregnancy, leading to elevated blood sugar levels. Though gestational diabetes is temporary and generally resolves after childbirth, it requires careful monitoring and management to ensure the health and safety of both the mother and baby.</p>
+            <p>During pregnancy, hormonal changes can interfere with the body's insulin function. The placenta, which nourishes the growing baby, produces hormones that can increase insulin resistance, making it harder for the body to regulate blood sugar levels. Normally, the pancreas compensates by producing more insulin, but in some cases, it is unable to keep up, resulting in high blood sugar levels.</p>
+
+            <h3>Why It Is Important</h3>
+            <p>Unlike type 1 or type 2 diabetes, gestational diabetes does not cause permanent damage to the pancreas or require lifelong management. However, the condition can lead to complications if left untreated. High blood sugar levels can cause the baby to grow too large, a condition known as macrosomia, which can make delivery more difficult and increase the risk of injuries during birth. In some cases, the baby may also experience low blood sugar levels shortly after birth.</p>
+            <p>Women with gestational diabetes are also at higher risk for preterm labor, high blood pressure, and preeclampsia, a condition characterized by high blood pressure and organ damage. In addition, babies born to mothers with gestational diabetes are more likely to develop type 2 diabetes later in life.</p>
+
+            <h3>Risk Factors and Diagnosis</h3>
+            <p>The exact cause of gestational diabetes is not always clear, but certain factors increase the likelihood of developing the condition. These include being overweight, having a family history of diabetes, being over the age of 25, and having had gestational diabetes in a previous pregnancy. However, it's important to note that gestational diabetes can also develop in women without any apparent risk factors, making regular screening essential.</p>
+            <p>The diagnosis of gestational diabetes is typically made through a blood test, which measures how well the body processes glucose. If blood sugar levels are higher than normal, additional testing may be needed to confirm the diagnosis. Once gestational diabetes is diagnosed, healthcare providers work closely with the expectant mother to develop a management plan.</p>
+
+            <h3>Managing Gestational Diabetes</h3>
+            <p>Managing gestational diabetes often involves lifestyle changes, such as adopting a balanced diet, increasing physical activity, and monitoring blood sugar levels regularly. A diet that focuses on nutrient-dense, low-glycemic foods can help stabilize blood sugar, while regular exercise can help the body use insulin more effectively. In some cases, medication such as insulin injections or oral medications may be needed to control blood sugar levels.</p>
+            <p>Gestational diabetes is a manageable condition. Regular monitoring, working with healthcare providers, and making healthy lifestyle choices are key to managing gestational diabetes effectively. Through proactive care, the risks associated with the condition can be minimized, allowing both mother and baby to thrive.</p>
+
+            <h3>References</h3>
+            <p>American Diabetes Association. (2023). Gestational Diabetes. Retrieved from www.diabetes.org</p>
+            <p>Mayo Clinic. (2023). Gestational Diabetes. Retrieved from www.mayoclinic.org</p>
+            <p>Centers for Disease Control and Prevention. (2022). Gestational Diabetes. Retrieved from www.cdc.gov</p>`
+
+        }
+    ],
+    "Gingivitis": [
+        {
+            title: "What Is Gingivitis?",
+            preview: "Gingivitis is a mild form of gum disease that causes irritation and inflammation of the gums. It often develops when plaque builds up on the teeth near the gum line.",
+            content: `<h2>What Is Gingivitis?</h2>
+            <p>Gingivitis is a mild form of gum disease that causes irritation and inflammation of the gums. It often develops when plaque builds up on the teeth near the gum line.</p>
+            <p>Plaque is a sticky film of bacteria that forms on teeth every day. If it is not removed with regular brushing and flossing, it can irritate the gums and lead to gingivitis.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms may be mild at first and can sometimes go unnoticed.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Red or swollen gums</li>
+            <li>Bleeding when brushing or flossing</li>
+            <li>Tender gums</li>
+            <li>Puffy gums around the teeth</li>
+            </ul>
+            <p>Many people do not experience significant pain in the early stages.</p>
+
+            <h3>How Gingivitis Is Diagnosed</h3>
+            <p>A dentist or dental professional may diagnose gingivitis by examining the gums and teeth during a dental checkup. They may look for signs of inflammation, bleeding, or plaque buildup around the gum line.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Gingivitis is usually reversible with proper oral care.</p>
+            <p>Treatment and prevention may include:</p>
+            <ul>
+            <li>Brushing teeth twice a day with fluoride toothpaste</li>
+            <li>Flossing daily to remove plaque between teeth</li>
+            <li>Professional dental cleanings</li>
+            <li>Maintaining regular dental checkups</li>
+            </ul>
+            <p>If gingivitis is not treated, it can progress to a more serious gum condition called periodontitis.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). About Periodontal (Gum) Disease.</p>
+            <p>Cleveland Clinic. (2023). Gingivitis.</p>
+            <p>Mayo Clinic. (2023). Gingivitis.</p>`
+
+        }
+    ],
+    "Glaucoma": [
+        {
+            title: "Glaucoma",
+            preview: "Glaucoma, often referred to as the \"silent thief of sight,\" is a group of eye conditions that damage the optic nerve and can lead to irreversible vision loss. With no early symptoms, glaucoma often progresses unnoticed until significant damage has occurred.",
+            content: `<h2>Understanding & Managing Glaucoma</h2>
+            <p>Glaucoma, often referred to as the "silent thief of sight," is a group of eye conditions that damage the optic nerve and can lead to irreversible vision loss. With no early symptoms, glaucoma often progresses unnoticed until significant damage has occurred. It's critical to understand glaucoma, its risk factors, and strategies for detection and management.</p>
+
+            <h3>Understanding Glaucoma</h3>
+            <p>Glaucoma is characterized by increased intraocular pressure (IOP), which can damage the optic nerve—the vital link between the eye and the brain. The two main types of glaucoma are open-angle and angle-closure, with open-angle being the most common form.</p>
+
+            <h3>Risk Factors</h3>
+            <p>Several factors increase the risk of developing glaucoma, including age, family history, race (more common in African Americans), and certain medical conditions like diabetes. Elevated intraocular pressure is a primary risk factor, although some individuals with normal eye pressure may still develop glaucoma.</p>
+
+            <h3>Detecting Glaucoma</h3>
+            <p>Regular eye examinations are crucial for early glaucoma detection. Eye doctors measure intraocular pressure, examine the optic nerve, and assess visual field changes. Advances in diagnostic technologies, such as optical coherence tomography (OCT), enhance the precision of glaucoma diagnosis.</p>
+
+            <h3>Lifestyle Considerations</h3>
+            <p>Certain lifestyle changes can complement medical interventions and promote overall eye health:</p>
+            <ul>
+            <li><strong>Regular Exercise:</strong> Physical activity can help regulate intraocular pressure and improve blood flow to the optic nerve.</li>
+            <li><strong>Healthy Diet:</strong> Antioxidant-rich foods, such as leafy greens, fruits, and fish, may support eye health.</li>
+            <li><strong>Avoiding Smoking:</strong> Smoking can elevate intraocular pressure and contribute to optic nerve damage.</li>
+            </ul>
+            <p>Glaucoma poses a serious threat to vision, emphasizing the importance of regular eye examinations for early detection. As a leading cause of irreversible blindness, glaucoma warrants proactive measures, especially for those with risk factors. By understanding the condition, adopting healthy lifestyle choices, and seeking timely medical intervention, individuals can safeguard their vision and reduce the impact of glaucoma on their overall wellbeing.</p>
+
+            <h3>Reference</h3>
+            <p>Quigley, H. A., & Broman, A. T. (2006). The number of people with glaucoma worldwide in 2010 and 2020. British Journal of Ophthalmology, 90(3), 262-267.</p>`
+
+        }
+    ],
+    "Goiter": [
+        {
+            title: "Goiter",
+            preview: "Goiter is a condition where the thyroid gland becomes enlarged. The thyroid is a small, butterfly-shaped gland located in the front of the neck. It helps control how the body uses energy by releasing hormones into the bloodstream.",
+            content: `<h2>Goiter</h2>
+            <p>Goiter is a condition where the thyroid gland becomes enlarged. The thyroid is a small, butterfly-shaped gland located in the front of the neck. It helps control how the body uses energy by releasing hormones into the bloodstream. When the thyroid does not get enough iodine or has trouble making hormones, it may grow larger than normal.</p>
+            <p>Goiter can affect people of all ages and may develop slowly over time. In some cases, the thyroid works normally even though it is enlarged. In other cases, hormone levels may be too high or too low, which can affect many body functions.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Goiter may be mild and hard to notice at first. As the thyroid grows, symptoms may appear, such as:</p>
+            <ul>
+            <li>A visible swelling at the base of the neck</li>
+            <li>Tightness or pressure in the throat</li>
+            <li>Trouble swallowing or breathing</li>
+            <li>Hoarseness or voice changes</li>
+            <li>Coughing not linked to a cold</li>
+            </ul>
+            <p>The symptoms happen because the enlarged thyroid presses on nearby tissues in the neck. The size and impact of a goiter can vary widely from person to person.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Iodine deficiency. https://www.who.int/news-room/fact-sheets/detail/iodine-deficiency</p>
+            <p>National Health Service. (n.d.). Goitre. https://www.nhs.uk/conditions/goitre/</p>
+            <p>Healthdirect Australia. (n.d.). Goitre. https://www.healthdirect.gov.au/goitre</p>`
+
+        }
+    ],
+    "Gout": [
+        {
+            title: "Gout",
+            preview: "Gout is a form of arthritis that causes sudden and severe joint pain. It happens when uric acid builds up in the blood and forms sharp crystals in a joint. The big toe is the most common joint affected, but gout can also involve the ankles, knees, hands, or elbows.",
+            content: `<h2>Gout</h2>
+            <p>Gout is a form of arthritis that causes sudden and severe joint pain. It happens when uric acid builds up in the blood and forms sharp crystals in a joint. The big toe is the most common joint affected, but gout can also involve the ankles, knees, hands, or elbows.</p>
+            <p>Uric acid is a waste product made when the body breaks down certain foods. When the body cannot remove enough uric acid, levels rise and crystals can form. Gout can affect adults of any age and is more common in men and older adults.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Gout attacks often begin suddenly and can be very painful. Common signs include:</p>
+            <ul>
+            <li>Intense joint pain, often starting at night</li>
+            <li>Swelling and redness around the joint</li>
+            <li>Warmth and tenderness in the affected area</li>
+            <li>Stiffness or limited movement after pain improves</li>
+            </ul>
+            <p>The pain happens because the immune system reacts to the uric acid crystals in the joint. This reaction causes inflammation, which leads to swelling, redness, and severe discomfort.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Musculoskeletal conditions. https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions</p>
+            <p>National Health Service. (n.d.). Gout. https://www.nhs.uk/conditions/gout/</p>
+            <p>Arthritis Australia. (n.d.). Gout. https://arthritisaustralia.com.au/types-of-arthritis/gout/</p>`
+
+        }
+    ],
+    "Graves' Disease": [
+        {
+            title: "Graves' Disease",
+            preview: "Graves' disease affects the thyroid gland, a small gland in the front of the neck. In Graves' disease, the immune system signals the thyroid to make too much hormone.",
+            content: `<h2>Graves' Disease</h2>
+            <p>Graves' disease affects the thyroid gland, a small gland in the front of the neck. The thyroid helps control metabolism, energy use, and body temperature.</p>
+            <p>In Graves' disease, the immune system signals the thyroid to make too much hormone. This causes many body functions to speed up.</p>
+
+            <h3>Symptoms and Effects</h3>
+            <p>When thyroid levels are high, many parts of the body are affected. Symptoms may start slowly.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Fast heartbeat</li>
+                <li>Weight loss</li>
+                <li>Feeling nervous</li>
+                <li>Trouble sleeping</li>
+            </ul>
+            <p>Some people may notice swelling in the neck. The eyes may feel dry or look more open than usual.</p>
+
+            <h3>Treatment and Care</h3>
+            <p>Graves' disease can be treated. Doctors may use medicine to lower thyroid hormone levels. Other treatments may include radioactive iodine or surgery.</p>
+            <p>Regular blood tests help check hormone levels. Ongoing medical care helps keep symptoms under control.</p>
+
+            <h3>References</h3>
+            <p>Ross, D. S., Burch, H. B., Cooper, D. S., Greenlee, M. C., Laurberg, P., Maia, A. L., Rivkees, S. A., Samuels, M., Sosa, J. A., Stan, M. N., & Walter, M. A. (2016). 2016 American Thyroid Association guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis. Thyroid, 26(10), 1343–1421.</p>
+            <p>Smith, T. J., & Hegedüs, L. (2016). Graves' disease. New England Journal of Medicine, 375(16), 1552–1565.</p>`
+        }
+    ],
+    "Gum Disease": [
+        {
+            title: "Recognizing Early Gum Disease And Exploring Treatment Options",
+            preview: "Gum disease, also referred to as periodontal disease, is a condition that can progress if left unaddressed. Being aware of early indicators may help individuals take steps to manage symptoms and reduce the likelihood of complications.",
+            content: `<h2>Recognizing Early Gum Disease And Exploring Treatment Options</h2>
+            <p>Gum disease, also referred to as periodontal disease, is a condition that can progress if left unaddressed. Being aware of early indicators may help individuals take steps to manage symptoms and reduce the likelihood of complications. Consider these factors involved in developing, recognizing and preventing gum disease.</p>
+
+            <h3>Possible Early Indicators Of Gum Disease</h3>
+            <ul>
+            <li><strong>Gums That Bleed Easily:</strong> Bleeding during oral hygiene routines, like brushing or flossing, can suggest the need for closer attention.</li>
+            <li><strong>Changes In Gum Appearance:</strong> Swelling or deeper redness in the gums could point to underlying concerns.</li>
+            <li><strong>Unpleasant Breath Or Taste:</strong> Persistent bad breath or a lingering bad taste might result from bacteria buildup in hard-to-reach areas.</li>
+            <li><strong>Gum Recession:</strong> A noticeable shift in gum position, causing teeth to appear longer, may signal early gum issues.</li>
+            <li><strong>Tooth Sensitivity:</strong> Increased sensitivity near the gumline can indicate changes in gum tissue health.</li>
+            <li><strong>Changes In Tooth Stability:</strong> Teeth that feel less secure in their sockets may be associated with deeper gum issues.</li>
+            </ul>
+
+            <h3>Treatment And Care Options</h3>
+            <p>In the early stages, regular dental cleanings can help remove plaque and reduce gum swelling. Good daily care, like brushing, flossing, and using a mouth rinse, also helps keep gums healthy.</p>
+            <p>For more serious gum problems, a deep cleaning may be needed to remove buildup below the gums and help them heal. Sometimes, special rinses or treatments are used to reduce bacteria. In advanced cases, surgery may be an option.</p>
+            <p>Healthy habits matter too. Avoiding tobacco and managing health conditions, like diabetes, can help improve gum health and support healing.</p>
+            <p>Consistency with oral care routines, regular visits to a dental professional, and seeking guidance if changes are noticed can help with long-term oral health. Early identification and thoughtful care may make a significant difference in managing gum health.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization: Oral Health</p>
+            <p>Mayo Clinic: Gum Disease</p>
+            <p>National Health Service (NHS) Dental Advice</p>`
+
+        }
+    ],
+    "Hand, Foot, and Mouth Disease": [
+        {
+            title: "What Is Hand, Foot, and Mouth Disease?",
+            preview: "Hand, foot, and mouth disease is a common viral illness that mostly affects infants and young children. It is usually caused by viruses in the enterovirus group.",
+            content: `<h2>What Is Hand, Foot, and Mouth Disease?</h2>
+            <p>Hand, foot, and mouth disease is a common viral illness that mostly affects infants and young children. It is usually caused by viruses in the enterovirus group.</p>
+            <p>The illness spreads through close contact with an infected person, including coughing, sneezing, touching contaminated surfaces, or contact with saliva or fluid from blisters.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Symptoms often begin a few days after exposure to the virus.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Fever</li>
+            <li>Sore throat</li>
+            <li>Painful sores inside the mouth</li>
+            <li>A rash on the hands, feet, or sometimes other areas of the body</li>
+            </ul>
+            <p>Some children may also feel tired or have a reduced appetite.</p>
+
+            <h3>How Hand, Foot, and Mouth Disease Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose the illness by examining the rash and mouth sores and reviewing symptoms. Laboratory tests are usually not needed unless symptoms are unusual or severe.</p>
+
+            <h3>Treatment and Recovery</h3>
+            <p>There is no specific cure because the illness is caused by a virus. Treatment focuses on relieving symptoms and helping the body recover.</p>
+            <p>Helpful steps during recovery may include:</p>
+            <ul>
+            <li>Getting plenty of rest</li>
+            <li>Drinking fluids to stay hydrated</li>
+            <li>Using medications recommended by a healthcare provider to reduce pain or fever</li>
+            </ul>
+            <p>Most people recover within about 7 to 10 days.</p>
+
+            <h3>Prevention</h3>
+            <p>Good hygiene helps reduce the spread of the virus.</p>
+            <p>Helpful prevention steps include:</p>
+            <ul>
+            <li>Washing hands frequently with soap and water</li>
+            <li>Cleaning frequently touched surfaces</li>
+            <li>Avoiding close contact with people who are sick</li>
+            </ul>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). Hand, Foot, and Mouth Disease (HFMD).</p>
+            <p>Mayo Clinic. (2025). Hand-foot-and-mouth disease.</p>
+            <p>Cleveland Clinic. (2023). Hand, Foot and Mouth Disease.</p>`
+
+        }
+    ],
+    "Hashimoto's Thyroiditis": [
+        {
+            title: "Hashimoto's Thyroiditis",
+            preview: "Hashimoto's thyroiditis is a condition that affects the thyroid gland. In Hashimoto's thyroiditis, the immune system slowly damages the thyroid. Over time, the thyroid may not make enough hormone.",
+            content: `<h2>Hashimoto's Thyroiditis</h2>
+            <p>Hashimoto's thyroiditis is a condition that affects the thyroid gland. The thyroid is a small gland in the neck that helps control how the body uses energy. It affects heart rate, body temperature, and weight.</p>
+            <p>In Hashimoto's thyroiditis, the immune system slowly damages the thyroid. Over time, the thyroid may not make enough hormone.</p>
+
+            <h3>Symptoms and Effects</h3>
+            <p>When thyroid hormone levels are low, the body's processes may slow down. Symptoms often develop gradually.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Feeling tired</li>
+                <li>Weight gain</li>
+                <li>Feeling cold</li>
+                <li>Dry skin</li>
+            </ul>
+            <p>Some people may notice swelling in the neck. This swelling is called a goiter. A goiter is an enlargement of the thyroid gland.</p>
+
+            <h3>Treatment and Monitoring</h3>
+            <p>Hashimoto's thyroiditis is usually treated with thyroid hormone medicine. This medicine replaces the hormone that the body is not making. Blood tests help check hormone levels.</p>
+            <p>Regular medical visits are important. Treatment may need adjustment over time.</p>
+            <p>Ongoing care helps restore hormone balance and manage symptoms.</p>
+
+            <h3>References</h3>
+            <p>Caturegli, P., De Remigis, A., & Rose, N. R. (2014). Hashimoto thyroiditis: Clinical and diagnostic criteria. Autoimmunity Reviews, 13(4–5), 391–397.</p>
+            <p>McLeod, D. S. A., Cooper, D. S., Ladenson, P. W., & Whiteman, D. C. (2012). Autoimmune thyroid disease. Lancet, 379(9821), 1142–1154.</p>`
+        }
+    ],
+    "Hay Fever": [
+        {
+            title: "Hay Fever",
+            preview: "Hay fever, also called allergic rhinitis, is an allergic reaction that affects the nose and eyes. It happens when the immune system reacts to allergens such as pollen, dust mites, or pet dander. These allergens are usually harmless, but the body treats them as a threat.",
+            content: `<h2>Hay Fever</h2>
+            <p>Hay fever, also called allergic rhinitis, is an allergic reaction that affects the nose and eyes. It happens when the immune system reacts to allergens such as pollen, dust mites, or pet dander. These allergens are usually harmless, but the body treats them as a threat.</p>
+            <p>When allergens enter the nose or eyes, the immune system releases histamine, a chemical that causes inflammation. This leads to symptoms that can affect breathing, sleep, and daily comfort. Hay fever can happen at certain times of the year or last all year, depending on the trigger.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Hay fever symptoms can range from mild to severe. Common signs include:</p>
+            <ul>
+            <li>Sneezing and a runny or blocked nose</li>
+            <li>Itchy nose, throat, or eyes</li>
+            <li>Red, watery eyes</li>
+            <li>Postnasal drip or coughing</li>
+            <li>Feeling tired from poor sleep</li>
+            </ul>
+            <p>With the right treatment and avoiding triggers, most people can manage their hay fever and feel more comfortable.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Allergic diseases. https://www.who.int/news-room/fact-sheets/detail/allergic-diseases</p>
+            <p>National Health Service. (n.d.). Hay fever. https://www.nhs.uk/conditions/hay-fever/</p>
+            <p>Allergy UK. (n.d.). Allergic rhinitis. https://www.allergyuk.org/resources/allergic-rhinitis/</p>`
+
+        }
+    ],
+    "Hair Loss": [
+        {
+            title: "What Is Hair Loss?",
+            preview: "Hair loss, also called alopecia, is when hair thins or falls out from the scalp or other parts of the body. It can happen over time or suddenly, and can affect both men and women.",
+            content: `<h2>What Is Hair Loss?</h2>
+            <p>Hair loss, also called alopecia, is when hair thins or falls out from the scalp or other parts of the body. It can happen over time or suddenly, and can affect both men and women. Genetics, aging, hormones, medical conditions, stress, or medications can cause hair loss.</p>
+            <p>While some hair loss is temporary, other types may be permanent. Identifying the cause can help with treatments. Lifestyle changes can slow hair loss and support healthy hair growth.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2023). Hair loss (alopecia).</p>
+            <p>American Academy of Dermatology Association. (2023). Hair loss: Causes and treatment.</p>
+            <p>National Institute of Arthritis and Musculoskeletal and Skin Diseases. (2022). Hair loss.</p>`
+
+        }
+    ],
+    "Headache": [
+        {
+            title: "Headache",
+            preview: "A headache is pain or discomfort in the head, scalp, or neck. It can feel dull, sharp, throbbing, or tight, and the intensity can vary from mild to severe. Headaches are very common and can affect people of all ages.",
+            content: `<h2>Headache</h2>
+            <p>A headache is pain or discomfort in the head, scalp, or neck. It can feel dull, sharp, throbbing, or tight, and the intensity can vary from mild to severe. Headaches are very common and can affect people of all ages. They may occur on their own or as a symptom of another condition.</p>
+            <p>Headaches can be linked to muscle tension, stress, dehydration, illness, or changes in sleep patterns. Some headaches are short and pass quickly, while others may last for hours or even days. The pain happens when nerves, blood vessels, or muscles in the head become irritated.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Headaches can feel different depending on the type and cause. Common signs include:</p>
+            <ul>
+            <li>Pain or pressure in the head or behind the eyes</li>
+            <li>Tightness in the forehead or back of the head</li>
+            <li>Sensitivity to light or sound</li>
+            <li>Nausea or dizziness in some cases</li>
+            <li>Neck or shoulder tension</li>
+            </ul>
+            <p>The body reacts to triggers by sending pain signals through nerves in the head and neck. These signals lead to the discomfort known as a headache and can impact daily activities.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Headache disorders. https://www.who.int/news-room/fact-sheets/detail/headache-disorders</p>
+            <p>National Health Service. (n.d.). Headaches. https://www.nhs.uk/conditions/headaches/</p>
+            <p>Healthdirect Australia. (n.d.). Headaches. https://www.healthdirect.gov.au/headaches</p>`
+
+        }
+    ],
+    "Hearing Loss": [
+        {
+            title: "What Is Hearing Loss?",
+            preview: "Hearing loss is a reduced ability to hear sounds in one or both ears. It can happen over time or suddenly. It can affect people of all ages.",
+            content: `<h2>What Is Hearing Loss?</h2>
+            <p>Hearing loss is a reduced ability to hear sounds in one or both ears. It can happen over time or suddenly. It can affect people of all ages. Causes include aging, repeated loud noises, infections, medications, or genetics.</p>
+            <p>Hearing loss can make it hard to talk, join conversations, or enjoy sounds. Hearing aids can help improve hearing and quality of life. Early detection, hearing protection, and treatment help you live well with hearing loss.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2023). Hearing loss.</p>
+            <p>American Speech-Language-Hearing Association. (2023). Adult hearing loss.</p>
+            <p>National Institute on Deafness and Other Communication Disorders. (2022). Hearing loss: A common problem.</p>`
+
+        }
+    ],
+    "Heart Attack": [
+        {
+            title: "Heart Attack",
+            preview: "A heart attack happens when blood flow to part of the heart is blocked. This usually occurs when a blood vessel that supplies the heart becomes narrowed or clogged. A heart attack is a medical emergency and can affect people of different ages.",
+            content: `<h2>Heart Attack</h2>
+            <p>A heart attack happens when blood flow to part of the heart is blocked. This usually occurs when a blood vessel that supplies the heart becomes narrowed or clogged. A heart attack is a medical emergency and can affect people of different ages.</p>
+            <p>The heart works nonstop to pump blood through the body. When blood flow is reduced, the heart cannot work properly. Damage can begin within minutes, which is why heart attacks can have serious effects on overall health and daily life.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Heart attack symptoms can vary from person to person. Some signs are sudden and strong, while others may feel mild at first. Common symptoms include:</p>
+            <ul>
+            <li>Chest pain, pressure, or squeezing</li>
+            <li>Pain that spreads to the arms, back, neck, jaw, or stomach</li>
+            <li>Shortness of breath</li>
+            <li>Nausea, sweating, or lightheadedness</li>
+            <li>Extreme tiredness</li>
+            </ul>
+            <p>These symptoms happen because the heart muscle is not getting enough oxygen. The body reacts with pain and other warning signs that signal distress in the heart.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Cardiovascular diseases. https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)</p>
+            <p>National Health Service. (n.d.). Heart attack. https://www.nhs.uk/conditions/heart-attack/</p>
+            <p>Heart Foundation Australia. (n.d.). Heart attack. https://www.heartfoundation.org.au/conditions/heart-attack</p>`
+
+        }
+    ],
+    "Heart Disease": [
+        {
+            title: "Heart Disease",
+            preview: "Heart disease is the leading cause of death worldwide, accounting for nearly 18 million deaths annually. It affects people of all ethnic backgrounds and sexes. Many people think of heart disease as a single condition, but it is actually an umbrella term for a range of conditions.",
+            content: `<h2>What Is Heart Disease?</h2>
+            <p>Heart disease is the leading cause of death worldwide, accounting for nearly 18 million deaths annually. It affects people of all ethnic backgrounds and sexes.</p>
+            <p>Many people think of heart disease as a single condition, but it is actually an umbrella term for a range of conditions that affect the heart's structure and function. When the heart is not working properly, it struggles to deliver enough blood, oxygen, and nutrients to the rest of the body, impacting all bodily systems.</p>
+
+            <h3>Causes and Types of Heart Disease</h3>
+            <p>Heart disease can arise from multiple causes, including heart muscle scarring, genetic factors, kidney dysfunction, infections, thyroid issues, aging, rheumatic diseases, heart attacks, pregnancy, certain chemotherapy treatments, high blood pressure, abnormal heart rhythms, and even certain illicit substances.</p>
+            <p>The most common type is coronary artery disease, which occurs when blood vessels supplying the heart become narrowed or blocked. This can lead to reduced blood flow, chest pain, or heart attack. Other types include heart failure, arrhythmias, valvular heart disease, and congenital heart defects.</p>
+            <p>Some forms of heart disease can be silent, especially in female patients. If left unrecognized or untreated, complications can include strokes, cardiogenic shock, pulmonary hypertension, kidney and liver damage, heart failure, cardiac arrest, and dangerous arrhythmias.</p>
+
+            <h3>Recognizing Symptoms</h3>
+            <p>Symptoms of heart disease can vary, but may include:</p>
+            <ul>
+            <li>Chest pain or discomfort</li>
+            <li>Upper back or neck pain</li>
+            <li>Indigestion or heartburn</li>
+            <li>Nausea or vomiting</li>
+            <li>Extreme fatigue</li>
+            <li>Palpitations</li>
+            <li>Dizziness</li>
+            <li>Shortness of breath</li>
+            </ul>
+            <p>Early recognition and evaluation by a healthcare professional are essential to prevent severe complications.</p>
+
+            <h3>Prevention and Recovery</h3>
+            <p>Preventative measures can significantly reduce the likelihood of developing heart disease. Lifestyle changes, including balanced nutrition, regular exercise, stress management, and avoiding tobacco or excessive alcohol, are key.</p>
+            <p>For patients requiring surgery, cardiac rehabilitation programs can support recovery. These supervised programs include monitored exercise, nutritional counseling, and guidance to make long-term lifestyle changes, helping to strengthen the heart and improve overall cardiovascular health.</p>
+
+            <h3>References</h3>
+            <p>American Heart Association. "Heart Disease Facts." AHA, 2023, www.heart.org/en/health-topics/heart-disease.</p>
+            <p>Mayo Clinic Staff. "Heart Disease." Mayo Clinic, 2023, www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118.</p>
+            <p>Centers for Disease Control and Prevention. "Heart Disease." CDC, 2023, www.cdc.gov/heartdisease/facts.htm.</p>`
+
+        }
+    ],
+    "Heart Murmur": [
+        {
+            title: "Heart Murmur",
+            preview: "A heart murmur is an extra sound that occurs during a heartbeat. It is caused by blood moving through the heart in an unusual way. Some heart murmurs are harmless and do not affect heart health, while others may be linked to problems with the heart valves or structure.",
+            content: `<h2>Heart Murmur</h2>
+            <p>A heart murmur is an extra sound that occurs during a heartbeat. It is caused by blood moving through the heart in an unusual way. Some heart murmurs are harmless and do not affect heart health, while others may be linked to problems with the heart valves or structure.</p>
+            <p>Heart murmurs can be present at birth or develop later in life. They are often found during a routine exam when a healthcare provider listens to the heart. A murmur itself is not a disease, but it can signal how well blood flows through the heart.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Many heart murmurs do not cause symptoms. When symptoms are present, they may include:</p>
+            <ul>
+            <li>Shortness of breath</li>
+            <li>Chest discomfort</li>
+            <li>Tiredness or weakness</li>
+            <li>Dizziness or fainting</li>
+            <li>Swelling in the legs or feet</li>
+            </ul>
+            <p>Symptoms occur when the heart has trouble pumping blood effectively. Changes in blood flow can place strain on the heart and affect how oxygen reaches the body.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Heart diseases. https://www.who.int/news-room/fact-sheets/detail/heart-diseases</p>
+            <p>National Health Service. (n.d.). Heart murmurs. https://www.nhs.uk/conditions/heart-murmur/</p>
+            <p>Cleveland Clinic. (n.d.). Heart murmur. https://my.clevelandclinic.org/health/diseases/17083-heart-murmur</p>`
+
+        }
+    ],
+    "Heat Exhaustion": [
+        {
+            title: "Heat Stroke & Heat Exhaustion",
+            preview: "During warmer months, prolonged exposure to high temperatures can place significant stress on the human body. Two common heat-related conditions, heat exhaustion and heat stroke, require quick recognition and appropriate care.",
+            content: `<h2>Heat Stroke & Heat Exhaustion</h2>
+            <p>During warmer months, prolonged exposure to high temperatures can place significant stress on the human body. Two common heat-related conditions, heat exhaustion and heat stroke, require quick recognition and appropriate care. Understanding the difference between the two can help prevent serious health complications.</p>
+
+            <h3>What Is Heat Exhaustion?</h3>
+            <p>Heat exhaustion occurs when the body loses too much water and salt through sweating. It often develops after extended periods of physical activity or time spent in hot environments. Early recognition is key to preventing more severe heat-related illness.</p>
+            <p>Common signs and symptoms include:</p>
+            <ul>
+            <li>Cool, pale, or moist skin.</li>
+            <li>Dizziness, fatigue, or weakness.</li>
+            <li>Nausea or headache.</li>
+            <li>Heavy sweating.</li>
+            </ul>
+            <p>If these symptoms appear, move to a cool, shaded area immediately. Rest and drink water or an electrolyte-replacement beverage. Avoid returning to heat or physical activity until symptoms completely subside.</p>
+
+            <h3>Progression to Heat Stroke</h3>
+            <p>If heat exhaustion is not treated, it can progress to heat stroke, a medical emergency. During heat stroke, the body's temperature regulation system fails, causing the internal temperature to rise rapidly, sometimes reaching 41°C (106°F) or higher.</p>
+            <p>Warning signs of heat stroke include:</p>
+            <ul>
+            <li>Hot, dry skin and the absence of sweating.</li>
+            <li>Confusion, dizziness, or loss of consciousness.</li>
+            <li>Rapid heartbeat and breathing.</li>
+            <li>High body temperature.</li>
+            </ul>
+            <p>At this stage, the body's organs can begin to shut down. Immediate cooling is essential. Move the person to a cooler location, remove excess clothing, and apply cool, wet cloths or ice packs to the neck, armpits, and groin. Call emergency services right away.</p>
+
+            <h3>Preventing Heat-Related Illness</h3>
+            <p>Prevention is the most effective way to protect against both heat exhaustion and heat stroke. Keep these steps in mind:</p>
+            <ul>
+            <li>Stay hydrated by drinking water throughout the day.</li>
+            <li>Take breaks in shaded or air-conditioned areas.</li>
+            <li>Wear lightweight, breathable clothing.</li>
+            <li>Avoid strenuous activity during peak heat hours.</li>
+            <li>Check on children, older adults, and pets during hot weather.</li>
+            </ul>
+            <p>Both heat exhaustion and heat stroke can develop quickly but are largely preventable with awareness and timely action. Paying attention to early warning signs, staying hydrated, and seeking medical help when needed can help safeguard your health during extreme heat.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Managing heat-related illnesses: Global health guidance.</p>
+            <p>National Library of Medicine. (2022). Heat stress, dehydration, and thermoregulation.</p>
+            <p>Environmental Health Perspectives. (2023). Public health responses to heat exposure.</p>`
+
+        }
+    ],
+    "Heat Stroke": [
+        {
+            title: "Heat Stroke",
+            preview: "Heat stroke is a serious condition caused by extreme heat. It happens when the body can no longer control its temperature. Heat stroke is a medical emergency.",
+            content: `<h2>Heat Stroke</h2>
+            <p>Heat stroke is a serious condition caused by extreme heat. It happens when the body can no longer control its temperature. Body temperature can rise quickly to dangerous levels.</p>
+            <p>Heat stroke is a medical emergency. Quick action is important to prevent serious problems.</p>
+
+            <h3>Symptoms and Risk</h3>
+            <p>Heat stroke can happen to anyone, but the risk may be higher for older adults, young children, and people who exercise or work in the heat.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Very high body temperature</li>
+                <li>Confusion</li>
+                <li>Rapid pulse</li>
+                <li>Hot, dry skin</li>
+            </ul>
+            <p>Some people may faint or have seizures. Without treatment, heat stroke can damage organs.</p>
+
+            <h3>Prevention and Treatment</h3>
+            <p>Preventing heat stroke involves staying cool and hydrated. Drinking water and taking breaks in the shade may help lower risk. Wearing light clothing also supports cooling.</p>
+            <p>If heat stroke is suspected, call emergency services. Move the person to a cooler place and begin cooling the body.</p>
+            <p>Quick medical treatment is important to lower the risk of serious health problems.</p>
+
+            <h3>References</h3>
+            <p>Bouchama, A., & Knochel, J. P. (2002). Heat stroke. New England Journal of Medicine, 346(25), 1978–1988.</p>
+            <p>Leon, L. R., & Helwig, B. G. (2010). Heat stroke: Role of the systemic inflammatory response. Journal of Applied Physiology, 109(6), 1980–1988.</p>`
+        }
+    ],
+    "Hemochromatosis": [
+        {
+            title: "Hemochromatosis",
+            preview: "Hemochromatosis is a condition in which the body stores too much iron. When too much iron builds up, it can collect in organs such as the liver, heart, and pancreas.",
+            content: `<h2>Hemochromatosis</h2>
+            <p>Hemochromatosis is a condition in which the body stores too much iron. Iron is a mineral that helps blood carry oxygen. When too much iron builds up, it can collect in organs such as the liver, heart, and pancreas. Over time, high iron levels may damage these organs if the condition is not treated.</p>
+
+            <h3>Symptoms and Risk</h3>
+            <p>Symptoms usually come on slowly. Some people do not notice signs at first.</p>
+            <p>Common signs include:</p>
+            <ul>
+                <li>Feeling very tired</li>
+                <li>Pain in joints</li>
+                <li>Stomach pain</li>
+                <li>Skin that looks darker than usual</li>
+            </ul>
+            <p>Hemochromatosis often runs in families. It can also happen after many blood transfusions or with some health problems.</p>
+
+            <h3>Treatment and Monitoring</h3>
+            <p>Treatment lowers iron in the body. Doctors often use phlebotomy, a procedure that removes blood, similar to donating blood.</p>
+            <p>Blood tests help track iron levels. Doctors may also suggest avoiding iron supplements and drinking less alcohol.</p>
+            <p>Finding hemochromatosis early helps protect organs. With regular care, many people can control iron levels and lower their risk of problems.</p>
+
+            <h3>References</h3>
+            <p>Bacon, B. R., Adams, P. C., Kowdley, K. V., Powell, L. W., & Tavill, A. S. (2011). Diagnosis and management of hemochromatosis. Hepatology, 54(1), 328–343.</p>
+            <p>Pietrangelo, A. (2015). Hereditary hemochromatosis: Pathogenesis, diagnosis, and treatment. Gastroenterology, 149(5), 1240–1251.</p>`
+        }
+    ],
+    "Hemorrhoids": [
+        {
+            title: "Hemorrhoids",
+            preview: "Hemorrhoids are swollen veins in the lower rectum or around the anus. They develop when extra pressure is placed on these veins, causing them to stretch and swell. Hemorrhoids are common and can affect people of all ages.",
+            content: `<h2>Hemorrhoids</h2>
+            <p>Hemorrhoids are swollen veins in the lower rectum or around the anus. They develop when extra pressure is placed on these veins, causing them to stretch and swell. Hemorrhoids are common and can affect people of all ages. They may form inside the rectum or under the skin around the anus.</p>
+            <p>The veins in this area help control bowel movements. When they become swollen, they can cause discomfort and irritation. Hemorrhoids are not dangerous, but they can be painful.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms of hemorrhoids depend on their location and severity. Common signs include:</p>
+            <ul>
+            <li>Itching or irritation around the anus</li>
+            <li>Pain or discomfort during bowel movements</li>
+            <li>Swelling or a lump near the anus</li>
+            <li>Bright red blood on toilet paper or in the toilet</li>
+            <li>A feeling of fullness in the rectal area</li>
+            </ul>
+            <p>These symptoms happen because swollen veins become irritated and sensitive. Pressure in the rectal area can make the veins more likely to bleed or cause pain.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Digestive system diseases. https://www.who.int/health-topics/digestive-diseases</p>
+            <p>National Health Service. (n.d.). Piles (haemorrhoids). https://www.nhs.uk/conditions/piles-haemorrhoids/</p>
+            <p>Healthdirect Australia. (n.d.). Haemorrhoids. https://www.healthdirect.gov.au/haemorrhoids</p>`
+
+        }
+    ],
+    "Hepatitis A": [
+        {
+            title: "Hepatitis A",
+            preview: "Hepatitis A is a viral infection that affects the liver. Hepatitis A spreads through food or water that contains the virus. It can also spread through close contact with an infected person.",
+            content: `<h2>Hepatitis A</h2>
+            <p>Hepatitis A is a viral infection that affects the liver. The liver helps the body process nutrients, store energy, and remove waste. When the liver becomes inflamed, it may not work as well as usual.</p>
+            <p>Hepatitis A spreads through food or water that contains the virus. It can also spread through close contact with an infected person.</p>
+
+            <h3>Symptoms and Spread</h3>
+            <p>Symptoms usually appear two to six weeks after exposure. Some people, especially young children, may have mild or no symptoms.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Fatigue</li>
+                <li>Nausea</li>
+                <li>Abdominal pain</li>
+                <li>Yellowing of the skin or eyes</li>
+            </ul>
+            <p>Yellowing of the skin or eyes is called jaundice. Some people may also have fever, dark urine, or light-colored stools. A person can spread the virus even before symptoms begin.</p>
+
+            <h3>Prevention and Care</h3>
+            <p>There is no specific medicine to cure hepatitis A. Care focuses on rest, fluids, and balanced nutrition while the body heals.</p>
+            <p>Vaccination is the most effective way to prevent infection. Washing hands with soap and water and practicing safe food handling also lowers risk.</p>
+            <p>Most people recover fully within a few months. After recovery, the body usually develops immunity, which means it is protected from future infection.</p>
+
+            <h3>References</h3>
+            <p>Koff, R. S. (1998). Hepatitis A. Lancet, 351(9116), 1643–1649.</p>
+            <p>Jacobsen, K. H., & Wiersma, S. T. (2010). Hepatitis A virus seroprevalence by age and world region. Vaccine, 28(41), 6653–6657.</p>`
+        }
+    ],
+    "Hepatitis B": [
+        {
+            title: "Hepatitis B",
+            preview: "Hepatitis B is a viral infection that affects the liver. Hepatitis B spreads through contact with infected blood or body fluids.",
+            content: `<h2>Hepatitis B</h2>
+            <p>Hepatitis B is a viral infection that affects the liver. The liver helps the body process nutrients, store energy, and remove waste. When the liver becomes inflamed, it may not work properly.</p>
+            <p>Hepatitis B spreads through contact with infected blood or body fluids. It can spread during birth, through sexual contact, or by sharing needles.</p>
+
+            <h3>Symptoms and Spread</h3>
+            <p>Some people with hepatitis B have no symptoms. Others may notice signs a few months after infection.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Fatigue</li>
+                <li>Abdominal pain</li>
+                <li>Nausea</li>
+                <li>Yellowing of the skin or eyes</li>
+            </ul>
+            <p>Yellowing of the skin or eyes is called jaundice. In some people, the infection becomes chronic.</p>
+
+            <h3>Prevention and Treatment</h3>
+            <p>Vaccination is the best way to prevent hepatitis B. The vaccine is safe and widely recommended. Avoiding shared needles and practicing safe sex also reduces risk.</p>
+            <p>Chronic hepatitis B may require long-term medicine to protect the liver. Regular blood tests help monitor liver health.</p>
+            <p>Care and healthy habits can help people with hepatitis B stay as healthy as possible.</p>
+
+            <h3>References</h3>
+            <p>Terrault, N. A., Lok, A. S. F., McMahon, B. J., Chang, K. M., Hwang, J. P., Jonas, M. M., Brown, R. S., Jr., Bzowej, N. H., & Wong, J. B. (2018). Update on prevention, diagnosis, and treatment of chronic hepatitis B. Hepatology, 67(4), 1560–1599.</p>
+            <p>World Health Organization. (2017). Global hepatitis report 2017. Weekly Epidemiological Record, 92(27), 369–392.</p>`
+        }
+    ],
+    "Hepatitis C": [
+        {
+            title: "Hepatitis C",
+            preview: "Hepatitis C is a viral infection that affects the liver. Hepatitis C spreads through contact with infected blood. In many cases, hepatitis C becomes chronic.",
+            content: `<h2>Hepatitis C</h2>
+            <p>Hepatitis C is a viral infection that affects the liver. The liver helps clean the blood and remove waste from the body. When the liver becomes inflamed, it may not work properly.</p>
+            <p>Hepatitis C spreads through contact with infected blood. It most often spreads by sharing needles or through unsafe medical equipment.</p>
+
+            <h3>Symptoms and Long-Term Effects</h3>
+            <p>Many people with hepatitis C have no symptoms at first. When symptoms appear, they may be mild and easy to miss.</p>
+            <p>Common signs may include:</p>
+            <ul>
+                <li>Feeling very tired</li>
+                <li>Nausea</li>
+                <li>Abdominal pain</li>
+                <li>Yellowing of the skin or eyes</li>
+            </ul>
+            <p>Yellowing of the skin or eyes is called jaundice. In many cases, hepatitis C becomes chronic.</p>
+
+            <h3>Treatment and Prevention</h3>
+            <p>There is no vaccine for hepatitis C. Avoiding shared needles and using safe medical practices helps reduce risk.</p>
+            <p>Today, antiviral medicines can cure most cases. Treatment usually lasts several weeks to a few months. Regular blood tests help monitor liver health.</p>
+            <p>Finding Hepatitis C early and getting treatment can help people protect their liver.</p>
+
+            <h3>References</h3>
+            <p>AASLD-IDSA. (2020). HCV guidance: Recommendations for testing, managing, and treating hepatitis C. Hepatology, 71(2), 686–721.</p>
+            <p>Pawlotsky, J. M. (2014). New hepatitis C therapies: The toolbox, strategies, and challenges. Gastroenterology, 146(5), 1176–1192.</p>`
+        }
+    ],
+    "Hernia": [
+        {
+            title: "Hernia",
+            preview: "A hernia happens when an organ or tissue pushes through a weak spot in the muscles or connective tissue. Hernias most often occur in the belly, groin, or near the belly button. They can affect people of all ages and may develop slowly or happen suddenly.",
+            content: `<h2>Hernia</h2>
+            <p>A hernia happens when an organ or tissue pushes through a weak spot in the muscles or connective tissue. Hernias most often occur in the belly, groin, or near the belly button. They can affect people of all ages and may develop slowly or happen suddenly.</p>
+            <p>Muscles and connective tissue normally hold organs in place. When this support is weak, tissue can push through, forming a lump. Hernias can be small or large. They can cause discomfort or pain, especially when lifting, bending, or coughing.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Common signs of a hernia include:</p>
+            <ul>
+            <li>A bulge or lump in the area</li>
+            <li>Pain or discomfort when lifting or straining</li>
+            <li>A heavy or pressure-like feeling in the belly</li>
+            <li>Weakness or a dragging feeling</li>
+            <li>Nausea or vomiting if the hernia gets stuck</li>
+            </ul>
+            <p>Sometimes hernias go away on their own, but if they keep hurting or do not improve, they can make daily activities harder.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Digestive diseases. https://www.who.int/health-topics/digestive-diseases</p>
+            <p>National Health Service. (n.d.). Hernia. https://www.nhs.uk/conditions/hernia/</p>
+            <p>Canadian Digestive Health Foundation. (n.d.). Hernia. https://cdhf.ca/hernia/</p>`
+
+        }
+    ],
+    "Herniated Disc": [
+        {
+            title: "What Is A Herniated Disc?",
+            preview: "A herniated disc occurs when one of the soft cushions between the bones of the spine moves out of place or tears. These cushions, called discs, help absorb shock and allow the spine to bend and move.",
+            content: `<h2>What Is A Herniated Disc?</h2>
+            <p>A herniated disc occurs when one of the soft cushions between the bones of the spine moves out of place or tears. These cushions, called discs, help absorb shock and allow the spine to bend and move.</p>
+            <p>When a disc bulges or ruptures, it can press on nearby nerves and cause pain or other symptoms.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms depend on where the herniated disc is located and which nerves are affected.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Back or neck pain</li>
+            <li>Numbness or tingling in the arms or legs</li>
+            <li>Muscle weakness</li>
+            <li>Pain that travels down one side of the body</li>
+            </ul>
+            <p>Some people experience sharp pain that spreads from the back into the leg or arm.</p>
+
+            <h3>How a Herniated Disc Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose a herniated disc by reviewing symptoms and examining movement, strength, and reflexes. Imaging tests such as MRI or CT scans may be used to confirm the diagnosis and identify the affected disc.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Many cases improve over time with conservative treatment.</p>
+            <p>Treatment approaches may include:</p>
+            <ul>
+            <li>Rest and avoiding activities that worsen pain</li>
+            <li>Physical therapy to strengthen muscles and support the spine</li>
+            <li>Medications to help reduce pain and inflammation</li>
+            </ul>
+            <p>In more severe cases, medical procedures or surgery may be recommended to relieve pressure on the affected nerve.</p>
+
+            <h3>References</h3>
+            <p>American Association of Neurological Surgeons. (2024). Herniated Disc.</p>
+            <p>Cleveland Clinic. (2024). Herniated Disk (Slipped or Bulging Disk).</p>
+            <p>Mayo Clinic. (2025). Herniated Disk.</p>`
+
+        }
+    ],
+    "High Cholesterol": [
+        {
+            title: "High Cholesterol",
+            preview: "Cholesterol is a fatty substance found in the blood that plays a key role in maintaining overall health. It helps the body produce hormones, vitamin D, and bile acids, which are needed for proper digestion. While cholesterol is essential, too much of it can increase the risk of heart disease.",
+            content: `<h2>What Is Cholesterol?</h2>
+            <p>Cholesterol is a fatty substance found in the blood that plays a key role in maintaining overall health. It helps the body produce hormones, vitamin D, and bile acids, which are needed for proper digestion. While cholesterol is essential, too much of it can increase the risk of heart disease and other complications.</p>
+
+            <h3>Types of Cholesterol</h3>
+            <p>There are two main types of cholesterol, each with different effects on the body:</p>
+            <ul>
+            <li><strong>Low-density lipoprotein (LDL):</strong> Often referred to as "bad" cholesterol, LDL can build up on artery walls and form plaque. Over time, this buildup narrows the arteries and restricts blood flow, increasing the risk of heart attack and stroke.</li>
+            <li><strong>High-density lipoprotein (HDL):</strong> Known as "good" cholesterol, HDL helps remove LDL from the bloodstream by carrying it to the liver for processing. Higher HDL levels are linked to better heart health because they help keep arteries clear and flexible.</li>
+            </ul>
+
+            <h3>Sources of Cholesterol</h3>
+            <p>Cholesterol comes from two main sources: the liver and the diet. The body naturally produces the cholesterol it needs, but certain foods add extra amounts. Animal-based products such as meat, eggs, and dairy contain cholesterol, while foods high in saturated fats including fried foods and some baked goods can raise LDL levels.</p>
+            <p>To help maintain a healthy balance, choose foods rich in fiber, healthy fats, and antioxidants, such as:</p>
+            <ul>
+            <li>Oats, beans, and lentils.</li>
+            <li>Fruits and vegetables that are high in antioxidants.</li>
+            <li>Nuts, seeds, and olive oil instead of butter or shortening.</li>
+            </ul>
+            <p>These choices help lower LDL levels and support overall cardiovascular health.</p>
+
+            <h3>Lifestyle Habits That Support Heart Health</h3>
+            <p>Beyond diet, lifestyle choices have a major impact on cholesterol balance and heart function. Simple daily actions can make a measurable difference:</p>
+            <ul>
+            <li>Engage in regular physical activity, such as brisk walking, swimming, or yoga.</li>
+            <li>Avoid smoking or vaping, which damages blood vessels and lowers HDL.</li>
+            <li>Limit alcohol consumption, as excessive intake can increase triglycerides and blood pressure.</li>
+            <li>Maintain a healthy body weight, which helps regulate both LDL and HDL levels.</li>
+            </ul>
+            <p>For some people, lifestyle changes may not be enough to manage cholesterol levels. In such cases, healthcare professionals may recommend cholesterol-lowering medications, which can effectively reduce LDL and improve heart health when combined with a balanced lifestyle.</p>
+
+            <h3>The Importance of Regular Screening</h3>
+            <p>Because high cholesterol often has no noticeable symptoms, regular screenings are the best way to track levels and identify potential risks early. Monitoring cholesterol helps individuals and healthcare providers make informed choices to maintain long-term heart health.</p>
+
+            <h3>References</h3>
+            <p>National Heart, Lung, and Blood Institute. (2023). High blood cholesterol: What you need to know.</p>
+            <p>Grundy, S. M., et al. (2019). 2018 AHA/ACC guideline on the management of blood cholesterol. Journal of the American College of Cardiology, 73(24), e285–e350.</p>
+            <p>Hall, J. E. (2020). Guyton and Hall Textbook of Medical Physiology (14th ed.). Elsevier.</p>
+            <p>Harvard Health Publishing. (2023). Understanding good and bad cholesterol.</p>`
+
+        }
+    ],
+    "Hives": [
+        {
+            title: "Hives",
+            preview: "There are several different types of allergic rashes. One of the most common rashes in clinical practice is known as hives or urticaria, in medical jargon. This rash usually lasts for less than 24 hours and looks sort of like a mosquito bite, and it's pretty itchy.",
+            content: `<h2>What Causes Hives?</h2>
+            <p>There are several different types of allergic rashes. One of the most common rashes in clinical practice is known as hives or urticaria, in medical jargon. This rash usually lasts for less than 24 hours and looks sort of like a mosquito bite, and it's pretty itchy. Hives can be triggered by environmental allergens like pollens, dust mites, pet dander, and mold, and by foods if you are allergic. In some cases, hives may last for several days or weeks; usually, hives that last for more than a week without constant exposure to an allergen are due to things like viral infections or other underlying conditions. It is definitely crucial for you to see an allergist to help determine what may be causing your hives.</p>
+
+            <h3>Types of Hives</h3>
+            <p>For some individuals, hives appear suddenly and disappear just as quickly, while for others, they may experience recurring episodes that interfere with daily life. Chronic hives or those lasting greater than six weeks may not always have a clear cause and are often linked to immune system imbalances, or also known as autoimmunity. This is why proper diagnosis is so important. It helps differentiate between allergic hives and those caused by other underlying factors.</p>
+
+            <h3>Common Triggers</h3>
+            <p>Things like stress, temperature changes, pressure on the skin, or even exercise can act as triggers for hives. Keeping a symptom journal to track what's happening before, during, and after a breakout can help you and your provider better understand and manage the cause.</p>
+
+            <h3>Treatment Options</h3>
+            <p>Effective treatment may include antihistamines or, in persistent cases, additional testing and targeted therapies. In many cases, hives can be managed effectively with the right approach, whether that's through lifestyle changes, medications, and/or both. The key is getting clarity on what's driving the reaction so you can feel more in control and less worried when symptoms appear.</p>
+            <p>If you experience hives, consider reaching out to an allergist for more insight on your unique situation. The more you understand your skin and immune system, the more empowered you are to respond with confidence.</p>
+
+            <h3>References</h3>
+            <p>American College of Allergy, Asthma, and Immunology. (n.d.). Hives (urticaria) and angioedema overview. Retrieved from https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/hives-%28urticaria%29-and-angioedema-overview</p>
+            <p>Cleveland Clinic. (n.d.). Chronic hives (chronic idiopathic urticaria): Causes & treatment. Retrieved from https://my.clevelandclinic.org/health/diseases/22900-chronic-hives-chronic-idiopathic-urticaria</p>
+            <p>Allergy & Asthma Network. (n.d.). What are different types of hives?. Retrieved from https://allergyasthmanetwork.org/allergies/hives/different-types-of-hives/</p>
+            <p>Healthline. (2024, August 28). Stress and chronic spontaneous urticaria: The connection. Retrieved from https://www.healthline.com/health/stress-and-chronic-spontaneous-urticaria</p>`
+
+        }
+    ],
+    "Human Papillomavirus (HPV)": [
+        {
+            title: "HPV Infection & Prevention",
+            preview: "HPV, or human papillomavirus, can sound intimidating, but it is actually one of the most common sexually transmitted infections in the country. Most HPV infections go away on their own, making them less concerning than many people think.",
+            content: `<h2>HPV Infection & Prevention</h2>
+            <p>HPV, or human papillomavirus, can sound intimidating, but it is actually one of the most common sexually transmitted infections in the country. Most HPV infections go away on their own, making them less concerning than many people think. Only a small number of people require treatment. There are more than 200 types of HPV. Some types cause common warts on the hands, feet, or mouth, while others are sexually transmitted and affect the genitals, mouth, or throat.</p>
+
+            <h3>High-Risk vs. Low-Risk HPV</h3>
+            <p>HPV infections are categorized into high-risk and low-risk types. High-risk HPV, including strains like HPV 16 and 18, can increase the risk of cervical cancer later in life. Low-risk types, such as HPV 6 and 11, are usually responsible for genital warts. These warts are not cancerous but can be uncomfortable and noticeable.</p>
+
+            <h3>Symptoms of HPV</h3>
+            <p>Most high-risk HPV infections do not produce symptoms for several years, which makes regular screening critical. Low-risk types causing genital warts are easier to identify. Warts may appear as small, fleshy bumps with a texture similar to cauliflower. They can grow larger and may cause irritation or itching. Genital warts can be found on the vulva, vagina, anus, penis, or scrotum.</p>
+            <p>Cancers linked to high-risk HPV include cervical, penile, anal, scrotal, throat, and vulvar cancers. While screening for many of these cancers is limited, physical exams by a healthcare provider can help detect changes early, making annual gynecology or primary care visits important.</p>
+
+            <h3>Treatment Options</h3>
+            <p>For low-risk, wart-causing HPV types, treatments include cryotherapy, laser therapy, or topical creams. Genital warts may recur, especially within the first three months after removal, so follow-up with a healthcare provider is important.</p>
+            <p>High-risk HPV may require further testing, such as a colposcopy, which provides a closer look at the cervix to identify precancerous cells. Treatments for precancerous changes may include cryotherapy, which freezes abnormal cells, or a LEEP procedure, which removes cells using electrical current.</p>
+
+            <h3>Prevention and Vaccination</h3>
+            <p>Although there is no cure for HPV, prevention is highly effective. A strong immune system can clear HPV in many individuals. The HPV vaccine is a key preventive tool, ideally administered before the start of sexual activity, typically between ages 11 and 13, but vaccination can begin as early as age nine. The vaccine protects against nine types of HPV, including high- and low-risk strains.</p>
+            <p>Condoms and dental dams provide some protection, though they are less effective against genital warts due to skin-to-skin transmission. For women, attending regular gynecology appointments and beginning Pap smear screening at age 21 is crucial. Open communication with sexual partners about HPV and other sexually transmitted infections also helps prevent transmission and ensures mutual care.</p>
+            <p>Maintaining awareness, practicing safe sex, and using vaccination are key strategies for protecting against HPV.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. HPV (Human Papillomavirus). https://www.cdc.gov/hpv/index.html</p>
+            <p>Mayo Clinic. HPV infection. https://www.mayoclinic.org/diseases-conditions/hpv-infection/symptoms-causes/syc-20351596</p>
+            <p>World Health Organization. Human papillomavirus (HPV) and cervical cancer. https://www.who.int/news-room/fact-sheets/detail/human-papillomavirus-(hpv)-and-cervical-cancer</p>`
+
+        }
+    ],
+    "Human Immunodeficiency Virus / Acquired Immunodeficiency Syndrome (HIV/AIDS)": [
+        {
+            title: "AIDS",
+            preview: "Acquired Immune Deficiency Syndrome (AIDS) is a serious condition that affects the body's immune system, weakening its ability to fight infections and diseases. AIDS represents the most advanced stage of infection with the human immunodeficiency virus (HIV).",
+            content: `<h2>Understanding AIDS</h2>
+            <p>Acquired Immune Deficiency Syndrome (AIDS) is a serious condition that affects the body's immune system, weakening its ability to fight infections and diseases. AIDS represents the most advanced stage of infection with the human immunodeficiency virus (HIV), a virus that, if left untreated, progressively damages the immune system over time.</p>
+
+            <h3>How HIV Leads to AIDS</h3>
+            <p>HIV targets and destroys CD4 cells, a type of white blood cell that helps coordinate immune responses. As the virus multiplies, the number of CD4 cells decreases, leaving the body vulnerable to infections and certain cancers. Without treatment, this immune decline can eventually progress to AIDS.</p>
+            <p>Not everyone living with HIV develops AIDS. With modern medical care and effective treatment, many individuals maintain strong immune systems and live long, healthy lives.</p>
+
+            <h3>The Role of Treatment</h3>
+            <p>Advances in antiretroviral therapy (ART) have transformed HIV care. These medications work by reducing the amount of virus in the body, known as the viral load, to very low or undetectable levels. When HIV is undetectable, it cannot be transmitted sexually, a concept known as "U = U," or undetectable equals untransmittable.</p>
+            <p>Effective treatment allows the immune system to stay strong, prevents HIV from progressing to AIDS, and significantly improves quality of life. Regular medical care, adherence to prescribed medication, and ongoing monitoring are key to maintaining good health.</p>
+
+            <h3>Symptoms of AIDS</h3>
+            <p>If HIV progresses without treatment, the immune system becomes severely weakened. Symptoms of AIDS may include:</p>
+            <ul>
+            <li>Persistent or recurring infections.</li>
+            <li>Unexplained weight loss.</li>
+            <li>Frequent fevers or night sweats.</li>
+            <li>Extreme fatigue.</li>
+            <li>Swollen lymph nodes.</li>
+            <li>Skin rashes or sores.</li>
+            </ul>
+            <p>People with AIDS may also develop opportunistic infections, which are illnesses that rarely affect individuals with healthy immune systems. Examples include pneumonia, tuberculosis, and certain viral or fungal infections.</p>
+
+            <h3>Importance of Early Detection</h3>
+            <p>Early diagnosis plays a vital role in preventing HIV from progressing to AIDS. Regular testing allows individuals to begin treatment promptly, helping preserve immune function and reduce transmission. Anyone who believes they may have been exposed to HIV should seek testing as soon as possible.</p>
+            <p>Modern medicine has made significant progress in the prevention and treatment of HIV and AIDS. While there is currently no cure, early detection and consistent treatment allow people living with HIV to maintain strong immune systems and lead active, fulfilling lives.</p>
+
+            <h3>Living Well With HIV or AIDS</h3>
+            <p>Living with HIV or AIDS can feel overwhelming at times, but comprehensive care and emotional support make a meaningful difference. Many individuals find strength through:</p>
+            <ul>
+            <li>Healthcare providers for ongoing medical care and medication management.</li>
+            <li>Support groups that offer shared experiences and understanding.</li>
+            <li>Mental health professionals for emotional support and guidance.</li>
+            <li>Community resources that provide access to treatment and counseling.</li>
+            </ul>
+            <p>With the right care, individuals living with HIV or AIDS can thrive and maintain their overall wellbeing.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). HIV/AIDS fact sheet. Retrieved from https://www.who.int</p>
+            <p>Centers for Disease Control and Prevention. (2023). HIV Basics. Retrieved from https://www.cdc.gov/hiv/basics</p>
+            <p>Fauci, A. S., Lane, H. C., & Redfield, R. R. (2019). HIV/AIDS: 40 years of progress and future challenges. New England Journal of Medicine, 381(9), 844–854.</p>
+            <p>Cohen, M. S., Chen, Y. Q., McCauley, M., et al. (2016). Antiretroviral therapy for the prevention of HIV transmission. New England Journal of Medicine, 375(9), 830–839.</p>`
+
+        }
+    ],
+    "Hyperglycemia": [
+        {
+            title: "What Is Hyperglycemia?",
+            preview: "Hyperglycemia is when blood sugar (glucose) levels are higher than normal. It usually occurs in people with diabetes when the body doesn't make enough insulin or can't use it right.",
+            content: `<h2>What Is Hyperglycemia?</h2>
+            <p>Hyperglycemia is when blood sugar (glucose) levels are higher than normal. It usually occurs in people with diabetes when the body doesn't make enough insulin or can't use it right. High blood sugar can happen after eating or during illness. It is also a concern when diabetes isn't well-controlled.</p>
+            <p>If high blood sugar lasts for a long time, it can cause health problems. This can look like damage to blood vessels, nerves, and organs. Following a healthy diet and staying active can help control blood sugar levels.</p>
+
+            <h3>References</h3>
+            <p>American Diabetes Association. (2023). Hyperglycemia (High Blood Sugar).</p>
+            <p>Mayo Clinic. (2023). Hyperglycemia: Symptoms, causes, and treatment.</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2022). High blood sugar (hyperglycemia) in diabetes.</p>`
+
+        }
+    ],
+    "Hyperhidrosis": [
+        {
+            title: "What Is Hyperhidrosis?",
+            preview: "Hyperhidrosis is a condition that causes excessive sweating. People with hyperhidrosis sweat more than the body needs to regulate temperature.",
+            content: `<h2>What Is Hyperhidrosis?</h2>
+            <p>Hyperhidrosis is a condition that causes excessive sweating. People with hyperhidrosis sweat more than the body needs to regulate temperature.</p>
+            <p>Sweating often affects the hands, feet, underarms, or face and may occur even when a person is not hot or physically active.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms usually involve frequent or heavy sweating in certain areas of the body.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Excessive sweating of the hands, feet, underarms, or face</li>
+            <li>Sweating that occurs without heat or exercise</li>
+            <li>Difficulty holding objects because of sweaty hands</li>
+            <li>Sweating that interferes with daily activities</li>
+            </ul>
+            <p>Some people may also feel uncomfortable in social situations because of frequent sweating.</p>
+
+            <h3>Possible Causes</h3>
+            <p>Hyperhidrosis can occur in two main forms:</p>
+            <ul>
+            <li>Primary hyperhidrosis, which often begins in childhood or the teenage years and usually affects specific areas such as the hands or underarms</li>
+            <li>Secondary hyperhidrosis, which may be linked to certain medical conditions or medications</li>
+            </ul>
+
+            <h3>How Hyperhidrosis Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose hyperhidrosis by reviewing symptoms, medical history, and sweating patterns. In some cases, tests may be used to help identify possible underlying causes.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment focuses on reducing sweating and improving comfort.</p>
+            <p>Treatment options may include:</p>
+            <ul>
+            <li>Prescription-strength antiperspirants</li>
+            <li>Medications that help control sweat production</li>
+            <li>Medical procedures that reduce activity of sweat glands</li>
+            </ul>
+            <p>A healthcare provider can help determine the most appropriate treatment.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2024). Hyperhidrosis.</p>
+            <p>Cleveland Clinic. (2023). Hyperhidrosis.</p>
+            <p>National Institutes of Health. (2022). Hyperhidrosis.</p>`
+
+        }
+    ],
+    "Hyperthyroidism": [
+        {
+            title: "Hyperthyroidism",
+            preview: "Hyperthyroidism is a condition where the thyroid gland produces too much thyroid hormone. This overactivity can speed up the body's metabolism and cause a range of symptoms.",
+            content: `<h2>Hyperthyroidism</h2>
+            <p>Hyperthyroidism is a condition where the thyroid gland produces too much thyroid hormone. This overactivity can speed up the body's metabolism and cause a range of symptoms. The thyroid is a small gland in the neck that regulates how the body uses energy.</p>
+
+            <h3>How Hyperthyroidism Develops</h3>
+            <p>The thyroid gland produces hormones that control metabolism. When too much hormone is released, the body's processes speed up. Common causes include Graves' disease (an autoimmune condition), thyroid nodules that produce excess hormone, and inflammation of the thyroid. Some medications and excess iodine intake may also contribute.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms of hyperthyroidism can vary but often include:</p>
+            <ul>
+            <li>Rapid or irregular heartbeat</li>
+            <li>Unintended weight loss</li>
+            <li>Increased appetite</li>
+            <li>Nervousness, anxiety, or irritability</li>
+            <li>Trembling hands</li>
+            <li>Sweating and heat sensitivity</li>
+            <li>Changes in bowel patterns</li>
+            <li>Fatigue or muscle weakness</li>
+            <li>Difficulty sleeping</li>
+            <li>Thinning skin or hair</li>
+            </ul>
+
+            <h3>Who Is Affected</h3>
+            <p>Hyperthyroidism can affect people of all ages but is more common in women and those with a family history of thyroid disorders. It may develop gradually or appear suddenly. Early detection and treatment help manage symptoms and prevent complications.</p>
+
+            <h3>References</h3>
+            <p>American Thyroid Association. (2023). Hyperthyroidism (overactive). https://www.thyroid.org</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2023). Hyperthyroidism. https://www.niddk.nih.gov</p>`
+
+        }
+    ],
+    "Hypertension": [
+        {
+            title: "Hypertension",
+            preview: "High blood pressure, also known as hypertension, occurs when the force of blood against the artery walls is consistently too high. Over time, this damages the inner lining of blood vessels (the endothelium) and increases the risk of serious health problems.",
+            content: `<h2>High Blood Pressure & How To Prevent It</h2>
+            <p>High blood pressure, also known as hypertension, occurs when the force of blood against the artery walls is consistently too high. Over time, this damages the inner lining of blood vessels (the endothelium) and increases the risk of serious health problems.</p>
+
+            <h3>Why High Blood Pressure Matters</h3>
+            <p>Uncontrolled high blood pressure can affect multiple organs and systems:</p>
+            <ul>
+            <li>Heart: increases the risk of cardiovascular disease.</li>
+            <li>Eyes: damages the retina and may cause vision problems.</li>
+            <li>Kidneys: contributes to kidney disease.</li>
+            <li>Brain: raises the risk of stroke.</li>
+            <li>Limbs: can lead to peripheral vascular disease.</li>
+            </ul>
+
+            <h3>Diagnosis</h3>
+            <p>High blood pressure is generally defined as readings consistently above 140/90 mmHg. A single elevated reading is not enough for diagnosis, but repeated high readings should be evaluated.</p>
+            <p>Genetics play a role, but lifestyle factors such as excess weight, poor sleep, and untreated sleep apnea are major contributors.</p>
+
+            <h3>Prevention Strategies</h3>
+            <ul>
+            <li>Weight Management: Keeping weight in an optimal range reduces strain on the cardiovascular system and lowers the risk of hypertension, especially for those with a family history.</li>
+            <li>Movement: Regular physical activity supports heart health and can naturally lower blood pressure.</li>
+            <li>Sleep: Both insufficient sleep (less than six hours) and oversleeping (more than ten hours) can increase the risk of high blood pressure. Restorative, consistent sleep is important for regulating cardiovascular function.</li>
+            <li>Stress Management: Chronic stress raises cortisol levels, which in turn elevate blood pressure. Approaches such as mindfulness, meditation, or stress-reduction apps may help keep blood pressure within a healthy range.</li>
+            </ul>
+
+            <h3>Lifestyle Foundations</h3>
+            <p>Prevention can be supported by focusing on:</p>
+            <ul>
+            <li>How you eat: balanced, nutrient-rich foods.</li>
+            <li>How you sleep: consistent, restorative rest.</li>
+            <li>How you move: regular exercise.</li>
+            <li>How you manage stress: daily practices that calm the mind and body.</li>
+            </ul>
+            <p>High blood pressure is common and treatable. Left unmanaged, it increases the risk of life-threatening conditions. But through lifestyle adjustments and early awareness, it is possible to lower risk and support long-term wellbeing.</p>
+
+            <h3>References</h3>
+            <p>Whelton, P. K., et al. (2018). 2017 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. Journal of the American College of Cardiology, 71(19), e127–e248.</p>
+            <p>National Heart, Lung, and Blood Institute (NHLBI). High Blood Pressure. Updated 2022.</p>
+            <p>Mayo Clinic. Hypertension (High Blood Pressure). Updated 2023.</p>`
+
+        }
+    ],
+    "Hypoglycemia": [
+        {
+            title: "What Is Hypoglycemia?",
+            preview: "Hypoglycemia is when blood sugar levels drop too low. It is a common concern for people with diabetes. People who take other medications that change blood sugar should be aware too.",
+            content: `<h2>What Is Hypoglycemia?</h2>
+            <p>Hypoglycemia is when blood sugar levels drop too low. It is a common concern for people with diabetes. People who take other medications that change blood sugar should be aware too. Skipping meals, exercising a lot, and some other conditions put a person at risk.</p>
+            <p>Low blood sugar can cause scary symptoms. Shakiness, sweating, confusion, changing mood, or feeling very hungry are common. The quick treatment for low blood sugar is eating or drinking something high in sugar. This can help balance sugar levels fast. If someone faints or is in distress, always call for help.</p>
+
+            <h3>References</h3>
+            <p>American Diabetes Association. (2023). Hypoglycemia (Low Blood Sugar).</p>
+            <p>Mayo Clinic. (2023). Hypoglycemia: Symptoms and causes.</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2022). Low blood sugar (hypoglycemia).</p>`
+
+        }
+    ],
+    "Hypotension": [
+        {
+            title: "What Does Low Blood Pressure Mean?",
+            preview: "Blood pressure is an important measure of heart and blood vessel health. Understanding low blood pressure and when it can be a problem helps you take care of your body.",
+            content: `<h2>What Does Low Blood Pressure Mean?</h2>
+            <p>Blood pressure is an important measure of heart and blood vessel health. Understanding low blood pressure and when it can be a problem helps you take care of your body.</p>
+
+            <h3>Understanding Blood Pressure Readings</h3>
+            <p>Blood pressure is measured with two numbers. The top number, systolic pressure, shows the pressure in your arteries when your heart beats. The bottom number, diastolic pressure, shows the pressure when your heart rests between beats. A normal reading is usually around 120/80 mmHg. Low blood pressure is generally considered 90/60 mmHg or lower.</p>
+
+            <h3>When Low Blood Pressure Can Be a Problem</h3>
+            <p>Low blood pressure is not always dangerous, especially if there are no symptoms. But if it drops too low, the brain and other organs may not get enough oxygen. Signs can include dizziness, fainting, blurred vision, tiredness, nausea, cold or clammy skin, and fast or shallow breathing. Very low blood pressure can cause shock, which requires emergency care.</p>
+
+            <h3>Common Causes of Low Blood Pressure</h3>
+            <p>Low blood pressure can happen for several reasons:</p>
+            <ul>
+            <li>Not drinking enough water</li>
+            <li>Heart problems such as slow heartbeat, heart failure, or valve issues</li>
+            <li>Hormone problems like thyroid issues, adrenal gland problems, or low blood sugar</li>
+            <li>Heavy bleeding or serious infections</li>
+            <li>Certain medications for high blood pressure, depression, or other conditions</li>
+            <li>Low levels of nutrients like vitamin B12 or folate</li>
+            <li>Standing up too quickly, especially in older adults</li>
+            </ul>
+
+            <h3>How Low Is Too Low</h3>
+            <p>The effect of low blood pressure varies from person to person. Some people feel fine with readings as low as 85/55 mmHg. For others, even a small drop from their normal numbers can cause symptoms and should be checked by a doctor.</p>
+
+            <h3>Managing Low Blood Pressure</h3>
+            <p>Low blood pressure can often be managed with simple lifestyle changes. Drink plenty of water, eat smaller meals more often, and stand up slowly to avoid dizziness. Doctors may suggest wearing compression stockings or adding a little salt, but only under medical guidance. Avoid alcohol and watch for medicines that can lower blood pressure.</p>
+
+            <h3>When to See a Doctor</h3>
+            <p>Occasional low readings without symptoms usually do not need treatment. See a doctor if symptoms persist, if you faint, or if signs of shock occur, such as confusion, rapid breathing, or a weak pulse. If low blood pressure is caused by another health problem, treating that problem is important.</p>
+            <p>With monitoring and proper care, low blood pressure can be managed safely to protect the heart, brain, and overall health.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization (WHO). (2022). Cardiovascular Diseases (CVDs).</p>
+
+            <p><strong>For information purposes only. Always consult a healthcare, financial, investing, tax, or legal professional, as this article is not a comprehensive resource on these topics, should not be relied upon, and should not be considered medical, financial or legal advice.</strong></p>`
+        }
+    ],
+    "Hypothermia": [
+        {
+            title: "Hypothermia",
+            preview: "Hypothermia is a medical emergency that occurs when body temperature drops too low. The body normally stays near 98.6°F (37°C). When it falls below 95°F (35°C), normal body functions begin to slow.",
+            content: `<h2>Hypothermia</h2>
+            <p>Hypothermia is a medical emergency that occurs when body temperature drops too low. The body normally stays near 98.6°F (37°C). When it falls below 95°F (35°C), normal body functions begin to slow.</p>
+            <p>Hypothermia can develop during cold weather, in cold water, or in poorly heated spaces. Wind and wet clothing also speed up heat loss.</p>
+
+            <h3>Symptoms and Body Changes</h3>
+            <p>As body temperature drops, the brain and heart can be affected, causing confusion or a slowed heartbeat. Early signs may be mild but can become serious.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Shivering</li>
+            <li>Slurred speech</li>
+            <li>Confusion</li>
+            <li>Slow breathing</li>
+            </ul>
+            <p>A person may also appear clumsy or very tired. In severe cases, shivering may stop. Older adults, young children, and people without shelter are at higher risk.</p>
+
+            <h3>Prevention and Emergency Care</h3>
+            <p>Preventing hypothermia involves limiting exposure to cold and wearing layered clothing. Keeping dry is important because wet fabric removes body heat quickly.</p>
+            <p>If hypothermia is suspected, call emergency services. Move the person to a warm place and remove wet clothing. Warm the body gradually using dry blankets and body heat.</p>
+            <p>Prompt treatment helps the person's body heat return to normal.</p>
+
+            <h3>References</h3>
+            <p>Brown, D. J. A., Brugger, H., Boyd, J., & Paal, P. (2012). Accidental hypothermia. New England Journal of Medicine, 367(20), 1930–1938.</p>
+            <p>Vanden Hoek, T. L., Morrison, L. J., Shuster, M., Donnino, M., Sinz, E., Lavonas, E. J., Jeejeebhoy, F. M., Gabrielli, A., & Atkins, D. L. (2010). Part 12: Cardiac arrest in special situations. Circulation, 122(18 Suppl 3), S829–S861.</p>`
+        }
+    ],
+    "Hypothyroidism": [
+        {
+            title: "Hypothyroidism Support",
+            preview: "Hypothyroidism occurs when the thyroid gland does not produce enough thyroid hormones, leading to a slower metabolism and various health challenges. Managing this condition requires a balanced approach that combines medical care, nutrition, lifestyle adjustments, and emotional support.",
+            content: `<h2>Hyperthyroidism Support</h2>
+            <p>Hypothyroidism occurs when the thyroid gland does not produce enough thyroid hormones, leading to a slower metabolism and various health challenges. Managing this condition requires a balanced approach that combines medical care, nutrition, lifestyle adjustments, and emotional support.</p>
+
+            <h3>Medical Management</h3>
+            <p>The primary treatment for hypothyroidism is thyroid hormone replacement therapy, most often with synthetic thyroid hormones such as levothyroxine. This medication restores hormone levels to normal and helps relieve symptoms such as fatigue, weight gain, and sensitivity to cold.</p>
+            <p>Regular blood tests are necessary to monitor thyroid hormone levels and ensure the dosage remains appropriate. Maintaining consistent communication and scheduling follow-ups with healthcare providers supports effective long-term management.</p>
+
+            <h3>Nutrition and Diet</h3>
+            <p>A nutrient-rich diet plays an important role in supporting thyroid function and overall wellbeing.</p>
+            <ul>
+            <li><strong>Iodine:</strong> Essential for thyroid hormone production. Include moderate amounts from foods such as fish, eggs, dairy, and iodized salt. Avoid excessive intake, especially from supplements.</li>
+            <li><strong>Selenium and Zinc:</strong> These trace minerals help regulate thyroid function. Selenium can be found in Brazil nuts, while zinc is abundant in pumpkin seeds, legumes, and whole grains.</li>
+            <li><strong>Goitrogenic foods:</strong> Limit raw cruciferous vegetables like cabbage, kale, and broccoli, as well as large amounts of soy products, which may interfere with hormone production if consumed excessively.</li>
+            <li><strong>Balanced nutrition:</strong> Prioritize whole grains, lean proteins, fruits, vegetables, and healthy fats to support energy levels and weight management.</li>
+            </ul>
+
+            <h3>Physical Activity</h3>
+            <p>Regular physical activity enhances energy, improves mood, and supports a healthy metabolism. Aim for at least 30 minutes of movement three to five days per week. Activities such as brisk walking, yoga, group exercise, or light strength training can help regulate energy and maintain cardiovascular health.</p>
+
+            <h3>Stress Management</h3>
+            <p>Stress can affect thyroid balance and overall wellbeing. Incorporate relaxation practices such as yoga, meditation, or deep breathing into your daily routine. For example, try a simple four-count breathing technique:</p>
+            <ul>
+            <li>Inhale for four counts.</li>
+            <li>Hold for four counts.</li>
+            <li>Exhale for four counts.</li>
+            <li>Hold again for four counts before repeating.</li>
+            </ul>
+            <p>These mindful moments can help calm the nervous system and improve focus throughout the day.</p>
+
+            <h3>Sleep and Rest</h3>
+            <p>Adequate sleep supports hormone regulation, energy restoration, and mental clarity. Aim for 7 to 9 hours of quality sleep each night. Reducing screen time at least 30 minutes before bed can help signal the body to relax and prepare for rest.</p>
+
+            <h3>Emotional and Community Support</h3>
+            <p>Managing hypothyroidism is not only about medication, it also involves mental health. Consider joining support groups to connect with others who share similar experiences. Counseling or mental health care can help manage symptoms such as anxiety or depression, which may accompany thyroid imbalance.</p>
+            <p>Educating yourself about hypothyroidism empowers you to make informed choices about your care. Keeping a symptom journal can also help identify patterns and discuss progress with your healthcare team.</p>
+
+            <h3>Ongoing Monitoring</h3>
+            <p>Regular lab tests to check thyroid-stimulating hormone (TSH) and thyroid hormone levels are vital. Continuous monitoring helps ensure treatment remains effective and allows for timely adjustments as needed.</p>
+
+            <h3>Living Well with Hypothyroidism</h3>
+            <p>With consistent medical care, healthy habits, and emotional support, individuals with hypothyroidism can lead active, fulfilling lives. Collaboration with healthcare professionals and attention to lifestyle choices play key roles in managing this condition successfully.</p>
+
+            <h3>References</h3>
+            <p>American Thyroid Association. (2016). Guidelines for the Treatment of Hypothyroidism.</p>
+            <p>World Health Organization. (2023). Thyroid Disorders Overview.</p>
+            <p>National Institutes of Health. (2022). Nutritional Considerations for Thyroid Health.</p>`
+
+        }
+    ],
+    "Impetigo": [
+        {
+            title: "What Is Impetigo?",
+            preview: "Impetigo is a common and highly contagious skin infection caused by bacteria. It most often affects infants and young children, but people of any age can develop the infection.",
+            content: `<h2>What Is Impetigo?</h2>
+            <p>Impetigo is a common and highly contagious skin infection caused by bacteria. It most often affects infants and young children, but people of any age can develop the infection.</p>
+            <p>Impetigo usually begins when bacteria enter the skin through a small cut, scrape, insect bite, or other break in the skin.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms typically appear on exposed areas of the skin.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Red sores or blisters on the skin</li>
+            <li>Sores that break open and form a yellow or honey-colored crust</li>
+            <li>Itching or mild discomfort</li>
+            <li>Sores around the nose and mouth</li>
+            </ul>
+            <p>The sores may spread to other areas of the body if touched or scratched.</p>
+
+            <h3>How Impetigo Is Diagnosed</h3>
+            <p>A healthcare provider can usually diagnose impetigo by examining the appearance of the sores. In some cases, a sample from the skin may be tested to identify the bacteria causing the infection.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Impetigo is usually treated with antibiotics to clear the infection.</p>
+            <p>Treatment options may include:</p>
+            <ul>
+            <li>Antibiotic ointment applied to the affected skin</li>
+            <li>Oral antibiotics for more widespread infections</li>
+            <li>Keeping the affected skin clean and covered</li>
+            </ul>
+            <p>Good hygiene, including regular handwashing and avoiding sharing towels or clothing, can help prevent the infection from spreading to others.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2025). Impetigo.</p>
+            <p>Mayo Clinic. (2023). Impetigo.</p>
+            <p>Cleveland Clinic. (2023). Impetigo.</p>`
+
+        }
+    ],
+    "Indigestion": [
+        {
+            title: "Indigestion",
+            preview: "Indigestion is pain or discomfort in the upper stomach. It often happens after eating and can make people feel full, bloated, or sick to their stomach. Indigestion is common and can happen to anyone.",
+            content: `<h2>Indigestion</h2>
+            <p>Indigestion is pain or discomfort in the upper stomach. It often happens after eating and can make people feel full, bloated, or sick to their stomach. Indigestion is common and can happen to anyone.</p>
+            <p>The stomach and digestive system help break down food. Eating too much, certain foods, or stress can upset this process and cause discomfort. Indigestion usually goes away on its own. If it keeps happening, it could be a sign of a bigger digestive problem.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Indigestion can be mild or strong. Common signs include:</p>
+            <ul>
+            <li>Pain or burning in the upper stomach</li>
+            <li>Feeling full after meals</li>
+            <li>Bloating or gas</li>
+            <li>Nausea or burping</li>
+            <li>Heartburn or a sour taste in the mouth</li>
+            </ul>
+            <p>These symptoms happen when the digestive system is upset. The stomach lining can become irritated, which causes discomfort after eating.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Digestive disorders. https://www.who.int/health-topics/digestive-diseases</p>
+            <p>National Health Service. (n.d.). Indigestion. https://www.nhs.uk/conditions/indigestion/</p>
+            <p>Healthdirect Australia. (n.d.). Indigestion (dyspepsia). https://www.healthdirect.gov.au/indigestion-dyspepsia</p>`
+
+        }
+    ],
+    "Influenza": [
+        {
+            title: "Influenza",
+            preview: "Influenza, or the flu, is a contagious infection caused by influenza viruses. It affects the nose, throat, and sometimes the lungs. Influenza spreads via droplets. An infected person spreads the virus by coughing, sneezing, or talking.",
+            content: `<h2>Influenza</h2>
+            <p>Influenza, or the flu, is a contagious infection caused by influenza viruses. It affects the nose, throat, and sometimes the lungs. Influenza spreads via droplets. An infected person spreads the virus by coughing, sneezing, or talking. People of all ages can get the flu, and it tends to occur more often in colder months.</p>
+            <p>The body reacts to the virus by activating the immune system. The immune response helps fight the virus but also produces the symptoms that make a person feel unwell.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Flu symptoms can appear suddenly and range from mild to severe. Common signs include:</p>
+            <ul>
+            <li>Fever and chills</li>
+            <li>Cough and sore throat</li>
+            <li>Muscle aches or body pain</li>
+            <li>Fatigue or weakness</li>
+            <li>Headache, runny nose, or congestion</li>
+            </ul>
+            <p>The symptoms occur because the immune system reacts to the influenza virus. Most people recover from influenza in a week or two. However, it can cause serious complications. This is especially true for young kids, older adults, and those with weak immune systems.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Influenza (seasonal). https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)</p>
+            <p>Centers for Disease Control and Prevention. (n.d.). Flu. https://www.cdc.gov/flu/index.htm</p>
+            <p>European Centre for Disease Prevention and Control. (n.d.). Seasonal influenza. https://www.ecdc.europa.eu/en/seasonal-influenza</p>`
+
+        }
+    ],
+    "Insect Bite": [
+        {
+            title: "Insect Bite",
+            preview: "An insect bite happens when an insect pierces the skin to drink blood or leave saliva. Mosquitoes, ticks, fleas, and spiders often bite. Most bites are not dangerous, but some can cause irritation or spread infection.",
+            content: `<h2>Insect Bite</h2>
+            <p>An insect bite happens when an insect pierces the skin to drink blood or leave saliva. Mosquitoes, ticks, fleas, and spiders often bite. Most bites are not dangerous, but some can cause irritation or spread infection.</p>
+            <p>When a bite happens, the body releases a chemical called histamine. This can make the skin red, swollen, and itchy. Sometimes a bite can cause an allergic reaction with more symptoms.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>The appearance and discomfort from an insect bite can vary depending on the insect and individual sensitivity. Common signs include:</p>
+            <ul>
+            <li>Red or swollen skin</li>
+            <li>Itching or mild pain</li>
+            <li>Small bumps or blisters</li>
+            <li>Warm or tender skin</li>
+            <li>Rarely, fever or rash if infection occurs</li>
+            </ul>
+            <p>Most irritation and swelling come from the body's reaction. Most bites go away on their own, but they can be uncomfortable for a short time.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Vector-borne diseases. https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases</p>
+            <p>Centers for Disease Control and Prevention. (n.d.). Insect bites and stings. https://www.cdc.gov/niosh/topics/insects.html</p>
+            <p>Healthdirect Australia. (n.d.). Insect bites and stings. https://www.healthdirect.gov.au/insect-bites-and-stings</p>`
+
+        }
+    ],
+    "Insomnia": [
+        {
+            title: "Insomnia",
+            preview: "Insomnia is more than an occasional night of poor sleep. It is a chronic difficulty falling or staying asleep that can persist even when the opportunity for rest is available.",
+            content: `<h2>What Is Insomnia?</h2>
+            <p>Insomnia is more than an occasional night of poor sleep. It is a chronic difficulty falling or staying asleep that can persist even when the opportunity for rest is available. Doctors often refer to "true insomnia" as psychophysiological insomnia, meaning it is not caused by another medical condition such as sleep apnea or thyroid disease.</p>
+            <p>People who experience insomnia often fall into a frustrating cycle of trying to "fix" their sleep. The harder they try to force rest, the more anxious and alert they become at bedtime. This type of sleep-related anxiety can make the condition worse over time, leading to a nightly struggle that feels impossible to control.</p>
+
+            <h3>Why Trying Harder Makes It Worse</h3>
+            <p>Insomnia does not respond well to the mindset of conquering or overcoming it. The more pressure people place on themselves to sleep, by saying things like "I have to get a good night's rest tonight", the more the body and mind resist. Over time, this can create a pattern known as performance anxiety around sleep, where bedtime itself becomes a source of stress.</p>
+            <p>The first step toward improvement often begins with a simple shift in mindset: acceptance. Telling yourself "it's okay" to have a bad night's sleep reduces emotional strain and breaks the fight-or-flight response that fuels insomnia.</p>
+
+            <h3>Acceptance and the Mind-Body Connection</h3>
+            <p>Acceptance does not mean giving up. Instead, it allows the mind to relax rather than struggle against wakefulness. This process mirrors how caregivers handle a child's temper tantrum, by staying calm and letting the moment pass rather than demanding it stop. Similarly, accepting a sleepless night helps remove the mental tension that keeps the brain alert.</p>
+            <p>Letting go of the need to control every night's outcome often decreases frustration and anxiety. Over time, this can make sleep come more naturally, even if the improvement happens gradually.</p>
+
+            <h3>Mindfulness and Insomnia</h3>
+            <p>This principle of acceptance closely aligns with mindfulness, which focuses on observing experiences without judgment. Mindfulness has been shown to reduce stress, ease anxiety, and improve mental and physical health. While research on its specific effects on insomnia is still developing, studies suggest that mindfulness-based strategies can help reduce sleep-related worry and support relaxation before bed.</p>
+            <p>Practicing mindfulness does not eliminate insomnia immediately, but it can help people cope with it more calmly. By lowering the emotional burden surrounding sleep, the overall quality of life often improves, even before the insomnia itself fully resolves.</p>
+
+            <h3>When to Seek Professional Help</h3>
+            <p>While mindfulness and acceptance can help, long-term insomnia should still be evaluated by a healthcare professional. A trained provider can assess whether other conditions, such as sleep apnea, medication effects, or anxiety disorders, are contributing to poor sleep.</p>
+            <p>Cognitive Behavioral Therapy for Insomnia (CBT-I) is widely regarded as the most effective non-medication treatment. It addresses the behaviors, thoughts, and environmental factors that maintain insomnia, often producing lasting results without dependency on sleep aids.</p>
+            <p>Insomnia is a complex condition that cannot be resolved through force or frustration. The first step toward recovery often begins with acceptance—recognizing that one bad night does not define your ability to rest in the future. By adopting mindful awareness, reducing performance pressure, and working with a qualified provider when needed, it becomes possible to calm both the mind and body, paving the way for better sleep.</p>
+
+            <h3>References</h3>
+            <p>Sleep Medicine Reviews. (2023). Psychophysiological insomnia: Mechanisms and treatment approaches.</p>
+            <p>National Library of Medicine. (2022). Mindfulness and behavioral strategies for insomnia.</p>
+            <p>Journal of Sleep Health. (2023). Cognitive Behavioral Therapy for Insomnia: Evidence-based outcomes.</p>
+            <p>Behavioral Sleep Medicine Journal. (2023). The role of acceptance in sleep-related anxiety.</p>
+            <p>Clinical Psychology Review. (2022). Mindfulness interventions for stress and insomnia: Meta-analytic findings.</p>`
+
+        }
+    ],
+    "Insulin Resistance": [
+        {
+            title: "What Is Insulin Resistance?",
+            preview: "Insulin resistance occurs when the body's cells do not respond well to insulin. Insulin is a hormone that helps move sugar (glucose) from the blood into cells so it can be used for energy.",
+            content: `<h2>What Is Insulin Resistance?</h2>
+            <p>Insulin resistance occurs when the body's cells do not respond well to insulin. Insulin is a hormone that helps move sugar (glucose) from the blood into cells so it can be used for energy.</p>
+            <p>When the body becomes resistant to insulin, sugar stays in the bloodstream instead of entering the cells.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Many people with insulin resistance do not notice symptoms at first.</p>
+            <p>Over time, signs may include:</p>
+            <ul>
+            <li>Higher than normal blood sugar levels</li>
+            <li>Increased hunger or fatigue</li>
+            <li>Weight gain, especially around the abdomen</li>
+            <li>Darkened patches of skin in body folds in some people</li>
+            </ul>
+            <p>Insulin resistance can increase the risk of developing type 2 diabetes and other health problems.</p>
+
+            <h3>How Insulin Resistance Is Diagnosed</h3>
+            <p>A healthcare provider may evaluate insulin resistance by reviewing medical history and risk factors. Blood tests that measure blood sugar levels, such as fasting glucose or A1C tests, are often used to help assess risk.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Managing insulin resistance focuses on improving how the body uses insulin.</p>
+            <p>Helpful strategies may include:</p>
+            <ul>
+            <li>Eating balanced meals that support healthy blood sugar levels</li>
+            <li>Regular physical activity</li>
+            <li>Maintaining a healthy weight</li>
+            <li>Working with a healthcare provider to monitor blood sugar</li>
+            </ul>
+            <p>These steps can help lower the risk of developing type 2 diabetes and related health conditions.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). About Insulin Resistance and Type 2 Diabetes.</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2025). Insulin Resistance & Prediabetes.</p>
+            <p>Mayo Clinic. (2022). What is insulin resistance? A Mayo Clinic expert explains.</p>`
+
+        }
+    ],
+    "Iron Deficiency Anemia": [
+        {
+            title: "Recognizing and Treating Iron Deficiency Anemia",
+            preview: "Iron deficiency anemia is a common condition that happens when the body does not have enough iron to make hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen to the body's tissues.",
+            content: `<h2>Recognizing and Treating Iron Deficiency Anemia</h2>
+            <p>Iron deficiency anemia is a common condition that happens when the body does not have enough iron to make hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen to the body's tissues. Without enough iron, the body cannot make enough healthy red blood cells, which can cause tiredness and other symptoms.</p>
+
+            <h3>Causes and Risk Factors</h3>
+            <p>Iron deficiency anemia can happen for several reasons. Some common causes include:</p>
+            <ul>
+            <li><strong>Not eating enough iron:</strong> Foods like meat, poultry, fish, beans, and leafy green vegetables are good sources of iron.</li>
+            <li><strong>Blood loss:</strong> Heavy menstrual periods, stomach or intestinal conditions like ulcers, or frequent blood donations can lower iron levels.</li>
+            <li><strong>Poor absorption:</strong> Some digestive problems, like celiac disease or Crohn's disease, or certain surgeries can make it hard for the body to absorb iron.</li>
+            </ul>
+
+            <h3>Symptoms of Iron Deficiency Anemia</h3>
+            <p>Symptoms of low iron can include:</p>
+            <ul>
+            <li>Feeling very tired or weak</li>
+            <li>Pale skin, lips, or nails</li>
+            <li>Shortness of breath, especially during activity</li>
+            <li>Headaches</li>
+            <li>Dizziness or lightheadedness</li>
+            </ul>
+
+            <h3>Treatment Options</h3>
+            <p>Iron supplements are often used to increase iron in the body. It is important to take them exactly as a doctor recommends to avoid side effects like stomach upset or constipation. Eating more iron-rich foods such as meat, poultry, fish, beans, tofu, spinach, and fortified cereals can help. Eating vitamin C-rich foods like oranges, tomatoes, or peppers with iron-rich foods can make iron absorption better. Treating any health problems that cause iron loss, such as digestive disorders or bleeding, is also important. If oral supplements do not work or cause problems, a doctor may suggest iron given through an IV.</p>
+
+            <h3>Prevention Strategies</h3>
+            <p>You can help prevent iron deficiency anemia by:</p>
+            <ul>
+            <li>Eating a balanced diet with iron-rich foods</li>
+            <li>Managing heavy menstrual bleeding with a healthcare provider</li>
+            <li>Going to regular check-ups to monitor iron levels and overall health</li>
+            </ul>
+            <p>Iron deficiency anemia can be treated successfully. By noticing symptoms early, seeing a doctor, and following treatment plans, people can restore iron levels, reduce symptoms, and improve their quality of life. Working closely with a healthcare provider is key to addressing the cause and managing the condition effectively.</p>
+
+            <h3>References</h3>
+            <p>National Heart, Lung, and Blood Institute. (2023). Iron-deficiency anemia. Retrieved from https://www.nhlbi.nih.gov/health-topics/iron-deficiency-anemia</p>`
+        }
+    ],
+    "Irritable Bowel Syndrome (IBS)": [
+        {
+            title: "Managing Symptoms of Irritable Bowel Syndrome",
+            preview: "Irritable Bowel Syndrome, or IBS, is a common digestive condition that affects the large intestine. People with IBS may have stomach pain, bloating, gas, and changes in bowel habits.",
+            content: `<h2>Managing Symptoms of Irritable Bowel Syndrome</h2>
+            <p>Irritable Bowel Syndrome, or IBS, is a common digestive condition that affects the large intestine. People with IBS may have stomach pain, bloating, gas, and changes in bowel habits, such as diarrhea, constipation, or both. Stress, certain foods, and changes in gut bacteria can make symptoms worse.</p>
+
+            <h3>Managing IBS</h3>
+            <p>IBS can often be managed with diet, lifestyle changes, and medical care:</p>
+            <ul>
+            <li>Eat smaller meals and avoid trigger foods like spicy, fatty, or gas-producing foods</li>
+            <li>Drink plenty of water to stay hydrated</li>
+            <li>Add fiber slowly, especially soluble fiber from oats, bananas, and carrots</li>
+            <li>Exercise regularly, about 30 minutes most days</li>
+            <li>Manage stress with relaxation techniques, hobbies, or meditation</li>
+            <li>Take medicines or probiotics if recommended by a healthcare provider</li>
+            <li>Keep regular check-ups and track symptoms</li>
+            </ul>
+            <p>By following these strategies, people with IBS can reduce symptoms and improve their quality of life. Always talk to a healthcare provider if symptoms are severe or get worse.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2025). Irritable bowel syndrome (IBS) – Diagnosis and treatment. https://www.mayoclinic.org/diseases-conditions/irritable-bowel-syndrome/diagnosis-treatment/drc-20360064</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2024). Irritable bowel syndrome. https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome</p>
+            <p>Cleveland Clinic. (2025). Irritable bowel syndrome (IBS) patient guide. https://my.clevelandclinic.org/health/diseases/4342-irritable-bowel-syndrome-ibs</p>`
+
+        }
+    ],
+    "Jaundice": [
+        {
+            title: "Jaundice",
+            preview: "Jaundice is when the skin, eyes, and mouth appear yellow. It happens when there is too much bilirubin in the blood. Bilirubin is a yellow substance made when the body breaks down old red blood cells.",
+            content: `<h2>Jaundice</h2>
+            <p>Jaundice is when the skin, eyes, and mouth appear yellow. It happens when there is too much bilirubin in the blood. Bilirubin is a yellow substance made when the body breaks down old red blood cells.</p>
+            <p>Jaundice can happen if the liver is not working well, if bile flow is blocked, or if the body makes too much bilirubin. It can affect people of all ages and may signal a liver, blood, or gallbladder problem.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Jaundice can come on slowly or quickly. Common signs include:</p>
+            <ul>
+            <li>Yellow skin and whites of the eyes</li>
+            <li>Dark-colored urine</li>
+            <li>Pale or clay-colored stools</li>
+            <li>Itchy skin</li>
+            <li>Feeling tired or belly discomfort</li>
+            </ul>
+            <p>The yellow color appears because bilirubin builds up in the body instead of being removed by the liver. Other symptoms happen as the body struggles to handle the extra bilirubin and liver changes.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Liver diseases. https://www.who.int/news-room/fact-sheets/detail/liver-diseases</p>
+            <p>National Health Service. (n.d.). Jaundice. https://www.nhs.uk/conditions/jaundice/</p>`
+
+        }
+    ],
+    "Kidney Cysts": [
+        {
+            title: "What Are Kidney Cysts?",
+            preview: "Kidney cysts are fluid-filled sacs that form in or on the kidneys. The kidneys are two organs that filter waste and extra fluid from the blood.",
+            content: `<h2>What Are Kidney Cysts?</h2>
+            <p>Kidney cysts are fluid-filled sacs that form in or on the kidneys. The kidneys are two organs that filter waste and extra fluid from the blood.</p>
+            <p>Many kidney cysts are simple cysts. These are common, especially as people get older, and they often do not cause symptoms.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Most kidney cysts do not cause symptoms and are often found during imaging tests done for other reasons.</p>
+            <p>When symptoms occur, they may include:</p>
+            <ul>
+            <li>Pain in the back or side</li>
+            <li>Fever if a cyst becomes infected</li>
+            <li>A feeling of pressure in the abdomen</li>
+            <li>Changes in urination</li>
+            </ul>
+            <p>In rare cases, cysts may affect kidney function.</p>
+
+            <h3>How Kidney Cysts Are Diagnosed</h3>
+            <p>Kidney cysts are often discovered during imaging tests such as ultrasound, CT scans, or MRI. These tests help healthcare providers see the size and location of the cyst.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Many kidney cysts do not require treatment.</p>
+            <p>Management may include:</p>
+            <ul>
+            <li>Monitoring the cyst with periodic imaging tests</li>
+            <li>Treating symptoms if they occur</li>
+            <li>Procedures to drain or remove large cysts if they cause pain or complications</li>
+            </ul>
+            <p>Medical care is important if symptoms develop or worsen.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2026). Kidney cysts.</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2019). Simple Kidney Cysts.</p>
+            <p>Cleveland Clinic. (2024). Kidney Cysts.</p>`
+
+        }
+    ],
+    "Kidney Infection": [
+        {
+            title: "Kidney Infection",
+            preview: "A kidney infection, known as pyelonephritis, is a type of urinary tract infection. It can affect one or both kidneys. It usually begins when bacteria from the lower urinary tract, like the bladder, move up into the kidneys.",
+            content: `<h2>Kidney Infection</h2>
+            <p>A kidney infection, known as pyelonephritis, is a type of urinary tract infection. It can affect one or both kidneys. It usually begins when bacteria from the lower urinary tract, like the bladder, move up into the kidneys. The infection leads to inflammation and irritation in the kidney tissues. This affects how well the kidneys function.</p>
+            <p>The infection usually begins after a bladder infection. It can grow more easily if the body doesn't clear bacteria well during urination. Women are more prone to kidney infections. This is due to the shorter distance from the bladder to the outside of the body. Other factors can raise the risk of infection.</p>
+            <p>These include:</p>
+            <ul>
+            <li>Pregnancy</li>
+            <li>Diabetes</li>
+            <li>Urinary tract blockages</li>
+            <li>Issues with urine flow.</li>
+            </ul>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Kidney infections can cause the body to show clear symptoms. Common signs include:</p>
+            <ul>
+            <li>Fever and chills</li>
+            <li>Pain in the lower back, side, or groin</li>
+            <li>Pain or burning during urination
+                <ul>
+                <li>Frequent urge to urinate</li>
+                <li>Cloudy or foul-smelling urine</li>
+                </ul>
+            </li>
+            <li>Nausea or vomiting</li>
+            </ul>
+            <p>These symptoms occur when the body fights bacteria in the kidneys. It's working to clear the infection. Kidney infections can cause serious problems if not treated.</p>
+
+            <h3>References</h3>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2024). Kidney infection (pyelonephritis) — symptoms & causes. U.S. Department of Health and Human Services. https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-infection-pyelonephritis/symptoms-causes</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2024). Kidney infection (pyelonephritis) — definition & facts. U.S. Department of Health and Human Services. https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-infection-pyelonephritis/definition-facts</p>
+            <p>National Health Service. (2025). Kidney infection. https://www.nhs.uk/conditions/kidney-infection/</p>`
+
+        }
+    ],
+    "Kidney Stones": [
+        {
+            title: "Kidney Stones",
+            preview: "Kidney stones are hard pieces that form in the kidneys when certain minerals and salts in the urine stick together. They can be very small or grow large enough to block urine flow. Stones often form when urine becomes concentrated.",
+            content: `<h2>Kidney Stones</h2>
+            <p>Kidney stones are hard pieces that form in the kidneys when certain minerals and salts in the urine stick together. They can be very small or grow large enough to block urine flow. Stones often form when urine becomes concentrated, which makes the minerals clump and harden.</p>
+            <p>Kidney stones can happen to anyone, but they are more common in adults and in hot climates. Stones may stay in the kidney or move into the urinary tract. Moving stones can irritate the urinary system and cause sudden, strong pain.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms depend on the size and place of the stone. Common signs include:</p>
+            <ul>
+            <li>Sharp pain in the side, back, or lower belly</li>
+            <li>Pain that comes in waves or changes intensity</li>
+            <li>Pain or burning when urinating</li>
+            <li>Pink, red, or brown urine</li>
+            <li>Needing to urinate often or passing only a little urine</li>
+            </ul>
+            <p>Pain happens because stones can block urine or scrape the urinary tract. The discomfort often moves as the stone travels from the kidney to the bladder.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Kidney stones. https://www.who.int/health-topics/kidney-stones</p>
+            <p>National Health Service. (2025). Kidney stones. https://www.nhs.uk/conditions/kidney-stones/</p>
+            <p>Healthdirect Australia. (n.d.). Kidney stones. https://www.healthdirect.gov.au/kidney-stones</p>`
+
+        }
+    ],
+    "Kyphosis": [
+        {
+            title: "Kyphosis",
+            preview: "Kyphosis is a condition that affects the shape of the spine. The spine normally has gentle curves that help support posture and balance. In kyphosis, the upper back curves forward more than usual.",
+            content: `<h2>Kyphosis</h2>
+            <p>Kyphosis is a condition that affects the shape of the spine. The spine normally has gentle curves that help support posture and balance. In kyphosis, the upper back curves forward more than usual.</p>
+            <p>This may cause a rounded back. Some cases are mild and cause little discomfort.</p>
+
+            <h3>Symptoms and Causes</h3>
+            <p>Kyphosis may be linked to poor posture, bone changes, or certain health conditions. It usually appears in teens or in older adults.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Rounded upper back</li>
+            <li>Back pain</li>
+            <li>Stiffness</li>
+            <li>Muscle fatigue</li>
+            </ul>
+            <p>In some cases, the curve becomes more noticeable over time. Older adults with weak bones may have a higher risk.</p>
+
+            <h3>Treatment and Care</h3>
+            <p>Treatment depends on the cause and severity. Mild cases may improve with posture exercises and physical therapy. Strong back muscles help support the spine.</p>
+            <p>Braces may be used in growing children. Severe cases may require surgery.</p>
+            <p>Regular medical visits help monitor the curve. Early care can strengthen the back and reduce discomfort.</p>
+
+            <h3>References</h3>
+            <p>Kado, D. M., Prenovost, K., & Crandall, C. (2007). Narrative review: Hyperkyphosis in older persons. Annals of Internal Medicine, 147(5), 330–338.</p>
+            <p>Scheuermann, H. W. (1920). Kyphosis dorsalis juvenilis. Zeitschrift für Orthopädie und ihre Grenzgebiete, 41, 305–317.</p>`
+        }
+    ],
+    "Lactation Issues": [
+        {
+            title: "What Are Lactation Issues?",
+            preview: "Lactation issues are problems that can occur during breastfeeding. Lactation refers to the process of producing and releasing breast milk.",
+            content: `<h2>What Are Lactation Issues?</h2>
+            <p>Lactation issues are problems that can occur during breastfeeding. Lactation refers to the process of producing and releasing breast milk.</p>
+            <p>Some people may have difficulty producing enough milk, while others may experience pain, clogged milk ducts, or challenges with a baby latching properly.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Lactation issues can vary depending on the type of problem.</p>
+            <p>Common issues may include:</p>
+            <ul>
+            <li>Sore or cracked nipples</li>
+            <li>Breast swelling or fullness</li>
+            <li>Blocked milk ducts</li>
+            <li>Difficulty with a baby latching during feeding</li>
+            </ul>
+            <p>Some people may also develop mastitis, an infection that can cause breast redness, swelling, and fever.</p>
+
+            <h3>How Lactation Issues Are Evaluated</h3>
+            <p>A healthcare provider or lactation consultant may evaluate breastfeeding techniques, milk supply, and the baby's latch. Observing a feeding session can help identify possible challenges.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Many lactation issues can improve with guidance and support.</p>
+            <p>Helpful approaches may include:</p>
+            <ul>
+            <li>Adjusting breastfeeding positions or latch technique</li>
+            <li>Feeding or pumping regularly to support milk flow</li>
+            <li>Using warm compresses or gentle massage for blocked ducts</li>
+            <li>Seeking medical care if symptoms such as fever or severe pain develop</li>
+            </ul>
+            <p>Early support from healthcare providers or lactation consultants can help make breastfeeding more comfortable and successful.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2025). About Breastfeeding.</p>
+            <p>Mayo Clinic. (2025). Breastfeeding nutrition: Tips for moms.</p>
+            <p>Cleveland Clinic. (2025). Breastfeeding.</p>`
+
+        }
+    ],
+    "Lactose Intolerance": [
+        {
+            title: "Lactose Intolerance",
+            preview: "Lactose intolerance is a digestive condition that occurs when the small intestine makes too little lactase, the enzyme that breaks down lactose, the sugar in milk. Symptoms such as bloating, gas, cramping, and diarrhea can appear soon after eating dairy.",
+            content: `<h2>What Is Lactose Intolerance?</h2>
+            <p>Lactose intolerance is a digestive condition that occurs when the small intestine makes too little lactase, the enzyme that breaks down lactose, the sugar in milk. Symptoms such as bloating, gas, cramping, and diarrhea can appear soon after eating dairy. These reactions involve digestion, not the immune system, which makes them different from milk allergy. Most people can find a level and type of dairy that feels comfortable with a bit of planning.</p>
+
+            <h3>Why It Happens</h3>
+            <p>Lactase production commonly declines after childhood in many populations. This pattern, called lactase non persistence, is more frequent among people of Asian, African, Latino, and Indigenous ancestry. Illness or injury to the gut, such as infection or untreated celiac disease, can also cause temporary intolerance. Genetics, gut health, and diet all influence how much lactose a person can handle.</p>
+
+            <h3>Typical Symptoms</h3>
+            <ul>
+            <li>Bloating, abdominal pain, and excess gas.</li>
+            <li>Loose stools or diarrhea and sometimes nausea.</li>
+            <li>Symptoms often begin thirty minutes to two hours after dairy and improve when lactose is reduced.</li>
+            </ul>
+
+            <h3>Finding Your Personal Tolerance</h3>
+            <ul>
+            <li>Choose lower lactose options such as aged hard cheeses and yogurt with live cultures</li>
+            <li>Try lactose free milk and dairy products.</li>
+            <li>Consider lactase enzyme tablets with meals that include higher lactose foods such as ice cream.</li>
+            <li>Start with small portions and combine dairy with other foods rather than eating it on an empty stomach.</li>
+            <li>Keep a brief food and symptom log to learn what works best for your digestion.</li>
+            </ul>
+
+            <h3>Staying Well Nourished</h3>
+            <p>Calcium and vitamin D matter for bone health. If dairy is limited, consider options such as calcium set tofu, canned fish with soft bones, leafy greens, almonds, and calcium fortified drinks or foods. A clinician or dietitian can suggest a plan that keeps nutrients on track while avoiding discomfort.</p>
+
+            <h3>When To Seek Medical Advice</h3>
+            <p>Persistent pain, weight loss, blood in stool, fever, or nighttime diarrhea.</p>
+            <p>Symptoms that continue despite reducing lactose.</p>
+            <p>Concerns about nutrition or questions about testing such as the hydrogen breath test.</p>
+
+            <h3>References</h3>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. Lactose intolerance. Updated 2023.</p>
+            <p>Misselwitz B, Butter M, Verbeke K, Fox MR. Lactose intolerance pathophysiology diagnosis and treatment. United European Gastroenterology Journal. 2019.</p>
+            <p>He T, Priebe MG, Harmsen HJM, et al. Colonic fermentation may play a role in lactose intolerance symptoms. European Journal of Clinical Investigation. 2008.</p>
+            <p>Heyman MB. Lactose intolerance in infants children and adolescents. Pediatrics. 2006.</p>
+            <p>Suchy FJ, Brannon PM, Carpenter TO, et al. National Institutes consensus on lactose intolerance and health. 2010.</p>`
+
+        }
+    ],
+    "Laryngitis": [
+        {
+            title: "Laryngitis",
+            preview: "Laryngitis is when the larynx, or voice box, in the throat becomes swollen. It usually happens when the vocal cords are irritated. Laryngitis can be caused by viral infections, using the voice too much, or being around smoke or dust.",
+            content: `<h2>Laryngitis</h2>
+            <p>Laryngitis is when the larynx, or voice box, in the throat becomes swollen. It usually happens when the vocal cords are irritated. Laryngitis can be caused by viral infections, using the voice too much, or being around smoke or dust.</p>
+            <p>Swelling in the larynx makes it hard for the vocal cords to vibrate, which can make speaking difficult. Laryngitis can last a few days or longer if the irritation continues. It is common in people who use their voice a lot, like singers or teachers.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms may start slowly or appear quickly. Common signs include:</p>
+            <ul>
+            <li>Hoarseness or loss of voice</li>
+            <li>Sore or raw throat</li>
+            <li>Dry cough</li>
+            <li>Tickling or irritation in the throat</li>
+            <li>Mild fever in some cases</li>
+            </ul>
+            <p>These symptoms happen because the swollen vocal cords cannot make sound normally, and the body reacts to irritation in the throat.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Voice and speech disorders. https://www.who.int/health-topics/voice-disorders</p>
+            <p>National Health Service. (2024). Laryngitis. https://www.nhs.uk/conditions/laryngitis/</p>
+            <p>Healthdirect Australia. (n.d.). Laryngitis. https://www.healthdirect.gov.au/laryngitis</p>`
+
+        }
+    ],
+    "Lupus": [
+        {
+            title: "Lupus",
+            preview: "Lupus is a long-term autoimmune disease. This means the immune system attacks the body by mistake. Lupus is systemic, which means it can affect many organs and tissues, such as the skin, joints, kidneys, and heart.",
+            content: `<h2>Lupus</h2>
+            <p>Lupus is a long-term autoimmune disease. This means the immune system attacks the body by mistake. Lupus is systemic, which means it can affect many organs and tissues, such as the skin, joints, kidneys, and heart.</p>
+
+            <h3>Symptoms and Body Changes</h3>
+            <p>Lupus can look different in each person. Symptoms may be mild or more serious, and people often have flare-ups, where symptoms get worse for a time.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Joint pain</li>
+            <li>Skin rash</li>
+            <li>Extreme fatigue</li>
+            <li>Low-grade fever</li>
+            </ul>
+            <p>Some people develop a rash across the cheeks and nose. Others may experience joint swelling or feel worse after sun exposure.</p>
+
+            <h3>Treatment and Care</h3>
+            <p>There is no cure for lupus, but treatment may help control symptoms. Doctors may use medicines to lower inflammation.</p>
+            <p>Regular medical visits help monitor organ health. Plenty of rest, stress control, and sun protection may also help.</p>
+            <p>With proper self-care and monitoring, people with lupus can manage flare-ups and stay healthy.</p>
+
+            <h3>References</h3>
+            <p>Tsokos, G. C. (2011). Systemic lupus erythematosus. New England Journal of Medicine, 365(22), 2110–2121.</p>
+            <p>Rahman, A., & Isenberg, D. A. (2008). Systemic lupus erythematosus. New England Journal of Medicine, 358(9), 929–939.</p>`
+        }
+    ],
+    "Lice Infestation": [
+        {
+            title: "Lice Infestation",
+            preview: "Lice infestation, also called pediculosis, happens when tiny insects live on the scalp, body, or private areas. These insects bite the skin to feed on blood. Lice spread through close contact and by sharing things like hats, combs, or clothing.",
+            content: `<h2>Lice Infestation</h2>
+            <p>Lice infestation, also called pediculosis, happens when tiny insects live on the scalp, body, or private areas. These insects bite the skin to feed on blood. Lice spread through close contact and by sharing things like hats, combs, or clothing.</p>
+            <p>Lice usually do not cause serious illness, but their bites can be itchy and uncomfortable. The body reacts to the bites, which can cause irritation and redness. Lice are most common in school-aged children, but anyone can get them.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms may appear a few weeks after lice start feeding. Common signs include:</p>
+            <ul>
+            <li>Itching on the scalp or affected area</li>
+            <li>Small red bumps from bites</li>
+            <li>Visible lice or tiny eggs (nits) on hair</li>
+            <li>Trouble sleeping or feeling irritable from itching</li>
+            <li>Sores from scratching</li>
+            </ul>
+            <p>The itching happens because the body reacts to lice saliva. Scratching can make irritation worse and sometimes lead to minor skin infections.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Pediculosis. https://www.who.int/news-room/fact-sheets/detail/pediculosis</p>
+            <p>Centers for Disease Control and Prevention. (2024). Head lice. https://www.cdc.gov/parasites/lice/head/index.html</p>
+            <p>National Health Service. (2025). Head lice. https://www.nhs.uk/conditions/head-lice-and-nits/</p>`
+
+        }
+    ],
+    "Liver Disease": [
+        {
+            title: "Liver Disease",
+            preview: "Liver disease is when the liver is damaged and cannot work properly. The liver is an important organ. It helps the body use nutrients, remove toxins, and make proteins. Liver disease can happen from infections, drinking too much alcohol, fatty buildup, or immune system problems.",
+            content: `<h2>Liver Disease</h2>
+            <p>Liver disease is when the liver is damaged and cannot work properly. The liver is an important organ. It helps the body use nutrients, remove toxins, and make proteins. Liver disease can happen from infections, drinking too much alcohol, fatty buildup, or immune system problems.</p>
+            <p>Liver damage can happen slowly and may take years before causing symptoms. The liver can become swollen, scarred, or stop working well. Anyone can get liver disease, and finding it early helps with treatment.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms can be different depending on the type of liver disease. Common signs include:</p>
+            <ul>
+            <li>Yellow skin or eyes (jaundice)</li>
+            <li>Swelling in the belly or legs</li>
+            <li>Feeling tired or weak</li>
+            <li>Nausea or loss of appetite</li>
+            <li>Dark urine or pale stools</li>
+            </ul>
+            <p>These signs happen because the liver cannot remove toxins or make substances the body needs. Waste builds up because the liver cannot keep up.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Liver diseases. https://www.who.int/news-room/fact-sheets/detail/liver-diseases</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2024). Liver disease. https://www.niddk.nih.gov/health-information/liver-disease</p>
+            <p>National Health Service. (2025). Liver disease. https://www.nhs.uk/conditions/liver-disease/</p>`
+
+        }
+    ],
+    "Long COVID": [
+        {
+            title: "Long COVID Recovery",
+            preview: "Long Covid refers to lingering effects that persist after a Covid-19 infection. It is estimated that at least 65 million people worldwide experience these ongoing symptoms, which can range from mild to debilitating.",
+            content: `<h2>Long COVID Recovery</h2>
+            <p>Long Covid refers to lingering effects that persist after a Covid-19 infection. It is estimated that at least 65 million people worldwide experience these ongoing symptoms, which can range from mild to debilitating.</p>
+            <p>Long Covid likely results from multiple factors, including inflammation, disruption of the hypothalamic-pituitary-adrenal axis (which governs hormones), impacts on the autonomic nervous system, and changes to the microbiome.</p>
+
+            <h3>Symptoms and Risk Factors</h3>
+            <p>Common symptoms of long Covid include:</p>
+            <ul>
+            <li>Fatigue, especially after exercise</li>
+            <li>Brain fog and memory issues</li>
+            <li>Prolonged shortness of breath</li>
+            <li>Palpitations</li>
+            <li>Generalized body aches</li>
+            </ul>
+            <p>These symptoms can overlap with other conditions such as mast cell activation syndrome and dysautonomia (including POTS).</p>
+            <p>Certain populations may be at higher risk, including:</p>
+            <ul>
+            <li>Women</li>
+            <li>Individuals from underserved populations</li>
+            <li>People with lower income or educational status</li>
+            <li>Residents of buildings with water damage or mold</li>
+            <li>Those with preexisting conditions such as allergies or ADHD</li>
+            </ul>
+
+            <h3>Integrative Approaches to Recovery</h3>
+            <p>Long Covid recovery often benefits from a holistic, integrative approach. Strategies include:</p>
+            <ul>
+            <li>Supporting the microbiome through nutrition and probiotics</li>
+            <li>Using herbs to support adrenal and hypothalamic-pituitary function</li>
+            <li>Consuming omega-3 rich foods</li>
+            <li>Maintaining a plant-forward, anti-inflammatory diet, including herbs and spices such as turmeric, ginger, and garlic</li>
+            <li>Prioritizing sleep and regular exercise</li>
+            <li>Engaging in recovery practices such as yoga, massage, and meditation</li>
+            </ul>
+            <p>It is important to note that long Covid is not contagious and cannot be passed from person to person.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. "Post-COVID Conditions." CDC, 2024, www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html.</p>
+            <p>World Health Organization. "Long COVID." WHO, 2023, www.who.int/news-room/fact-sheets/detail/long-covid.</p>
+            <p>Mayo Clinic Staff. "Long COVID: Symptoms, Risk Factors, and Recovery." Mayo Clinic, 2024, www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/long-covid/art-20560405.</p>`
+
+        }
+    ],
+    "Lung Cancer": [
+        {
+            title: "Lung Cancer",
+            preview: "Lung cancer remains one of the most serious and widely studied cancers worldwide. Despite advancements in medicine and treatment, it continues to be a leading cause of cancer-related deaths. Understanding its causes, risk factors, and methods of early detection can significantly improve outcomes.",
+            content: `<h2>Detecting & Preventing Lung Cancer</h2>
+            <p>Lung cancer remains one of the most serious and widely studied cancers worldwide. Despite advancements in medicine and treatment, it continues to be a leading cause of cancer-related deaths. Understanding its causes, risk factors, and methods of early detection can significantly improve outcomes.</p>
+
+            <h3>Causes and Risk Factors</h3>
+            <p>The strongest known risk factor for lung cancer is tobacco smoking. Cigarette smoke contains thousands of chemicals, many of which are known carcinogens. Long-term exposure can damage the lining of the lungs, increasing the likelihood of developing cancer over time.</p>
+            <p>Historically, lung cancer rates were higher among men, but the gap between genders has narrowed as smoking rates among women have increased. While global smoking rates have declined due to awareness and public health initiatives, lung cancer continues to affect millions worldwide.</p>
+            <p>Other factors that increase risk include:</p>
+            <ul>
+            <li>Exposure to secondhand smoke.</li>
+            <li>Air pollution and environmental toxins.</li>
+            <li>Occupational exposure to substances such as asbestos or radon gas.</li>
+            <li>Genetic predisposition, especially in individuals with a family history of lung disease.</li>
+            </ul>
+            <p>Reducing or quitting smoking remains one of the most effective ways to lower the risk of lung cancer. Avoiding polluted environments and maintaining a healthy lifestyle also support long-term lung health.</p>
+
+            <h3>The Importance of Early Detection</h3>
+            <p>Early detection greatly improves the chances of successful treatment. In many cases, lung cancer develops silently without noticeable symptoms until it reaches an advanced stage. That is why screening is recommended for individuals at higher risk, especially long-term smokers.</p>
+            <p>A low-dose CT scan is one of the most effective tools for detecting early lung changes. This test uses a small amount of radiation to create detailed images of the lungs, allowing specialists to identify small nodules before they develop into advanced cancer.</p>
+            <p>Detecting cancer early often allows for less invasive treatments and better recovery outcomes.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment options for lung cancer depend on the type, stage, and overall health of the individual. Common approaches include:</p>
+            <ul>
+            <li>Surgery to remove cancerous tissue when detected early.</li>
+            <li>Radiation therapy or chemotherapy to target remaining or spreading cancer cells.</li>
+            <li>Targeted therapy and immunotherapy, which use modern medicine to attack cancer cells more precisely.</li>
+            </ul>
+            <p>Ongoing research continues to improve treatment outcomes and extend survival rates for individuals diagnosed with lung cancer.</p>
+
+            <h3>Supporting Lung Health</h3>
+            <p>Prevention plays a major role in reducing lung cancer risk and supporting general respiratory health. Helpful steps include:</p>
+            <ul>
+            <li>Avoiding smoking and limiting exposure to secondhand smoke.</li>
+            <li>Staying physically active to strengthen lung capacity.</li>
+            <li>Eating a nutrient-rich diet with fruits, vegetables, and whole grains to support immune function.</li>
+            <li>Regularly checking air quality and wearing protective masks in polluted or occupational environments.</li>
+            </ul>
+            <p>Simple, consistent health practices can make a meaningful difference in reducing the risk of developing lung cancer and improving overall wellbeing.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Global cancer observatory: Lung cancer fact sheet.</p>
+            <p>National Cancer Institute. (2023). Lung cancer prevention and early detection.</p>
+            <p>Herbst, R. S., Morgensztern, D., & Boshoff, C. (2018). The biology and management of non-small cell lung cancer. Nature, 553(7689), 446–454.</p>
+            <p>Siegel, R. L., Miller, K. D., & Fuchs, H. E. (2023). Cancer statistics, 2023. CA: A Cancer Journal for Clinicians, 73(1), 17–48.</p>`
+
+        }
+    ],
+    "Lyme Disease": [
+        {
+            title: "Lyme Disease",
+            preview: "Lyme disease is an infection caused by bacteria that can enter the body through the bite of an infected tick. Ticks are small insects that attach to the skin. Lyme disease is more common in wooded or grassy areas.",
+            content: `<h2>Lyme Disease</h2>
+            <p>Lyme disease is an infection caused by bacteria that can enter the body through the bite of an infected tick. Ticks are small insects that attach to the skin. Lyme disease is more common in wooded or grassy areas.</p>
+
+            <h3>Symptoms and Stages</h3>
+            <p>Symptoms often begin days to weeks after a tick bite. Sometimes people do not realize they were bitten because tick bites can be painless.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Red skin rash</li>
+            <li>Fever</li>
+            <li>Fatigue</li>
+            <li>Headache</li>
+            </ul>
+            <p>The rash may form a round pattern and slowly expand. If left untreated, the infection can spread to the joints, heart, or nervous system.</p>
+
+            <h3>Treatment and Prevention</h3>
+            <p>Lyme disease is treated with antibiotics. Antibiotics are medicines that kill bacteria. Early treatment usually leads to full recovery.</p>
+            <p>To prevent Lyme disease, avoid tall grass and use insect repellent. Wearing long sleeves and checking for ticks after outdoor activity may lower risk.</p>
+            <p>Early care can stop the infection from spreading and protect the body from serious damage.</p>
+
+            <h3>References</h3>
+            <p>Steere, A. C., Strle, F., Wormser, G. P., Hu, L. T., Branda, J. A., Hovius, J. W. R., Li, X., & Mead, P. S. (2016). Lyme borreliosis. Nature Reviews Disease Primers, 2, 16090.</p>
+            <p>Stanek, G., Wormser, G. P., Gray, J., & Strle, F. (2012). Lyme borreliosis. Lancet, 379(9814), 461–473.</p>`
+        }
+    ],
+    "Lymphedema": [
+        {
+            title: "What is Lymphedema?",
+            preview: "Lymphedema is swelling that occurs when lymph fluid builds up in the body's tissues. Lymph fluid is part of the immune system and helps remove waste and fight infection.",
+            content: `<h2>What is Lymphedema?</h2>
+            <p>Lymphedema is swelling that occurs when lymph fluid builds up in the body's tissues. Lymph fluid is part of the immune system and helps remove waste and fight infection.</p>
+            <p>When the lymphatic system becomes damaged or blocked, fluid may collect in tissues. This swelling most often affects the arms or legs.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms may develop gradually and can worsen over time.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Swelling in the arm, leg, fingers, or toes</li>
+            <li>A feeling of heaviness or tightness in the affected area</li>
+            <li>Reduced flexibility or movement</li>
+            <li>Skin that feels firm or thick</li>
+            </ul>
+            <p>Some people may also experience discomfort or repeated skin infections.</p>
+
+            <h3>How Lymphedema Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose lymphedema by examining the affected area and reviewing medical history. Imaging tests may sometimes be used to evaluate the lymphatic system and confirm the diagnosis.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Lymphedema is usually a long-term condition, but treatment can help reduce swelling and manage symptoms.</p>
+            <p>Treatment approaches may include:</p>
+            <ul>
+            <li>Wearing compression garments to support fluid movement</li>
+            <li>Gentle exercises that encourage lymph flow</li>
+            <li>Specialized massage techniques that help move fluid through lymph vessels</li>
+            <li>Careful skin care to prevent infection</li>
+            </ul>
+            <p>Early treatment and regular care can help control swelling and reduce complications.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2022). Lymphedema.</p>
+            <p>National Cancer Institute. (2024). Lymphedema (PDQ®)–Health Professional Version.</p>
+            <p>Cleveland Clinic. (2022). Lymphedema.</p>`
+
+        }
+    ],
+    "Macular Degeneration": [
+        {
+            title: "Macular Degeneration",
+            preview: "Macular degeneration is an eye disease that affects the macula. The macula is a small part of the eye that helps you see things clearly in the center of your vision. The retina, where the macula is, senses light and sends images to the brain.",
+            content: `<h2>Macular Degeneration</h2>
+            <p>Macular degeneration is an eye disease that affects the macula. The macula is a small part of the eye that helps you see things clearly in the center of your vision. The retina, where the macula is, senses light and sends images to the brain.</p>
+            <p>This condition is more common in older adults. It usually does not cause total blindness, but it can make daily tasks more difficult.</p>
+
+            <h3>Symptoms and Types</h3>
+            <p>Macular degeneration often develops slowly. Early stages may not cause clear symptoms.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Blurred center vision</li>
+            <li>Dark or empty spots</li>
+            <li>Trouble reading</li>
+            <li>Straight lines that look wavy</li>
+            </ul>
+            <p>There are two main types. Dry macular degeneration is more common and tends to worsen slowly. Wet macular degeneration is less common but may cause faster vision changes.</p>
+
+            <h3>Treatment and Care</h3>
+            <p>There is no cure, but treatment may slow the progression of vision loss. Some people benefit from special vitamin supplements. The wet form may be treated with eye injections that help control abnormal blood vessels.</p>
+            <p>Regular eye exams help detect changes. Good lighting and magnifying tools may help with reading and close work.</p>
+            <p>With monitoring and support, many people adjust to vision changes.</p>
+
+            <h3>References</h3>
+            <p>Age-Related Eye Disease Study Research Group. (2001). A randomized, placebo-controlled, clinical trial of high-dose supplementation with vitamins C and E, beta carotene, and zinc for age-related macular degeneration. Archives of Ophthalmology, 119(10), 1417–1436.</p>
+            <p>Lim, L. S., Mitchell, P., Seddon, J. M., Holz, F. G., & Wong, T. Y. (2012). Age-related macular degeneration. Lancet, 379(9827), 1728–1738.</p>`
+        }
+    ],
+    "Malaria": [
+        {
+            title: "Malaria",
+            preview: "Malaria is a disease caused by tiny parasites that infect red blood cells. It spreads when a mosquito carrying the parasite bites a person. Malaria is common in warm parts of the world, such as Africa, Asia, and Central and South America.",
+            content: `<h2>Malaria</h2>
+            <p>Malaria is a disease caused by tiny parasites that infect red blood cells. It spreads when a mosquito carrying the parasite bites a person.</p>
+            <p>Malaria is common in warm parts of the world, such as Africa, Asia, and Central and South America. It can become serious if not treated.</p>
+
+            <h3>Symptoms</h3>
+            <p>Symptoms often begin 1 to 4 weeks after a mosquito bite. Early signs may feel like the flu.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Fever</li>
+            <li>Chills</li>
+            <li>Headache</li>
+            <li>Body aches</li>
+            </ul>
+            <p>Some people may also feel very tired, have nausea, or vomit. In severe cases, malaria can affect the brain or other organs.</p>
+
+            <h3>Treatment and Prevention</h3>
+            <p>Malaria is treated with medicine that kills the parasites. Getting care quickly can prevent serious problems, such as severe anemia, difficulty breathing, or damage to the brain and other organs.</p>
+            <p>Prevention focuses on avoiding mosquito bites. Using insect repellent, sleeping under bed nets, and wearing long sleeves may help lower risk. Some travelers may take medicine to prevent infection.</p>
+            <p>Proper care helps people fight the parasites and lowers the risk of serious health problems.</p>
+
+            <h3>References</h3>
+            <p>Ashley, E. A., Pyae Phyo, A., & Woodrow, C. J. (2018). Malaria. Lancet, 391(10130), 1608–1621.</p>
+            <p>World Health Organization. (2022). World Malaria Report 2022. Weekly Epidemiological Record, 97(50), 617–632.</p>`
+        }
+    ],
+    "Measles": [
+        {
+            title: "Measles",
+            preview: "Measles is a very contagious viral disease. It spreads when an infected person coughs or sneezes, and the virus can stay in the air for a short time after they leave. Measles mostly affects children, but adults can get it too.",
+            content: `<h2>Measles</h2>
+            <p>Measles is a very contagious viral disease. It spreads when an infected person coughs or sneezes, and the virus can stay in the air for a short time after they leave.</p>
+            <p>Measles mostly affects children, but adults can get it too.</p>
+
+            <h3>Symptoms and Spread</h3>
+            <p>Symptoms usually begin 7 to 14 days after exposure. Early signs may look like a cold.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Fever</li>
+            <li>Cough</li>
+            <li>Runny nose</li>
+            <li>Red eyes</li>
+            </ul>
+            <p>A red rash often appears a few days later. The rash usually starts on the face and spreads downward. Measles can lead to serious complications, especially in young children.</p>
+
+            <h3>Prevention and Care</h3>
+            <p>There is no specific cure for measles. Treatment focuses on rest, fluids, and managing fever. Medical care may be needed if complications develop. With proper management, most symptoms improve over time.</p>
+            <p>Vaccination is the best way to prevent measles. The measles, mumps, and rubella (MMR) vaccine provides strong protection.</p>
+            <p>Measles can be serious, but getting vaccinated protects you and those around you from infection.</p>
+
+            <h3>References</h3>
+            <p>Moss, W. J. (2017). Measles. Lancet, 390(10111), 2490–2502.</p>
+            <p>World Health Organization. (2019). Measles vaccines: WHO position paper. Weekly Epidemiological Record, 94(9), 85–104.</p>`
+        }
+    ],
+    "Menopause": [
+        {
+            title: "Menopause And Its Symptoms",
+            preview: "Menopause is a natural stage of life. It marks the end of monthly periods and the ability to become pregnant. Most people reach menopause around age 51, but this can happen earlier or later.",
+            content: `<h2>Menopause And Its Symptoms</h2>
+            <p>Menopause is a natural stage of life. It marks the end of monthly periods and the ability to become pregnant. Most people reach menopause around age 51, but this can happen earlier or later. A person is considered to be in menopause after they have gone 12 months in a row without a period.</p>
+
+            <h3>What Happens During Menopause</h3>
+            <p>During menopause, the ovaries stop releasing eggs. They also make much lower levels of the hormones estrogen and progesterone. These hormone changes can affect many parts of the body and can cause both physical and emotional symptoms.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Some people notice only mild changes, while others have stronger symptoms.</p>
+            <p><strong>Hot flashes and night sweats:</strong> Hot flashes feel like sudden waves of heat and can happen during the day. Night sweats are hot flashes that happen at night and can interrupt sleep.</p>
+            <p><strong>Changes in the vagina and bladder:</strong> Lower estrogen levels can cause vaginal dryness. This may lead to discomfort, irritation, or pain during sex.</p>
+            <p><strong>Mood and body changes:</strong> Some people experience mood changes, such as feeling anxious, sad, or irritable. Weight gain may occur, and changes in blood sugar or cholesterol levels can also happen.</p>
+
+            <h3>What Is Perimenopause?</h3>
+            <p>Perimenopause is the time leading up to menopause. During this stage, hormone levels begin to change, but periods have not fully stopped. People may notice irregular periods, sleep problems, mood changes, hot flashes, or weight gain. Perimenopause can last several years before menopause begins.</p>
+
+            <h3>Lifestyle And Menopause</h3>
+            <p>Daily habits can affect how strong menopause symptoms feel. Staying physically active helps support heart health, bone strength, and mood. Eating balanced meals helps manage weight and energy levels. Good sleep and stress management can also reduce hot flashes and mood swings.</p>
+            <p>Small lifestyle changes can make a big difference during this transition.</p>
+
+            <h3>Treatment Options</h3>
+            <p>There are different ways to manage menopause symptoms. Some people use hormone therapy under a clinician's guidance. Others may use non-hormonal medicines for specific symptoms. Relaxation techniques, gentle movement, and diet changes may also help, though results can vary.</p>
+            <p>Talking with female family members can be useful. Their experiences may give clues about timing and symptoms.</p>
+
+            <h3>Moving Forward</h3>
+            <p>Menopause marks the end of fertility, but it does not mean the end of health or energy. With the right support and care, people can feel strong, active, and well for many years after menopause.</p>
+
+            <h3>References</h3>
+            <p>National Institute on Aging. What Is Menopause? Updated 2023.</p>
+            <p>Mayo Clinic. Menopause: Symptoms and Causes. Updated 2022.</p>
+            <p>Freeman, E. W. (2015). Pathophysiology and treatment of menopausal hot flashes. Seminars in Reproductive Medicine, 33(6), 488–497.</p>
+            <p>Santoro, N., & Randolph, J. F. (2011). Reproductive aging and the menopause transition. Obstetrics & Gynecology Clinics, 38(3), 455–466.</p>`
+
+        }
+    ],
+    "Metabolic Syndrome": [
+        {
+            title: "Metabolic Syndrome",
+            preview: "Metabolic syndrome is a group of health problems that happen together. These problems make it more likely for someone to get heart disease, stroke, or type 2 diabetes.",
+            content: `<h2>Metabolic Syndrome</h2>
+            <p>Metabolic syndrome is a group of health problems that happen together. These problems make it more likely for someone to get heart disease, stroke, or type 2 diabetes.</p>
+            <p>It is not one single disease. The term is used when several health risks affect the body at the same time.</p>
+
+            <h3>Risk Factors</h3>
+            <p>A person may have metabolic syndrome if they have several of these problems:</p>
+            <ul>
+            <li>High blood pressure</li>
+            <li>High blood sugar</li>
+            <li>Extra fat around the waist</li>
+            <li>High cholesterol</li>
+            </ul>
+            <p>Cholesterol is a type of fat in the blood. When these problems happen together, they put extra stress on the heart and blood vessels.</p>
+
+            <h3>Prevention and Care</h3>
+            <p>Healthy habits can help lower the risk. Exercise regularly to keep the heart strong and manage blood sugar. Eat balanced meals with fruits, vegetables, and whole grains. Keeping a healthy weight is important. Doctors may also give medicine to control blood pressure, cholesterol, or blood sugar when needed. Regular checkups help monitor any risk factors.</p>
+            <p>By following healthy routines and tracking their health, people can lower the risk factors that lead to metabolic syndrome.</p>
+
+            <h3>References</h3>
+            <p>Eckel, R. H., Grundy, S. M., & Zimmet, P. Z. (2005). The metabolic syndrome. Lancet, 365(9468), 1415–1428.</p>
+            <p>Grundy, S. M. (2008). Metabolic syndrome pandemic. Arteriosclerosis, Thrombosis, and Vascular Biology, 28(4), 629–636.</p>`
+        }
+    ],
+    "Migraine": [
+        {
+            title: "What Is A Migraine?",
+            preview: "A migraine is more than a regular headache. It is a condition that affects the brain and nervous system. Migraines often cause strong head pain along with other symptoms that can make daily activities hard.",
+            content: `<h2>What Is A Migraine?</h2>
+            <p>A migraine is more than a regular headache. It is a condition that affects the brain and nervous system. Migraines often cause strong head pain along with other symptoms that can make daily activities hard. Many people need specific treatment and lifestyle changes to manage migraines.</p>
+
+            <h3>Recognizing Migraine Symptoms</h3>
+            <p>A migraine can last for several hours or even a few days. Symptoms can be different for each person and may change over time.</p>
+            <p>Common migraine symptoms include:</p>
+            <ul>
+            <li>Strong, throbbing pain, often on one side of the head.</li>
+            <li>Sensitivity to light or sound, making bright rooms or noise feel painful.</li>
+            <li>Nausea or vomiting, which can make the migraine feel worse.</li>
+            </ul>
+            <p>Some people have migraines often, while others have them only once in a while.</p>
+
+            <h3>Tracking And Diagnosing Migraines</h3>
+            <p>Keeping track of migraines can help a healthcare provider understand what is happening. Writing things down makes patterns easier to see.</p>
+            <p>A migraine log may include:</p>
+            <ul>
+            <li>How often migraines happen and how long they last.</li>
+            <li>Possible triggers, such as certain foods, stress, or hormone changes.</li>
+            <li>Symptoms like nausea or light sensitivity.</li>
+            <li>Medicines taken and whether they helped.</li>
+            </ul>
+            <p>A clinician can use this information to confirm migraines and rule out other causes of headaches.</p>
+
+            <h3>Managing And Treating Migraines</h3>
+            <p>Migraine care usually includes medicine, avoiding triggers, and daily habits that support brain health.</p>
+            <p><strong>Medicines:</strong> Some medicines are taken at the start of a migraine to stop or reduce pain. Others are taken regularly to help prevent migraines from happening as often. A clinician can help choose what is safest and most helpful.</p>
+            <p><strong>Avoiding Triggers:</strong> Many people notice that migraines start after certain triggers. These can include specific foods or drinks, stress or strong emotions, changes in sleep or hormone levels, and things in the environment like bright lights or strong smells. Learning your personal triggers can help lower how often migraines happen.</p>
+            <p><strong>Daily Habits That Help:</strong> Healthy routines can lower migraine risk over time. Getting enough sleep, drinking water, eating regular meals, and moving the body gently all support the nervous system. Stress-relief tools like deep breathing or quiet breaks may also help.</p>
+
+            <h3>When To Seek Medical Support</h3>
+            <p>Talk with a healthcare provider if migraines happen often, feel very painful, or interfere with school, work, or daily life. Getting support early can help reduce symptoms and improve long-term wellbeing.</p>
+
+            <h3>References</h3>
+            <p>Headache Classification Committee of the International Headache Society. (2018). The International Classification of Headache Disorders (3rd edition). Cephalalgia, 38(1), 1–211.</p>
+            <p>Lipton, R. B., & Silberstein, S. D. (2015). The role of headache diaries in migraine management. Neurology, 84(5), 564–571.</p>
+            <p>Goadsby, P. J., et al. (2021). Pathophysiology and treatment of migraine. New England Journal of Medicine, 384(2), 187–193.</p>`
+
+        }
+    ],
+    "Mononucleosis": [
+        {
+            title: "What Is Mononucleosis?",
+            preview: "Mononucleosis, called \"mono,\" is a viral infection most often caused by the Epstein-Barr virus. It spreads through saliva, which is why it is sometimes called the \"kissing disease.\" Mono is most common in teenagers and young adults, but people of any age can get it.",
+            content: `<h2>What Is Mononucleosis?</h2>
+            <p>Mononucleosis, called "mono," is a viral infection most often caused by the Epstein-Barr virus. It spreads through saliva, which is why it is sometimes called the "kissing disease." It can also spread by sharing drinks, utensils, or toothbrushes with someone who has the virus. Mono is most common in teenagers and young adults, but people of any age can get it.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Symptoms usually appear several weeks after exposure and may include:</p>
+            <ul>
+            <li>Extreme tiredness or fatigue</li>
+            <li>Fever</li>
+            <li>Sore throat</li>
+            <li>Swollen lymph nodes, especially in the neck</li>
+            <li>Headache or body aches</li>
+            <li>Swollen tonsils</li>
+            <li>Loss of appetite</li>
+            </ul>
+            <p>Fatigue is often the most common symptom and may last longer than others as the body recovers.</p>
+
+            <h3>How Mono Is Diagnosed</h3>
+            <p>A healthcare provider can diagnose mono by your symptoms and doing a physical exam. In some cases, a blood test is used to confirm the infection.</p>
+
+            <h3>Treatment and Recovery</h3>
+            <p>There is no specific cure for mono because it is caused by a virus. Treatment focuses on helping the body recover and manage symptoms.</p>
+            <p>Helpful steps during recovery include:</p>
+            <ul>
+            <li>Getting plenty of rest</li>
+            <li>Drinking fluids to stay hydrated</li>
+            <li>Using over-the-counter medications for fever or discomfort</li>
+            <li>Avoiding intense activity or contact sports while recovering</li>
+            </ul>
+            <p>Most people recover fully with the right care. Symptoms usually improve within a few weeks. It may take longer for energy levels to return to normal.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). About Infectious Mononucleosis.</p>
+            <p>Cleveland Clinic. (2024). Mononucleosis.</p>
+            <p>Mayo Clinic. (2022). Mononucleosis.</p>`
+        }
+    ],
+    "Motion Sickness": [
+        {
+            title: "Motion Sickness",
+            preview: "Motion sickness happens when the brain gets mixed signals from the eyes, inner ear, and body about movement. This confusion can make a person feel dizzy or sick to their stomach. It often happens during travel by car, boat, plane, or on amusement park rides.",
+            content: `<h2>Motion Sickness</h2>
+            <p>Motion sickness happens when the brain gets mixed signals from the eyes, inner ear, and body about movement. This confusion can make a person feel dizzy or sick to their stomach. It often happens during travel by car, boat, plane, or on amusement park rides.</p>
+            <p>The inner ear helps control balance and sense motion. When what the eyes see does not match what the inner ear feels, the brain gets confused. This causes the body to react with symptoms as it tries to adjust.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms can start quickly and may be mild or strong. Common signs include:</p>
+            <ul>
+            <li>Nausea or vomiting</li>
+            <li>Dizziness or lightheadedness</li>
+            <li>Sweating</li>
+            <li>Pale skin</li>
+            <li>Increased saliva in the mouth</li>
+            </ul>
+            <p>These symptoms happen because the body reacts to the mixed signals from the senses. The reaction can be mild or strong enough to affect daily activities.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Motion sickness and related disorders. https://www.who.int/health-topics/motion-sickness</p>
+            <p>National Health Service. (2025). Travel sickness. https://www.nhs.uk/conditions/travel-sickness/</p>
+            <p>Centers for Disease Control and Prevention. (2024). Motion sickness. https://www.cdc.gov/healthyschools/motionsickness.html</p>`
+
+        }
+    ],
+    "Multiple Sclerosis": [
+        {
+            title: "Multiple Sclerosis",
+            preview: "Multiple sclerosis (MS) is an autoimmune disorder in which the body's immune system mistakenly attacks the brain and spinal cord. This disrupts communication between the brain and the rest of the body, leading to a wide range of neurological symptoms that can vary in intensity and duration.",
+            content: `<h2>What Is Multiple Sclerosis?</h2>
+            <p>Multiple sclerosis (MS) is an autoimmune disorder in which the body's immune system mistakenly attacks the brain and spinal cord. This disrupts communication between the brain and the rest of the body, leading to a wide range of neurological symptoms that can vary in intensity and duration.</p>
+
+            <h3>Understanding the Condition</h3>
+            <p>In MS, the immune system damages the myelin sheath, a protective layer that surrounds nerve fibers. This process, known as demyelination, slows or blocks electrical signals that travel along the nerves. Over time, the resulting inflammation and scarring can lead to both temporary and permanent neurological deficits.</p>
+            <p>MS most often affects young adults, particularly women, and its progression can be unpredictable. Some individuals experience isolated episodes of symptoms that never return, while others develop a recurring or progressive form of the disease.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Because MS affects the central nervous system, symptoms can differ greatly from person to person. Common signs may include:</p>
+            <ul>
+            <li>Difficulty with balance, walking, or coordination.</li>
+            <li>Vision problems such as double vision or loss of sight.</li>
+            <li>Numbness, weakness, or tingling in the limbs.</li>
+            <li>Fatigue and cognitive changes such as slowed thinking or memory difficulties.</li>
+            </ul>
+
+            <h3>Diagnosis and Treatment</h3>
+            <p>Early diagnosis is essential for managing MS and preventing further nerve damage. Neurologists typically use imaging studies such as magnetic resonance imaging (MRI) to detect lesions in the brain or spinal cord.</p>
+            <p>Treatment focuses on three key goals:</p>
+            <ul>
+            <li>Managing flare-ups using corticosteroids or other short-term medications.</li>
+            <li>Slowing disease progression through disease-modifying therapies that target the immune response.</li>
+            <li>Improving quality of life with physical therapy, exercise, and symptom-specific treatments.</li>
+            </ul>
+            <p>A comprehensive care plan created with a neurologist helps address individual needs, maintain mobility, and preserve independence.</p>
+
+            <h3>Living with MS</h3>
+            <p>Although MS has no cure, many people live long, active lives with effective management. Maintaining a healthy lifestyle, engaging in regular movement, and managing stress all support physical and emotional wellbeing. Advances in treatment continue to offer greater hope for improved outcomes and a better quality of life.</p>
+
+            <h3>References</h3>
+            <p>Thompson, A. J., Baranzini, S. E., Geurts, J., Hemmer, B., & Ciccarelli, O. (2018). Multiple sclerosis. The Lancet, 391(10130), 1622–1636. https://doi.org/10.1016/S0140-6736(18)30481-1</p>
+            <p>National Multiple Sclerosis Society. (2023). Understanding multiple sclerosis. Retrieved from https://www.nationalmssociety.org</p>
+            <p>Reich, D. S., Lucchinetti, C. F., & Calabresi, P. A. (2018). Multiple sclerosis. New England Journal of Medicine, 378(2), 169–180. https://doi.org/10.1056/NEJMra1401483</p>`
+
+        }
+    ],
+    "Mumps": [
+        {
+            title: "What Are Mumps?",
+            preview: "Mumps are a contagious viral infection. It spreads by saliva or droplets when an infected person coughs, sneezes, or talks. Vaccination has made mumps much less common, but people can still get the infection.",
+            content: `<h2>What Are Mumps?</h2>
+            <p>Mumps are a contagious viral infection. It spreads by saliva or droplets when an infected person coughs, sneezes, or talks. Vaccination has made mumps much less common, but people can still get the infection.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Symptoms usually appear about two to three weeks after exposure. The most visible sign is swelling of the salivary glands, which can cause puffy cheeks and a swollen jaw.</p>
+            <p>Other symptoms may include:</p>
+            <ul>
+            <li>Fever</li>
+            <li>Headache</li>
+            <li>Muscle aches</li>
+            <li>Tiredness or fatigue</li>
+            <li>Loss of appetite</li>
+            </ul>
+            <p>Some people may have mild symptoms or no symptoms at all.</p>
+
+            <h3>How Mumps Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose mumps based on symptoms and a physical exam. In some cases, laboratory tests may be used to confirm the infection.</p>
+
+            <h3>Treatment and Recovery</h3>
+            <p>There is no specific cure for mumps because it is caused by a virus. Treatment focuses on relieving symptoms while the body fights the infection.</p>
+            <p>Helpful steps during recovery include:</p>
+            <ul>
+            <li>Getting plenty of rest</li>
+            <li>Drinking fluids to stay hydrated</li>
+            <li>Using over-the-counter medications to help reduce fever or discomfort</li>
+            </ul>
+            <p>Most people recover fully within a few weeks.</p>
+
+            <h3>Prevention</h3>
+            <p>Vaccination is the best way to prevent mumps. The measles, mumps, and rubella (MMR) vaccine helps protect against infection and reduces the risk of complications.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2025). About Mumps.</p>
+            <p>Mayo Clinic. (2022). Mumps.</p>
+            <p>Cleveland Clinic. (2022). Mumps.</p>`
+        }
+    ],
+    "Muscle Cramp": [
+        {
+            title: "Muscle Cramp",
+            preview: "A muscle cramp is a sudden, involuntary tightening or contraction of a muscle. It can happen in any muscle but is most common in the legs, feet, and hands. Muscle cramps often occur during exercise, at night, or after holding a position for a long time.",
+            content: `<h2>Muscle Cramp</h2>
+            <p>A muscle cramp is a sudden, involuntary tightening or contraction of a muscle. It can happen in any muscle but is most common in the legs, feet, and hands. Muscle cramps often occur during exercise, at night, or after holding a position for a long time.</p>
+            <p>Cramps occur when muscles are tired, dehydrated, or lack blood and oxygen. Low levels of potassium, calcium, or magnesium can cause cramps. Cramps aren't usually serious, but they can hurt and limit movement for a short time.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Muscle cramps are usually easy to identify. Common signs include:</p>
+            <ul>
+            <li>Sudden, sharp pain in the affected muscle</li>
+            <li>A visible hard lump or tightness in the muscle</li>
+            <li>Temporary stiffness after the cramp subsides</li>
+            <li>Difficulty moving the affected area</li>
+            <li>Muscle twitching</li>
+            </ul>
+            <p>Muscle fibers contract, causing discomfort. They can't relax right away. The cramp's intensity and duration can differ. This depends on the cause and how active you are.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Muscle health and disorders. https://www.who.int/health-topics/muscle-disorders</p>
+            <p>National Health Service. (2025). Muscle cramps. https://www.nhs.uk/conditions/muscle-cramp/</p>
+            <p>Mayo Clinic. (2024). Muscle cramps. https://www.mayoclinic.org/diseases-conditions/muscle-cramp/symptoms-causes</p>`
+
+        }
+    ],
+    "Muscle Strain": [
+        {
+            title: "Muscle Strain",
+            preview: "A muscle strain happens when muscle fibers stretch too far or tear. This can happen from using muscles too much, sudden movements, or lifting heavy things. Any muscle can get strained, but it usually happens in the back, legs, or shoulders.",
+            content: `<h2>Muscle Strain</h2>
+            <p>A muscle strain happens when muscle fibers stretch too far or tear. This can happen from using muscles too much, sudden movements, or lifting heavy things. Any muscle can get strained, but it usually happens in the back, legs, or shoulders. Strains can be small or more serious.</p>
+            <p>A strain causes pain, swelling, and weakness. Muscles that are used a lot or not warmed up first are more likely to get hurt.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Signs of a muscle strain include:</p>
+            <ul>
+            <li>Pain or tenderness in the muscle</li>
+            <li>Swelling or bruising</li>
+            <li>Weakness or trouble moving the muscle</li>
+            <li>Stiffness or limited movement</li>
+            <li>Muscle spasms sometimes</li>
+            </ul>
+            <p>Pain and swelling happen because the muscle fibers are damaged. Bruises appear when small blood vessels break.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Musculoskeletal conditions. https://www.who.int/health-topics/musculoskeletal-conditions</p>
+            <p>National Health Service. (2025). Muscle strain. https://www.nhs.uk/conditions/muscle-strain/</p>
+            <p>Mayo Clinic. (2024). Muscle strain. https://www.mayoclinic.org/diseases-conditions/muscle-strain/symptoms-causes</p>`
+
+        }
+    ],
+    "Nail Fungus": [
+        {
+            title: "Nail Fungus",
+            preview: "Nail fungus, also called onychomycosis, is an infection of the fingernails or toenails caused by fungi. It can make nails thick, discolored, brittle, or crumbly. The infection usually grows slowly and can affect one or more nails.",
+            content: `<h2>Nail Fungus</h2>
+            <p>Nail fungus, also called onychomycosis, is an infection of the fingernails or toenails caused by fungi. It can make nails thick, discolored, brittle, or crumbly. The infection usually grows slowly and can affect one or more nails.</p>
+            <p>Fungi like warm, moist places, so toenails are more often affected than fingernails. People who wear closed shoes a lot, use public showers, or have weak immune systems are more likely to get nail fungus. The infection can last for months or years if it is not treated.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms can vary depending on how bad the infection is. Common signs include:</p>
+            <ul>
+            <li>Thick or misshapen nails</li>
+            <li>Nails that are yellow, white, or brown</li>
+            <li>Brittle, crumbly, or ragged edges</li>
+            <li>Nail lifting from the nail bed</li>
+            <li>Mild pain or discomfort sometimes</li>
+            </ul>
+            <p>The fungus feeds on the nails, which causes these changes. Noticing symptoms early can help treat the infection and stop it from spreading to other nails.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Fungal infections. https://www.who.int/health-topics/fungal-infections</p>
+            <p>National Health Service. (2025). Nail fungal infection. https://www.nhs.uk/conditions/fungal-nail-infections/</p>
+            <p>Centers for Disease Control and Prevention. (2024). Fungal nail infections. https://www.cdc.gov/fungal/nail-infections/index.html</p>`
+
+        }
+    ],
+    "Nausea": [
+        {
+            title: "Nausea",
+            preview: "Nausea is when your stomach feels upset and you feel like you might throw up. It is not a disease, but it can happen with many problems, like infections, motion sickness, stomach issues, or medicine side effects.",
+            content: `<h2>Nausea</h2>
+            <p>Nausea is when your stomach feels upset and you feel like you might throw up. It is not a disease, but it can happen with many problems, like infections, motion sickness, stomach issues, or medicine side effects.</p>
+            <p>Nausea happens when the brain gets signals from the stomach, inner ear, or other parts of the body that something is wrong. These signals make the stomach and body react, which causes the uncomfortable feeling.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Nausea can start quickly or slowly. Common signs include:</p>
+            <ul>
+            <li>Upset stomach</li>
+            <li>Feeling like you will vomit</li>
+            <li>Sweating or clammy skin</li>
+            <li>Dizziness or feeling lightheaded</li>
+            <li>Producing more saliva than usual</li>
+            </ul>
+            <p>These symptoms occur because the body is responding to signals of irritation or imbalance. Nausea often serves as a warning that something is wrong.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Digestive disorders. https://www.who.int/health-topics/digestive-diseases</p>
+            <p>National Health Service. (2025). Nausea. https://www.nhs.uk/conditions/nausea/</p>
+            <p>Mayo Clinic. (2024). Nausea. https://www.mayoclinic.org/symptoms/nausea/basics/definition/sym-20050736</p>`
+
+        }
+    ],
+    "Neck Pain": [
+        {
+            title: "Neck Pain",
+            preview: "Neck pain is soreness or stiffness in the neck. It can happen from muscle strain, poor posture, injuries, or other health problems. Neck pain is common and can affect people of all ages.",
+            content: `<h2>Neck Pain</h2>
+            <p>Neck pain is soreness or stiffness in the neck. It can happen from muscle strain, poor posture, injuries, or other health problems. Neck pain is common and can affect people of all ages.</p>
+            <p>When muscles, ligaments, or joints in the neck are overworked or hurt, it can cause pain and make moving the neck hard. Bad posture, sleeping in awkward positions, or sudden movements can trigger neck pain.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Neck pain can be mild or strong. Common signs include:</p>
+            <ul>
+            <li>Stiff neck or trouble moving it</li>
+            <li>Sharp or aching pain</li>
+            <li>Headaches that start at the base of the skull</li>
+            <li>Tingling, numbness, or weakness in the arms or hands</li>
+            <li>Muscle spasms</li>
+            </ul>
+            <p>These symptoms happen because irritated muscles or nerves send pain signals to the brain. Ongoing pain may show there is a problem with the spine, muscles, or nerves that needs attention.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Musculoskeletal conditions. https://www.who.int/health-topics/musculoskeletal-conditions</p>
+            <p>National Health Service. (2025). Neck pain. https://www.nhs.uk/conditions/neck-pain/</p>
+            <p>Mayo Clinic. (2024). Neck pain. https://www.mayoclinic.org/diseases-conditions/neck-pain/symptoms-causes/syc-20375581</p>`
+
+        }
+    ],
+    "Norovirus": [
+        {
+            title: "What Is Norovirus?",
+            preview: "Norovirus is a contagious virus that causes vomiting and diarrhea. It spreads through food or water, close contact with an infected person, or high-touch surfaces. Outbreaks often occur in places where people are close together.",
+            content: `<h2>What Is Norovirus?</h2>
+            <p>Norovirus is a contagious virus that causes vomiting and diarrhea. It spreads through food or water, close contact with an infected person, or high-touch surfaces. Outbreaks often occur in places where people are close together. Schools, cruise ships, and healthcare settings are high risk areas.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Symptoms usually begin suddenly after exposure to the virus.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Nausea</li>
+            <li>Vomiting</li>
+            <li>Diarrhea</li>
+            <li>Stomach cramps or pain</li>
+            </ul>
+            <p>Some people may also have fever, body aches, or tiredness.</p>
+
+            <h3>Diagnosis</h3>
+            <p>A healthcare provider may diagnose norovirus based on symptoms and close contact to others who are sick. In some cases, laboratory tests may be used to confirm the infection.</p>
+
+            <h3>Treatment and Recovery</h3>
+            <p>There is no cure for norovirus because it is caused by a virus. Treatment helps calm symptoms and stop dehydration.</p>
+            <p>Helpful steps during recovery include:</p>
+            <ul>
+            <li>Drinking plenty of fluids</li>
+            <li>Getting enough rest</li>
+            <li>Using over-the-counter medications to help relieve fever or discomfort</li>
+            </ul>
+            <p>Most people recover within 1 to 3 days, but some may feel tired for a little longer.</p>
+
+            <h3>Prevention</h3>
+            <p>Good hygiene is the best way to prevent norovirus. Washing your hands with soap and water often can help reduce the spread of the virus.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). About Norovirus.</p>
+            <p>Mayo Clinic. (2025). Norovirus infection.</p>
+            <p>Cleveland Clinic. (2023). Norovirus.</p>`
+        }
+    ],
+    "Nosebleed": [
+        {
+            title: "Nosebleed",
+            preview: "A nosebleed, also called epistaxis, happens when the blood vessels inside the nose break and bleed. It can occur in one or both nostrils and is common in both children and adults.",
+            content: `<h2>Nosebleed</h2>
+            <p>A nosebleed, also called epistaxis, happens when the blood vessels inside the nose break and bleed. It can occur in one or both nostrils and is common in both children and adults. Nosebleeds often happen spontaneously or after minor trauma, like picking the nose or a bump to the face.</p>
+            <p>The inside of the nose has many tiny blood vessels near the surface. This makes them easy to injure or irritate. Dry air, allergies, infections, or high blood pressure can also increase the likelihood of a nosebleed.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Nosebleeds can vary in intensity and duration. Common signs include:</p>
+            <ul>
+            <li>Blood flowing from one or both nostrils</li>
+            <li>Sensation of liquid or dripping in the back of the throat</li>
+            <li>Mild dizziness if bleeding is heavy</li>
+            <li>Occasional pain or pressure in the nose</li>
+            </ul>
+            <p>These symptoms happen when fragile blood vessels in the nose break. This lets blood escape. Most nosebleeds are minor and usually stop on their own. However, if you have repeated or heavy nosebleeds, it might signal an underlying condition.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Bleeding disorders. https://www.who.int/health-topics/bleeding-disorders</p>
+            <p>National Health Service. (2025). Nosebleeds. https://www.nhs.uk/conditions/nosebleeds/</p>
+            <p>Mayo Clinic. (2024). Nosebleeds (epistaxis). https://www.mayoclinic.org/diseases-conditions/nosebleeds/symptoms-causes/syc-20375596</p>`
+
+        }
+    ],
+    "Numbness": [
+        {
+            title: "Numbness",
+            preview: "Numbness is a loss of sensation or a tingling feeling in a part of the body. Nerves can get compressed, irritated, or damaged which leads to numbness. Numbness can affect the hands, feet, arms, legs, or face.",
+            content: `<h2>Numbness</h2>
+            <p>Numbness is a loss of sensation or a tingling feeling in a part of the body. Nerves can get compressed, irritated, or damaged which leads to numbness. Numbness can affect the hands, feet, arms, legs, or face, and may be temporary or ongoing depending on the cause.</p>
+            <p>Nerves carry signals from the brain to the body. They help control movement and sense touch. When pressure, injury, or conditions like diabetes disrupt these signals, the area may feel numb or tingly. It can feel like "pins and needles."</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Numbness may appear alone or with other sensations. Common signs include:</p>
+            <ul>
+            <li>Tingling or "pins and needles" sensation</li>
+            <li>Loss of feeling in the affected area</li>
+            <li>Weakness or difficulty controlling muscles</li>
+            <li>Burning or prickling sensations</li>
+            <li>Occasional pain or discomfort</li>
+            </ul>
+            <p>These symptoms happen when nerves don't send messages well. This affects both sensory and motor functions. Temporary numbness usually goes away by itself. But if numbness lasts, it could mean a neurological concern.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Neurological disorders. https://www.who.int/health-topics/neurological-disorders</p>
+            <p>National Health Service. (2025). Numbness or tingling. https://www.nhs.uk/conditions/numbness-tingling/</p>
+            <p>Mayo Clinic. (2024). Numbness. https://www.mayoclinic.org/symptoms/numbness/basics/definition/sym-20050776</p>`
+
+        }
+    ],
+    "Obesity": [
+        {
+            title: "Obesity",
+            preview: "Obesity is a complex and common health condition that affects a significant portion of the population. Approximately 42% of Americans are either overweight or obese, highlighting the widespread nature of this condition.",
+            content: `<h2>Understanding Obesity</h2>
+            <p>Obesity is a complex and common health condition that affects a significant portion of the population. Approximately 42% of Americans are either overweight or obese, highlighting the widespread nature of this condition.</p>
+
+            <h3>What Is Obesity?</h3>
+            <p>Obesity is defined as an excess accumulation of adipose tissue, or body fat, that exceeds what is considered healthy for a person's height and body composition. While it is often thought that obesity results solely from consuming more calories than are burned, the reality is far more complex.</p>
+
+            <h3>Causes of Obesity</h3>
+            <p>Several factors contribute to obesity:</p>
+            <ul>
+            <li><strong>Lifestyle factors:</strong> Diet, physical activity, and sleep patterns can influence weight.</li>
+            <li><strong>Genetic factors:</strong> Family history can predispose individuals to higher body fat levels.</li>
+            <li><strong>Hormonal factors:</strong> Hormones such as insulin, leptin, and cortisol can affect metabolism and fat storage.</li>
+            <li><strong>Environmental factors:</strong> Exposure to certain chemicals or living in environments that promote sedentary behavior can contribute.</li>
+            </ul>
+            <p>While caloric intake and energy expenditure are relevant, obesity is rarely caused by lifestyle alone.</p>
+
+            <h3>Measuring Obesity</h3>
+            <p>Obesity can be assessed in several ways:</p>
+            <ul>
+            <li><strong>Body Mass Index (BMI):</strong> BMI is calculated by dividing a person's weight in kilograms by the square of their height in meters. A BMI over 30 is classified as obese, and a BMI of 25–29.9 is overweight. However, BMI may be misleading for very muscular individuals.</li>
+            <li><strong>Waist circumference:</strong> This measure can sometimes be more accurate than BMI. Obesity is suggested if the waist circumference exceeds 40 inches in men or 35 inches in women.</li>
+            <li><strong>Body fat percentage:</strong> Machines that measure body composition can determine fat versus muscle. Obesity is defined as over 25% body fat in men and over 30% in women.</li>
+            </ul>
+
+            <h3>Health Implications</h3>
+            <p>Obesity is associated with increased risk for numerous health conditions, including:</p>
+            <ul>
+            <li>Type 2 diabetes</li>
+            <li>High cholesterol and high blood pressure</li>
+            <li>Heart disease and stroke</li>
+            <li>Certain cancers</li>
+            <li>Overall increased mortality</li>
+            </ul>
+            <p>Understanding obesity as a complex condition emphasizes the importance of individualized approaches to prevention and management. While diet and physical activity are important, addressing hormonal, genetic, and environmental factors is also critical.</p>
+            <p>Obesity is more than just a matter of calories in versus calories out. It is a multifactorial condition influenced by genetics, hormones, environment, and lifestyle. Early recognition and a comprehensive approach to management can reduce the risk of serious health complications and improve quality of life.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention (CDC). Adult Obesity Facts. Retrieved from https://www.cdc.gov/obesity/data/adult.html</p>
+            <p>World Health Organization (WHO). Obesity and Overweight. Retrieved from https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight</p>
+            <p>American College of Endocrinology. Guidelines for Management of Obesity. Endocrine Practice, 26(Suppl 1), 1–45.</p>`
+
+        }
+    ],
+    "Obsessive-Compulsive Disorder (OCD)": [
+        {
+            title: "What Is Obsessive-Compulsive Disorder (OCD)?",
+            preview: "Obsessive-compulsive disorder (OCD) is a mental health condition. It causes unwanted thoughts and repeated actions. The unwanted thoughts are called obsessions. The repeated actions are called compulsions.",
+            content: `<h2>What Is Obsessive-Compulsive Disorder (OCD)?</h2>
+            <p>Obsessive-compulsive disorder (OCD) is a mental health condition. It causes unwanted thoughts and repeated actions.</p>
+            <p>The unwanted thoughts are called obsessions. The repeated actions are called compulsions.</p>
+            <p>People with OCD often feel very anxious. They may repeat certain actions to try to feel better. OCD can take up a lot of time. It can make daily life harder. It may affect work, school, daily tasks, and relationships.</p>
+
+            <h3>Common Signs</h3>
+            <p>People with OCD may have obsessions, compulsions, or both.</p>
+            <p>Common examples include:</p>
+            <ul>
+            <li>Unwanted thoughts or fears that keep coming back</li>
+            <li>Checking things again and again</li>
+            <li>Washing hands or cleaning too often</li>
+            <li>Counting or repeating actions in a certain way</li>
+            </ul>
+            <p>People often do these actions to try to lower their anxiety.</p>
+
+            <h3>Diagnosis</h3>
+            <p>A doctor or mental health professional can diagnose OCD. They will ask about a person's thoughts and behaviors. They will also ask how these symptoms affect daily life.</p>
+            <p>They may use mental health screenings to ask you questions that provide clues. It is important to be honest during these screenings. Your provider will not judge or shame you. They are there to help you.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Many people live a healthy and happy life with the right care. Treatment may include therapy, medicine, or both.</p>
+            <p>Common treatments include:</p>
+            <ul>
+            <li>Cognitive behavioral therapy (CBT)</li>
+            <li>Antidepressant medicine</li>
+            <li>One-on-one talk therapy or community support programs</li>
+            </ul>
+            <p>Many people with OCD learn ways to manage their symptoms and live well!</p>
+
+            <h3>References</h3>
+            <p>National Institute of Mental Health. (2023). Obsessive-Compulsive Disorder: When Unwanted Thoughts or Repetitive Behaviors Take Over.</p>
+            <p>Mayo Clinic. (2024). Obsessive-compulsive disorder (OCD).</p>
+            <p>Cleveland Clinic. (2023). Obsessive-Compulsive Disorder (OCD).</p>`
+        }
+    ],
+    "Oral Thrush": [
+        {
+            title: "Oral Thrush",
+            preview: "Oral thrush is a fungal infection in the mouth caused by an overgrowth of Candida yeast. It can affect the tongue, inner cheeks, gums, and roof of the mouth. Oral thrush usually impacts infants, older adults, and people with weak immune systems.",
+            content: `<h2>Oral Thrush</h2>
+            <p>Oral thrush is a fungal infection in the mouth caused by an overgrowth of Candida yeast. It can affect the tongue, inner cheeks, gums, and roof of the mouth. Oral thrush usually impacts infants, older adults, and people with weak immune systems or certain health problems.</p>
+            <p>The mouth usually has small amounts of Candida. The immune system and other microorganisms keep it in check. When this balance is off, yeast can grow. This can lead to infection and irritation. Poor oral hygiene, certain medications like antibiotics, and health issues like diabetes can raise the risk.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Oral thrush can appear gradually and vary in severity. Common signs include:</p>
+            <ul>
+            <li>White, creamy patches on the tongue, cheeks, or roof of the mouth</li>
+            <li>Redness or soreness in affected areas</li>
+            <li>Pain or difficulty swallowing</li>
+            <li>Cracking at the corners of the mouth</li>
+            <li>Loss of taste or a cottony feeling in the mouth</li>
+            </ul>
+            <p>These symptoms happen when the yeast irritates the mouth tissues. This causes inflammation and discomfort. Early detection helps manage the infection and prevent it from spreading.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Fungal infections. https://www.who.int/health-topics/fungal-infections</p>
+            <p>National Health Service. (2025). Oral thrush. https://www.nhs.uk/conditions/oral-thrush/</p>
+            <p>Centers for Disease Control and Prevention. (2024). Candida infections. https://www.cdc.gov/fungal/diseases/candidiasis/index.html</p>`
+
+        }
+    ],
+
+    "Osteoarthritis": [
+        {
+            title: "Osteoarthritis",
+            preview: "Osteoarthritis (OA) is a common condition that affects the joints, leading to pain, stiffness, and swelling...",
+            content: `<h2>What is Osteoarthritis?</h2>
+            <p>Osteoarthritis (OA) is a common condition that affects the joints, leading to pain, stiffness, and swelling. It primarily occurs when the protective cartilage that cushions the ends of the bones in the joints begins to break down over time. While OA is most often associated with aging, it can affect individuals at any age and may be influenced by factors such as genetics, injury, and lifestyle choices.</p>
+
+            <h3>How Osteoarthritis Develops</h3>
+            <p>In a healthy joint, cartilage acts as a cushion, allowing bones to move smoothly against each other. In OA, the cartilage begins to wear away, which can lead to the bones rubbing together. This can cause inflammation, pain, and reduced joint flexibility. Over time, the joint may become stiff, making it difficult to perform everyday tasks.</p>
+
+            <h3>Commonly Affected Joints</h3>
+            <p>Osteoarthritis commonly affects weight-bearing joints such as:</p>
+            <ul>
+            <li><strong>Knees:</strong> OA can cause difficulty in walking, climbing stairs, or standing for long periods.</li>
+            <li><strong>Hips:</strong> Pain and stiffness in the hips can affect mobility and daily activities.</li>
+            <li><strong>Hands:</strong> OA in the fingers can limit dexterity and the ability to grasp objects.</li>
+            <li><strong>Spine:</strong> OA in the spine can lead to neck or lower back pain, which may also affect balance and movement.</li>
+            </ul>
+
+            <h3>Risk Factors for Osteoarthritis</h3>
+            <p>Some factors can increase the likelihood of developing OA, including:</p>
+            <ul>
+            <li><strong>Age:</strong> The risk of OA increases with age as cartilage naturally breaks down over time.</li>
+            <li><strong>Injury or overuse:</strong> Past joint injuries or repetitive movements can damage cartilage and increase the risk of OA.</li>
+            <li><strong>Obesity:</strong> Excess weight puts added stress on joints, particularly the knees and hips.</li>
+            </ul>
+
+            <h3>Managing Osteoarthritis</h3>
+            <p>While OA cannot be cured, it can be managed with a combination of physical therapy, medications, and lifestyle changes. Regular low-impact exercise, weight management, and joint protection strategies can help reduce pain and improve quality of life.</p>
+
+            <h3>References</h3>
+            <p>National Institute of Arthritis and Musculoskeletal and Skin Diseases. (2022). Osteoarthritis. https://www.niams.nih.gov/</p>
+            <p>American College of Rheumatology. (2023). Osteoarthritis facts and statistics. https://www.rheumatology.org/</p>
+            <p>World Health Organization. (2021). Osteoarthritis and its management. https://www.who.int/</p>`
+
+        }
+    ],
+
+    "Osteoporosis": [
+        {
+            title: "Osteoporosis",
+            preview: "Osteoporosis weakens bones. This makes them fragile and increases the risk of breaks...",
+            content: `<h2>Osteoporosis</h2>
+            <p>Osteoporosis weakens bones. This makes them fragile and increases the risk of breaks. It happens when the body loses too much bone, makes too little bone, or both. This condition usually develops slowly over years. You might not notice symptoms until a bone breaks.</p>
+            <p>Bones are always changing. Old bone breaks down, and new bone forms. In osteoporosis, the balance is off. As a result, bone density drops. Women, especially after menopause, and older adults are at higher risk. Lifestyle choices, genetics, and some health issues can also play a role.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Osteoporosis is known as a "silent disease." This is because symptoms often show up only after bone fractures happen. Common signs include:</p>
+            <ul>
+            <li>Fractures from minor falls or injuries</li>
+            <li>Loss of height over time</li>
+            <li>Stooped posture or curvature of the spine</li>
+            <li>Back pain caused by collapsed vertebrae</li>
+            </ul>
+            <p>These symptoms happen because weakened bones are less able to support the body or withstand stress. Fragile bones can break easily, often in the wrist, hip, or spine, even from low-impact activities.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Osteoporosis. https://www.who.int/news-room/fact-sheets/detail/osteoporosis</p>
+            <p>National Health Service. (2025). Osteoporosis. https://www.nhs.uk/conditions/osteoporosis/</p>
+            <p>International Osteoporosis Foundation. (n.d.). What is osteoporosis?. https://www.iofbonehealth.org/what-is-osteoporosis</p>`
+
+        }
+    ],
+
+    "Ovarian Cysts": [
+        {
+            title: "What are Ovarian Cysts?",
+            preview: "Ovarian cysts are fluid-filled sacs that form on or inside an ovary. The ovaries are part of the female reproductive system and are responsible for producing eggs and hormones.",
+            content: `<h2>What are Ovarian Cysts?</h2>
+            <p>Ovarian cysts are fluid-filled sacs that form on or inside an ovary. The ovaries are part of the female reproductive system and are responsible for producing eggs and hormones.</p>
+            <p>Many ovarian cysts develop naturally during the menstrual cycle. These are called functional cysts and often go away on their own.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Most ovarian cysts do not cause symptoms.</p>
+            <p>When symptoms occur, they may include:</p>
+            <ul>
+            <li>Pain in the lower abdomen or pelvis</li>
+            <li>Bloating or a feeling of fullness in the abdomen</li>
+            <li>Changes in menstrual cycles</li>
+            <li>Pain during certain activities or movement</li>
+            </ul>
+            <p>In rare cases, a cyst may twist or rupture, which can cause sudden and severe pain.</p>
+
+            <h3>How Ovarian Cysts Are Diagnosed</h3>
+            <p>A healthcare provider may detect ovarian cysts during a pelvic exam or through imaging tests such as ultrasound. These tests help determine the size and type of cyst.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment depends on the size of the cyst, the type of cyst, and the symptoms.</p>
+            <p>Management may include:</p>
+            <ul>
+            <li>Monitoring the cyst with follow-up imaging tests</li>
+            <li>Medications to help manage symptoms</li>
+            <li>Surgery if the cyst is large, persistent, or causing complications</li>
+            </ul>
+            <p>Most ovarian cysts resolve without treatment.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2025). Ovarian cysts.</p>
+            <p>American College of Obstetricians & Gynecologists. (2021). FAQ: Ovarian Cysts.</p>
+            <p>Cleveland Clinic. (2021). Signs You Have an Ovarian Cyst — and What To Do About It.</p>`
+
+        }
+    ],
+    "Overactive Bladder": [
+        {
+            title: "Overactive Bladder",
+            preview: "An overactive bladder happens when the bladder muscles contract too often or at the wrong moments...",
+            content: `<h2>Overactive Bladder</h2>
+            <p>An overactive bladder happens when the bladder muscles contract too often or at the wrong moments. This causes a sudden, strong urge to urinate. It can affect both men and women and may disrupt daily activities like work or sleep.</p>
+            <p>The bladder holds urine and lets it out. Muscles and nerves control this process. In an overactive bladder, signals are too strong. This causes frequent urination and a strong urge to go. Sometimes, it can also lead to leakage. Age, nerve disorders, and bladder irritation can all play a role in this condition.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms of an overactive bladder can vary in severity. Common signs include:</p>
+            <ul>
+            <li>Frequent urination, often more than eight times a day</li>
+            <li>Sudden, strong urge to urinate</li>
+            <li>Involuntary leakage of urine (urge incontinence)</li>
+            <li>Waking at night to urinate (nocturia)</li>
+            <li>Difficulty holding urine for normal intervals</li>
+            </ul>
+            <p>These symptoms happen when bladder muscles contract too much. This signals the need to empty the bladder, even if it isn't full.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Urinary incontinence. https://www.who.int/health-topics/urinary-incontinence</p>
+            <p>National Health Service. (2025). Overactive bladder. https://www.nhs.uk/conditions/overactive-bladder/</p>
+            <p>International Continence Society. (n.d.). Overactive bladder. https://www.ics.org/overactive-bladder</p>`
+
+        }
+    ],
+
+    "Overuse Injury": [
+        {
+            title: "Overuse Injury",
+            preview: "An overuse injury happens when you put too much stress on muscles, tendons, or joints...",
+            content: `<h2>Overuse Injury</h2>
+            <p>An overuse injury happens when you put too much stress on muscles, tendons, or joints. Athletes, workers in repetitive jobs, and others who do the same movements often get these injuries.</p>
+            <p>Over time, the body's tissues may become inflamed, strained, or weak. Overuse injuries differ from sudden injuries. They begin as mild discomfort. If you don't rest, the pain can worsen.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms of overuse injuries build up over time. They can include:</p>
+            <ul>
+            <li>Ongoing pain or tenderness in the affected area</li>
+            <li>Swelling or inflammation</li>
+            <li>Stiffness or limited range of motion</li>
+            <li>Muscle weakness or fatigue</li>
+            <li>Pain that worsens with activity and eases with rest</li>
+            </ul>
+            <p>Repeated stress harms tissues, causing inflammation and pain. Spotting problems early can stop serious injuries and long-term harm.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (n.d.). Musculoskeletal conditions. https://www.who.int/health-topics/musculoskeletal-conditions</p>
+            <p>National Health Service. (2025). Overuse injuries. https://www.nhs.uk/conditions/overuse-injuries/</p>
+            <p>Mayo Clinic. (2024). Overuse injuries. https://www.mayoclinic.org/conditions/overuse-injuries/symptoms-causes/syc-20351923</p>`
+
+        }
+    ],
+    "Panic Attack": [
+        {
+            title: "What Is a Panic Attack?",
+            preview: "A panic attack is a sudden, intense feeling of fear or worry. Panic attacks peak within minutes. Fast heart rate, trouble breathing, dizziness, shaking, and sweating are common signs.",
+            content: `<h2>What Is a Panic Attack?</h2>
+            <p>A panic attack is a sudden, intense feeling of fear or worry. Panic attacks peak within minutes. Fast heart rate, trouble breathing, dizziness, shaking, and sweating are common signs.</p>
+            <p>Panic attacks can come at random or in response to a trigger. While they can be scary, they are usually not dangerous. Coping strategies, relaxation techniques, and support from your care team are important. These tools can help manage and reduce panic attacks.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2023). Panic attacks and panic disorder.</p>
+            <p>National Institute of Mental Health. (2022). Panic disorder.</p>
+            <p>American Psychological Association. (2023). Panic attacks.</p>`
+
+        }
+    ],
+    "Parkinson's Disease": [
+        {
+            title: "What is Parkinson's disease?",
+            preview: "Parkinson's disease is a brain disorder that affects movement. It happens when certain nerve cells in the brain stop working properly. These cells help control smooth and balanced movements.",
+            content: `<h2>What is Parkinson's disease?</h2>
+            <p>Parkinson's disease is a brain disorder that affects movement. It happens when certain nerve cells in the brain stop working properly. These cells help control smooth and balanced movements.</p>
+            <p>Parkinson's disease most often affects older adults, and symptoms usually develop over time.</p>
+
+            <h3>Common Signs</h3>
+            <p>Symptoms can vary from person to person, but they often affect movement and coordination.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Tremors, often starting in the hands or fingers</li>
+            <li>Muscle stiffness or rigidity</li>
+            <li>Slow movement</li>
+            <li>Balance or coordination problems</li>
+            </ul>
+            <p>Some people may also experience changes in mood, sleep, or thinking.</p>
+
+            <h3>Diagnosis</h3>
+            <p>A healthcare provider may review symptoms, medical history, and movement changes. A physical and neurological exam is often used to test balance, coordination, and muscle control. In some cases, imaging tests may be used to help rule out other conditions.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>There is no cure for Parkinson's disease, but treatment can help manage symptoms and improve daily functioning.</p>
+            <p>Treatment plans may include:</p>
+            <ul>
+            <li>Medications that help control movement symptoms</li>
+            <li>Physical therapy to support balance and mobility</li>
+            <li>Occupational or speech therapy when needed</li>
+            </ul>
+            <p>Regular medical care and support can help people with Parkinson's disease maintain independence and quality of life.</p>
+
+            <h3>References</h3>
+            <p>National Institute of Neurological Disorders and Stroke. (2025). Parkinson's Disease.</p>
+            <p>Mayo Clinic. (2024). Parkinson's disease.</p>
+            <p>Cleveland Clinic. (2026). Parkinson's Disease.</p>`
+        }
+    ],
+    "Pericarditis": [
+        {
+            title: "What is Pericarditis?",
+            preview: "Pericarditis is inflammation of the pericardium, the thin, sac-like layer that surrounds and protects the heart.",
+            content: `<h2>What is Pericarditis?</h2>
+            <p>Pericarditis is inflammation of the pericardium, the thin, sac-like layer that surrounds and protects the heart.</p>
+            <p>When this lining becomes irritated or swollen, it can cause chest pain. Pericarditis may occur after a viral infection, heart surgery, injury, or certain medical conditions.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can develop suddenly and may vary from person to person.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Sharp chest pain that may worsen when lying down</li>
+            <li>Chest pain that increases with deep breathing or coughing</li>
+            <li>Fever</li>
+            <li>A fast or irregular heartbeat</li>
+            </ul>
+            <p>Some people may also feel weak or unusually tired.</p>
+
+            <h3>How Pericarditis Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose pericarditis by reviewing symptoms, listening to the heart during a physical exam, and ordering tests. Tests such as electrocardiograms (ECG), blood tests, or imaging studies may help confirm inflammation and rule out other causes of chest pain.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment focuses on reducing inflammation and relieving symptoms.</p>
+            <p>Treatment approaches may include:</p>
+            <ul>
+            <li>Medications that reduce inflammation and pain</li>
+            <li>Rest and limiting physical activity during recovery</li>
+            <li>Monitoring for complications if symptoms are severe</li>
+            </ul>
+            <p>Most cases improve with proper care, but medical evaluation is important whenever chest pain occurs.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2024). Pericarditis.</p>
+            <p>National Heart, Lung, and Blood Institute. (2023). Heart Inflammation - Pericarditis.</p>
+            <p>Cleveland Clinic. (2025). Pericarditis.</p>`
+
+        }
+    ],
+    "Peripheral Artery Disease (PAD)": [
+        {
+            title: "What is Peripheral Artery Disease (PAD)?",
+            preview: "Peripheral artery disease (PAD) is a condition that affects blood flow to the arms or legs. It occurs when arteries become narrow or blocked by fatty buildup. This buildup reduces blood flow to the muscles and other tissues.",
+            content: `<h2>What is Peripheral Artery Disease (PAD)?</h2>
+            <p>Peripheral artery disease (PAD) is a condition that affects blood flow to the arms or legs. It occurs when arteries become narrow or blocked by fatty buildup. This buildup reduces blood flow to the muscles and other tissues.</p>
+            <p>PAD most often affects the legs and is more common in older adults.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can depend on how much blood flow is limited.</p>
+            <p>Look for:</p>
+            <ul>
+            <li>Leg pain or cramping during walking or activity</li>
+            <li>Numbness or weakness in the legs</li>
+            <li>Slow-healing sores on the feet or toes</li>
+            <li>Coldness in the lower leg or foot</li>
+            </ul>
+            <p>Some people with PAD may not notice symptoms at first.</p>
+
+            <h3>Diagnosis</h3>
+            <p>Checking symptoms, health history, and circulation are important parts of a PAD diagnosis. A physical exam may include checking pulses in the feet and legs. Using the ankle-brachial index (ABI) or an ultrasound can also help with diagnosis.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment focuses on improving blood flow and reducing risks.</p>
+            <p>Your care team may suggest:</p>
+            <ul>
+            <li>Lifestyle changes such as regular exercise and quitting smoking</li>
+            <li>Medications to help improve circulation or manage existing conditions</li>
+            <li>Medical procedures that help open or bypass blocked arteries</li>
+            </ul>
+            <p>Managing PAD can also help reduce the risk of heart attack or stroke.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). Peripheral Artery Disease (PAD).</p>
+            <p>Mayo Clinic. (2024). Peripheral artery disease (PAD).</p>
+            <p>Cleveland Clinic. (2025). Peripheral Artery Disease (PAD).</p>`
+        }
+    ],
+    "Plantar Fasciitis": [
+        {
+            title: "Plantar Fasciitis",
+            preview: "Plantar fasciitis is a common foot issue. It impacts the bottom of the foot...",
+            content: `<h2>Plantar Fasciitis</h2>
+            <p>Plantar fasciitis is a common foot issue. It impacts the bottom of the foot. It often causes pain near the heel and can make daily movement uncomfortable. The condition involves the plantar fascia, which is a thick band of tissue that runs from the heel bone to the toes.</p>
+
+            <h3>The Role of the Plantar Fascia</h3>
+            <p>The plantar fascia helps support the arch of the foot and absorbs force when a person walks or runs. It connects key parts of the foot and plays a major role in balance and movement. When this tissue becomes irritated, pain can develop over time.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Pain linked to plantar fasciitis often starts near the heel. Many people notice discomfort with their first steps after resting, such as in the morning. Pain may ease as the foot warms up and return later in the day after activity or long periods of standing.</p>
+
+            <h3>Causes and Risk Factors</h3>
+            <p>Plantar fasciitis is often linked to repeated strain on the foot. Long hours on hard surfaces, frequent walking or running, and certain foot shapes can add stress to the plantar fascia. Age and work roles that require standing for long periods are also linked to higher rates of this condition.</p>
+
+            <h3>References</h3>
+            <p>National Health Service. (2023). Plantar fasciitis. https://www.nhs.uk</p>
+            <p>BMJ Best Practice. (2023). Plantar fasciitis. https://bestpractice.bmj.com</p>`
+
+        }
+    ],
+    "Plantar Warts": [
+        {
+            title: "What are Plantar Warts?",
+            preview: "Plantar warts are small growths that develop on the bottom of the feet. They are caused by the human papillomavirus (HPV), which infects the outer layer of the skin.",
+            content: `<h2>What are Plantar Warts?</h2>
+            <p>Plantar warts are small growths that develop on the bottom of the feet. They are caused by the human papillomavirus (HPV), which infects the outer layer of the skin.</p>
+            <p>The virus can enter the skin through tiny cuts or weak spots. Plantar warts often form on areas of the foot that bear weight, such as the heel or the ball of the foot.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms usually appear on the sole of the foot.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Rough, thickened skin on the bottom of the foot</li>
+            <li>Small growths with tiny black dots inside</li>
+            <li>Pain or tenderness when walking or standing</li>
+            <li>A hard or raised area that feels different from surrounding skin</li>
+            </ul>
+            <p>Some plantar warts may grow inward because of pressure from standing or walking.</p>
+
+            <h3>How Plantar Warts Are Diagnosed</h3>
+            <p>A healthcare provider can usually diagnose plantar warts by examining the skin. In most cases, no additional testing is required.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Some plantar warts go away on their own, but treatment may help remove the wart more quickly.</p>
+            <p>Treatment options may include:</p>
+            <ul>
+            <li>Medicated creams or solutions that help remove the wart</li>
+            <li>Freezing therapy to destroy infected tissue</li>
+            <li>Procedures performed by a healthcare provider to remove the wart</li>
+            </ul>
+            <p>Avoiding direct contact with warts and wearing footwear in public showers or pool areas can help reduce the spread of the virus.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2024). Plantar warts.</p>
+            <p>Centers for Disease Control and Prevention. (2024). About HPV.</p>
+            <p>Cleveland Clinic. (2023). Plantar Warts.</p>`
+
+        }
+    ],
+    "Pneumonia": [
+        {
+            title: "What is Pneumonia?",
+            preview: "Pneumonia is an infection in one or both lungs. It can be caused by bacteria, viruses, or fungi. The infection causes the air sacs in the lungs to fill with fluid or pus, which can make breathing difficult.",
+            content: `<h2>What is Pneumonia?</h2>
+            <p>Pneumonia is an infection in one or both lungs. It can be caused by bacteria, viruses, or fungi. The infection causes the air sacs in the lungs to fill with fluid or pus, which can make breathing difficult.</p>
+            <p>Pneumonia can affect people of any age. Young children, older adults, and people with weakened immune systems are at higher risk.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Symptoms can range from mild to severe depending on the cause of the infection.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Cough</li>
+            <li>Fever and chills</li>
+            <li>Chest pain when breathing or coughing</li>
+            <li>Trouble breathing or shortness of breath</li>
+            </ul>
+            <p>Some people may also feel tired or weak.</p>
+
+            <h3>How Pneumonia Is Diagnosed</h3>
+            <p>A healthcare provider may start with reviewing symptoms and a physical exam. Tests such as chest X-rays, blood tests, or sputum tests can help confirm the infection and cause.</p>
+
+            <h3>Treatment and Recovery</h3>
+            <p>Treatment depends on the type and severity of pneumonia.</p>
+            <p>Treatment may include:</p>
+            <ul>
+            <li>Antibiotics for bacterial infections</li>
+            <li>Antiviral medications for certain viruses</li>
+            <li>Rest and drinking plenty of fluids</li>
+            <li>Medications to reduce fever or discomfort</li>
+            </ul>
+            <p>Many people recover with proper treatment. Recovery time can vary depending on age, overall health, and the severity of the infection.</p>
+
+            <h3>Prevention</h3>
+            <p>Vaccines can help prevent certain types of pneumonia. Hand hygiene is also an easy way to prevent pneumonia. Avoid close contact with sick individuals to reduce the risk of infection.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2026). Pneumonia.</p>
+            <p>Mayo Clinic. (2020). Pneumonia.</p>
+            <p>Cleveland Clinic. (2022). Pneumonia.</p>`
+        }
+    ],
+    "Pneumothorax": [
+        {
+            title: "What is Pneumothorax?",
+            preview: "Pneumothorax is a condition that occurs when air leaks into the space between the lung and the chest wall. This space is called the pleural space.",
+            content: `<h2>What is Pneumothorax?</h2>
+            <p>Pneumothorax is a condition that occurs when air leaks into the space between the lung and the chest wall. This space is called the pleural space.</p>
+            <p>When air enters this space, it can press on the lung and cause it to partially or completely collapse.</p>
+            <p>Pneumothorax may occur after a chest injury, certain medical procedures, or lung disease. In some cases, it can develop without a clear cause.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms often appear suddenly and may vary depending on the size of the lung collapse.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Sudden chest pain</li>
+            <li>Shortness of breath</li>
+            <li>Chest tightness</li>
+            <li>A fast heartbeat</li>
+            </ul>
+            <p>Some people may also feel tired or lightheaded.</p>
+
+            <h3>How Pneumothorax Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose pneumothorax by reviewing symptoms and examining the chest. Imaging tests such as chest X-rays, ultrasound, or CT scans are often used to confirm the diagnosis and determine the size of the collapse.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment depends on how much the lung has collapsed.</p>
+            <p>Treatment approaches may include:</p>
+            <ul>
+            <li>Monitoring small pneumothoraces while the lung heals on its own</li>
+            <li>Removing trapped air with a needle or chest tube</li>
+            <li>Medical procedures to help the lung re-expand</li>
+            </ul>
+            <p>Sudden chest pain or trouble breathing requires prompt medical evaluation.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2024). Pneumothorax.</p>
+            <p>MedlinePlus. (2025). Collapsed Lung (Pneumothorax).</p>
+            <p>Cleveland Clinic. (2023). Pneumothorax (Collapsed Lung).</p>`
+
+        }
+    ],
+    "Poison Ivy Rash": [
+        {
+            title: "Poison Ivy Rash",
+            preview: "Poison ivy rash is a skin reaction caused by contact with poison ivy plants...",
+            content: `<h2>Poison Ivy Rash</h2>
+            <p>Poison ivy rash is a skin reaction caused by contact with poison ivy plants. The rash forms when the skin touches urushiol, an oily substance found in the leaves, stems, and roots of the plant. This substance can cause skin irritation in many people.</p>
+
+            <h3>What Causes the Rash</h3>
+            <p>Poison ivy grows in many regions and may appear as a vine, shrub, or ground plant. The rash starts after urushiol touches the skin. It can also spread through contact with:</p>
+            <ul>
+            <li>Clothing or shoes that touched the plant</li>
+            <li>Tools, pets, or other objects with urushiol on them</li>
+            </ul>
+            <p>The fluid from the blisters does not spread the rash. Only urushiol itself causes new areas of irritation.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Symptoms often begin hours or days after contact. Common signs include:</p>
+            <ul>
+            <li>Red skin, itching, and swelling</li>
+            <li>Small bumps or blisters may appear and can leak clear fluid</li>
+            <li>The rash often forms lines or patches where the plant brushed the skin</li>
+            </ul>
+
+            <h3>Who Is Affected</h3>
+            <p>People of all ages can get a poison ivy rash. Sensitivity to urushiol varies. Some people react strongly, while others have milder skin changes. Repeated contact over time may lead to stronger reactions.</p>
+
+            <h3>References</h3>
+            <p>National Health Service. (2023). Poison ivy rash. https://www.nhs.uk</p>
+            <p>Mayo Clinic. (2023). Poison ivy rash. https://www.mayoclinic.org</p>`
+
+        }
+    ],
+
+    "Polycystic Ovary Syndrome (PCOS)": [
+        {
+            title: "PCOS",
+            preview: "Polycystic Ovary Syndrome (PCOS) affects millions of individuals worldwide, making it one of the most prevalent hormonal disorders...",
+            content: `<h2>What Is PCOS?</h2>
+            <p>Polycystic Ovary Syndrome (PCOS) affects millions of individuals worldwide, making it one of the most prevalent hormonal disorders. Startlingly, it is estimated that up to 10% of individuals assigned female at birth grapple with the challenges posed by PCOS. Beyond its impact on reproductive health, PCOS influences various aspects of wellbeing, making awareness and proactive lifestyle habits crucial for those navigating this complex condition.</p>
+            <p>PCOS is a multifaceted syndrome involving hormonal imbalances, irregular menstrual cycles, and potential metabolic issues. Its far-reaching effects can manifest in symptoms like acne, excessive hair growth, and fertility challenges.</p>
+
+            <h3>The Role of Lifestyle Habits</h3>
+            <p>While PCOS is a lifelong condition without a cure, lifestyle habits play a pivotal role in managing its symptoms and improving overall quality of life. Here are key lifestyle strategies:</p>
+            <ul>
+            <li><strong>Balanced Nutrition:</strong> Adopting a balanced and nutritious diet is a cornerstone of managing PCOS. Prioritize whole foods, lean proteins, and complex carbohydrates. Managing blood sugar levels through a well-balanced diet can positively influence insulin sensitivity, a common concern for individuals with PCOS.</li>
+            <li><strong>Regular Exercise:</strong> Engaging in regular physical activity offers numerous benefits for individuals with PCOS. Exercise helps manage weight, improve insulin sensitivity, and alleviate stress, all of which contribute to mitigating PCOS symptoms. A combination of aerobic exercises and strength training is particularly effective.</li>
+            <li><strong>Stress Management:</strong> Stress can exacerbate PCOS symptoms. Incorporating stress-reduction techniques such as meditation, deep breathing exercises, or yoga can promote emotional well-being and hormonal balance.</li>
+            <li><strong>Adequate Sleep:</strong> Prioritizing sufficient and quality sleep is crucial for overall health, and it becomes especially significant for individuals with PCOS. Establishing a consistent sleep routine can positively impact hormonal regulation and energy levels.</li>
+            <li><strong>Supportive Relationships:</strong> Building a strong support network is vital. PCOS can affect mental health, and having understanding friends, family, or participating in support groups can provide emotional support and empowerment.</li>
+            </ul>
+            <p>PCOS is a nuanced and individualized condition, and its management requires a comprehensive approach that extends beyond medical interventions. Empowering individuals with PCOS involves not only raising awareness about the condition but also highlighting the significance of lifestyle habits in fostering a better quality of life. By embracing a holistic approach that incorporates nutrition, exercise, stress management, sleep, and a strong support network, individuals with PCOS can navigate their journey with resilience and improved wellbeing.</p>
+
+            <h3>References</h3>
+            <p>Teede, H., Deeks, A., Moran, L., & National Health and Medical Research Council (NHMRC). (2018). Polycystic ovary syndrome: A complex condition with psychological, reproductive and metabolic manifestations that impacts on health across the lifespan. BMC Medicine, 16(1), 1–12. doi: 10.1186/s12916-018-1113-6</p>
+            <p>Kaur, S., Archer, K. J., Devine, K., Kriitmaa, K., & Taylor, R. N. (2017). Endometriosis and the microbiome: A systematic review. BJOG: An International Journal of Obstetrics & Gynaecology, 124(6), 831–841. doi: 10.1111/1471-0528.14451</p>`
+
+        }
+    ],
+    "Polydipsia": [
+        {
+            title: "What is Polydipsia?",
+            preview: "Polydipsia means feeling very thirsty all the time. It is not a disease on its own but a symptom of another health condition. It often occurs when the body loses too much fluid or when blood sugar levels are high.",
+            content: `<h2>What is Polydipsia?</h2>
+            <p>Polydipsia means feeling very thirsty all the time. It is not a disease on its own but a symptom of another health condition. It often occurs when the body loses too much fluid or when blood sugar levels are high.</p>
+            <p>Polydipsia can affect people of any age and may develop fast or over time.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>People with polydipsia may have symptoms related to extreme thirst and fluid intake.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Feeling very thirsty throughout the day</li>
+            <li>Drinking large amounts of fluids</li>
+            <li>Urinating more often than usual</li>
+            <li>Waking up at night to drink water</li>
+            </ul>
+            <p>Other symptoms may come from the condition causing the thirst.</p>
+
+            <h3>Possible Causes</h3>
+            <p>Polydipsia can happen for several reasons. Some common causes include:</p>
+            <ul>
+            <li>Diabetes</li>
+            <li>Fluid loss from illness or heat</li>
+            <li>Certain medications</li>
+            </ul>
+
+            <h3>Evaluation</h3>
+            <p>A provider will look at your symptoms, health history, and fluid intake. Blood or urine tests can check blood sugar levels, kidney health, and water balance.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment focuses on managing the condition that is causing symptoms.</p>
+            <p>This may include:</p>
+            <ul>
+            <li>Treating underlying conditions</li>
+            <li>Balancing fluid levels</li>
+            <li>Adjusting medications</li>
+            </ul>
+            <p>If extreme thirst lasts for several days or occurs along with other symptoms, seek care. A healthcare provider can help determine the cause and recommend next steps.</p>
+
+            <h3>References</h3>
+            <p>Cleveland Clinic. (2022). Polydipsia.</p>
+            <p>Mayo Clinic. (2023). Diabetes insipidus: Symptoms and causes.</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2024). Diabetes overview and facts.</p>`
+        }
+    ],
+    "Postpartum Depression": [
+        {
+            title: "Postpartum Depression",
+            preview: "Postpartum depression is a mood disorder that may affect individuals after childbirth...",
+            content: `<h2>Understanding Postpartum Depression</h2>
+            <p>Postpartum depression is a mood disorder that may affect individuals after childbirth. It can involve a range of emotional, physical, and behavioral changes that sometimes interfere with daily life and bonding with the newborn.</p>
+
+            <h3>What Is Postpartum Depression?</h3>
+            <p>This condition often includes persistent sadness, anxiety, irritability, fatigue, and changes in sleep or appetite. It differs from the "baby blues," which tend to be milder and resolve more quickly. Postpartum depression may affect mood, energy, and overall functioning for weeks or months.</p>
+
+            <h3>Why It Happens</h3>
+            <p>Several factors might contribute to postpartum depression, including hormonal changes after delivery, genetic predisposition, and environmental stresses such as lack of support or previous mental health conditions. The sudden drop in estrogen and progesterone levels may impact brain chemistry, influencing mood regulation.</p>
+
+            <h3>How It Is Diagnosed</h3>
+            <p>Diagnosis typically involves a healthcare provider conducting a thorough evaluation, including a discussion of symptoms, medical history, and emotional well-being. Screening tools such as questionnaires may assist in identifying signs of postpartum depression. Open communication about feelings and experiences plays a key role in recognizing the condition.</p>
+
+            <h3>Typical Treatments</h3>
+            <ul>
+            <li>Psychotherapy approaches such as cognitive-behavioral therapy (CBT) or interpersonal therapy (IPT) can offer strategies to manage symptoms and address underlying concerns.</li>
+            <li>Antidepressant medications might be considered, especially when symptoms are moderate to severe. A healthcare provider can help determine the best options, balancing benefits and potential risks.</li>
+            <li>Connecting with others who have similar experiences may provide emotional support and reduce feelings of isolation.</li>
+            <li>Encouraging rest, nutrition, gentle physical activity, and stress management may complement other treatments.</li>
+            </ul>
+
+            <h3>Additional Considerations</h3>
+            <p>Postpartum depression can affect anyone regardless of age, background, or number of previous pregnancies. Early recognition and compassionate support often improve outcomes.</p>
+
+            <h3>When to Seek Help</h3>
+            <p>If symptoms interfere significantly with daily life or caregiving, consulting a healthcare professional might provide tailored treatment and support.</p>
+            <p>Postpartum depression is a common but serious condition that deserves understanding and care. Experiencing these feelings does not mean someone is failing as a parent—it reflects a real health challenge that can be treated. Seeking help early can make a significant difference for both the individual and their family. If you or someone you love is struggling with persistent sadness, anxiety, or hopelessness after childbirth, reaching out to a healthcare provider, counselor, or support group is an important step toward healing. With the right support and treatment, recovery is possible, and brighter days will follow.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2024). Maternal mental health. https://www.who.int</p>
+            <p>American Psychiatric Association. (2023). Postpartum depression. https://www.psychiatry.org</p>
+            <p>National Institute of Mental Health. (2023). Perinatal depression. https://www.nimh.nih.gov</p>`
+
+        }
+    ],
+    "Pre-eclampsia": [
+        {
+            title: "What is Pre-eclampsia?",
+            preview: "Pre-eclampsia is a condition that can develop during pregnancy, usually after 20 weeks. It causes high blood pressure and can affect organs such as the kidneys and liver. Pre-eclampsia requires medical care and close monitoring.",
+            content: `<h2>What is Pre-eclampsia?</h2>
+            <p>Pre-eclampsia is a condition that can develop during pregnancy, usually after 20 weeks. It causes high blood pressure and can affect organs such as the kidneys and liver. Pre-eclampsia requires medical care and close monitoring. It can affect both the pregnant person and the baby.</p>
+            <p>Early detection and treatment can help reduce the risks.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can vary from person to person.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>High blood pressure</li>
+            <li>Swelling in the hands or face</li>
+            <li>Severe headaches</li>
+            <li>Changes in vision</li>
+            </ul>
+            <p>Some people may also experience pain in the upper stomach, nausea, or extreme tiredness.</p>
+
+            <h3>Diagnosis</h3>
+            <p>A healthcare provider may start by checking blood pressure and testing urine for signs of protein. Blood tests may also be used to check kidney and liver function. Regular prenatal visits help providers watch for early signs of the condition.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment depends on how severe the condition is and how far along the pregnancy is.</p>
+            <p>Care may include:</p>
+            <ul>
+            <li>Tracking blood pressure readings and symptoms</li>
+            <li>Medications to help manage blood pressure</li>
+            <li>Close viewing of the baby's health</li>
+            </ul>
+            <p>In some cases, early delivery of the baby may be recommended to protect the health of both the pregnant person and the baby.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2022). Preeclampsia: Symptoms and causes.</p>
+            <p>Centers for Disease Control and Prevention. (2024). High blood pressure during pregnancy.</p>
+            <p>World Health Organization. (2025). Pre-eclampsia.</p>`
+        }
+    ],
+    "Pregnancy": [
+        {
+            title: "Navigating A High-Risk Pregnancy",
+            preview: "Pregnancy is an exciting time, but some people need extra medical care during pregnancy. A pregnancy is called high risk when the health of the parent, the baby, or both may have a higher chance of problems.",
+            content: `<h2>Navigating A High-Risk Pregnancy</h2>
+            <p>Pregnancy is an exciting time, but some people need extra medical care during pregnancy. A pregnancy is called high risk when the health of the parent, the baby, or both may have a higher chance of problems. With the right care and support, many high-risk pregnancies still result in healthy babies.</p>
+
+            <h3>What Makes A Pregnancy High Risk</h3>
+            <p>Some health, medical, or lifestyle factors can increase pregnancy risks. Common reasons include:</p>
+            <ul>
+            <li>High blood pressure or preeclampsia, which can affect blood flow to the baby.</li>
+            <li>Diabetes before pregnancy or diabetes that starts during pregnancy.</li>
+            <li>A history of early labor or premature birth.</li>
+            <li>Carrying more than one baby, such as twins or triplets.</li>
+            <li>Being under age 17 or over age 35.</li>
+            <li>Autoimmune conditions, such as lupus or thyroid problems.</li>
+            <li>Certain infections during pregnancy.</li>
+            <li>Placenta problems, like placenta previa.</li>
+            <li>Lifestyle factors such as smoking, substance use, poor nutrition, or high stress.</li>
+            </ul>
+            <p>Having one or more of these does not mean something will go wrong. Many people with high-risk pregnancies deliver safely with proper care and monitoring.</p>
+
+            <h3>Why Regular Medical Care Matters</h3>
+            <p>Frequent checkups help protect both the parent and the baby. During a high-risk pregnancy, providers may schedule more visits and extra testing to track health and growth.</p>
+            <p>This care may include blood tests, ultrasounds to check the baby's growth, fluid checks, or heart rate monitoring. Some people also see specialists who focus on high-risk pregnancies. Following medical advice, taking prescribed medicine, and attending all appointments help lower risks.</p>
+
+            <h3>Caring For Emotional Health</h3>
+            <p>A high-risk pregnancy can bring worry, fear, or stress. These feelings are normal. Taking care of mental health is just as important as physical care.</p>
+            <p>Helpful tools may include slow breathing, gentle movement approved by a provider, or quiet rest. Talking with a therapist, joining a support group, or sharing feelings with loved ones can also help reduce stress and feel less alone.</p>
+
+            <h3>Working With Your Care Team</h3>
+            <p>Clear communication with healthcare providers is key. Ask questions, share symptoms, and speak up if something does not feel right. Your provider may suggest certain medicines, changes to activity levels, or extra rest based on your needs.</p>
+            <p>Each pregnancy is different. Care plans are made to match your health history and situation.</p>
+
+            <h3>Moving Forward</h3>
+            <p>A high-risk pregnancy may need more attention, but it does not take away your ability to have a healthy baby. With regular medical care, emotional support, and open communication, many parents have positive outcomes. You are supported, and you do not have to navigate this alone.</p>
+
+            <h3>References</h3>
+            <p>American College of Obstetricians and Gynecologists (ACOG). (2022). High-risk pregnancy: What you need to know.</p>
+            <p>Conde-Agudelo, A., Belizán, J. M., & Lindmark, G. (2000). Maternal morbidity and mortality associated with multiple gestations. Obstetrics & Gynecology, 95(6), 899–904.</p>
+            <p>Poon, L. C., Shennan, A., Hyett, J. A., Kapur, A., Hadar, E., Divakar, H., & McAuliffe, F. (2019). The International Federation of Gynecology and Obstetrics (FIGO) initiative on preeclampsia. International Journal of Gynecology & Obstetrics, 145(S1), 1–33.</p>
+            <p>Committee on Obstetric Practice. (2020). Pregnancy at age 35 years or older. Obstetrics & Gynecology, 135(6), e237–e243.</p>
+            <p>Thangaratinam, S., Rogozinska, E., Jolly, K., et al. (2012). Effects of interventions in pregnancy on maternal weight and obstetric outcomes. BMJ, 344, e2088.</p>`
+
+        }
+    ],
+
+    "Psoriasis": [
+        {
+            title: "Psoriasis",
+            preview: "Psoriasis is a long-lasting skin condition that affects how skin cells grow...",
+            content: `<h2>Psoriasis</h2>
+            <p>Psoriasis is a long-lasting skin condition that affects how skin cells grow. It causes patches of skin to build up faster than normal. These patches often look red and are covered with thick, white or silvery scales. Psoriasis is not contagious and does not spread from person to person.</p>
+
+            <h3>What Happens in the Skin</h3>
+            <p>In psoriasis, the body speeds up the growth of skin cells. Instead of forming over several weeks, new cells rise to the surface in just a few days. Old cells do not shed fast enough, so layers of skin collect and form visible patches. This process can lead to redness, scaling, and discomfort.</p>
+
+            <h3>Common Signs</h3>
+            <p>Psoriasis can look different from person to person. Common signs include dry, raised patches of skin, itching, and flaking. These areas often appear on the elbows, knees, scalp, or lower back. Some people notice changes in their fingernails or toenails, such as thickening or pitting.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Psoriasis affects people of many ages and backgrounds. It often begins in adulthood but can appear earlier. The condition is linked to the immune system and may run in families. Certain events, such as infections or skin injuries, are linked to flare-ups.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Psoriasis. https://www.who.int</p>
+            <p>National Health Service. (2023). Psoriasis. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Psoriatic Arthritis": [
+        {
+            title: "Psoriatic Arthritis",
+            preview: "Psoriatic arthritis is a long-lasting joint problem linked to psoriasis...",
+            content: `<h2>Psoriatic Arthritis</h2>
+            <p>Psoriatic arthritis is a long-lasting joint problem linked to psoriasis. Psoriasis is a skin condition that causes red, scaly patches. Both conditions happen because the immune system becomes too active. This can lead to swelling in the skin and the joints. Psoriatic arthritis can cause joint pain, stiffness, and swelling. It is not contagious.</p>
+
+            <h3>How the Condition Affects the Body</h3>
+            <p>Psoriatic arthritis affects the immune system. The immune system becomes too active and causes swelling in the joints and nearby areas. One or both sides of the body can be affected.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can be different for each person. Some people have mild pain. Others have stronger pain.</p>
+            <p>Common signs include:</p>
+            <ul>
+            <li>Stiff joints after resting</li>
+            <li>Swollen hands or feet</li>
+            <li>Trouble moving joints</li>
+            </ul>
+            <p>Feeling very tired is also common. Skin or nail changes from psoriasis may happen before or after joint pain starts.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Psoriatic arthritis often starts in adults, but younger people can get it too. People with family members who have psoriasis or psoriatic arthritis have a higher risk. Not everyone with psoriasis gets joint pain, but the two conditions are linked.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Chronic inflammatory joint diseases. https://www.who.int</p>
+            <p>National Institute for Health and Care Excellence. (2023). Psoriatic arthritis. https://www.nice.org.uk</p>`
+
+        }
+    ],
+    "Post Traumatic Stress Disorder (PTSD)": [
+        {
+            title: "Understanding and Coping with Post-Traumatic Stress Disorder",
+            preview: "Post-Traumatic Stress Disorder, or PTSD, can happen after someone experiences or sees a traumatic event.",
+            content: `<h2>Understanding and Coping with Post-Traumatic Stress Disorder</h2>
+            <p>Post-Traumatic Stress Disorder, or PTSD, can happen after someone experiences or sees a traumatic event. This could be combat, natural disasters, accidents, assault, or the loss of a loved one. Anyone can develop PTSD, and it can affect daily life for a long time.</p>
+
+            <h3>Common Signs of PTSD</h3>
+            <ul>
+            <li><strong>Flashbacks and Intrusive Thoughts:</strong> Repeated, upsetting memories of the trauma that feel very real.</li>
+            <li><strong>Avoidance and Numbing:</strong> Staying away from people, places, or activities that remind you of the trauma, or feeling emotionally detached.</li>
+            <li><strong>Hyperarousal:</strong> Feeling on edge, easily startled, irritable, having trouble sleeping or concentrating.</li>
+            <li><strong>Negative Changes in Mood and Thinking:</strong> Feeling guilty, blaming yourself, or having persistent negative thoughts.</li>
+            </ul>
+
+            <h3>Tips for Coping with PTSD</h3>
+            <ul>
+            <li><strong>Seek Professional Help:</strong> Therapists and mental health experts can provide treatments that help.</li>
+            <li><strong>Build a Support Network:</strong> Talk to friends, family, or support groups for understanding and comfort.</li>
+            <li><strong>Practice Mindfulness and Relaxation:</strong> Meditation and breathing exercises can reduce anxiety and stress.</li>
+            <li><strong>Healthy Lifestyle:</strong> Eat well, stay active, sleep enough, and avoid drugs or alcohol.</li>
+            </ul>
+            <p>Recognizing PTSD and using coping strategies can help people manage symptoms and begin to heal.</p>
+
+            <h3>References</h3>
+            <p>Substance Abuse and Mental Health Services Administration. (2023). Post‑traumatic stress disorder (PTSD). https://www.samhsa.gov/mental-health/what-is-mental-health/conditions/ptsd</p>
+            <p>Mayo Clinic. (2025). Post‑traumatic stress disorder (PTSD): Symptoms and causes. https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/symptoms-causes/syc-20355967</p>
+            <p>Mayo Clinic. (2025). Post‑traumatic stress disorder (PTSD): Diagnosis and treatment. https://www.mayoclinic.org/diseases-conditions/post-traumatic-stress-disorder/diagnosis-treatment/drc-20355973</p>`
+
+        }
+    ],
+    "Pulled Muscle": [
+        {
+            title: "Pulled Muscle",
+            preview: "Pulled Muscle is a common injury that happens when muscle fibers stretch too far or tear...",
+            content: `<h2>Pulled Muscle</h2>
+            <p>Pulled Muscle is a common injury that happens when muscle fibers stretch too far or tear. It often occurs during physical activity, such as lifting, running, or sudden movement. A pulled muscle may affect any part of the body, but it is often seen in the back, legs, arms, or neck.</p>
+
+            <h3>What Happens During a Pulled Muscle</h3>
+            <p>Muscles are made to stretch and contract to help the body move. When a muscle is forced to stretch beyond its normal range, small tears may form in the fibers. This leads to inflammation in the area, which causes pain and limits movement. The level of injury can range from mild strain to more serious tearing.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms usually appear soon after the injury. People often notice pain in the affected area, especially with movement. The muscle may feel tight or weak. Swelling or bruising may develop over time. In more serious cases, movement becomes difficult, and the muscle may feel tender when touched.</p>
+
+            <h3>Who Is at Risk</h3>
+            <p>Pulled muscles affect people of all ages. They are more common during sports, physical work, or sudden activity after rest. Poor conditioning, muscle fatigue, and lack of flexibility are linked to higher injury rates.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Musculoskeletal conditions. https://www.who.int</p>
+            <p>National Health Service. (2023). Sprains and strains. https://www.nhs.uk</p>`
+
+        }
+    ],
+    "Pulmonary Embolism": [
+        {
+            title: "What is Pulmonary Embolism?",
+            preview: "Pulmonary embolism (PE) is a condition that occurs when a blood clot becomes stuck in an artery in the lungs. This blockage can reduce or stop blood flow to part of the lung.",
+            content: `<h2>What is Pulmonary Embolism?</h2>
+            <p>Pulmonary embolism (PE) is a condition that occurs when a blood clot becomes stuck in an artery in the lungs. This blockage can reduce or stop blood flow to part of the lung.</p>
+            <p>Most clots begin in the deep veins of the legs, a condition known as deep vein thrombosis (DVT). When part of the clot breaks loose and travels to the lungs, it can cause a pulmonary embolism.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can appear suddenly and may vary depending on the size of the clot.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Sudden shortness of breath</li>
+            <li>Sharp chest pain that may worsen with deep breaths</li>
+            <li>Rapid or irregular heartbeat</li>
+            <li>Feeling lightheaded or dizzy</li>
+            </ul>
+            <p>Some people may also cough up blood.</p>
+
+            <h3>Diagnosis</h3>
+            <p>A provider may start by reviewing symptoms and performing tests to check blood flow in the lungs. Tests may include CT scans, ultrasound of the legs, or blood tests that help detect clots.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>A pulmonary embolism is an emergency condition. Treatment focuses on preventing the clot from growing and reducing the risk of new clots.</p>
+            <p>Treatment may include:</p>
+            <ul>
+            <li>Blood-thinning medications</li>
+            <li>Medications that dissolve clots in severe cases</li>
+            <li>Procedures to remove or break up the clot</li>
+            </ul>
+            <p>Quick treatment can help prevent serious complications and improve recovery.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2025). Deep Vein Thrombosis and Pulmonary Embolism.</p>
+            <p>Mayo Clinic. (2022). Pulmonary embolism: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2024). Pulmonary embolism.</p>`
+        }
+    ],
+    "Pulmonary Fibrosis": [
+        {
+            title: "What is Pulmonary Fibrosis?",
+            preview: "Pulmonary fibrosis is a lung condition. It happens when tissue inside the lungs becomes thick and scarred. This makes the lungs stiff, so it's harder to breathe and get enough oxygen.",
+            content: `<h2>What is Pulmonary Fibrosis?</h2>
+            <p>Pulmonary fibrosis is a lung condition. It happens when tissue inside the lungs becomes thick and scarred. This makes the lungs stiff, so it's harder to breathe and get enough oxygen.</p>
+            <p>Over time, simple activities like walking or climbing stairs may feel more tiring.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms usually come on slowly and can get worse over time. Common signs may look like:</p>
+            <ul>
+            <li>Shortness of breath, especially during activity</li>
+            <li>A dry cough that doesn't go away</li>
+            <li>Feeling very tired or weak</li>
+            <li>Losing weight without trying</li>
+            </ul>
+            <p>Some people may also feel chest discomfort. Changes in fingertips or nails are common as well.</p>
+
+            <h3>Diagnosis</h3>
+            <p>A healthcare provider may check your symptoms, medical history, and do a physical exam. They may also order tests like chest imaging, lung function tests, or blood tests to check your lungs.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>There is no cure for pulmonary fibrosis. But, treatments can help manage symptoms and slow the disease. Treatment may include:</p>
+            <ul>
+            <li>Medicines to slow lung scarring</li>
+            <li>Oxygen therapy to help you breathe better</li>
+            <li>Pulmonary rehabilitation programs to support breathing and daily activity</li>
+            </ul>
+            <p>Working with a healthcare provider can help people with pulmonary fibrosis live as well as possible.</p>
+
+            <h3>References</h3>
+            <p>Cleveland Clinic. (2025). Pulmonary Fibrosis.</p>
+            <p>Mayo Clinic. (2024). Pulmonary fibrosis: Symptoms and causes.</p>
+            <p>American Lung Association. (2025). Living well with pulmonary fibrosis: Progression and exacerbation.</p>`
+        }
+    ],
+    "Rash": [
+        {
+            title: "Rash",
+            preview: "Rash is a broad term used to describe noticeable changes in the skin's color, texture, or pattern...",
+            content: `<h2>Rash</h2>
+            <p>Rash is a broad term used to describe noticeable changes in the skin's color, texture, or pattern. A rash can affect one small area or spread across larger parts of the body. Rashes are common and can affect people of any age.</p>
+
+            <h3>How Rashes Appear</h3>
+            <p>The appearance of a rash depends on its cause. Some rashes are flat, while others are raised or uneven. Skin may look red, darker than usual, or patchy. A rash may feel dry, rough, scaly, or smooth. Some rashes cause itching, burning, or soreness, while others cause little discomfort.</p>
+
+            <h3>Common Triggers</h3>
+            <p>Many different factors are linked to rashes. Skin reactions can occur after contact with plants, soaps, metals, or fabrics. Rashes may also develop during infections caused by viruses, bacteria, or fungi. Some are linked to immune system activity or long-lasting skin conditions. Heat, sweat, and repeated rubbing of the skin may also play a role.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Rashes can affect people at any stage of life. Infants and children often develop rashes as their skin reacts to new foods, environments, or illnesses. Adults may develop rashes linked to work settings, personal care products, or health conditions. Genetics and skin sensitivity can influence how the skin reacts.</p>
+
+            <h3>References</h3>
+            <p>DermNet New Zealand. (2023). Rashes. https://dermnetnz.org</p>
+            <p>World Health Organization. (2023). Skin diseases. https://www.who.int</p>`
+
+        }
+    ],
+
+    "Respiratory Infection": [
+        {
+            title: "Respiratory Infection",
+            preview: "Respiratory infections are among the most common illnesses worldwide and can affect anyone, regardless of age or health status...",
+            content: `<h2>What Are Respiratory Infections?</h2>
+            <p>Respiratory infections are among the most common illnesses worldwide and can affect anyone, regardless of age or health status. These infections occur when harmful microbes invade the respiratory system, which includes the nose, throat, sinuses, and lungs.</p>
+            <p>Respiratory infections are typically caused by bacteria, viruses, or fungi, each producing slightly different symptoms and requiring different approaches to care.</p>
+
+            <h3>Bacterial Infections</h3>
+            <p>These can range from mild to severe and may cause fever, cough, congestion, or sore throat. Diagnosis is often confirmed through laboratory testing, such as a mucus or throat culture, to determine the exact bacteria responsible.</p>
+
+            <h3>Viral Infections</h3>
+            <p>Viruses are the most frequent cause of respiratory illness and include conditions such as the common cold, influenza, COVID-19, and respiratory syncytial virus (RSV). Most viral infections resolve on their own with rest, hydration, and over-the-counter medications for symptom relief.</p>
+
+            <h3>Fungal Infections</h3>
+            <p>These are rare and typically affect individuals with weakened immune systems, such as those living with chronic conditions or undergoing immune-suppressing treatments. Antifungal medications are used to manage these infections when they occur.</p>
+
+            <h3>Recognizing Common Symptoms</h3>
+            <p>While symptoms may vary depending on the cause, most respiratory infections share similar warning signs, including:</p>
+            <ul>
+            <li>Coughing and congestion.</li>
+            <li>Sore throat or hoarseness.</li>
+            <li>Fever and chills.</li>
+            <li>Fatigue or muscle aches.</li>
+            <li>Shortness of breath in more severe cases.</li>
+            </ul>
+            <p>If symptoms worsen or last longer than expected, it may indicate a more serious infection that requires medical evaluation.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment depends on the underlying cause:</p>
+            <ul>
+            <li>Bacterial infections may require antibiotics prescribed by a healthcare professional.</li>
+            <li>Viral infections generally respond best to supportive care such as rest, fluids, and symptom management.</li>
+            <li>Fungal infections are treated with antifungal medications under medical supervision.</li>
+            </ul>
+            <p>Self-diagnosing or using antibiotics without medical advice is discouraged, as inappropriate use can contribute to antibiotic resistance.</p>
+
+            <h3>Prevention and Everyday Protection</h3>
+            <p>Simple preventive measures can significantly reduce the risk of respiratory infections:</p>
+            <ul>
+            <li>Wash hands frequently with soap and water.</li>
+            <li>Avoid touching your face, especially the mouth and eyes.</li>
+            <li>Maintain clean shared surfaces and good ventilation indoors.</li>
+            <li>Wear a mask in crowded or enclosed spaces during outbreaks.</li>
+            <li>Encourage children to practice proper hygiene, especially in school settings where infections spread easily.</li>
+            </ul>
+            <p>Maintaining a strong immune system through balanced nutrition, regular exercise, and adequate sleep also supports respiratory health year-round.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Respiratory infections fact sheet.</p>
+            <p>Mandell, G. L., Bennett, J. E., & Dolin, R. (2020). Principles and Practice of Infectious Diseases (9th ed.). Elsevier.</p>
+            <p>Centers for Infectious Disease Research and Policy. (2023). Respiratory viruses and global trends.</p>
+            <p>Mayo Clinic. (2024). Respiratory tract infections overview.</p>`
+
+        }
+    ],
+    "Respiratory Syncytial Virus (RSV)": [
+        {
+            title: "What Is Respiratory Syncytial Virus (RSV)?",
+            preview: "Respiratory syncytial virus (RSV) is a common virus that infects the lungs and breathing passages. Most children are exposed to RSV by the age of two, but adults can become infected as well.",
+            content: `<h2>What Is Respiratory Syncytial Virus (RSV)?</h2>
+            <p>Respiratory syncytial virus (RSV) is a common virus that infects the lungs and breathing passages. Most children are exposed to RSV by the age of two, but adults can become infected as well.</p>
+            <p>The virus spreads through close contact with an infected person, including coughing, sneezing, or touching contaminated surfaces.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Symptoms often appear within a few days after exposure to the virus.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Runny nose</li>
+            <li>Cough</li>
+            <li>Fever</li>
+            <li>Wheezing or difficulty breathing</li>
+            </ul>
+            <p>Some people may also experience reduced appetite or fatigue.</p>
+
+            <h3>How RSV Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose RSV by reviewing symptoms and examining breathing patterns. In some cases, laboratory tests may be used to confirm the infection.</p>
+
+            <h3>Treatment and Recovery</h3>
+            <p>There is no specific cure for RSV because it is caused by a virus. Treatment focuses on relieving symptoms and supporting breathing.</p>
+            <p>Helpful steps during recovery may include:</p>
+            <ul>
+            <li>Getting plenty of rest</li>
+            <li>Drinking fluids to prevent dehydration</li>
+            <li>Using medications recommended by a healthcare provider to manage fever or discomfort</li>
+            </ul>
+            <p>Most healthy people recover within one to two weeks.</p>
+
+            <h3>When to Seek Medical Care</h3>
+            <p>RSV can be more serious for infants, older adults, and people with weakened immune systems. Severe infection may lead to bronchiolitis or pneumonia.</p>
+            <p>Medical care is important if symptoms include:</p>
+            <ul>
+            <li>Trouble breathing</li>
+            <li>Signs of dehydration</li>
+            <li>Symptoms that worsen instead of improving</li>
+            </ul>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2025). About RSV.</p>
+            <p>Mayo Clinic. (2023). Respiratory syncytial virus (RSV).</p>
+            <p>Cleveland Clinic. (2025). RSV (Respiratory Syncytial Virus).</p>`
+
+        }
+    ],
+    "Restless Leg Syndrome (RLS)": [
+        {
+            title: "What is Restless Leg Syndrome (RLS)?",
+            preview: "Restless Leg Syndrome (RLS) makes your legs feel uncomfortable and gives you a strong urge to move them, especially when sitting or lying down. It usually happens in the evening or at night.",
+            content: `<h2>What is Restless Leg Syndrome (RLS)?</h2>
+            <p>Restless Leg Syndrome (RLS) makes your legs feel uncomfortable and gives you a strong urge to move them, especially when sitting or lying down. It usually happens in the evening or at night.</p>
+            <p>People with RLS may feel crawling, tingling, or pulling sensations in their legs. Moving the legs can help feel better for a short time.</p>
+
+            <h3>Common Signs</h3>
+            <p>Symptoms can be mild or strong and often get worse when resting. Common signs include:</p>
+            <ul>
+            <li>A strong urge to move your legs</li>
+            <li>Crawling, tingling, or pulling feelings in the legs</li>
+            <li>Worse symptoms when sitting or lying down</li>
+            <li>Temporary relief after moving or stretching</li>
+            </ul>
+            <p>RLS can make it hard to fall asleep or stay asleep because it usually happens at night.</p>
+
+            <h3>Diagnosis</h3>
+            <p>A healthcare provider will check your symptoms, sleep patterns, and medical history. Blood tests may be done to look for other causes, like low iron, which can make RLS worse.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>There is no cure for RLS, but treatments can help control symptoms and improve sleep. These may include:</p>
+            <ul>
+            <li>Lifestyle changes, like better sleep habits and regular exercise</li>
+            <li>Treating underlying conditions, such as low iron</li>
+            <li>Medicines that help control the nerves that cause leg movement</li>
+            </ul>
+            <p>Managing RLS can help you sleep better and feel less tired during the day.</p>
+
+            <h3>References</h3>
+            <p>National Institute of Neurological Disorders and Stroke. (2025). Restless Legs Syndrome.</p>
+            <p>Mayo Clinic. (2025). Restless legs syndrome: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2023). Restless legs syndrome.</p>`
+        }
+    ],
+    "Rheumatic Fever": [
+        {
+            title: "What Is Rheumatic Fever?",
+            preview: "Rheumatic fever is an inflammatory disease that can develop after a strep throat infection caused by certain bacteria. It occurs when the body's immune system reacts to the infection and begins to affect other tissues.",
+            content: `<h2>What Is Rheumatic Fever?</h2>
+            <p>Rheumatic fever is an inflammatory disease that can develop after a strep throat infection caused by certain bacteria. It occurs when the body's immune system reacts to the infection and begins to affect other tissues.</p>
+            <p>Rheumatic fever most often affects children and teenagers, but adults can develop it as well.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms usually appear a few weeks after a strep throat infection.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Fever</li>
+            <li>Painful or swollen joints</li>
+            <li>Skin rash</li>
+            <li>Unusual or jerky body movements</li>
+            </ul>
+            <p>Some people may also experience fatigue or shortness of breath.</p>
+
+            <h3>How Rheumatic Fever Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose rheumatic fever by reviewing symptoms, medical history, and recent strep infections. Blood tests, throat tests, or heart tests may be used to help confirm the diagnosis and check for complications.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment focuses on reducing inflammation, treating any remaining infection, and preventing complications.</p>
+            <p>Treatment approaches may include:</p>
+            <ul>
+            <li>Antibiotics to treat or prevent further strep infections</li>
+            <li>Medications to reduce inflammation and relieve symptoms</li>
+            <li>Monitoring heart health during recovery</li>
+            </ul>
+            <p>Prompt treatment helps lower the risk of long-term heart damage.</p>
+
+            <h3>Prevention</h3>
+            <p>Early treatment of strep throat with antibiotics can help prevent rheumatic fever from developing.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2025). About Rheumatic Fever.</p>
+            <p>Mayo Clinic. (2023). Rheumatic Fever.</p>
+            <p>Cleveland Clinic. (2023). Rheumatic Fever.</p>`
+
+        }
+    ],
+    "Rheumatoid Arthritis": [
+        {
+            title: "What is Rheumatoid Arthritis?",
+            preview: "Rheumatoid arthritis (RA) is an autoimmune disease. The body's immune system attacks its own joints by mistake. This causes pain, swelling, and stiffness.",
+            content: `<h2>What is Rheumatoid Arthritis?</h2>
+            <p>Rheumatoid arthritis (RA) is an autoimmune disease. The body's immune system attacks its own joints by mistake. This causes pain, swelling, and stiffness.</p>
+            <p>RA usually affects joints like the hands, wrists, and knees. This can make daily activities harder.</p>
+
+            <h3>Common Signs</h3>
+            <p>Symptoms often start slowly. They usually affect the same joints on both sides of the body. Common signs include:</p>
+            <ul>
+            <li>Joint pain or tenderness</li>
+            <li>Swelling in the joints</li>
+            <li>Stiffness, especially in the morning</li>
+            <li>Warmth or redness around joints</li>
+            <li>Feeling very tired or unwell</li>
+            </ul>
+
+            <h3>Diagnosis</h3>
+            <p>A healthcare provider will check your symptoms, medical history, and joint movement. Blood tests and imaging tests like X-rays or ultrasound can help to see joint changes.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>There is no cure for RA, but treatments can help reduce swelling and protect joints. Treatment may include:</p>
+            <ul>
+            <li>Medication</li>
+            <li>Physical therapy</li>
+            <li>Lifestyle changes to manage pain and tiredness</li>
+            </ul>
+            <p>Early, consistent care can help people with RA keep their joints working well.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). Rheumatoid Arthritis.</p>
+            <p>Mayo Clinic. (2025). Rheumatoid arthritis: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2024). Rheumatoid arthritis.</p>`
+        }
+    ],
+    "Ringworm": [
+        {
+            title: "Ringworm",
+            preview: "Ringworm is a common skin infection caused by a fungus...",
+            content: `<h2>Ringworm</h2>
+            <p>Ringworm is a common skin infection caused by a fungus. Despite its name, ringworm is not caused by a worm. The infection affects the outer layer of the skin and often forms a round or ring-shaped rash. Ringworm can affect people of any age and is contagious through direct contact.</p>
+
+            <h3>What Ringworm Looks Like</h3>
+            <p>Ringworm often begins as a small red spot that spreads outward. As it grows, the center may clear while the edges stay raised and scaly, creating a ring-like shape. The rash may itch or feel irritated. Ringworm can appear on many parts of the body, including the arms, legs, scalp, feet, or groin.</p>
+
+            <h3>How Ringworm Spreads</h3>
+            <p>The fungus that causes ringworm spreads through skin-to-skin contact. It can also spread by touching objects that carry the fungus, such as towels, clothing, floors, or sports equipment. Animals, including pets and farm animals, can carry the fungus and pass it to humans. Warm and moist areas make it easier for the fungus to grow.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Ringworm affects children and adults. It is more common in places where people share close spaces, such as schools, gyms, and locker rooms. People who sweat often or have frequent skin contact with others have higher rates of infection.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Fungal diseases. https://www.who.int</p>
+            <p>DermNet New Zealand. (2023). Tinea (ringworm). https://dermnetnz.org</p>`
+
+        }
+    ],
+    "Rotator Cuff Injury": [
+        {
+            title: "What is a Rotator Cuff Injury?",
+            preview: "A rotator cuff injury happens when shoulder muscles or tendons tear. The rotator cuff helps lift your arm and move it. It also keeps your shoulder stable.",
+            content: `<h2>What is a Rotator Cuff Injury?</h2>
+            <p>A rotator cuff injury happens when shoulder muscles or tendons tear.</p>
+            <p>The rotator cuff helps lift your arm and move it.</p>
+            <p>It also keeps your shoulder stable.</p>
+            <p>These injuries can happen from repeated overhead movements.</p>
+            <p>They can also happen from aging or sudden strain, like a fall.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms may be mild or strong.</p>
+            <p>They often happen when moving or resting your arm.</p>
+            <p>Common signs include:</p>
+            <ul>
+            <li>Shoulder pain when lifting your arm</li>
+            <li>Weakness in the shoulder or arm</li>
+            <li>Trouble reaching overhead or behind your back</li>
+            <li>Pain that is worse when lying on the injured shoulder</li>
+            <li>Stiffness or trouble moving your shoulder</li>
+            </ul>
+
+            <h3>How a Rotator Cuff Injury is Diagnosed</h3>
+            <p>A doctor will check your symptoms.</p>
+            <p>They will test your shoulder movement and strength.</p>
+            <p>Imaging tests like ultrasound or MRI may show a tear.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment helps reduce pain.</p>
+            <p>It also helps restore shoulder movement and strength.</p>
+            <p>Treatment may include:</p>
+            <ul>
+            <li>Rest and avoid activities that cause pain</li>
+            <li>Physical therapy to strengthen shoulder muscles</li>
+            <li>Medicines to reduce pain and swelling</li>
+            <li>Surgery for severe tears</li>
+            </ul>
+            <p>Most people can regain shoulder strength with proper care.</p>
+            <p>Early treatment can prevent the injury from getting worse.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2025). Rotator cuff injury: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2023). Rotator cuff tear.</p>
+            <p>Johns Hopkins Medicine. (2026). Rotator cuff injury.</p>`
+        }
+    ],
+    "Rubella": [
+        {
+            title: "What is Rubella?",
+            preview: "Rubella is a contagious viral infection. It spreads when an infected person coughs, sneezes, or talks. Rubella usually causes mild illness. But, infection during pregnancy can be harmful to a developing baby.",
+            content: `<h2>What is Rubella?</h2>
+            <p>Rubella is a contagious viral infection. It spreads when an infected person coughs, sneezes, or talks. This releases a spread of virus-containing droplets into the air.</p>
+            <p>Rubella usually causes mild illness. But, infection during pregnancy can be harmful to a developing baby.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>Symptoms often appear about two to three weeks after exposure to the virus.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>A red rash that begins on the face and spreads to the rest of the body</li>
+            <li>Low fever</li>
+            <li>Swollen lymph nodes, especially behind the ears or in the neck</li>
+            <li>Headache or mild body aches</li>
+            </ul>
+            <p>Some people may have very mild symptoms or no symptoms at all.</p>
+
+            <h3>How Rubella Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose rubella based on symptoms and possible exposure to the virus. Blood tests may be used to confirm the infection and check for rubella antibodies.</p>
+
+            <h3>Treatment and Recovery</h3>
+            <p>There is no specific cure for rubella because it is caused by a virus. Treatment focuses on helping the body recover and managing symptoms.</p>
+            <p>Helpful steps during recovery include:</p>
+            <ul>
+            <li>Getting plenty of rest</li>
+            <li>Drinking fluids to stay hydrated</li>
+            <li>Using over-the-counter medications to help reduce fever or discomfort</li>
+            </ul>
+            <p>Most people recover fully within a few days.</p>
+
+            <h3>Prevention</h3>
+            <p>Vaccination is the best way to prevent rubella. The measles, mumps, and rubella (MMR) vaccine protects against infection and helps prevent the spread of the virus.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. (2024). Rubella.</p>
+            <p>Mayo Clinic. (2025). Rubella: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2022). Rubella.</p>`
+        }
+    ],
+    "Scabies": [
+        {
+            title: "Scabies",
+            preview: "Scabies is a skin condition caused by tiny mites that burrow into the outer layer of the skin...",
+            content: `<h2>Scabies</h2>
+            <p>Scabies is a skin condition caused by tiny mites that burrow into the outer layer of the skin. These mites cause a strong skin reaction. This results in intense itching and a visible rash. Scabies spreads through close skin contact. It can affect anyone, no matter their age.</p>
+
+            <h3>How Scabies Affects the Skin</h3>
+            <p>The scabies mite lives just under the surface of the skin, where it lays eggs. The body reacts to the mites and their waste, which leads to inflammation. This reaction causes itching. It often gets worse at night. The rash is not caused by poor hygiene and may take several weeks to appear after exposure.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Scabies often causes severe itching and small red bumps on the skin. Thin, wavy lines may appear where mites have burrowed. The rash is often found between the fingers, on the wrists, elbows, waist, or feet. In infants and young children, the scalp, palms, or soles may also be affected.</p>
+
+            <h3>How Scabies Spreads</h3>
+            <p>Scabies spreads mainly through prolonged skin contact with an infected person. It may also spread through shared bedding, clothing, or towels. Crowded living conditions increase spread rates.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Scabies affects people across all regions and age groups. Outbreaks are more common in households, care facilities, and group living settings.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Scabies. https://www.who.int</p>
+            <p>DermNet New Zealand. (2023). Scabies. https://dermnetnz.org</p>`
+
+        }
+    ],
+
+    "Sciatica": [
+        {
+            title: "Sciatica",
+            preview: "Sciatica is a condition that involves pain along the sciatic nerve, which is the longest nerve in the body...",
+            content: `<h2>Sciatica</h2>
+            <p>Sciatica is a condition that involves pain along the sciatic nerve, which is the longest nerve in the body. The sciatic nerve runs from the lower back, through the hips and buttocks, and down each leg. Sciatica usually affects one side of the body.</p>
+
+            <h3>How Sciatica Develops</h3>
+            <p>Sciatica happens when the sciatic nerve gets irritated or compressed. This pressure often starts in the lower spine. Changes in the spine, such as disc problems or narrowing of spaces around nerves, are often linked to this condition. The nerve sends pain signals along its full path, which explains why discomfort can spread from the back into the leg.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Pain is the most common symptom of sciatica. It may feel sharp, burning, or like an electric shock. Some people notice numbness, tingling, or weakness in the leg or foot. Pain often follows a clear path from the lower back down the back of the thigh and into the lower leg. Symptoms may vary from mild to severe.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Sciatica is more common in adults and often appears during middle age. Jobs that involve heavy lifting, long periods of sitting, or repeated twisting are linked to higher rates. Some spine conditions and previous back injuries can also lead to sciatica.</p>
+
+            <h3>References</h3>
+            <p>National Health Service. (2023). Sciatica. https://www.nhs.uk</p>
+            <p>National Institute for Health and Care Excellence. (2023). Low back pain and sciatica. https://www.nice.org.uk</p>`
+
+        }
+    ],
+    "Scoliosis": [
+        {
+            title: "What is Scoliosis?",
+            preview: "Scoliosis is a condition in which the spine curves to the side instead of staying straight. It most often develops during childhood or early adolescence. But, scoliosis can occur at any age.",
+            content: `<h2>What is Scoliosis?</h2>
+            <p>Scoliosis is a condition in which the spine curves to the side instead of staying straight. It most often develops during childhood or early adolescence. But, scoliosis can occur at any age.</p>
+            <p>Small spinal curves may not cause noticeable problems, but larger curves can affect posture and may lead to discomfort over time.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can vary depending on the degree of the spinal curve.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Uneven shoulders</li>
+            <li>A tilted waist</li>
+            <li>One hip higher than the other</li>
+            <li>A visible curve in the spine</li>
+            </ul>
+            <p>Some people may also experience mild back pain or muscle fatigue.</p>
+
+            <h3>Diagnosis</h3>
+            <p>A healthcare provider may examine the spine and posture during a physical exam. Imaging tests such as X-rays are often used to measure spinal curve and track changes over time.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment depends on the size of the spinal curve, age, and health.</p>
+            <p>Treatment approaches may include:</p>
+            <ul>
+            <li>Monitoring the curve during growth</li>
+            <li>Physical therapy or exercises that support posture and strength</li>
+            <li>Wearing a brace to help prevent the curve from worsening</li>
+            <li>Surgery in severe cases to help correct the spinal curve</li>
+            </ul>
+            <p>Regular follow-up care can help ensure the spine develops as safely and comfortably as possible.</p>
+
+            <h3>References</h3>
+            <p>American Association of Neurological Surgeons. (2024). Scoliosis.</p>
+            <p>National Institute of Arthritis and Musculoskeletal and Skin Diseases. (2023). Scoliosis.</p>
+            <p>Mayo Clinic. (2025). Scoliosis: Symptoms and causes.</p>`
+        }
+    ],
+    "Seasonal Allergies": [
+        {
+            title: "What Are Seasonal Allergies?",
+            preview: "Seasonal allergies happen when your body overreacts to allergens in the air. Pollen from trees, grasses, or weeds are common allergens. Symptoms can be higher during different times of the year.",
+            content: `<h2>What Are Seasonal Allergies?</h2>
+            <p>Seasonal allergies happen when your body overreacts to allergens in the air. Pollen from trees, grasses, or weeds are common allergens. Symptoms can be higher during different times of the year. When allergen levels go up, symptoms go up too.</p>
+            <p>Sneezing, runny nose, itchy eyes, and coughing are common signs. They are not dangerous to your health but, they can affect your quality of life. It's always best to avoid triggers when you can. Stay indoors on high pollen days. Over-the-counter medications can help too. Consulting with your doctor can help reduce allergy symptoms.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2023). Seasonal allergies (hay fever).</p>
+            <p>American Academy of Allergy, Asthma & Immunology. (2023). Seasonal allergic rhinitis.</p>
+            <p>National Institute of Allergy and Infectious Diseases. (2022). Allergic rhinitis.</p>`
+
+        }
+    ],
+    "Seasonal Affective Disorder (SAD)": [
+        {
+            title: "Managing Seasonal Affective Disorder (SAD)",
+            preview: "Seasonal Affective Disorder, or SAD, is a type of depression that usually happens in the fall and winter when there is less sunlight.",
+            content: `<h2>Managing Seasonal Affective Disorder (SAD)</h2>
+            <p>Seasonal Affective Disorder, or SAD, is a type of depression that usually happens in the fall and winter when there is less sunlight. People with SAD may feel sad, low on energy, have trouble concentrating, eat more (especially carbs), gain weight, or want to avoid social activities. Less sunlight can affect sleep cycles and brain chemicals, which can worsen mood.</p>
+
+            <h3>Ways to Manage SAD</h3>
+            <ul>
+            <li><strong>Light Therapy:</strong> Use a bright light box for 20–30 minutes in the morning to mimic sunlight.</li>
+            <li><strong>Get Outside:</strong> Spend time outdoors during the day, even on cloudy days.</li>
+            <li><strong>Exercise Regularly:</strong> Physical activity can boost mood and energy.</li>
+            <li><strong>Eat a Healthy Diet:</strong> Focus on fruits, vegetables, lean protein, and whole grains.</li>
+            <li><strong>Relaxation and Mindfulness:</strong> Try yoga, meditation, or deep breathing to reduce stress.</li>
+            <li><strong>Stay Connected:</strong> Spend time with friends, family, or support groups.</li>
+            <li><strong>Therapy or Medication:</strong> Cognitive behavioral therapy (CBT) or antidepressants may help in severe cases.</li>
+            </ul>
+            <p>If SAD symptoms are strong or last a long time, it's important to see a healthcare provider. Using a combination of light exposure, exercise, healthy eating, relaxation, and support can help improve mood and quality of life during the darker months.</p>
+
+            <h3>References</h3>
+            <p>American Psychiatric Association. (2013). Diagnostic and Statistical Manual of Mental Disorders (5th ed.). Arlington, VA: American Psychiatric Publishing.</p>
+            <p>Golden, R. N., et al. (2005). The efficacy of light therapy in the treatment of mood disorders: A review and meta-analysis of the evidence. American Journal of Psychiatry, 162(4), 656-662. doi:10.1176/appi.ajp.162.4.656</p>`
+
+        }
+    ],
+
+    "Shingles": [
+        {
+            title: "Shingles",
+            preview: "Shingles is a viral condition that causes a painful skin rash...",
+            content: `<h2>Shingles</h2>
+            <p>Shingles is a viral condition that causes a painful skin rash. It develops when the varicella-zoster virus becomes active again in the body. This is the same virus that causes chickenpox. After a person recovers from chickenpox, the virus stays inactive in nerve tissue and may reactivate years later as shingles.</p>
+
+            <h3>How Shingles Affects the Body</h3>
+            <p>When the virus becomes active, it travels along nerve pathways to the skin. This leads to inflammation in the nerves and surrounding skin. The rash usually appears on one side of the body or face and follows the path of a single nerve. Shingles does not spread easily through casual contact.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Early signs often include pain, tingling, or burning in one area of the body. A few days later, a rash appears. The rash often turns into clusters of fluid-filled blisters. These blisters later dry and form scabs. Other symptoms may include headache, fatigue, or sensitivity to light. Pain can range from mild to severe and may continue after the rash clears.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Shingles can affect people of any age but is more common in older adults. People with weakened immune systems have higher rates of shingles. Stress and certain illnesses are also linked to reactivation of the virus.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Herpes zoster. https://www.who.int</p>
+            <p>DermNet New Zealand. (2023). Shingles (herpes zoster). https://dermnetnz.org</p>`
+
+        }
+    ],
+
+    "Sinus Infection": [
+        {
+            title: "Sinus Infection",
+            preview: "A sinus infection happens when the small spaces in your face become swollen or filled with fluid...",
+            content: `<h2>Sinus Infection</h2>
+            <p>A sinus infection happens when the small spaces in your face become swollen or filled with fluid. These spaces are around your nose, eyes, and forehead. They usually hold air and are lined with tissue that makes mucus. A sinus infection occurs when this lining swells and fluid builds up.</p>
+
+            <h3>How Sinus Infections Develop</h3>
+            <p>The sinuses help warm and moisten the air people breathe. When the lining of the sinuses swells, normal drainage can slow or stop. Trapped mucus creates pressure inside the sinuses. This pressure leads to pain and other symptoms. Sinus infections can start after a cold, allergy, or other upper respiratory illnesses.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms vary from person to person and may affect one or more sinuses. Common signs are facial pressure, pain near the nose or eyes, and a stuffy nose. Some people have a reduced sense of smell. They might also get headaches or feel pressure. Fatigue and a general feeling of illness are also common.</p>
+
+            <h3>Types of Sinus Infection</h3>
+            <p>Doctors classify sinus infections based on how long the symptoms last. Short-term infections last a few weeks. Longer ones can last several months. Symptoms may come and go during longer episodes.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Sinus infections affect both children and adults. Allergies, frequent colds, and nasal structure differences can lead to more sinus issues.</p>
+
+            <h3>References</h3>
+            <p>National Health Service. (2023). Sinusitis. https://www.nhs.uk</p>
+            <p>World Health Organization. (2023). Upper respiratory tract infections. https://www.who.int</p>`
+
+        }
+    ],
+
+    "Sinus Pressure": [
+        {
+            title: "Sinus Pressure",
+            preview: "Sinus Pressure is a feeling of fullness or tightness in the face, head, or around the eyes...",
+            content: `<h2>Sinus Pressure</h2>
+            <p>Sinus Pressure is a feeling of fullness or tightness in the face, head, or around the eyes. It happens when the sinuses become swollen or blocked. The sinuses are air-filled spaces located behind your forehead, cheeks, and nose. They help with breathing and affect how your voice sounds.</p>
+
+            <h3>What Causes Sinus Pressure</h3>
+            <p>Sinus pressure happens when airflow and drainage in the sinuses decrease. Swelling of the sinus lining can trap mucus and air, leading to pressure. This swelling is often linked to colds, allergies, or sinus infections. Changes in air pressure, like when flying, can also cause sinus discomfort.</p>
+
+            <h3>How It Feels</h3>
+            <p>People experience sinus pressure in different ways. Common sensations are a heavy or aching feeling in the face. You might feel pain around your eyes or cheeks, and there may be pressure in your forehead. Some people feel pain that gets worse when they bend forward. Headaches, a blocked nose, or facial tenderness may occur at the same time.</p>
+
+            <h3>Related Symptoms</h3>
+            <p>Sinus pressure often appears with other symptoms. These can include:</p>
+            <ul>
+            <li>Nasal congestion</li>
+            <li>Thick nasal discharge</li>
+            <li>Reduced sense of smell</li>
+            <li>Fatigue</li>
+            </ul>
+            <p>Pressure can affect one side of the face or both. It depends on which sinuses you involve.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Sinus pressure affects both children and adults. People with frequent colds, allergies, or narrow sinus openings experience it more often. Environmental irritants, such as smoke or pollution, are also linked to sinus swelling.</p>
+
+            <h3>References</h3>
+            <p>National Health Service. (2023). Sinusitis. https://www.nhs.uk</p>
+            <p>World Health Organization. (2023). Upper respiratory tract conditions. https://www.who.int</p>`
+
+        }
+    ],
+    "Sleep Apnea": [
+        {
+            title: "What is Sleep Apnea?",
+            preview: "Sleep apnea is a condition where a person's breathing stops or becomes very shallow while they sleep. These pauses can occur many times each night and make it hard to get a good night's rest.",
+            content: `<h2>What is Sleep Apnea?</h2>
+            <p>Sleep apnea is a condition where a person's breathing stops or becomes very shallow while they sleep. These pauses can occur many times each night and make it hard to get a good night's rest. Sleep apnea can happen to anyone, but it is more common in adults and individuals who are overweight.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms often occur during sleep but can also affect how a person feels during the day. Common signs include:</p>
+            <ul>
+            <li>Loud snoring</li>
+            <li>Pauses in breathing while sleeping</li>
+            <li>Gasping or choking at night</li>
+            <li>Feeling very sleepy during the day</li>
+            </ul>
+            <p>Some people may also wake up with headaches, have trouble focusing, or feel irritable.</p>
+
+            <h3>How Sleep Apnea Is Diagnosed</h3>
+            <p>A doctor may check for sleep apnea by asking about symptoms and sleep habits. A partner or family member can also help by noting things like loud snoring, pauses in breathing, or gasping during sleep. A sleep study, done at home or in a sleep center, can measure breathing, oxygen levels, and sleep patterns.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatments help people breathe better while sleeping and feel less tired during the day.</p>
+            <p>Options may include:</p>
+            <ul>
+            <li>Lifestyle changes, like losing weight or sleeping on your side</li>
+            <li>Mouth devices that keep the airway open</li>
+            <li>CPAP machines that help you breathe while you sleep</li>
+            </ul>
+            <p>Proper treatment can help improve sleep quality and reduce daytime fatigue.</p>
+
+            <h3>References</h3>
+            <p>National Heart, Lung, and Blood Institute. (2025). Sleep apnea.</p>
+            <p>Mayo Clinic. (2025). Sleep apnea.</p>
+            <p>Cleveland Clinic. (2025). Sleep apnea.</p>`
+        }
+    ],
+    "Social Anxiety Disorder": [
+        {
+            title: "What is Social Anxiety Disorder?",
+            preview: "Social anxiety disorder is a mental health condition that causes intense fear or anxiety in social situations. People with this condition often worry about being judged, embarrassed, or watched by others.",
+            content: `<h2>What is Social Anxiety Disorder?</h2>
+            <p>Social anxiety disorder is a mental health condition that causes intense fear or anxiety in social situations. People with this condition often worry about being judged, embarrassed, or watched by others.</p>
+            <p>These fears can make it difficult to talk with people, attend social events, or take part in everyday activities such as school or work.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>People with social anxiety disorder may experience strong fear or discomfort in social settings.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Intense fear of speaking or interacting with others</li>
+            <li>Avoiding social situations or events</li>
+            <li>Feeling very worried before meeting new people</li>
+            <li>Physical symptoms such as sweating, shaking, or a racing heart</li>
+            </ul>
+            <p>These feelings are stronger than typical shyness and can interfere with daily life.</p>
+
+            <h3>How Social Anxiety Disorder Is Diagnosed</h3>
+            <p>A healthcare provider or mental health professional may diagnose social anxiety disorder by reviewing symptoms, behavior patterns, and how anxiety affects daily activities. Interviews or questionnaires may be used to help evaluate the condition.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Social anxiety disorder is treatable, and many people improve with the right care.</p>
+            <p>Treatment approaches may include:</p>
+            <ul>
+            <li>Cognitive behavioral therapy (CBT) to help manage anxious thoughts</li>
+            <li>Medications that help reduce anxiety symptoms</li>
+            <li>Support from mental health professionals</li>
+            </ul>
+            <p>With treatment and support, many people can learn strategies to feel more comfortable and confident in social situations.</p>
+
+            <h3>References</h3>
+            <p>National Institute of Mental Health. (2025). Social Anxiety Disorder: More than just shyness.</p>
+            <p>Mayo Clinic. (2021). Social anxiety disorder: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2022). Social anxiety.</p>`
+
+        }
+    ],
+    "Sore Throat": [
+        {
+            title: "Sore Throat",
+            preview: "A sore throat is a common symptom. It can cause pain, dryness, or irritation in the throat...",
+            content: `<h2>Sore Throat</h2>
+            <p>A sore throat is a common symptom. It can cause pain, dryness, or irritation in the throat. Swallowing may feel uncomfortable. Speaking or eating can also be harder. A sore throat may happen by itself or with other signs of illness.</p>
+
+            <h3>What Causes a Sore Throat</h3>
+            <p>A sore throat is often caused by an infection. Viruses that cause colds or the flu are common causes. Bacteria can also irritate the throat. Other causes include allergies, dry air, smoke, or using your voice too much. In some cases, stomach acid can move up into the throat and cause ongoing irritation.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can be different for each person. Many people feel pain or a scratchy feeling in the throat. The throat may look red or swollen. Swallowing can hurt. Some people have a hoarse voice, swollen glands in the neck, or a dry cough. Fever or tiredness may happen if there is an infection.</p>
+
+            <h3>How Long It Lasts</h3>
+            <p>How long a sore throat lasts depends on the cause. Throat pain from a virus often gets better in a few days. Other causes may last longer. Throat irritation can persist if dry air or other irritants are present.</p>
+
+            <h3>References</h3>
+            <p>National Health Service. (2023). Sore throat. https://www.nhs.uk</p>
+            <p>World Health Organization. (2023). Acute respiratory infections. https://www.who.int</p>`
+
+        }
+    ],
+
+    "Strep Throat": [
+        {
+            title: "Strep Throat",
+            preview: "Strep throat is a bacterial infection that affects the throat and tonsils...",
+            content: `<h2>Strep Throat</h2>
+            <p>Strep throat is a bacterial infection that affects the throat and tonsils. It is caused by a type of bacteria called group A Streptococcus. Strep throat is more common in children and teens, but adults can also be affected. The infection spreads through close contact, such as coughing or sharing drinks.</p>
+
+            <h3>How Strep Throat Starts</h3>
+            <p>The bacteria enter the body through the nose or mouth. They then infect the throat and cause swelling and pain. Strep throat often starts suddenly. It can feel worse than a regular sore throat. Unlike many viral throat infections, strep throat does not usually come with a runny nose or cough.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>People with strep throat often have sudden throat pain. Swallowing can be hard. The throat may look red and swollen. White spots may appear on the tonsils. Fever is common. Some people also have headaches, stomach pain, or swollen glands in the neck. Young children may feel tired or cranky.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Strep throat spreads easily in places where people are close together, such as schools or homes. Children between ages five and fifteen get it most often. Being near someone who has strep throat raises the chance of getting it.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Group A streptococcal infections. https://www.who.int</p>
+            <p>National Health Service. (2023). Strep throat. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Stroke": [
+        {
+            title: "Stroke",
+            preview: "A stroke occurs when the brain's blood supply is interrupted, leading to a sudden loss of oxygen and nutrients...",
+            content: `<h2>What Happens During A Stroke</h2>
+            <p>A stroke occurs when the brain's blood supply is interrupted, leading to a sudden loss of oxygen and nutrients that damages brain cells. Understanding what happens during a stroke helps explain why fast treatment is so critical and how the type of stroke influences symptoms and outcomes.</p>
+
+            <h3>How a Stroke Affects the Brain</h3>
+            <p>The brain depends on constant blood flow to function properly. When circulation stops, even for a few minutes, brain cells begin to die. The area of the brain affected determines which abilities are lost, such as speech, movement, memory, or vision.</p>
+            <p>There are two main types of stroke: ischemic and hemorrhagic, each with different causes and mechanisms.</p>
+
+            <h3>Ischemic Stroke</h3>
+            <p>Ischemic strokes are the most common, accounting for roughly 87% of all cases. They occur when a blood vessel supplying the brain becomes blocked, preventing oxygen from reaching brain tissue.</p>
+            <p>Blockages can happen in two main ways:</p>
+            <ul>
+            <li><strong>Thrombosis:</strong> A blood clot forms directly in one of the arteries leading to the brain, often due to fatty buildup called atherosclerosis.</li>
+            <li><strong>Embolism:</strong> A clot or piece of debris forms elsewhere in the body, such as the heart, and travels through the bloodstream until it blocks a brain artery. This can occur in people with irregular heart rhythms like atrial fibrillation.</li>
+            </ul>
+            <p>Once a blockage occurs, the affected brain cells quickly begin to lose oxygen and glucose. Within minutes, the loss of nutrients causes cell death, leading to weakness, paralysis, speech difficulties, or memory loss, depending on the area of the brain involved.</p>
+
+            <h3>Hemorrhagic Stroke</h3>
+            <p>A hemorrhagic stroke happens when a blood vessel ruptures, causing bleeding inside or around the brain. The leaked blood creates pressure that damages nearby tissue and disrupts brain function.</p>
+            <p>Common causes include:</p>
+            <ul>
+            <li><strong>Aneurysm:</strong> A weak spot in a blood vessel wall that bulges and may burst.</li>
+            <li><strong>Arteriovenous malformation (AVM):</strong> An abnormal connection between arteries and veins that can rupture.</li>
+            <li><strong>High blood pressure:</strong> Chronic hypertension weakens blood vessels over time, making them more likely to break.</li>
+            </ul>
+            <p>Symptoms of a hemorrhagic stroke often appear suddenly and may include a severe headache, nausea, vomiting, confusion, or loss of consciousness.</p>
+
+            <h3>The Effects of a Stroke</h3>
+            <p>The impact of a stroke depends on how long the brain is deprived of oxygen and where the damage occurs. Strokes can affect:</p>
+            <ul>
+            <li>Movement and coordination, leading to paralysis or imbalance.</li>
+            <li>Speech and language, causing slurred speech or difficulty understanding words.</li>
+            <li>Vision and perception, creating double vision or visual field loss.</li>
+            <li>Cognition and memory, affecting concentration and emotional control.</li>
+            </ul>
+            <p>Each person's recovery is unique, depending on the size and location of the affected area and how quickly treatment begins.</p>
+
+            <h3>The Importance of Immediate Care</h3>
+            <p>A stroke is always a medical emergency. Rapid intervention can limit brain damage and increase the chance of recovery. Knowing the warning signs, such as facial drooping, arm weakness, and speech difficulty, and calling for emergency help immediately can save lives.</p>
+            <p>Rehabilitation, medical treatment, and healthy lifestyle choices all play key roles in improving recovery and preventing future strokes.</p>
+
+            <h3>References</h3>
+            <p>Donnan, G. A., et al. (2008). Stroke. The Lancet, 371(9624), 1612–1623. https://doi.org/10.1016/S0140-6736(08)60694-7</p>
+            <p>Hankey, G. J. (2017). Stroke. The Lancet, 389(10069), 641–654. https://doi.org/10.1016/S0140-6736(16)30962-X</p>
+            <p>Campbell, B. C. V., & Khatri, P. (2020). Stroke. The Lancet, 396(10244), 129–142. https://doi.org/10.1016/S0140-6736(20)31179-X</p>`
+
+        }
+    ],
+
+    "Sunburn": [
+        {
+            title: "Sunburn",
+            preview: "The sun is both a source of life and a major cause of skin damage...",
+            content: `<h2>Sun Safety For Skin Protection</h2>
+            <p>The sun is both a source of life and a major cause of skin damage. While sunlight supports vitamin D production and improves mood, it also exposes the skin to ultraviolet (UV) radiation that accelerates aging and increases the risk of skin cancer. Protecting the skin is not about avoiding the sun entirely but learning to engage with it safely and consistently.</p>
+
+            <h3>Understanding UV Rays</h3>
+            <p>Sunlight reaches the earth in two main types of rays that affect the skin differently:</p>
+            <ul>
+            <li>UVA rays penetrate deeply, damaging collagen and elastin fibers, which leads to premature wrinkles and sagging.</li>
+            <li>UVB rays primarily affect the skin's surface, causing sunburn and contributing to DNA mutations that may lead to skin cancer.</li>
+            </ul>
+            <p>A simple way to remember this is A for aging, B for burning. Both are harmful if unprotected, making daily sun safety essential for everyone.</p>
+
+            <h3>Protective Clothing and Habits</h3>
+            <p>Before turning to skincare products, start with physical protection.</p>
+            <ul>
+            <li>Wear a wide-brimmed hat to shield the face, ears, and neck.</li>
+            <li>Choose clothing with Ultraviolet Protection Factor (UPF) built into the fabric. UPF 50 clothing blocks nearly 98% of UV rays and is ideal for outdoor activities.</li>
+            <li>Seek shade between 10 a.m. and 4 p.m., when UV rays are strongest.</li>
+            <li>Use sunglasses with UV protection to safeguard the delicate skin around the eyes and prevent cataracts.</li>
+            </ul>
+            <p>These habits work together to reduce cumulative sun exposure, the leading cause of premature skin aging worldwide.</p>
+
+            <h3>The Role of Nutrition</h3>
+            <p>What you eat also supports your skin's defense system. Antioxidants help neutralize free radicals generated by UV radiation, which damage skin cells and accelerate aging. A balanced diet rich in these nutrients promotes resilience and radiance:</p>
+            <ul>
+            <li><strong>Lycopene:</strong> Found in tomatoes and watermelon, helps reduce UV-induced damage.</li>
+            <li><strong>Polyphenols:</strong> Present in green tea, dark chocolate, and berries, improve antioxidant protection.</li>
+            <li><strong>Vitamins C and E:</strong> Support collagen synthesis and repair oxidative damage.</li>
+            <li><strong>Omega-3 fatty acids:</strong> Found in fish, walnuts, and flaxseed, help reduce inflammation and support the skin barrier.</li>
+            </ul>
+            <p>These nutrients can also be found in over-the-counter supplements such as selenium, vitamin C, vitamin E, and omega-3s, though it is best to prioritize them from food sources whenever possible.</p>
+
+            <h3>Choosing and Using Sunscreen</h3>
+            <p>Sunscreen remains one of the most effective tools for preventing sun damage and skin cancer. Understanding SPF (Sun Protection Factor) helps in choosing wisely:</p>
+            <ul>
+            <li>SPF 30 blocks about 97% of UVB rays.</li>
+            <li>SPF 50 blocks about 98%.</li>
+            <li>SPF 100 blocks about 99%.</li>
+            </ul>
+            <p>The difference is small, which means higher SPF does not necessarily mean better protection. What matters most is consistent reapplication. Apply sunscreen 15 minutes before sun exposure and reapply every two to four hours, depending on the formula. Water-resistant and newer long-lasting formulas now allow for less frequent reapplication, but consistency remains key.</p>
+            <p>Be mindful that high SPF products can create a false sense of security. Even the most advanced sunscreen will not protect if it is not reapplied after sweating, swimming, or prolonged outdoor activity.</p>
+
+            <h3>Holistic Skin Health</h3>
+            <p>Healthy skin reflects more than a single habit, it represents a lifestyle. Balanced nutrition, proper hydration, and mindful sun protection all contribute to long-term wellness. By combining protective clothing, antioxidant-rich foods, and consistent sunscreen use, you help maintain both the health and appearance of your skin.</p>
+            <p>These small, daily actions are not just cosmetic. They are an investment in your future wellbeing and a powerful step toward lifelong skin health.</p>
+
+            <h3>References</h3>
+            <p>Green, A. C., & Whiteman, D. C. (2016). Solar ultraviolet radiation: Global burden of disease from solar ultraviolet radiation. Photochemical & Photobiological Sciences, 15(6), 1049–1055. https://doi.org/10.1039/C6PP00178D</p>
+            <p>Stahl, W., & Sies, H. (2012). β-Carotene and other carotenoids in protection from sunlight. The American Journal of Clinical Nutrition, 96(5), 1179S–1184S. https://doi.org/10.3945/ajcn.112.034819</p>
+            <p>Narayanan, D. L., Saladi, R. N., & Fox, J. L. (2010). Ultraviolet radiation and skin cancer. International Journal of Dermatology, 49(9), 978–986. https://doi.org/10.1111/j.1365-4632.2010.04474.x</p>`
+
+        }
+    ],
+
+    "Tinnitus": [
+        {
+            title: "Tinnitus",
+            preview: "Tinnitus is a condition where a person hears sound without an outside source...",
+            content: `<h2>Tinnitus</h2>
+            <p>Tinnitus is a condition where a person hears sound without an outside source. The sound may be described as ringing, buzzing, hissing, or clicking. Tinnitus is not a disease on its own but a sign linked to changes in the hearing system. It can affect one ear, both ears, or seem to come from inside the head.</p>
+
+            <h3>How Tinnitus Happens</h3>
+            <p>Tinnitus is linked to changes in how sound signals travel from the ear to the brain. The inner ear contains tiny hair cells that help send sound information. When these cells are damaged or disrupted, signals may be sent incorrectly. The brain may then create sound sensations that are not coming from the environment. Hearing loss is often linked to tinnitus, even when it is mild.</p>
+
+            <h3>Common Sounds and Experiences</h3>
+            <p>People experience tinnitus in different ways. Some hear a steady tone, while others notice pulsing or changing sounds. The sound may be soft or loud and may come and go. Tinnitus can be more noticeable in quiet settings, such as at night. Some people find it distracting, while others adjust to it over time.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Tinnitus is more common in adults. Exposure to loud noise, aging-related hearing changes, and certain ear conditions are linked to higher rates. Tinnitus is often reported alongside hearing difficulty but can also occur on its own.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Deafness and hearing loss. https://www.who.int</p>
+            <p>National Health Service. (2023). Tinnitus. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Tendinitis": [
+        {
+            title: "Tendinitis",
+            preview: "Tendinitis is a condition that affects the tendons. Tendons are tough bands of tissue. They link muscles to bones.",
+            content: `<h2>Tendinitis</h2>
+            <p>Tendinitis is a condition that affects the tendons. Tendons are tough bands of tissue. They link muscles to bones. Tendinitis develops when a tendon becomes irritated or inflamed. It often causes pain near a joint and can limit normal movement. It is common in the shoulders, elbows, wrists, knees, and heels.</p>
+
+            <h3>How Tendinitis Develops</h3>
+            <p>Tendinitis is linked to repeated stress on a tendon over time. Tendons help the body move by guiding muscle force to bones. When a tendon is used too often or placed under sudden strain, small injuries can occur. These small injuries may build up faster than the body can repair them, leading to inflammation and discomfort.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Pain is the most common sign of tendinitis. The pain often appears near a joint and may increase with movement. The area may feel sore, stiff, or tender to the touch. Some people notice mild swelling or warmth around the affected tendon. Stiffness is often worse after rest and may ease with light movement.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Tendinitis affects people of many ages. It is more common in adults who perform repeated motions during work, sports, or daily activities. Jobs or hobbies that involve lifting, gripping, or frequent joint movement are linked to higher rates. Age-related changes in tendons may also raise risk over time.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Musculoskeletal conditions. https://www.who.int</p>
+            <p>National Health Service. (2023). Tendinitis. https://www.nhs.uk</p>`
+
+        }
+    ],
+    "Tension Headaches": [
+        {
+            title: "What Are Tension Headaches?",
+            preview: "Tension headaches are the most common type of headache. They often feel like a tight band around your head or pressure on your forehead. These headaches can happen to anyone.",
+            content: `<h2>What Are Tension Headaches?</h2>
+            <p>Tension headaches are the most common type of headache. They often feel like a tight band around your head or pressure on your forehead.</p>
+            <p>These headaches can happen to anyone. They often come when you are stressed, tired, or sitting in a bad position.</p>
+
+            <h3>Signs and Symptoms</h3>
+            <p>Tension headache symptoms are usually mild to medium and often affect both sides of the head. Common signs include:</p>
+            <ul>
+            <li>A dull, steady headache</li>
+            <li>Tightness or pressure around your head or forehead</li>
+            <li>Sore scalp, neck, or shoulders</li>
+            <li>Tight neck muscles</li>
+            </ul>
+            <p>Unlike migraines, tension headaches usually do not cause strong nausea or sensitivity to light.</p>
+
+            <h3>How Doctors Check for Tension Headaches</h3>
+            <p>A doctor can check your symptoms and ask about your health history. They may do a simple exam to make sure the headache isn't caused by something else.</p>
+
+            <h3>How to Treat and Prevent Them</h3>
+            <p>Treatment focuses on easing pain and preventing headaches from happening. This may include:</p>
+            <ul>
+            <li>Resting and drinking enough water</li>
+            <li>Over-the-counter pain medicine</li>
+            <li>Reducing stress</li>
+            <li>Sitting and sleeping in better positions</li>
+            </ul>
+            <p>Many people find that self-care and making lifestyle changes helps headaches happen less often.</p>
+
+            <h3>References</h3>
+            <p>Mayo Clinic. (2023). Tension headache: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2023). Tension headaches.</p>
+            <p>UMass Memorial Health. (2026). Tension headaches.</p>`
+        }
+    ],
+    "Tonsil Stones": [
+        {
+            title: "What Are Tonsil Stones?",
+            preview: "Tonsil stones are small, hard lumps that form in the tonsils. The tonsils are two small glands located at the back of the throat that help support the immune system.",
+            content: `<h2>What Are Tonsil Stones?</h2>
+            <p>Tonsil stones are small, hard lumps that form in the tonsils. The tonsils are two small glands located at the back of the throat that help support the immune system.</p>
+            <p>Tonsil stones develop when food particles, bacteria, and dead cells become trapped in tiny pockets of the tonsils. Over time, this material can harden and form a stone.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Many tonsil stones are small and may not cause symptoms.</p>
+            <p>When symptoms occur, they may include:</p>
+            <ul>
+            <li>Bad breath</li>
+            <li>A sore throat</li>
+            <li>A feeling that something is stuck in the throat</li>
+            <li>White or yellow spots on the tonsils</li>
+            </ul>
+            <p>Some people may also experience mild discomfort when swallowing.</p>
+
+            <h3>How Tonsil Stones Are Diagnosed</h3>
+            <p>A healthcare provider may diagnose tonsil stones by examining the throat and tonsils during a physical exam. In most cases, additional testing is not required.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Small tonsil stones are usually harmless and may fall out on their own.</p>
+            <p>Helpful steps may include:</p>
+            <ul>
+            <li>Maintaining good oral hygiene</li>
+            <li>Gargling with saltwater</li>
+            <li>Gently removing visible stones if recommended by a healthcare provider</li>
+            </ul>
+            <p>If tonsil stones become large, painful, or occur frequently, a healthcare provider may recommend additional treatment options.</p>
+
+            <h3>References</h3>
+            <p>American Academy of Family Physicians. (2023). Tonsil Stones.</p>
+            <p>Mayo Clinic. (2024). All about tonsil stones.</p>
+            <p>Cleveland Clinic. (2024). Tonsil Stones.</p>`
+
+        }
+    ],
+    "Tonsillitis": [
+        {
+            title: "Tonsillitis",
+            preview: "Tonsillitis is when the tonsils swell and become irritated...",
+            content: `<h2>Tonsillitis</h2>
+            <p>Tonsillitis is when the tonsils swell and become irritated. The tonsils are two soft tissue pads located at the back of the throat. They play a role in the body's immune response by helping trap germs that enter through the mouth or nose.</p>
+
+            <h3>How Tonsillitis Develops</h3>
+            <p>Tonsillitis is often linked to infection. Viruses are a common cause, though bacteria may also be involved. When germs invade the tonsils, the tissue swells. This inflammation causes pain and other throat symptoms. Tonsillitis can occur suddenly and may affect one or both tonsils.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>People with tonsillitis often have a sore throat. This makes swallowing painful. The tonsils might look red and swollen. They can also have white or yellow spots. Fever, headache, and fatigue are common. Others notice changes in their voice. In children, stomach pain or reduced appetite may occur.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Tonsillitis affects both children and adults but is more common in children and teenagers. It spreads more easily in group settings such as schools or households. Close contact with someone who is infected increases the chance of transmission.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Acute respiratory infections. https://www.who.int</p>
+            <p>National Health Service. (2023). Tonsillitis. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Toothache": [
+        {
+            title: "Toothache",
+            preview: "Toothache is pain or discomfort in or around a tooth...",
+            content: `<h2>Toothache</h2>
+            <p>Toothache is pain or discomfort in or around a tooth. It can range from mild soreness to sharp, constant pain. Toothaches are common and may affect chewing, speaking, or sleeping. The pain may stay in one area or spread to the jaw, ear, or head.</p>
+
+            <h3>What Causes a Toothache</h3>
+            <p>Toothaches often develop when the inner parts of a tooth become irritated. Tooth decay is a common cause and occurs when bacteria damage the tooth surface. Gum problems, cracked teeth, or loose fillings can also lead to pain. In some cases, pain that feels like a toothache may come from the jaw or sinuses.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Pain is the main symptom of a toothache. The pain may worsen when biting or chewing. Some people notice swelling in the gums or face near the affected tooth. Sensitivity to hot or cold foods may occur. A bad taste in the mouth or gum redness may also be present.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Toothaches affect people of all ages. Children, adults, and older adults may experience tooth pain related to dental health, injury, or infection. Oral hygiene habits and past dental issues influence risk.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Oral health. https://www.who.int</p>
+            <p>National Health Service. (2023). Toothache. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Tuberculosis": [
+        {
+            title: "Tuberculosis",
+            preview: "Tuberculosis, also called TB, is an infectious disease caused by bacteria...",
+            content: `<h2>Tuberculosis</h2>
+            <p>Tuberculosis, also called TB, is an infectious disease. It is caused by bacteria called Mycobacterium tuberculosis. TB mostly affects the lungs. It can also affect other parts of the body, such as the kidneys, spine, or brain. TB spreads through the air. When a person with active TB coughs, sneezes, or talks, the germs can spread.</p>
+
+            <h3>How Tuberculosis Spreads</h3>
+            <p>TB spreads through tiny droplets in the air. People nearby can breathe in these droplets. Not everyone who is exposed gets sick. In some people, the bacteria stay inactive in the body. This is called latent TB infection. Active TB happens when the bacteria become active and cause illness.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms of active TB may take weeks or months to appear. Common signs include a cough that lasts a long time, chest pain, and coughing up blood. Other symptoms may include fever, night sweats, feeling very tired, and weight loss. If TB spreads outside the lungs, symptoms depend on the body part affected.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>TB can affect people of all ages. It is more common in crowded places and areas with limited access to health care. People with weak immune systems are more likely to get sick. Being close to someone with active TB increases the risk of infection.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Tuberculosis. https://www.who.int</p>
+            <p>National Health Service. (2023). Tuberculosis (TB). https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Type 1 Diabetes (T1D)": [
+        {
+            title: "T1D In Children",
+            preview: "Type 1 diabetes is a lifelong condition that often starts in childhood or the teen years. It affects how the body uses sugar for energy. With the right care and support, children with type 1 diabetes can live healthy, active lives.",
+            content: `<h2>T1D In Children</h2>
+            <p>Type 1 diabetes is a lifelong condition that often starts in childhood or the teen years. It affects how the body uses sugar for energy. With the right care and support, children with type 1 diabetes can live healthy, active lives.</p>
+
+            <h3>Type 1 Vs. Type 2 Diabetes</h3>
+            <p>Both type 1 and type 2 diabetes involve insulin. Insulin is a hormone that helps sugar move from the blood into the body's cells to be used for energy.</p>
+            <p>In type 1 diabetes, the body makes little or no insulin. Because of this, sugar stays in the bloodstream instead of entering the cells.</p>
+            <p>In type 2 diabetes, the body still makes insulin, but it does not work as well. This type is more common in adults and is often linked to weight and lifestyle factors.</p>
+            <p>In children and teens, type 1 diabetes is much more common than type 2.</p>
+
+            <h3>Signs Of Type 1 Diabetes</h3>
+            <p>Catching type 1 diabetes early is important. Common signs include:</p>
+            <ul>
+            <li>Feeling very thirsty.</li>
+            <li>Needing to urinate often.</li>
+            <li>Losing weight without trying.</li>
+            <li>Feeling very hungry.</li>
+            <li>Low energy or feeling tired.</li>
+            <li>Mood changes or irritability.</li>
+            <li>Blurry vision.</li>
+            </ul>
+            <p>These symptoms happen because sugar cannot get into the cells to be used for energy and builds up in the blood instead.</p>
+            <p>There is no cure for type 1 diabetes, but it can be managed with daily care.</p>
+
+            <h3>Insulin Treatment</h3>
+            <p>Children with type 1 diabetes need insulin every day to keep blood sugar in a safe range. Insulin can be given in two main ways.</p>
+            <p>Some children use an insulin pump. This is a small device worn on the body that gives insulin through a tiny tube under the skin. Others use insulin shots with a syringe or pen. Blood sugar is checked regularly to help decide how much insulin is needed.</p>
+
+            <h3>Daily Habits That Help</h3>
+            <p>Managing type 1 diabetes is more than just taking insulin. Daily habits also matter. Regular movement, balanced meals, enough sleep, and ways to manage stress all help keep blood sugar more stable and support overall health.</p>
+
+            <h3>Handling Blood Sugar Emergencies</h3>
+            <p>Blood sugar can sometimes become too low or too high. Knowing the signs and what to do is important.</p>
+            <p>Low blood sugar can cause shakiness, dizziness, confusion, or fainting. A medicine called glucagon can raise blood sugar quickly in an emergency. If glucagon is not available, sugary drinks like juice may help. Medical care is needed if symptoms do not improve.</p>
+            <p>High blood sugar can also be dangerous. Fast-acting insulin is used to lower blood sugar. If insulin is not available or symptoms get worse, emergency medical care is needed.</p>
+
+            <h3>Living Well With Type 1 Diabetes</h3>
+            <p>Type 1 diabetes requires daily attention, but children and teens can manage it successfully with support. Learning the signs, keeping healthy routines, and being prepared for emergencies all help young people live full and active lives with type 1 diabetes.</p>
+
+            <h3>References</h3>
+            <p>American Academy of Pediatrics. (n.d.). Type 1 diabetes in children. HealthyChildren.org. https://www.healthychildren.org/English/health-issues/conditions/chronic/Pages/Diabetes-Mellitus-Type-1-Diabetes.aspx</p>
+            <p>Mayo Clinic Staff. (n.d.). Type 1 diabetes in children: Symptoms and causes. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/type-1-diabetes-in-children/symptoms-causes/syc-20355306</p>
+            <p>Mayo Clinic Staff. (n.d.). Type 1 diabetes in children: Diagnosis and treatment. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/type-1-diabetes-in-children/diagnosis-treatment/drc-20355312</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (n.d.). Type 1 diabetes. U.S. Department of Health and Human Services. https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (n.d.). Insulin, medicines, and other diabetes treatments. U.S. Department of Health and Human Services. https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments</p>
+            <p>StatPearls Publishing. (2024). Diabetic ketoacidosis. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/books/NBK470282/</p>
+
+            <p><strong>For information purposes only. Always consult a healthcare, financial, investing, tax, or legal professional, as this article is not a comprehensive resource on these topics, should not be relied upon, and should not be considered medical, financial or legal advice.</strong></p>`
+        }
+    ],
+
+    "Type 2 Diabetes (T2D)": [
+        {
+            title: "What Is Type 2 Diabetes?",
+            preview: "Type 2 diabetes affects how the body uses sugar for energy. Sugar comes from the food we eat and helps power the body. Insulin is a hormone that moves sugar from the blood into the body's cells.",
+            content: `<h2>What Is Type 2 Diabetes?</h2>
+            <p>Type 2 diabetes affects how the body uses sugar for energy. Sugar comes from the food we eat and helps power the body. Insulin is a hormone that moves sugar from the blood into the body's cells. In type 2 diabetes, this process does not work well, so sugar slowly builds up in the blood.</p>
+
+            <h3>What It Is</h3>
+            <p>In type 2 diabetes, the body still makes insulin, but the cells do not respond to it properly. This is called insulin resistance. Over time, the pancreas may not be able to make enough insulin to keep blood sugar in a healthy range. When blood sugar stays high for many years, it can damage blood vessels and nerves. This increases the risk of heart disease, kidney problems, vision loss, and nerve pain.</p>
+
+            <h3>Why Some People Develop It</h3>
+            <p>Type 2 diabetes develops for different reasons. Family history plays a role because genes affect how insulin works. Low physical activity and long periods of sitting can make insulin resistance worse. Carrying extra weight, especially around the belly, also increases risk. High blood pressure and unhealthy cholesterol levels often occur alongside insulin resistance.</p>
+            <p>Type 2 diabetes is more common in adults over age 45, but it is now being seen more often in teens and young adults than in the past. Risk can also vary by background and ancestry.</p>
+
+            <h3>Symptoms to Watch For</h3>
+            <p>Symptoms often appear slowly and may be easy to miss. People may feel very thirsty, need to urinate often, or feel hungry even after eating. Fatigue, blurry vision, slow healing cuts, or frequent infections can also be signs. Anyone noticing these changes should talk with a clinician about testing.</p>
+
+            <h3>Everyday Steps That Help</h3>
+            <p>Daily habits are an important part of managing type 2 diabetes. Moving the body throughout the day helps insulin work better. Activities like walking, swimming, or biking are helpful and gentle. Eating balanced meals with vegetables, beans, whole grains, lean proteins, and healthy fats supports steady blood sugar. Regular sleep and simple stress-relief habits, like deep breathing or short walks, also help. Some people may need medicine, and a clinician can help decide what is best.</p>
+
+            <h3>Screening and Diagnosis</h3>
+            <p>Type 2 diabetes is diagnosed with blood tests that measure blood sugar levels. Many guidelines suggest screening adults starting in their mid-30s, or earlier for people with risk factors such as family history or high blood pressure. Finding diabetes early makes it easier to protect the heart, kidneys, eyes, and nerves.</p>
+
+            <h3>Living Well With Type 2 Diabetes</h3>
+            <p>Living well with type 2 diabetes means building steady routines. Learning how different meals affect blood sugar, staying active most days, and avoiding long periods of sitting can make a big difference. Regular medical care helps catch changes early. Small steps, practiced over time, lead to better health and energy.</p>
+
+            <h3>References</h3>
+            <p>American Diabetes Association. Standards of Medical Care in Diabetes. Diabetes Care. 2024.</p>
+            <p>US Preventive Services Task Force. Screening for Prediabetes and Type Two Diabetes. JAMA. 2021.</p>
+            <p>Knowler WC, Barrett Connor E, Fowler SE, et al. Reduction in the incidence of Type Two Diabetes with lifestyle intervention or metformin. New England Journal of Medicine. 2002.</p>
+            <p>UK Prospective Diabetes Study Group. Intensive blood glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications. Lancet. 1998.</p>
+            <p>Zheng Y, Ley SH, Hu FB. Global aetiology and epidemiology of Type Two Diabetes and its complications. Nature Reviews Endocrinology. 2018.</p>`
+
+        }
+    ],
+
+    "Ulcer": [
+        {
+            title: "Ulcer",
+            preview: "An ulcer is an open sore that forms when tissue is damaged and does not heal right away...",
+            content: `<h2>Ulcer</h2>
+            <p>An ulcer is an open sore that forms when tissue is damaged and does not heal right away. Ulcers can appear on the skin or inside the body. Common types include stomach ulcers, intestinal ulcers, and skin ulcers. The symptoms depend on where the ulcer forms.</p>
+
+            <h3>How Ulcers Form</h3>
+            <p>Ulcers form when the body's protective layer becomes damaged. In the digestive system, this layer covers the lining of the stomach and intestines and protects it from stomach acid. Damage can happen from infection, long-term use of some medicines, or too much stomach acid. When the layer breaks down, the lining underneath can be harmed.</p>
+            <p>On the skin, ulcers can form when blood flow is poor or when pressure damages the skin over time. Infections and ongoing irritation can also cause ulcers.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms depend on the type of ulcer. Stomach and intestinal ulcers often cause burning or aching pain. The pain may be worse between meals or at night. Some people feel sick to their stomach or notice bloating. Dark stools can also occur. Skin ulcers may look like open wounds that heal slowly. The skin around them may be red or swollen. Pain can be mild or strong.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Ulcers can affect people of many ages. Stomach and intestinal ulcers are more common in adults. Skin ulcers happen more often in older adults or people with poor blood flow. Some infections and long-term health problems raise the risk of ulcers.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Digestive diseases. https://www.who.int</p>
+            <p>National Health Service. (2023). Stomach ulcer. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Ulcerative Colitis": [
+        {
+            title: "Ulcerative Colitis",
+            preview: "Ulcerative colitis is a long-term inflammation of the colon, which is the large intestine...",
+            content: `<h2>Ulcerative Colitis</h2>
+            <p>Ulcerative colitis is a long-term inflammation of the colon, which is the large intestine. It causes swelling and sores to form in the inner lining of the colon and rectum. Ulcerative colitis isn't contagious. It often has flare-ups followed by quieter times.</p>
+
+            <h3>How Ulcerative Colitis Affects the Body</h3>
+            <p>In ulcerative colitis, the immune system creates steady inflammation in the colon. This inflammation damages the lining of the bowel and can cause ulcers to form. These ulcers may bleed and produce mucus. The condition often begins in the rectum. It can spread to other parts of the colon over time.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can vary based on how much of the colon is affected. Some people have ongoing diarrhea. It may also have blood or mucus. Abdominal pain and cramping are common. Some people feel an urgent need to use the bathroom or feel tired due to ongoing inflammation. During flare-ups, symptoms are often more intense.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Ulcerative colitis can begin at any age but often starts in young adulthood. A family history of inflammatory bowel disease is linked to higher rates. The condition is considered long term and may change in severity over time.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Inflammatory bowel disease. https://www.who.int</p>
+            <p>National Health Service. (2023). Ulcerative colitis. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Urinary Incontinence": [
+        {
+            title: "Urinary Incontinence",
+            preview: "Urinary incontinence is when you can't control your bladder...",
+            content: `<h2>Urinary Incontinence</h2>
+            <p>Urinary incontinence is when you can't control your bladder. This can cause urine to leak. It can range from small leaks to larger, sudden releases of urine. This condition is common and affects people of many ages. Urinary incontinence isn't a disease. It shows changes in the bladder or nerves.</p>
+
+            <h3>How Urinary Incontinence Happens</h3>
+            <p>The bladder holds urine until muscles and nerves work together to release it. Urinary incontinence happens when the system fails to work as it should. The bladder may contract at the wrong time, or the muscles that keep urine in may weaken. Nerve signals between the bladder and brain can change. This may cause a loss of control.</p>
+
+            <h3>Common Types</h3>
+            <p>There are several forms of urinary incontinence. Stress incontinence means you leak when you cough or lift something heavy. Urge incontinence is a sudden, strong urge to urinate. This often leads to leakage. Some people experience mixed types, with features of more than one form. Overflow incontinence is when the bladder cannot fully empty.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Urinary incontinence affects both men and women. It's more common with aging, pregnancy, childbirth, and some nerve or bladder issues.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Bladder and urinary conditions. https://www.who.int</p>
+            <p>National Institute for Health and Care Excellence. (2023). Urinary incontinence. https://www.nice.org.uk</p>`
+
+        }
+    ],
+
+    "Urinary Retention": [
+        {
+            title: "What Is Urinary Retention?",
+            preview: "Urinary retention is a condition in which the bladder cannot fully empty during urination. The bladder normally stores urine until it is released from the body.",
+            content: `<h2>What Is Urinary Retention?</h2>
+            <p>Urinary retention is a condition in which the bladder cannot fully empty during urination. The bladder normally stores urine until it is released from the body.</p>
+            <p>When urinary retention occurs, urine remains in the bladder instead of flowing out normally. The condition may develop suddenly or gradually over time.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms can vary depending on how severe the retention is.</p>
+            <p>Common symptoms may include:</p>
+            <ul>
+            <li>Difficulty starting urination</li>
+            <li>Weak urine flow</li>
+            <li>A feeling that the bladder is still full after urinating</li>
+            <li>Pain or pressure in the lower abdomen</li>
+            </ul>
+            <p>Some people may also experience swelling in the lower abdomen.</p>
+
+            <h3>How Urinary Retention Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose urinary retention by reviewing symptoms and performing a physical exam. Tests such as ultrasound or bladder scans may be used to measure how much urine remains in the bladder after urination.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>Treatment depends on the cause of urinary retention.</p>
+            <p>Treatment options may include:</p>
+            <ul>
+            <li>Medications to help relax bladder or prostate muscles</li>
+            <li>Procedures to help drain the bladder</li>
+            <li>Treating underlying conditions such as prostate enlargement, infection, or nerve problems</li>
+            </ul>
+            <p>Acute urinary retention, when a person suddenly cannot urinate, is a medical emergency and requires immediate care.</p>
+
+            <h3>References</h3>
+            <p>Advocate Health Care. (2026). Urinary retention symptoms & treatment.</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases. (2019). Urinary Retention.</p>
+            <p>Cleveland Clinic. (2024). Urinary Retention.</p>`
+
+        }
+    ],
+    "Urinary Tract Infection (UTI)": [
+        {
+            title: "Urinary Tract Infection (UTI)",
+            preview: "A urinary tract infection (UTI) occurs when bacteria enter and multiply within the urinary system...",
+            content: `<h2>What Is A UTI?</h2>
+            <p>A urinary tract infection (UTI) occurs when bacteria enter and multiply within the urinary system, which includes the bladder, urethra, ureters, and kidneys. The body's immune system and urinary tract typically work together to eliminate harmful bacteria, but when this defense system is overwhelmed, infection can develop.</p>
+
+            <h3>How the Body Defends Against Infection</h3>
+            <p>The urinary tract has several built-in protective mechanisms. Urine flow helps flush bacteria out, and immune cells such as white blood cells work to identify and destroy pathogens. These processes are essential for maintaining urinary health and preventing infections from spreading.</p>
+            <p>When bacteria overcome these defenses, they can attach to the lining of the bladder or urethra, leading to inflammation and discomfort.</p>
+
+            <h3>Common Symptoms</h3>
+            <p>UTIs can cause a range of symptoms depending on where the infection occurs:</p>
+            <ul>
+            <li>A burning sensation or pain during urination.</li>
+            <li>Frequent or urgent need to urinate, even when little urine is passed.</li>
+            <li>Cloudy, pink, or blood-tinged urine.</li>
+            <li>Lower abdominal or pelvic pain.</li>
+            </ul>
+            <p>These symptoms may vary between individuals, but recognizing them early can help prevent complications.</p>
+
+            <h3>Prevention and Self-Care</h3>
+            <p>There are simple ways to support urinary health and lower the risk of infection:</p>
+            <ul>
+            <li>Stay hydrated to help flush out bacteria from the urinary system.</li>
+            <li>Consider probiotics or cranberry products, which some research suggests may help reduce bacterial growth.</li>
+            <li>Wipe from front to back after using the toilet to prevent bacteria from spreading to the urethra.</li>
+            <li>Avoid delaying urination, as holding urine can encourage bacterial growth.</li>
+            </ul>
+
+            <h3>When Infections Become More Serious</h3>
+            <p>If left untreated, a UTI can spread beyond the bladder and become more serious. The infection may reach the kidneys, causing pyelonephritis, a condition that can lead to fever, back pain, nausea, or even kidney damage.</p>
+            <p>In men, bacteria can also reach the prostate gland, causing prostatitis, which may result in pelvic pain and difficulty urinating. These complications are uncommon but highlight the importance of seeking medical care if symptoms persist or worsen.</p>
+
+            <h3>Diagnosis and Treatment</h3>
+            <p>UTIs are usually diagnosed through a urine test that checks for bacteria and white blood cells. When confirmed, a short course of antibiotics is typically prescribed and often resolves the infection within a few days. Seeking care early helps prevent recurrence and protects overall urinary and kidney health.</p>
+
+            <h3>References</h3>
+            <p>Stamm, W. E., & Norrby, S. R. (2001). Urinary tract infections: Disease panorama and challenges. Journal of Infectious Diseases, 183(S1), S1–S4.</p>
+            <p>Flores-Mireles, A. L., Walker, J. N., Caparon, M., & Hultgren, S. J. (2015). Urinary tract infections: Epidemiology, mechanisms of infection, and treatment options. Nature Reviews Microbiology, 13(5), 269–284.</p>
+            <p>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). (2023). Urinary tract infections in adults.</p>`
+
+        }
+    ],
+
+    "Vaginal Infection": [
+        {
+            title: "Vaginal Infection",
+            preview: "The vaginal microbiome is the balance of microorganisms that live inside the vagina...",
+            content: `<h2>Cultivating A Healthy Vaginal Microbiome</h2>
+            <p>So, what is the vaginal microbiome? It's the balance of microorganisms that live inside the vagina, also called vaginal flora. This microbiome is made up of bacteria, fungi, and other single-celled organisms. The goal of these organisms is to keep the vaginal environment in balance.</p>
+
+            <h3>The Role of Lactobacilli</h3>
+            <p>Among all the microorganisms in the vaginal microbiome, lactobacilli are the most important. These bacteria act as a natural first line of defense against infections. They prevent harmful bacteria from growing, line the vaginal wall to stop pathogens from sticking, reduce inflammation, and maintain an acidic vaginal pH between 3.8 and 4.5. This acidic environment helps prevent disruptive bacteria, such as those that cause bacterial vaginosis (BV), from taking over.</p>
+
+            <h3>Factors That Impact the Vaginal Microbiome</h3>
+            <p>The vaginal microbiome changes throughout a woman's life. Factors that can impact it include puberty, pregnancy, postpartum changes, menopause, birth control, smoking, unprotected sex, stress, scented products, douching, and even menstrual blood. Life events and habits can shift the microbial balance, sometimes leading to infections or discomfort.</p>
+
+            <h3>Common Imbalances: BV and Yeast</h3>
+            <p>Bacterial vaginosis (BV) and yeast infections are the two most common vaginal microbiome imbalances. BV is caused by several types of bacteria, with Gardnerella being the most well-known. Symptoms include grayish, white, or creamy discharge, sometimes with a fishy odor, and occasional itching.</p>
+            <p>Yeast infections are caused by an overgrowth of fungi that naturally live in the vagina. Symptoms include burning, itching, small cuts on the labia (fissures), and thick yellow or green discharge. Yeast infections typically do not have a strong odor, but if there is one, it may smell slightly like beer. Both BV and yeast infections are treatable by a healthcare professional. Over-the-counter antifungal creams often work for common yeast infections, but since STIs can mimic these infections, it's best to see a healthcare provider if it's your first episode.</p>
+
+            <h3>Maintaining a Healthy Vaginal Microbiome</h3>
+            <p>To support a healthy vaginal microbiome, focus on lifestyle habits that encourage balance: eat fermented foods like yogurt with live cultures, stay hydrated, and avoid scented soaps, toilet paper, and panty liners that disrupt pH balance. Use non-scented mild soap to wash the vulva, and avoid douching, which can severely disrupt the microbiome.</p>
+            <p>Sleeping without underwear allows airflow and reduces moisture, which discourages yeast growth. Use barriers like condoms or dental dams with partners, and consider menstrual cups instead of tampons. Most importantly, recognize the signs of imbalance and consult a healthcare professional when needed.</p>
+            <p>Maintaining awareness and good habits can help you achieve a happy, healthy vaginal microbiome!</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention. Vaginitis. https://www.cdc.gov/std/treatment-guidelines/vaginitis.htm</p>
+            <p>Ravel J, et al. Vaginal microbiome of reproductive-age women. Proc Natl Acad Sci U S A. 2011;108(Suppl 1):4680–4687.</p>
+            <p>Mayo Clinic. Yeast infection (vaginal). https://www.mayoclinic.org/diseases-conditions/yeast-infection/symptoms-causes/syc-20377494</p>`
+
+        }
+    ],
+
+    "Varicose Veins": [
+        {
+            title: "Varicose Veins",
+            preview: "Varicose veins are swollen, twisted veins. They usually show up on the legs and feet...",
+            content: `<h2>Varicose Veins</h2>
+            <p>Varicose veins are swollen, twisted veins. They usually show up on the legs and feet. They develop when veins near the surface of the skin stop moving blood as efficiently as expected. Varicose veins may look blue or purple and can bulge above the skin.</p>
+
+            <h3>How Varicose Veins Form</h3>
+            <p>Veins carry blood back to the heart with help from small one-way valves. These valves keep blood from flowing backward. When the valves weaken or become damaged, blood can collect in the vein. Over time, this added pressure causes the vein to stretch and change shape. Gravity plays a role, which explains why varicose veins usually affect the lower body.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Some people notice varicose veins only by how they look. Others experience symptoms. These may include aching, heaviness, or throbbing in the legs. Swelling in the lower legs or ankles may occur, especially after long periods of standing. The skin around affected veins may feel itchy or appear darker in color.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Varicose veins are more common with aging, as vein walls and valves change over time. Pregnancy is linked to higher rates due to increased blood volume and pressure on leg veins. Family history also plays a role. Jobs that involve long periods of standing are linked to higher occurrence.</p>
+
+            <h3>References</h3>
+            <p>National Institute for Health and Care Excellence. (2023). Varicose veins. https://www.nice.org.uk</p>
+            <p>World Health Organization. (2023). Cardiovascular diseases. https://www.who.int</p>`
+
+        }
+    ],
+
+    "Vertigo": [
+        {
+            title: "Vertigo",
+            preview: "Vertigo is a sensation of movement when no movement is taking place...",
+            content: `<h2>Vertigo</h2>
+            <p>Vertigo is a sensation of movement when no movement is taking place. People with vertigo often feel as if the room is spinning, tilting, or swaying. This feeling can be brief or long-lasting and may come and go. Vertigo is a symptom rather than a condition on its own.</p>
+
+            <h3>How Vertigo Happens</h3>
+            <p>Vertigo is linked to changes in the balance system, which includes the inner ear and parts of the brain. The inner ear helps control balance by sending signals about head position and motion. When these signals are disrupted, the brain may receive mixed messages. This mismatch can create the feeling that the body or surroundings are moving when they are not.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>The main symptom of vertigo is a spinning or whirling sensation. Some people also feel lightheaded or unsteady. Nausea and vomiting are common during strong episodes. Balance problems may make standing or walking difficult. Certain head movements can trigger or worsen symptoms in some cases.</p>
+
+            <h3>Common Causes</h3>
+            <p>Vertigo is often linked to inner ear conditions that affect balance. Inflammation, infection, or tiny crystals moving inside the ear can play a role. Vertigo may also be linked to head injury or changes in blood flow to the brain. The exact cause varies from person to person.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Vertigo can affect people of any age but is more common in adults. Older adults experience higher rates due to natural changes in balance systems over time.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Neurological disorders. https://www.who.int</p>
+            <p>National Health Service. (2023). Vertigo. https://www.nhs.uk</p>`
+
+        }
+    ],
+    "Vision Loss": [
+        {
+            title: "Living With Vision Impairment",
+            preview: "Vision is one of our most vital senses, shaping how we experience and navigate the world. When vision loss occurs whether gradually or suddenly, it can bring emotional, social, and physical challenges.",
+            content: `<h2>Living With Vision Impairment</h2>
+            <p>Vision is one of our most vital senses, shaping how we experience and navigate the world. When vision loss occurs whether gradually or suddenly, it can bring emotional, social, and physical challenges. However, with early intervention, adaptive strategies, and the right support, people living with vision impairment can continue to lead independent and fulfilling lives.</p>
+
+            <h3>The Importance of Early Detection</h3>
+            <p>Regular eye exams are one of the most effective ways to maintain long-term eye health. Many causes of vision loss, such as cataracts and glaucoma, can be treated when detected early. Research shows that up to 90% of vision loss cases are preventable with timely screening and care. Routine checkups help eye specialists identify conditions before they cause significant damage, allowing for proactive treatment and lifestyle adjustments.</p>
+
+            <h3>Adaptive Tools and Technology</h3>
+            <p>For individuals already experiencing vision loss, adaptive tools can make daily activities easier and more accessible.</p>
+            <ul>
+            <li>Auditory aids such as audiobooks, voice assistants, and screen readers allow people to read, write, and communicate efficiently.</li>
+            <li>Braille remains a valuable skill for those with significant vision impairment, enhancing independence in both personal and professional settings.</li>
+            <li>Smartphone apps now scan and read text aloud, describe images, and assist with navigation, making it easier to engage with the world and stay connected.</li>
+            <li>Mobility aids like white canes or guide dogs can also provide critical assistance, improving both safety and emotional wellness.</li>
+            </ul>
+
+            <h3>Creating a Supportive Home Environment</h3>
+            <p>Simple adjustments at home can help reduce strain and improve comfort. Increasing lighting in key areas, using high-contrast colors for buttons and labels, and keeping items organized in consistent locations can significantly enhance independence. These small environmental changes reduce the need for visual searching and create a more navigable space.</p>
+
+            <h3>Finding Emotional and Community Support</h3>
+            <p>Adapting to vision loss is not only about learning new tools but also about emotional resilience. Support from loved ones, vision specialists, and community organizations can help individuals build confidence and maintain social connections. Knowing that others share similar experiences can ease feelings of isolation and promote optimism in daily life.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). World report on vision.</p>
+            <p>National Eye Institute. (2023). Vision loss causes and prevention.</p>
+            <p>American Foundation for the Blind. (2023). Adaptive technologies and living independently with vision impairment.</p>`
+
+        }
+    ],
+    "Vitiligo": [
+        {
+            title: "What Is Vitiligo?",
+            preview: "Vitiligo is a skin condition that causes patches of skin to lose their color. This happens when the cells that produce pigment, called melanin, stop working or are destroyed.",
+            content: `<h2>What Is Vitiligo?</h2>
+            <p>Vitiligo is a skin condition that causes patches of skin to lose their color. This happens when the cells that produce pigment, called melanin, stop working or are destroyed.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Symptoms mainly involve changes in skin color.</p>
+            <p>Common signs may include:</p>
+            <ul>
+            <li>Light or white patches of skin</li>
+            <li>Patches that appear on the face, hands, arms, or other areas of the body</li>
+            <li>Gradual spreading of lighter areas over time</li>
+            <li>Loss of pigment in the hair or inside the mouth in some cases</li>
+            </ul>
+            <p>Vitiligo is not painful and is not contagious.</p>
+
+            <h3>How Vitiligo Is Diagnosed</h3>
+            <p>A healthcare provider may diagnose vitiligo by examining the skin and reviewing medical history. In some cases, a special light or a skin test may be used to confirm a diagnosis or rule out other conditions.</p>
+
+            <h3>Treatment and Management</h3>
+            <p>There is no cure for vitiligo, but treatment can help improve the appearance of the skin and slow the spread of pigment loss.</p>
+            <p>Treatment options may include:</p>
+            <ul>
+            <li>Medications that help restore some skin color</li>
+            <li>Light therapy that encourages pigment cells to grow</li>
+            <li>Cosmetic treatments that help even out skin tone</li>
+            </ul>
+            <p>Using sunscreen regularly can help protect areas of skin that have lost pigment.</p>
+
+            <h3>References</h3>
+            <p>National Institute of Arthritis and Musculoskeletal and Skin Diseases. (2022). Vitiligo.</p>
+            <p>Mayo Clinic. (2024). Vitiligo: Symptoms and causes.</p>
+            <p>Cleveland Clinic. (2022). Vitiligo.</p>`
+
+        }
+    ],
+    "Vomiting": [
+        {
+            title: "Vomiting",
+            preview: "Vomiting happens when the stomach pushes its contents out through the mouth...",
+            content: `<h2>Vomiting</h2>
+            <p>Vomiting happens when the stomach pushes its contents out through the mouth. It is a common symptom that can occur on its own or with other signs of illness. Vomiting is not a disease. It is the body's response to a problem or irritation.</p>
+
+            <h3>How Vomiting Happens</h3>
+            <p>Vomiting starts when the brain sends signals to the stomach. These signals can come from the stomach, the inner ear, or nerves in the body. The stomach muscles then tighten and push contents upward. Nausea often happens before vomiting. Nausea is the feeling that you might throw up.</p>
+
+            <h3>Common Causes</h3>
+            <p>Vomiting can have many causes. Stomach or intestinal infections are common. Food poisoning and motion sickness can also cause vomiting. Strong smells may trigger it. Other causes include pain, stress, headaches, or reactions to certain foods or medicines. Problems with the inner ear or digestive system can also lead to vomiting.</p>
+
+            <h3>Common Signs and Effects</h3>
+            <p>Vomiting often happens with nausea, sweating, or dizziness. Some people feel stomach pain or cramps. Vomiting many times can cause dehydration. This happens when the body loses too much fluid. Feeling tired or weak may follow.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Nausea and vomiting. https://www.who.int</p>
+            <p>National Health Service. (2023). Vomiting. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Wart": [
+        {
+            title: "Wart",
+            preview: "Wart is a small, irritating growth on the skin, typically caused by the human papillomavirus (HPV)...",
+            content: `<h2>Wart</h2>
+            <p>Wart is a small, irritating growth on the skin, typically caused by the human papillomavirus (HPV). This virus sneaks into the skin through tiny cuts or breaks, leading to the development of warts. They're very common. They can appear on many parts of the body, like the hands, fingers, feet, knees, and even the face. Warts are contagious. They can spread through close skin contact with someone who has them.</p>
+
+            <h3>What Warts Look Like</h3>
+            <p>Warts come in all shapes and sizes, and their texture can vary greatly. Many of them feel rough to the touch and look like small, raised bumps on the skin. Some warts may have tiny black dots on the surface, which are actually small blood vessels. You might find warts on the hands, fingers, feet, knees, or face. Plantar warts grow on the soles of the feet. They can hurt when walking or running.</p>
+
+            <h3>How Warts Spread</h3>
+            <p>The HPV virus that leads to warts can spread by touching an infected person or surfaces that have the virus on them. You can get warts by sharing towels, walking barefoot on infected floors, or using sports gear that someone with warts has touched. Additionally, warts can spread from one area of the body to another through scratching or picking, which can further irritate the skin.</p>
+
+            <h3>Common Experiences</h3>
+            <p>While warts are usually painless, some can cause discomfort or irritation depending on their location. Plantar warts can hurt when you walk or stand. Warts on your face or hands can be annoying or embarrassing. Warts can last for months or even years. However, the immune system often clears the virus. This can make the wart shrink and eventually disappear.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Warts affect people of all ages, but they're more common in children and teens. Additionally, people with weaker immune responses, such as those with chronic illnesses or taking immunosuppressive medications, have higher rates of warts. In these cases, it's essential to take extra precautions to prevent the spread of warts.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Human papillomavirus (HPV). https://www.who.int</p>
+            <p>DermNet New Zealand. (2023). Warts. https://dermnetnz.org</p>`
+
+        }
+    ],
+
+    "Weight Gain": [
+        {
+            title: "Weight Gain",
+            preview: "Weight Gain is an increase in body weight that happens over time...",
+            content: `<h2>Weight Gain</h2>
+            <p>Weight Gain is an increase in body weight that happens over time. It can involve gains in body fat, muscle, or fluid. Weight gain is common and may occur for many different reasons. Changes may happen slowly or over shorter periods, depending on the cause.</p>
+
+            <h3>How Weight Gain Happens</h3>
+            <p>Body weight changes when energy taken in from food and drink is higher than energy used by the body. The body stores extra energy for later use, often as fat. Weight gain may also occur when fluid builds up in the body or when muscle mass increases. Hormones play a key role in how the body stores and uses energy, so changes in hormone balance can affect weight.</p>
+
+            <h3>Common Factors Linked to Weight Gain</h3>
+            <p>Several factors are linked to weight gain. Reduced physical activity can lower energy use. Changes in eating patterns, sleep habits, or daily routines may also affect weight. Some health issues are tied to changes in metabolism. This is how the body uses energy. Certain life stages, such as adulthood and aging, are also associated with gradual weight changes.</p>
+
+            <h3>Possible Effects</h3>
+            <p>Weight gain can affect how the body feels and functions. Some people notice changes in stamina, movement, or breathing. Weight changes may also affect joints and overall comfort during daily activities.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Weight gain affects people of all ages. Genetics, environment, and lifestyle all influence how body weight changes over time.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Obesity and overweight. https://www.who.int</p>
+            <p>National Health Service. (2023). Healthy weight. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Weight Loss": [
+        {
+            title: "Weight Loss",
+            preview: "Obesity is a complex condition that involves an excessive amount of body fat...",
+            content: `<h2>Understanding Obesity & Weight Loss Fundamentals</h2>
+            <p>Obesity is a complex condition that involves an excessive amount of body fat. It is not just a cosmetic concern but a serious medical issue that increases the risk of several chronic diseases, including heart disease, diabetes, high blood pressure, and certain types of cancer. In the United States, obesity affects approximately 42% of adults and nearly 20% of children, making it one of the most significant public health challenges today.</p>
+
+            <h3>What Is Obesity and How Is It Measured?</h3>
+            <p>Obesity is commonly defined as having a body mass index (BMI) of 30 or higher. BMI is calculated by dividing your weight in kilograms by your height in meters squared, or alternatively, by multiplying your weight in pounds by 703 and dividing that number twice by your height in inches. For most people, BMI provides a reasonable estimate of body fat; however, it may not be as accurate for individuals with higher muscle mass or denser body composition. While BMI is a helpful screening tool, it should be considered alongside other indicators such as waist circumference, metabolic health, and overall lifestyle factors.</p>
+
+            <h3>Causes and Contributing Factors</h3>
+            <p>There is no single cause of obesity. It typically results from a combination of genetic, physiological, behavioral, and environmental factors. Diet and physical activity play a major role, but hormones, metabolism, and even sleep patterns can also influence body weight. Inherited traits may affect how efficiently your body converts food into energy or how it stores fat. Additionally, factors such as easy access to high-calorie processed foods, limited opportunities for physical activity, and high stress levels can all contribute to weight gain.</p>
+
+            <h3>Sustainable Weight Management</h3>
+            <p>When trying to lose weight, many people aim for quick results, but gradual and consistent weight loss tends to be more sustainable. Those who lose weight slowly and steadily are more likely to maintain it over time compared to those who follow restrictive dieting patterns. The key to successful weight management is building long-term habits—maintaining a healthy diet, increasing physical activity, and incorporating behavioral changes that support lasting success. In some cases, prescription medications or medical weight loss procedures may be appropriate, but these options should always be discussed with a healthcare professional.</p>
+            <p>A helpful way to think about weight management is that it's roughly two-thirds nutrition and one-third physical activity. While exercise is important for overall health and metabolism, diet plays a larger role in achieving a calorie deficit. At the most basic level, weight loss occurs when the calories you consume are fewer than the calories you burn. However, not all calories are created equal, and the quality of the foods you eat has a significant impact on your metabolism, inflammation, and energy levels.</p>
+
+            <h3>The Importance of Food Quality</h3>
+            <p>A diet high in processed foods can increase inflammation, insulin resistance, and the risk of metabolic diseases, all of which make weight loss more difficult. Instead, focus on nutrient-dense, whole foods that are rich in fiber, protein, and limit liquid calories from sugary drinks or alcohol. It's also important to maintain a healthy relationship with food, enjoying the occasional treat without guilt helps prevent the feeling of deprivation that often leads to overeating. Many people overestimate how many calories they burn in a day and underestimate how many they consume, so staying mindful of portion sizes and activity levels is essential for progress.</p>
+            <p>Even a modest weight loss of 5–10% of your body weight can lead to meaningful health improvements, including lower blood pressure, better cholesterol levels, improved blood sugar control, less joint pain, and enhanced self-esteem.</p>
+
+            <h3>References</h3>
+            <p>Centers for Disease Control and Prevention (CDC). (2024). Adult Obesity Facts.</p>
+            <p>Harvard T.H. Chan School of Public Health. (2023). Obesity Prevention Source.</p>
+            <p>Mayo Clinic Staff. (2023). Obesity: Causes and Risk Factors. Mayo Foundation for Medical Education and Research.</p>
+            <p>National Heart, Lung, and Blood Institute. (2022). Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults.</p>`
+
+        }
+    ],
+
+    "Wheezing": [
+        {
+            title: "Wheezing",
+            preview: "Wheezing is a high-pitched whistling sound heard during breathing...",
+            content: `<h2>Wheezing</h2>
+            <p>Wheezing is a high-pitched whistling sound heard during breathing. It usually happens when breathing out. Wheezing occurs when the airways become narrow or blocked. This makes it harder for air to move through the lungs.</p>
+
+            <h3>How Wheezing Happens</h3>
+            <p>Airways are tubes that carry air in and out of the lungs. When these tubes swell, tighten, or fill with mucus, less air can pass through. As air moves through the narrow space, it makes a whistling sound called wheezing.</p>
+
+            <h3>Common Causes</h3>
+            <p>Many health problems can cause wheezing. Asthma is a common cause, especially in children and young adults. Infections like bronchitis can also cause wheezing. Allergies may lead to swelling in the airways. Breathing in smoke, pollution, or small objects can irritate the airways and change how breathing sounds.</p>
+
+            <h3>Related Symptoms</h3>
+            <p>Wheezing often happens with other breathing problems. Some people feel short of breath or notice chest tightness. Coughing is also common. Symptoms may get worse with exercise, illness, or irritants.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Wheezing can affect people of all ages. It is common in babies and young children with lung infections. People with long-term lung conditions may also wheeze.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Chronic respiratory diseases. https://www.who.int</p>
+            <p>National Health Service. (2023). Wheezing. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Whooping Cough": [
+        {
+            title: "Whooping Cough",
+            preview: "Whooping Cough is a respiratory illness caused by bacteria...",
+            content: `<h2>Whooping Cough</h2>
+            <p>Whooping Cough is a respiratory illness caused by bacteria. It is very contagious. It affects the airways and leads to severe coughing spells. After coughing, some people make a loud "whooping" sound when they breathe in. This sound gives the illness its name.</p>
+
+            <h3>How Whooping Cough Affects the Body</h3>
+            <p>The bacteria stick to the lining of the airways. They release harmful substances that cause swelling and irritation. This makes it hard for the lungs to clear mucus. As a result, coughing fits happen again and again and can last for weeks. The illness usually starts mild and gets worse over time.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Early signs often look like a cold. These include a runny nose, mild fever, and light coughing. Over time, the coughing becomes stronger and happens more often. Some coughing fits may cause vomiting or extreme tiredness. Babies may not cough loudly, but they may have pauses in breathing. This can be serious.</p>
+
+            <h3>How It Spreads</h3>
+            <p>Whooping cough spreads through tiny droplets in the air. These droplets come from coughing or sneezing. Being close to someone who is sick raises the risk, especially at home, school, or day care.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Whooping cough can affect people of all ages. Babies and young children have a higher risk of serious problems. Adults may have milder symptoms but can still pass the illness to others.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Pertussis. https://www.who.int</p>
+            <p>National Health Service. (2023). Whooping cough. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+    "Yeast Infection": [
+        {
+            title: "What Are Yeast Infections?",
+            preview: "A yeast infection is a common condition that affects many people with vaginas. It is also called vaginal candidiasis. Yeast infections are usually not serious, but they can be uncomfortable and frustrating.",
+            content: `<h2>What Are Yeast Infections?</h2>
+            <p>A yeast infection is a common condition that affects many people with vaginas. It is also called vaginal candidiasis. Yeast infections are usually not serious, but they can be uncomfortable and frustrating. Learning what causes them and how to prevent them can help you feel more in control of your health.</p>
+
+            <h3>What Causes A Yeast Infection?</h3>
+            <p>Yeast infections happen when too much yeast grows in the vagina. A type of yeast called Candida naturally lives there in small amounts. Healthy bacteria usually keep yeast balanced. When this balance is disturbed, yeast can grow too much and cause an infection.</p>
+            <p>Several things can make yeast more likely to grow. Antibiotics can kill helpful bacteria that normally keep yeast under control. Hormone changes, such as during pregnancy, periods, or while using birth control, can also affect balance. Wearing tight clothing or underwear that does not breathe well can trap heat and moisture. Staying in wet swimsuits or sweaty workout clothes for too long can also raise risk.</p>
+            <p>Yeast grows best in warm, damp places, which is why these factors matter.</p>
+
+            <h3>Recognizing The Symptoms</h3>
+            <p>Yeast infections can cause symptoms that are uncomfortable but common. These may include itching, redness, or irritation around the vaginal area. Some people notice a thick, white discharge that looks like cottage cheese. Burning during urination or sex can also happen.</p>
+            <p>These symptoms are often treated easily with antifungal medicine. However, other conditions can cause similar symptoms. It is important to check with a healthcare provider before treating yourself, especially if it is your first time having these symptoms.</p>
+
+            <h3>Prevention and Daily Care</h3>
+            <p>Simple habits can help lower the chance of getting a yeast infection. Wash the outside of the vaginal area with warm water and mild, unscented soap. Avoid douching or using scented sprays or washes, since the vagina cleans itself naturally.</p>
+            <p>Wearing cotton underwear and changing out of damp clothes quickly helps keep the area dry. Using unscented pads or tampons and changing them often can also support vaginal health.</p>
+
+            <h3>When To Seek Medical Help</h3>
+            <p>Talk to a healthcare provider if yeast infections happen often, such as four or more times in one year. Frequent infections may be linked to health issues like diabetes or hormone changes. A provider can help find the cause and recommend the right treatment.</p>
+
+            <h3>Living Comfortably And Confidently</h3>
+            <p>Yeast infections are common and nothing to be embarrassed about. With the right care, most people can treat them easily and lower the chance of them coming back. If symptoms do not improve or get worse, a healthcare provider can help guide next steps and keep you feeling your best.</p>
+
+            <h3>References</h3>
+            <p>Sobel, J. D. (2016). Recurrent vulvovaginal candidiasis. American Journal of Obstetrics and Gynecology, 214(1), 15–21.</p>
+            <p>Achkar, J. M., & Fries, B. C. (2010). Candida infections of the genitourinary tract. Clinical Microbiology Reviews, 23(2), 253–273.</p>
+            <p>Workowski, K. A., & Bolan, G. A. (2015). Sexually transmitted diseases treatment guidelines. Morbidity and Mortality Weekly Report, 64(3), 1–137.</p>
+            <p>Willems, H. M. E., Ahmed, S. S., Liu, J., Xu, Z., & Peters, B. M. (2020). Vaginal Candida infections: Epidemiology, pathogenesis, and management. Microorganisms, 8(9), 1445.</p>`
+
+        }
+    ],
+
+    "Yellow Fever": [
+        {
+            title: "Yellow Fever",
+            preview: "Yellow Fever is a viral disease spread by infected mosquitoes...",
+            content: `<h2>Yellow Fever</h2>
+            <p>Yellow Fever is a viral disease spread by infected mosquitoes. It mainly affects parts of Africa and South America. The virus enters the body through a mosquito bite and can cause illness that ranges from mild to severe. Yellow fever does not spread from person to person through contact.</p>
+
+            <h3>How Yellow Fever Affects the Body</h3>
+            <p>After a person is bitten by an infected mosquito, the virus enters the bloodstream. It then travels to organs such as the liver. The name Yellow Fever comes from jaundice. This is when the skin and eyes turn yellow due to liver issues. The illness usually starts suddenly after a few days of incubation. Yellow Fever can happen to anyone who has been bitten by an infected mosquito.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Early symptoms often include:</p>
+            <ul>
+            <li>Fever</li>
+            <li>Headache</li>
+            <li>Muscle pain</li>
+            <li>Backache</li>
+            </ul>
+            <p>Some people also experience:</p>
+            <ul>
+            <li>Nausea</li>
+            <li>Vomiting</li>
+            <li>Fatigue</li>
+            </ul>
+            <p>Many people recover after the early phase. In more serious cases, symptoms may return after a short break. This stage can include high fever, bleeding, and organ damage. Severe illness is less common but can be life-threatening.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Yellow fever. https://www.who.int</p>
+            <p>Pan American Health Organization. (2023). Yellow fever. https://www.paho.org</p>`
+
+        }
+    ],
+
+    "Zika Virus": [
+        {
+            title: "Zika Virus",
+            preview: "Zika virus is an infection spread mainly by mosquito bites...",
+            content: `<h2>Zika Virus</h2>
+            <p>Zika virus is an infection spread mainly by mosquito bites. The mosquitoes that carry Zika are active during the day. The virus was first found in Africa. It later spread to other parts of the world, including South and Central America, the Caribbean, and Southeast Asia.</p>
+
+            <h3>How Zika Virus Spreads</h3>
+            <p>Zika virus usually spreads through the bite of an infected mosquito. It can also spread from a pregnant person to a baby during pregnancy. In some cases, Zika spreads through sexual contact or blood transfusions.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Many people who get Zika do not feel sick or only have mild symptoms.</p>
+            <p>When symptoms happen, they often appear a few days after infection. Common signs include a mild fever, rash, joint pain, and red eyes. Headaches and muscle pain may also occur. Symptoms usually last a few days to a week. Most people recover fully.</p>
+
+            <h3>Possible Health Concerns</h3>
+            <p>Zika virus can cause serious problems during pregnancy. Infection during pregnancy may affect a baby's growth and lead to birth defects. In rare cases, adults may develop nerve problems after infection. These problems do not happen often.</p>
+
+            <h3>Who Is Affected</h3>
+            <p>Zika virus can affect people of all ages. People who live in or travel to areas with Zika-carrying mosquitoes have a higher risk. Warm climates where mosquitoes are common have more outbreaks.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Zika virus. https://www.who.int</p>
+            <p>Pan American Health Organization. (2023). Zika virus infection. https://www.paho.org</p>`
+
+        }
+    ],
+
+    "Zinc Deficiency": [
+        {
+            title: "Zinc Deficiency",
+            preview: "Zinc deficiency is a condition that occurs when the body does not have enough zinc to meet its needs...",
+            content: `<h2>Zinc Deficiency</h2>
+            <p>Zinc deficiency is a condition that occurs when the body does not have enough zinc to meet its needs. Zinc is a mineral that supports growth, immune function, and wound healing. The body does not store large amounts of zinc, so regular intake is needed to maintain healthy levels.</p>
+
+            <h3>The Role of Zinc in the Body</h3>
+            <p>Zinc plays a part in many body processes. It helps the immune system work properly and supports normal growth and development. Zinc is also involved in the senses of taste and smell. Cells use zinc to repair tissue and to support normal cell division. When zinc levels are low, these processes may slow down.</p>
+
+            <h3>Common Signs and Symptoms</h3>
+            <p>Zinc deficiency can cause a range of symptoms. Common signs include:</p>
+            <ul>
+            <li>Frequent infections</li>
+            <li>Slow wound healing</li>
+            <li>Hair loss</li>
+            <li>Some people notice changes in taste or smell</li>
+            <li>Skin problems, such as rashes or sores</li>
+            <li>In children, zinc deficiency is linked to delayed growth and development</li>
+            </ul>
+
+            <h3>Causes of Zinc Deficiency</h3>
+            <p>Low zinc levels may result from limited dietary intake or poor absorption in the digestive system. Certain digestive conditions can reduce how well zinc is absorbed. Increased zinc needs during growth, pregnancy, or illness may also contribute to deficiency. Zinc deficiency can happen to anyone.</p>
+
+            <h3>References</h3>
+            <p>World Health Organization. (2023). Micronutrient deficiencies. https://www.who.int</p>
+            <p>National Health Service. (2023). Vitamins and minerals – zinc. https://www.nhs.uk</p>`
+
+        }
+    ],
+
+};;
