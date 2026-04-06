@@ -193,7 +193,7 @@ body {
 .video-carousel-track { display: flex; gap: 16px; transition: transform 0.35s ease; }
 .video-slide {
   flex: 0 0 calc(33.333% - 11px);
-  border: 1px solid #e0e0e0;
+  border: 1px solid rgba(0, 132, 122, 0.2);
   border-radius: 12px;
   overflow: hidden;
   background: #fff;
@@ -202,8 +202,8 @@ body {
 }
 .video-slide:hover { border-color: #000; }
 .video-slide-iframe-wrap {
-  margin: 0;
-  border-radius: 0;
+  margin: 10px;
+  border-radius: 15px;
   overflow: hidden;
   position: relative;
   padding-top: 56.25%;
@@ -215,6 +215,7 @@ body {
   width: 100%;
   height: 100%;
   border: none;
+  border-radius: inherit;
   pointer-events: none;
 }
 .video-slide-click-cap { position: absolute; inset: 0; z-index: 1; cursor: pointer; }
@@ -285,14 +286,15 @@ footer {
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
-  .site-header h1 { font-size: 1.8em; }
+  .site-header h1 { font-size: 1.8em; margin-bottom: 4px; }
+  .site-header p { margin: 0 0 14px; }
   .alpha-bar { padding: 6px 12px; }
   .container { padding: 40px 5vw; }
 }
 @media (max-width: 480px) {
   .site-header { padding: 24px 0 20px; }
   .site-header h1 { font-size: 1.4em; }
-  .site-header p { font-size: 0.9em; }
+  .site-header p { font-size: 0.9em; margin: 0 0 10px; }
   .container { padding: 24px 4vw; }
   .letter-header { font-size: 1.8em; }
   .alpha-bar {
