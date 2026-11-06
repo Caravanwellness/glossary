@@ -17,13 +17,14 @@ export default function ScrollToTop() {
     <button
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       aria-label="Scroll to top"
+      className="scroll-top"
       style={{
         position: 'fixed',
         bottom: 32,
         right: 24,
         zIndex: 999,
-        background: '#00847A',
-        color: '#fff',
+        background: 'var(--scroll-top-bg)',
+        color: 'var(--scroll-top-text)',
         border: 'none',
         borderRadius: '999px',
         padding: '10px 16px',

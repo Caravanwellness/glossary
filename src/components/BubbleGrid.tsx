@@ -2,10 +2,8 @@
 
 import { useRouter } from 'next/navigation'
 import { articlesData } from '@/data/articles'
-
-function encodeSlug(name: string) {
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[()\/]/g, '')
-}
+import { encodeSlug } from '@/lib/conditions'
+import { useVariant } from './VariantProvider'
 
 interface Props {
   searchTerm: string
@@ -16,6 +14,7 @@ const allConditions = Object.keys(articlesData)
 
 export default function BubbleGrid({ searchTerm }: Props) {
   const router = useRouter()
+  const { basePath } = useVariant()
 
   const grouped = LETTERS.reduce<Record<string, string[]>>((acc, letter) => {
     const filtered = allConditions.filter(name =>
@@ -43,7 +42,7 @@ export default function BubbleGrid({ searchTerm }: Props) {
                 <button
                   key={name}
                   className="bubble"
-                  onClick={() => router.push(`/condition/${encodeSlug(name)}`)}
+                  onClick={() => router.push(`${basePath}/condition/${encodeSlug(name)}`)}
                 >
                   {name}
                 </button>
@@ -54,7 +53,7 @@ export default function BubbleGrid({ searchTerm }: Props) {
       })}
 
       {Object.keys(grouped).length === 0 && (
-        <p style={{ textAlign: 'center', color: '#999', padding: '60px 0', fontSize: '1.1em' }}>
+        <p style={{ textAlign: 'center', color: 'var(--no-results)', padding: '60px 0', fontSize: '1.1em' }}>
           No results found for &ldquo;{searchTerm}&rdquo;
         </p>
       )}

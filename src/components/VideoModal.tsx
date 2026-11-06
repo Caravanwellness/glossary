@@ -30,6 +30,7 @@ export default function VideoModal({ src, onClose }: Props) {
             src={src + '&autoplay=1'}
             allow="autoplay; fullscreen"
             allowFullScreen
+            title="Video player"
           />
         </div>
       </div>
