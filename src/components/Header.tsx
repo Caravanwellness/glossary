@@ -4,10 +4,12 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { useVariant } from './VariantProvider'
+import { CONTENT_SETS } from '@/content-sets'
 
 export default function Header() {
   const router = useRouter()
-  const { basePath, logo, siteTitle, siteSubtitle } = useVariant()
+  const { basePath, logo, siteTitle, siteSubtitle, content } = useVariant()
+  const { searchPlaceholder } = CONTENT_SETS[content]
   const home = basePath || '/'
 
   return (
@@ -31,8 +33,8 @@ export default function Header() {
             <input
               type="text"
               className="search-input"
-              placeholder="Search health conditions..."
-              aria-label="Search health conditions"
+              placeholder={searchPlaceholder}
+              aria-label={searchPlaceholder.replace(/\.+$/, '')}
               onChange={e => {
                 const q = e.target.value.trim()
                 router.push(q ? `${home}?q=${encodeURIComponent(q)}` : home)

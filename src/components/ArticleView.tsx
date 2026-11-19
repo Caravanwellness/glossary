@@ -6,6 +6,7 @@ import type { Article, Video } from '@/types'
 import VideoCarousel from './VideoCarousel'
 import VideoModal from './VideoModal'
 import { useVariant } from './VariantProvider'
+import { CONTENT_SETS } from '@/content-sets'
 
 interface Props {
   conditionName: string
@@ -15,7 +16,7 @@ interface Props {
 
 export default function ArticleView({ conditionName, article, videos }: Props) {
   const router = useRouter()
-  const { basePath } = useVariant()
+  const { basePath, content } = useVariant()
   const [modalSrc, setModalSrc] = useState<string | null>(null)
 
   return (
@@ -24,7 +25,7 @@ export default function ArticleView({ conditionName, article, videos }: Props) {
         <div className="articles-grid">
           <div className="article-content">
             <button className="back-btn" onClick={() => router.push(basePath || '/')}>
-              ← Back to Categories
+              {CONTENT_SETS[content].backLabel}
             </button>
             <div dangerouslySetInnerHTML={{ __html: article.content }} />
             <VideoCarousel
