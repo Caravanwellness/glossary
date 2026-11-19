@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation'
 import type { Article, Video } from '@/types'
 import VideoCarousel from './VideoCarousel'
 import VideoModal from './VideoModal'
+import { useVariant } from './VariantProvider'
 
 interface Props {
   conditionName: string
@@ -14,6 +15,7 @@ interface Props {
 
 export default function ArticleView({ conditionName, article, videos }: Props) {
   const router = useRouter()
+  const { basePath } = useVariant()
   const [modalSrc, setModalSrc] = useState<string | null>(null)
 
   return (
@@ -21,7 +23,7 @@ export default function ArticleView({ conditionName, article, videos }: Props) {
 <div className="container">
         <div className="articles-grid">
           <div className="article-content">
-            <button className="back-btn" onClick={() => router.push('/')}>
+            <button className="back-btn" onClick={() => router.push(basePath || '/')}>
               ← Back to Categories
             </button>
             <div dangerouslySetInnerHTML={{ __html: article.content }} />

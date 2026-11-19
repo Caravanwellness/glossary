@@ -2,6 +2,7 @@
 
 import { useRef, useState, useEffect } from 'react'
 import { useRouter, usePathname } from 'next/navigation'
+import { useVariant } from './VariantProvider'
 
 const LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
 const FALLBACK: Record<string, string> = { Q: 'R', X: 'Y' }
@@ -13,6 +14,7 @@ interface Props {
 export default function AlphaBar({ presentLetters }: Props) {
   const router = useRouter()
   const pathname = usePathname()
+  const { basePath } = useVariant()
   const barRef = useRef<HTMLDivElement>(null)
   const [scrolled, setScrolled] = useState(false)
   const [isMobile, setIsMobile] = useState(false)
@@ -36,10 +38,10 @@ export default function AlphaBar({ presentLetters }: Props) {
   function handleClick(letter: string) {
     const target = presentLetters.has(letter) ? letter : FALLBACK[letter]
     if (!target) return
-    if (pathname === '/') {
+    if (pathname === (basePath || '/')) {
       scrollToLetter(target)
     } else {
-      router.push(`/#letter-${target}`)
+      router.push(`${basePath || '/'}#letter-${target}`)
     }
   }
 
@@ -56,8 +58,15 @@ export default function AlphaBar({ presentLetters }: Props) {
             <a
               key={letter}
               role="button"
+              tabIndex={active ? 0 : -1}
               className={active ? '' : 'alpha-inactive'}
               onClick={() => active && handleClick(letter)}
+              onKeyDown={e => {
+                if (active && (e.key === 'Enter' || e.key === ' ')) {
+                  e.preventDefault()
+                  handleClick(letter)
+                }
+              }}
             >
               {letter}
             </a>
@@ -72,16 +81,16 @@ export default function AlphaBar({ presentLetters }: Props) {
             position: 'absolute', right: 0, top: 0,
             width: 36, height: '100%',
             display: 'flex', alignItems: 'center', justifyContent: 'center',
-            fontSize: '0.9em', fontWeight: 600, color: '#00847A',
-            backgroundColor: '#B2DBD7', pointerEvents: 'none',
+            fontSize: '0.9em', fontWeight: 600, color: 'var(--alpha-text)',
+            backgroundColor: 'var(--alpha-bg)', pointerEvents: 'none',
             transition: 'opacity 0.25s', opacity: scrolled ? 0 : 1,
           }}>…Z</div>
           <div style={{
             position: 'absolute', left: 0, top: 0,
             width: 36, height: '100%',
             display: 'flex', alignItems: 'center', justifyContent: 'center',
-            fontSize: '0.9em', fontWeight: 600, color: '#00847A',
-            backgroundColor: '#B2DBD7', pointerEvents: 'none',
+            fontSize: '0.9em', fontWeight: 600, color: 'var(--alpha-text)',
+            backgroundColor: 'var(--alpha-bg)', pointerEvents: 'none',
             transition: 'opacity 0.25s', opacity: scrolled ? 1 : 0,
           }}>A…</div>
         </>
