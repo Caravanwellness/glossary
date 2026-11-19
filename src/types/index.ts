@@ -1,4 +1,6 @@
 export interface Article {
+  /** Source catalog ID, e.g. GLS-0001. */
+  id?: string
   title: string
   preview: string
   content: string

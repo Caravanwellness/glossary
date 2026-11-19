@@ -236,6 +236,8 @@ body {
 .article-content ul, .article-content ol { color: var(--article-text); line-height: 1.8; margin-bottom: 15px; padding-left: 20px; }
 .article-content li { margin-bottom: 4px; }
 .article-content a { color: var(--accent); text-decoration: underline; }
+.article-content ul.references { font-size: 0.9em; }
+.article-content ul.references li { overflow-wrap: anywhere; }
 
 /* ── Video carousel ── */
 .video-carousel-section {

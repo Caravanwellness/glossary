@@ -6,11 +6,16 @@
  *   /mhf                 -> Millennium Health & Fitness
  *   /mhf/condition/acne  -> the same article, MHF branded
  *
+ * A variant can also serve a different glossary: set `content` (see
+ * src/content-sets.ts). /fw serves the Financial Wellness Glossary at /fw/term/<slug>.
+ *
  * To add a client: put its logo files in public/brands/<id>/ and add an entry
  * to VARIANTS below. Routes and static pages are generated from this list.
  * `theme` overrides the CSS variables declared at the top of globals.css; any
  * variable left out keeps its default value.
  */
+
+import type { ContentSetId } from './content-sets'
 
 export type VariantTheme = Record<`--${string}`, string>
 
@@ -18,6 +23,8 @@ export interface Variant {
   id: string
   /** URL prefix with no trailing slash. Empty for the default variant. */
   basePath: string
+  /** Which glossary this variant serves. */
+  content: ContentSetId
   /** Appended to the browser tab title. */
   brandName?: string
   siteTitle: string
@@ -33,6 +40,7 @@ export interface Variant {
 }
 
 const SHARED = {
+  content: 'health' as ContentSetId,
   siteTitle: 'Health Conditions Glossary',
   siteSubtitle: 'Browse Health Information',
   description: 'Browse health information for hundreds of conditions.',
@@ -63,6 +71,17 @@ const MHF = {
 }
 
 export const VARIANTS: Variant[] = [
+  {
+    ...SHARED,
+    id: 'fw',
+    basePath: '/fw',
+    content: 'financial',
+    siteTitle: 'Financial Wellness Glossary',
+    siteSubtitle: 'Browse Financial Terms',
+    description: 'Plain-language explanations of common money, insurance, and workplace benefits terms.',
+    fontHref: DEFAULT_VARIANT.fontHref,
+    theme: {},
+  },
   {
     ...SHARED,
     id: 'mhf',

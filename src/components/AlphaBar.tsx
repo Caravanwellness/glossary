@@ -53,7 +53,7 @@ export default function AlphaBar({ presentLetters }: Props) {
         onScroll={() => setScrolled((barRef.current?.scrollLeft ?? 0) > 10)}
       >
         {LETTERS.map(letter => {
-          const active = presentLetters.has(letter) || letter in FALLBACK
+          const active = presentLetters.has(letter) || (letter in FALLBACK && presentLetters.has(FALLBACK[letter]))
           return (
             <a
               key={letter}

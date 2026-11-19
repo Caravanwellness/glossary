@@ -1,23 +1,23 @@
 'use client'
 
 import { useRouter } from 'next/navigation'
-import { articlesData } from '@/data/articles'
-import { encodeSlug } from '@/lib/conditions'
+import { encodeSlug } from '@/lib/slug'
+import { CONTENT_SETS } from '@/content-sets'
 import { useVariant } from './VariantProvider'
 
 interface Props {
+  names: string[]
   searchTerm: string
 }
 
 const LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
-const allConditions = Object.keys(articlesData)
-
-export default function BubbleGrid({ searchTerm }: Props) {
+export default function BubbleGrid({ names, searchTerm }: Props) {
   const router = useRouter()
-  const { basePath } = useVariant()
+  const { basePath, content } = useVariant()
+  const { itemSegment } = CONTENT_SETS[content]
 
   const grouped = LETTERS.reduce<Record<string, string[]>>((acc, letter) => {
-    const filtered = allConditions.filter(name =>
+    const filtered = names.filter(name =>
       name[0].toUpperCase() === letter &&
       (!searchTerm || name.toLowerCase().includes(searchTerm))
     )
@@ -42,7 +42,7 @@ export default function BubbleGrid({ searchTerm }: Props) {
                 <button
                   key={name}
                   className="bubble"
-                  onClick={() => router.push(`${basePath}/condition/${encodeSlug(name)}`)}
+                  onClick={() => router.push(`${basePath}/${itemSegment}/${encodeSlug(name)}`)}
                 >
                   {name}
                 </button>
